@@ -1,7 +1,7 @@
 # ![OSRSBot Testing](https://cdn.discordapp.com/avatars/353484579840983042/f6ee97bfd0a6dc6d5f9c1a56c14e8b91.png?size=32) OSRSBot Testing
 
 [Invite Link](https://discordapp.com/oauth2/authorize?client_id=353484579840983042&permissions=126016&scope=bot)
-
+TEST
 # Commands
 
 ## Oldschoolgg / 1 Commands
