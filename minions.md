@@ -19,7 +19,7 @@ You can view your minions' stats using `+m stats`.
 
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
-## Agility
+## ![](images/skillicons/Agility_icon.png)Agility
 You can train agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.<br>
 Agility rewards you with marks of grace which you can use to buy Graceful equipment.
 
@@ -37,7 +37,7 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 | Rellekka | 80 |
 | Ardougne | 90 |
 
-## Fishing
+## ![](images/skillicons/Fishing_icon.png)Fishing
 You can train fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.<br>
 Fishing bait is buyable with `+buy fishing bait`.<br>
 Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can be obtained by buying from other players or obtaining them yourself.
@@ -66,7 +66,7 @@ Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can b
 | Anglerfish | 82 |
 | Dark crab | 85 |
 
-## Mining
+## ![](images/skillicons/Mining_icon.png)Mining
 
 You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.<br>
 Some ores reward you with golden nuggets or unidentified minerals.<br>
@@ -94,7 +94,7 @@ You get boosts from certain pickaxes:
 | Runite ore | ✔ |   | 85 |
 | Amethyst |  |  ✔ | 92 |
 
-## Smithing
+## ![](images/skillicons/Smithing_icon.png)Smithing
 You can train smithing using `+smith [quantity] <bar>`, for example `+smith 50 bronze bar`.<br>
 Smithing is one of the more useful skills on the bot, because it is required to create Godswords and such!
 > Currently you can only smelt bars! Smithing the bars into items might get added later.
@@ -111,7 +111,7 @@ Smithing is one of the more useful skills on the bot, because it is required to 
 | Adamantite | 70 | Adamantite ore + 6 coal |
 | Runite | 85 | Runite ore + 8 coal |
 
-## Woodcutting
+## ![](images/skillicons/Woodcutting_icon.png)Woodcutting
 You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.<br>
 You get boosts from certain axes:
 * Dragon axe 9%
@@ -136,7 +136,7 @@ You get boosts from certain axes:
 | Magic | 75 |
 | Redwood | 90 |
 
-## Firemaking
+## ![](images/skillicons/Firemaking_icon.png)Firemaking
 You can train firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.<br>
 Wintertodt might get released later!
 
