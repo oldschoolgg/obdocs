@@ -13,7 +13,7 @@ If you reach level 99 in a skill, you can purchase a skillcape for 99k by typing
 
 ## Mining
 
-You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.
+You can train mining using `+mine [quantity] <Ore Name>`, for example `+mine 10 coal`.
 
 ### Ores
 
@@ -32,16 +32,39 @@ You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`
 | Runite ore | ✔ |   | 85 |
 | Amethyst |  |  ✔ | 92 |
 
-# Bank Backgrounds
+## Woodcutting 
+You can train woodcutting using `+chop [quantity] <Tree Name>`, for example `+chop 30 maple`. 
 
-If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds may require some, or all of these: having items in your collection log, paying GP or sacrificing items. They are meant to be very hard to obtain.
+### Trees
+| Tree Name | QP Needed? | Level |
+| - | :-: | :-: |
+| Logs | N | 1 |
+| Achey Logs | N | 1 |
+| Oak Logs | N | 15 |
+| Willow Logs | N | 30 |
+| Teak Logs | N | 35 |
+| Maple Logs | N | 45 |
+| Bark | N | 45 |
+| Mahogany Logs | N | 50 |
+| Acrtic Pine Logs | N | 54 |
+| Yew Logs | N | 60 |
+| Sulliuscep | Y - 25 | 65 |
+| Magic Logs | N | 75 |
+| Redwood Logs | N | 90 |
 
-| Name | GP Cost | Item Cost | Collection Log Items Needed |
-| - | :-: | :-: | :-: |
-| Default | 0  |   |  |
-| Bandos | 100m | The 4 Godsword Hilts | Entire GWD Collection Log excluding pets, + Bandos pet |
-| Corporeal Beast | 100m  |   | Entire Corporeal Beast log including pet |
-| Lumbridge (\*) | 100m  |   |  |
+## Firemaking
+You can train firemaking using `+light [quantity] <Log Name>`, for example `+light 30 maple logs`. 
 
-Note: the Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
-
+### Logs
+| Log Name | XP | Level |
+| - | :-: | :-: |
+| Logs | 40 | 1 |
+| Oak Logs | 60 | 15 |
+| Willow Logs | 90 | 30 |
+| Teak Logs | 105 | 35 |
+| Arctic Pine Logs | 125 | 42 |
+| Maple Logs | 135 | 45 |
+| Mahogany Logs | 157.5 | 50 |
+| Yew Logs | 202.5 | 60 |
+| Magic Logs | 303.8 | 75 |
+| Redwood Logs | 350 | 90 |
