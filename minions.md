@@ -189,3 +189,18 @@ You also need quest points to kill some of the bosses.
 | Lizardman shaman | 30 |
 | Zulrah | 75 |
 | Vorkath | 205 |
+
+
+# Bank Backgrounds
+
+If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds may require some, or all of these: having items in your collection log, paying GP or sacrificing items. They are meant to be very hard to obtain.
+
+| Name | GP Cost | Item Cost | Collection Log Items Needed |
+| - | :-: | :-: | :-: |
+| Default | 0  |   |  |
+| Bandos | 100m | The 4 Godsword Hilts | Entire GWD log excluding pets, + Bandos pet |
+| Corporeal Beast | 100m  |   | Entire Corporeal Beast log including pet |
+| Lumbridge (\*) | 100m  |   |  |
+| Casket (Legend Arts) | 100m  |   | The 4 clue milestone item rewards, and Bloodhound |
+
+Note: the Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
