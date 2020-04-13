@@ -177,12 +177,11 @@ Wintertodt might get released later!
 ### Logs
 | Log | Required level |
 | - | :-: |
-| Tree | 1 |
-| Achey | 1 |
+| Logs | 1 |
 | Oak | 15 |
 | Willow | 30 |
 | Teak | 35 |
-| Arctic pine | 42 |
+| Arctic pine logs | 42 |
 | Maple | 45 |
 | Mahogany | 50 |
 | Yew | 60 |
