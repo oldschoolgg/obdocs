@@ -75,6 +75,11 @@ Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can b
 | Anglerfish | 82 |
 | Dark crab | 85 |
 
+> **Karambwanji**(Not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.<br>
+> **Monkfish** requires **100** Quest Points to fish.<br>
+> **Anglerfish** requires **40** Quest Points to fish.<br>
+> Refer to [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing) on how to earn Quest Points.
+
 Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 
 ## Mining
@@ -159,6 +164,9 @@ You get boosts from certain axes:
 | Magic | 75 |
 | Redwood | 90 |
 
+> **Sulliusceps** requires **25** Quest Points to chop.<br>
+> Refer to [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing) on how to earn Quest Points.
+
 Click [here](https://i.imgur.com/fVG81BQ.png) for **Woodcutting** XP rates.
 
 ## Firemaking
@@ -199,13 +207,22 @@ You also need quest points to kill some of the bosses.
 * Magic secateurs
 * Huge Fishing Bait Pack
 
-### Monsters that require quest points
-| Monster | Quest points required |
-| - | :-: |
-| Lizardman shaman | 30 |
-| Zulrah | 75 |
-| Vorkath | 205 |
+### Boss and monster requirements
+| Boss | Quest points required | Gear required |
+| - | :-: | :-: |
+| Lizardman shaman | 30 | Karils Crossbow |
+| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop and Ahrim's robeskirt |
+| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt |
+| Giant Mole | N/A | Full Dharok's set |
+| Callisto | N/A | Full Verac's set |
+| Venenatis | N/A | Full Verac's set |
+| King Black Dragon | N/A | Anti-Dragon shield |
+| Corporeal Beast | N/A | Zamorakian Spear |
+| Cerberus | N/A | Bandos chestplate and Bandos tassets |
 
+| Monster | Quest points required | Gear required |
+| - | :-: | :-: |
+| Lizardman | 30 | N/A |
 
 # Bank Backgrounds
 
