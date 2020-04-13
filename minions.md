@@ -6,11 +6,11 @@ Minions are a feature in Old School Bot that let you simulate playing a virtual 
 
 This page is editable by anyone at [obdocs/minions.md](https://github.com/gc/obdocs) - if you notice any mistakes or missing information, you can add it yourself, or report it to us in the [support server](https://discord.gg/ob)
 
-# Activities <br>
+# Activities  
 
 ### Skills
 
-Currently available skills are:<br>
+Currently available skills are:  
   * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)  
   * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)  
   * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)  
