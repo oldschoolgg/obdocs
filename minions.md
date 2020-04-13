@@ -71,7 +71,7 @@ You can train agility using `+laps [quantity] <course>`, for example `+laps 10 c
 Agility rewards you with marks of grace which you can use to buy Graceful equipment.
 
 ### Courses
-| Course | Required level |
+| **Course** | **Required level** |
 | - | :-: |
 | Gnome stronghold | 1 |
 | Draynor village | 10 |
@@ -97,7 +97,7 @@ Fishing bait is buyable with `+buy fishing bait`.
 Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can be obtained by buying from other players or obtaining them yourself.
 
 ### Fish
-| Fish | Required level |
+| **Fish** | **Required level** |
 | - | :-: |
 | Shrimp | 1 |
 | Sardine | 5 |
@@ -147,7 +147,7 @@ You get boosts from certain pickaxes:
 
 ### Ores
 
-| Ore Name | Nuggets | Minerals | Required level |
+| **Ore Name** | **Nuggets** | **Minerals** | **Required level** |
 | - | :-: | :-: | :-: |
 | Rune essence |  |   | 1 |
 | Copper ore |  |   | 1 |
@@ -174,7 +174,7 @@ Smithing is one of the more useful skills on the bot, because it is required to 
 > Currently you can only smelt bars! Smithing the bars into items might get added later.
 
 ### Bars
-| Bar | Required level | Materials needed |
+| **Bar** | **Required level** | **Materials needed** |
 | - | :-: | - |
 | Bronze | 1 | Tin + Copper |
 | Iron | 15 | Iron ore |
@@ -202,7 +202,7 @@ You get boosts from certain axes:
 > Level 61 Woodcutting is required for any axe boost.
 
 ### Logs
-| Log | Required level |
+| **Log** | **Required level** |
 | - | :-: |
 | Logs | 1 |
 | Oak | 15 |
@@ -231,14 +231,13 @@ You can train firemaking using `+light [quantity] <logs>`, for example `+light 5
 Wintertodt might get released later!
 
 ### Logs
-| Log | Required level |
+| **Log** | **Required level** |
 | - | :-: |
-| Tree | 1 |
-| Achey | 1 |
+| Logs | 1 |
 | Oak | 15 |
 | Willow | 30 |
 | Teak | 35 |
-| Arctic pine | 42 |
+| Arctic pine logs | 42 |
 | Maple | 45 |
 | Mahogany | 50 |
 | Yew | 60 |
@@ -254,7 +253,7 @@ Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 You can train runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.  
 
 ### Runes
-| Rune | Required level |
+| **Rune** | **Required level** |
 | - | :-: |
 | Air | 1 |
 | Mind | 2 |
@@ -277,8 +276,8 @@ Click [here](https://i.imgur.com/FMxtMSj.png) for **Runecrafting** XP rates.
 <h2 id="cooking">Cooking</h2>
 You can train cooking using `+cook [quantity] <food>`, for example `+cook 50 bass`.  
 
-### Runes
-| Food | Required level |
+### Food
+| **Food** | **Required level** |
 | - | :-: |
 | Beef | 1 |
 | Shrimps | 1 |
@@ -321,7 +320,7 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 
 Upon reaching the required Quest points for an item, you can purchase these items by typing `+buy <item>`.
 
-| Item | Quest points required | Price |
+| **Item** | **Quest points required** | **Price** |
 | - | :-: | :-: |
 | Quest Point Cape | 275 | 99k |
 | Helm of Neitiznot | 75 | 500k |
@@ -344,7 +343,7 @@ Upon reaching the required Quest points for an item, you can purchase these item
 <a href="#top">Back to top</a>
 
 <h3 id="requirements">Boss and monster requirements</h3>
-| Boss | Quest points required | Gear required |
+| **Boss** | **Quest points required** | **Gear required** |
 | - | :-: | :-: |
 | Lizardman shaman | 30 | Karils Crossbow |
 | Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop and Ahrim's robeskirt |
@@ -356,7 +355,7 @@ Upon reaching the required Quest points for an item, you can purchase these item
 | Corporeal Beast | N/A | Zamorakian Spear |
 | Cerberus | N/A | Bandos chestplate and Bandos tassets |
 
-| Monster | Quest points required | Gear required |
+| **Monster** | **Quest points required** | **Gear required** |
 | - | :-: | :-: |
 | Lizardman | 30 | N/A |
 
@@ -366,7 +365,7 @@ Upon reaching the required Quest points for an item, you can purchase these item
 
 If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds may require some, or all of these: having items in your collection log, paying GP or sacrificing items. They are meant to be very hard to obtain.
 
-| Name | GP Cost | Item Cost | Collection Log Items Needed |
+| **Name** | **GP Cost** | **Item Cost** | **Collection Log Items Needed** |
 | - | :-: | :-: | :-: |
 | Default | 0  |   |  |
 | Bandos | 100m | The 4 Godsword Hilts | Entire GWD log excluding pets, + Bandos pet |
