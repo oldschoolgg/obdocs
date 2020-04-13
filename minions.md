@@ -11,58 +11,58 @@ This page is editable by anyone at [obdocs/minions.md](https://github.com/gc/obd
 ### Skills
 
 Currently available skills are:<br>
-  * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)<br>
-  * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)<br>
-  * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)<br>
-  * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)<br>
-  * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)<br>
-  * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)<br>
-  * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)<br>
-  * Cooking (WIP)<br>
-  * Crafting (WIP)<br>
-  * Slayer (WIP)<br>
+  * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)  
+  * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)  
+  * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)  
+  * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)  
+  * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)  
+  * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)  
+  * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
+  * Cooking (WIP)  
+  * Crafting (WIP)  
+  * Slayer (WIP)  
   * More skills are being worked on
   
-You can view your minions' stats using `+m stats`.
-  <br>
+You can view your minions' stats using `+m stats`.  
+
+
 ### Bossing
 
- Currently available bosses to kill are: <br>
-  * Barrows<br>
-  * Dagannoth Prime <br>
-  * Dagannoth Rex <br>
-  * Dagannoth Supreme<br>
-  * Cerberus <br>
-  * Giant Mole <br>
-  * Vorkath <br>
-  * Zulrah <br>
-  * General Graardor <br>
-  * Commander Zilyana <br>
-  * Kree'arra <br>
-  * K'ril Tsutsaroth <br>
-  * Callisto <br>
-  * Vet'ion <br>
-  * Venenatis <br>
-  * Chaos Elemental <br>
-  * Chaos Fanatic <br>
-  * Crazy Archaeologist <br>
-  * King Black Dragon <br>
-  * Scorpia <br>
-  * Corporeal Beast <br>
-  * Kalphite Queen <br>
-  * Lizardman Shaman<br>
+ Currently available bosses to kill are:  
+  * Barrows  
+  * Dagannoth Prime  
+  * Dagannoth Rex  
+  * Dagannoth Supreme  
+  * Cerberus  
+  * Giant Mole  
+  * Vorkath  
+  * Zulrah  
+  * General Graardor  
+  * Commander Zilyana  
+  * Kree'arra  
+  * K'ril Tsutsaroth  
+  * Callisto  
+  * Vet'ion  
+  * Venenatis  
+  * Chaos Elemental  
+  * Chaos Fanatic  
+  * Crazy Archaeologist  
+  * King Black Dragon  
+  * Scorpia  
+  * Corporeal Beast  
+  * Kalphite Queen  
+  * Lizardman Shaman  
  Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
   
  You can view your minions' killcount using `+m kc`.
  
 ### Miscellaneous
- * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)
- * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)
- * Boosts(WIP)
- * [Buyable items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)
- * [Boss/Monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements)
- * [Bank backgrounds.](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)<br>
- <br>
+ * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
+ * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)  
+ * Boosts(WIP)  
+ * [Buyable items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)  
+ * [Boss/Monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements)  
+ * [Bank backgrounds.](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
 
 
 ## Agility
