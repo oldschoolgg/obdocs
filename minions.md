@@ -86,6 +86,8 @@ You get boosts from certain pickaxes:
 * Gilded pickaxe 11%
 * 3rd age pickaxe 12%
 
+> Level 61 Mining is required for any pickaxe boost.
+
 ### Ores
 
 | Ore Name | Nuggets | Minerals | Required level |
@@ -129,6 +131,8 @@ You get boosts from certain axes:
 * Infernal axe 11%
 * Gilded axe 12%
 * 3rd age axe 13%
+
+> Level 61 Woodcutting is required for any axe boost.
 
 ### Logs
 | Log | Required level |
