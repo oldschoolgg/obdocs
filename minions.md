@@ -42,6 +42,8 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 | Rellekka | 80 |
 | Ardougne | 90 |
 
+Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Marks of Grace** per hour.
+
 ## Fishing
 You can train fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
 
@@ -72,6 +74,8 @@ Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can b
 | Shark | 76 |
 | Anglerfish | 82 |
 | Dark crab | 85 |
+
+Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 
 ## Mining
 
@@ -105,6 +109,8 @@ You get boosts from certain pickaxes:
 | Runite ore | ✔ |   | 85 |
 | Amethyst |  |  ✔ | 92 |
 
+Click [here](https://i.imgur.com/b3HNdSi.png) for **Mining** XP rates.
+
 ## Smithing
 You can train smithing using `+smith [quantity] <bar>`, for example `+smith 50 bronze bar`.  
 
@@ -122,6 +128,8 @@ Smithing is one of the more useful skills on the bot, because it is required to 
 | Mithril | 50 | Mithril ore + 4 coal |
 | Adamantite | 70 | Adamantite ore + 6 coal |
 | Runite | 85 | Runite ore + 8 coal |
+
+Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
 
 ## Woodcutting
 You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
@@ -151,6 +159,8 @@ You get boosts from certain axes:
 | Magic | 75 |
 | Redwood | 90 |
 
+Click [here](https://i.imgur.com/fVG81BQ.png) for **Woodcutting** XP rates.
+
 ## Firemaking
 You can train firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.  
 
@@ -170,6 +180,8 @@ Wintertodt might get released later!
 | Yew | 60 |
 | Magic | 75 |
 | Redwood | 90 |
+
+Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
 # Questing
 You can send your minion out to do quests for 30 minutes using `+quest`.<br>
@@ -205,6 +217,6 @@ If you meet the requirements and costs of a background, you can get it using `+b
 | Bandos | 100m | The 4 Godsword Hilts | Entire GWD log excluding pets, + Bandos pet |
 | Corporeal Beast | 100m  |   | Entire Corporeal Beast log including pet |
 | Lumbridge (\*) | 100m  |   |  |
-| Casket (Legend Arts) | 100m  |   | The 4 clue milestone item rewards, and Bloodhound |
+| Casket (Legend Arts) | 100m  |   | The 4 clue milestone item rewards|
 
 Note: the Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
