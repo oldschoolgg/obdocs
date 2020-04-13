@@ -6,22 +6,58 @@ Minions are a feature in Old School Bot that let you simulate playing a virtual 
 
 This page is editable by anyone at [obdocs/minions.md]([https://github.com/gc/obdocs/blob/master/minions.md](https://github.com/gc/obdocs/blob/master/minions.md)) - if you notice any mistakes or missing information, you can add it yourself, or report it to us in the [support server](https://discord.gg/ob)
 
-# Skills
+# Activities
+
+### Skills
 
 Currently available skills are:<br>
-  * Agility
-  * Fishing
-  * Mining
-  * Smithing
-  * Woodcutting
-  * Firemaking
-  * Runecraft
+  * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)
+  * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)
+  * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)
+  * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)
+  * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)
+  * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)
+  * Runecrafting
+  * More skills are being worked on*
   
 You can view your minions' stats using `+m stats`.
+  
+### Bossing
 
-## Skillcapes
-
-Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
+ Currently available bosses to kill are: <br>
+  * Barrows
+  * Dagannoth Prime 
+  * Dagannoth Rex 
+  * Dagannoth Supreme
+  * Cerberus
+  * Giant Mole
+  * Vorkath
+  * Zulrah
+  * General Graardor
+  * Commander Zilyana
+  * Kree'arra
+  * K'ril Tsutsaroth
+  * Callisto
+  * Vet'ion
+  * Venenatis
+  * Chaos Elemental
+  * Chaos Fanatic
+  * Crazy Archaeologist
+  * King Black Dragon
+  * Scorpia
+  * Corporeal Beast
+  * Kalphite Queen
+  * Lizardman Shaman<br>
+ Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
+  
+ You can view your minions' killcount using `+m kc`.
+ 
+### Miscellaneous
+ * Questing
+ * Skillcapes
+ * Buyable items
+ * Boss/Monster requirements
+ * Bank backgrounds.
 
 ## Agility
 You can train agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
@@ -43,6 +79,8 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 | Ardougne | 90 |
 
 Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Marks of Grace** per hour.
+
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
 
 ## Fishing
 You can train fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
@@ -82,6 +120,8 @@ Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can b
 
 Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
 ## Mining
 
 You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.  
@@ -116,6 +156,8 @@ You get boosts from certain pickaxes:
 
 Click [here](https://i.imgur.com/b3HNdSi.png) for **Mining** XP rates.
 
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
 ## Smithing
 You can train smithing using `+smith [quantity] <bar>`, for example `+smith 50 bronze bar`.  
 
@@ -135,6 +177,8 @@ Smithing is one of the more useful skills on the bot, because it is required to 
 | Runite | 85 | Runite ore + 8 coal |
 
 Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
+
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
 
 ## Woodcutting
 You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
@@ -169,6 +213,8 @@ You get boosts from certain axes:
 
 Click [here](https://i.imgur.com/fVG81BQ.png) for **Woodcutting** XP rates.
 
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
 ## Firemaking
 You can train firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.  
 
@@ -191,21 +237,43 @@ Wintertodt might get released later!
 
 Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
 # Questing
 You can send your minion out to do quests for 30 minutes using `+quest`.<br>
 It isn't actually doing any specific quests, but gaining quest points.<br>
 Quest points unlock buyable items such as the Recipe for disaster gloves, Helm of neitiznot and more.<br>
 You also need quest points to kill some of the bosses.
 
-## Buyable items
-* Quest Cape
-* Goldsmith gauntlets
-* Cooking gauntlets
-* Anti-dragon shield
-* RFD Gloves (Hardleather - Barrows)
-* Helm of neitiznot
-* Magic secateurs
-* Huge Fishing Bait Pack
+### Skillcapes
+
+Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
+
+### Buyable items
+
+Upon reaching the required Quest points for an item, you can purchase these items by typing `+buy <item>`.
+
+| Item | Quest points required | Price |
+| - | :-: | :-: |
+| Quest Point Cape | 275 | 99k |
+| Helm of Neitiznot | 75 | 500k |
+| Magic Secateurs | 40 | 2.5m |
+| Goldsmith gauntlets | 25 | 1m |
+| Cooking gauntlets | 25 | 1m |
+| Anti-dragon shield | 35 | 10k |
+| Barrows gloves | 175 | 1m |
+| Dragon gloves | 107 | 850k |
+| Rune gloves | 85 | 700k |
+| Adamant gloves | 65 | 600k |
+| Mithril gloves | 50 | 500k |
+| Black gloves | 35 | 400k |
+| Steel gloves | 25 | 300k |
+| Iron gloves | 20 | 200k |
+| Bronze gloves | 10 | 100k |
+| Hardleather gloves | 5 | 50k |
+| Huge Fishing Bait Pack | N/A | 50k |
+
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
 
 ### Boss and monster requirements
 | Boss | Quest points required | Gear required |
@@ -224,6 +292,8 @@ You also need quest points to kill some of the bosses.
 | - | :-: | :-: |
 | Lizardman | 30 | N/A |
 
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+
 # Bank Backgrounds
 
 If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds may require some, or all of these: having items in your collection log, paying GP or sacrificing items. They are meant to be very hard to obtain.
@@ -237,3 +307,5 @@ If you meet the requirements and costs of a background, you can get it using `+b
 | Casket (Legend Arts) | 100m  |   | The 4 clue milestone item rewards|
 
 Note: the Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
+
+[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
