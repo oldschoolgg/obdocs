@@ -206,7 +206,11 @@ You also need quest points to kill some of the bosses.
 * Magic secateurs
 * Huge Fishing Bait Pack
 
-### Boss and monster requirements
+# Requirements
+Listed below are various requirements needed for your minion to do particular activities
+
+## Bosses
+
 | Boss | Quest points required | Gear required |
 | - | :-: | :-: |
 | Lizardman shaman | 30 | Karils Crossbow |
@@ -219,9 +223,17 @@ You also need quest points to kill some of the bosses.
 | Corporeal Beast | N/A | Zamorakian Spear |
 | Cerberus | N/A | Bandos chestplate and Bandos tassets |
 
+## Monsters
+
 | Monster | Quest points required | Gear required |
 | - | :-: | :-: |
 | Lizardman | 30 | N/A |
+
+## Skilling
+
+| Skill | Material | Quest points required |
+| - | :-: | :-: |
+| Woodcutting | Sulliusceps | 25 | 
 
 # Bank Backgrounds
 
