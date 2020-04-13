@@ -6,19 +6,19 @@ Minions are a feature in Old School Bot that let you simulate playing a virtual 
 
 This page is editable by anyone at [obdocs/minions.md](https://github.com/gc/obdocs) - if you notice any mistakes or missing information, you can add it yourself, or report it to us in the [support server](https://discord.gg/ob)
 
-# Activities  
+<h1 id="top">Activities</h1>  
 
 ### Skills
 
 Currently available skills are:  
-  * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)  
-  * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)  
-  * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)  
-  * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)  
-  * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)  
-  * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)  
-  * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
-  * Cooking (WIP)  
+  * <a href="#agility">Agility</a>  
+  * <a href="#fishing">Fishing</a>  
+  * <a href="#mining">Mining</a>  
+  * <a href="#smithing">Smithing</a>  
+  * <a href="#woodcutting">Woodcutting</a>  
+  * <a href="#firemaking">Firemaking</a>  
+  * <a href="#runecrafting">Runecrafting</a>  
+  * <a href="#cooking">Cooking</a>  
   * Crafting (WIP)  
   * Slayer (WIP)  
   * More skills are being worked on
@@ -52,20 +52,20 @@ You can view your minions' stats using `+m stats`.
   * Corporeal Beast  
   * Kalphite Queen  
   * Lizardman Shaman  
- Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
+ Some bosses have requirements, like Quest points or gear, refer to <a href="#requirements">Boss and monster requirements</a> for more information.
   
  You can view your minions' killcount using `+m kc`.
  
 ### Miscellaneous
- * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
- * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)  
+ * <a href="#questing">Questing</a>  
+ * <a href="#skillcapes">Skillcapes</a>  
  * Boosts(WIP)  
- * [Buyable items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)  
- * [Boss/Monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements)  
- * [Bank backgrounds.](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
+ * <a href="#buyables">Buyable items</a>  
+ * <a href="#requirements">Boss and monster requirements</a>  
+ * <a href="#bankbackgrounds">Bank backgrounds</a>  
 
 
-## Agility
+<h2 id="agility">Agility</h2>
 You can train agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
 
 Agility rewards you with marks of grace which you can use to buy Graceful equipment.
@@ -86,10 +86,10 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 
 Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Marks of Grace** per hour.
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
 
-## Fishing
+<h2 id="fishing">Fishing</h2>
 You can train fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
 
 Fishing bait is buyable with `+buy fishing bait`.  
@@ -123,14 +123,14 @@ Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can b
 > **Karambwanji**(Not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.<br>
 > **Monkfish** requires **100** Quest Points to fish.<br>
 > **Anglerfish** requires **40** Quest Points to fish.<br>
-> Refer to [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing) on how to earn Quest Points.
+> Refer to <a href="#questing">Questing</a> on how to earn Quest Points.
 
 Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
 
-## Mining
+<h2 id="mining">Mining</h2>
 
 You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.  
 
@@ -164,10 +164,10 @@ You get boosts from certain pickaxes:
 
 Click [here](https://i.imgur.com/b3HNdSi.png) for **Mining** XP rates.
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
 
-## Smithing
+<h2 id="smithing">Smithing</h2>
 You can train smithing using `+smith [quantity] <bar>`, for example `+smith 50 bronze bar`.  
 
 Smithing is one of the more useful skills on the bot, because it is required to create Godswords and such!
@@ -187,10 +187,10 @@ Smithing is one of the more useful skills on the bot, because it is required to 
 
 Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
 
-## Woodcutting
+<h2 id="woodcutting">Woodcutting</h2>
 You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
 
 You get boosts from certain axes:
@@ -218,14 +218,14 @@ You get boosts from certain axes:
 | Redwood | 90 |
 
 > **Sulliusceps** requires **25** Quest Points to chop.<br>
-> Refer to [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing) on how to earn Quest Points.
+> Refer to <a href="#questing">Questing</a> on how to earn Quest Points.
 
 Click [here](https://i.imgur.com/fVG81BQ.png) for **Woodcutting** XP rates.
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
 
-## Firemaking
+<h2 id="firemaking">Firemaking</h2>
 You can train firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.  
 
 Wintertodt might get released later!
@@ -247,10 +247,10 @@ Wintertodt might get released later!
 
 Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
 
-## Runecrafting
+<h2 id="runecrafting">Runecrafting</h2>
 You can train runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.  
 
 ### Runes
@@ -271,20 +271,53 @@ You can train runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 la
 
 Click [here](https://i.imgur.com/FMxtMSj.png) for **Runecrafting** XP rates.
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
 
-# Questing
+<h2 id="cooking">Cooking</h2>
+You can train cooking using `+cook [quantity] <food>`, for example `+cook 50 bass`.  
+
+### Runes
+| Food | Required level |
+| - | :-: |
+| Beef | 1 |
+| Shrimps | 1 |
+| Chicken | 1 |
+| Anchovies | 1 |
+| Sardine | 1 |
+| Herring | 5 |
+| Mackerel | 10 |
+| Trout | 15 |
+| Cod | 18 |
+| Pike | 20 |
+| Salmon | 25 |
+| Tuna | 30 |
+| Karambwan | 30 |
+| Jug of wine | 35 |
+| Lobster | 40 |
+| Bass | 43 |
+| Swordfish | 45 |
+| Monkfish | 62 |
+| Shark | 80 |
+| Anglerfish | 84 |
+| Dark Crab | 90 |
+| Manta Ray | 91 |
+
+Click [here](https://i.imgur.com/iJuoDbb.png) for **Cooking** XP rates.
+
+<a href="#top">Back to top</a>
+
+<h1 id="questing">Questing</h1>
 You can send your minion out to do quests for 30 minutes using `+quest`.<br>
 It isn't actually doing any specific quests, but gaining quest points.<br>
 Quest points unlock buyable items such as the Recipe for disaster gloves, Helm of neitiznot and more.<br>
 You also need quest points to kill some of the bosses.
 
-### Skillcapes
+<h3 id="skillcapes">Skillcapes</h3>
 
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
-### Buyable items
+<h3 id="buyables">Buyable items</h3>
 
 Upon reaching the required Quest points for an item, you can purchase these items by typing `+buy <item>`.
 
@@ -308,9 +341,9 @@ Upon reaching the required Quest points for an item, you can purchase these item
 | Hardleather gloves | 5 | 50k |
 | Huge Fishing Bait Pack | N/A | 50k |
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
-### Boss and monster requirements
+<h3 id="requirements">Boss and monster requirements</h3>
 | Boss | Quest points required | Gear required |
 | - | :-: | :-: |
 | Lizardman shaman | 30 | Karils Crossbow |
@@ -327,9 +360,9 @@ Upon reaching the required Quest points for an item, you can purchase these item
 | - | :-: | :-: |
 | Lizardman | 30 | N/A |
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
 
-# Bank Backgrounds
+<h1 id="bankbackgrounds">Bank Backgrounds</h1>
 
 If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds may require some, or all of these: having items in your collection log, paying GP or sacrificing items. They are meant to be very hard to obtain.
 
@@ -343,4 +376,4 @@ If you meet the requirements and costs of a background, you can get it using `+b
 
 Note: the Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
 
-[Back to top](https://www.oldschool.gg/oldschoolbot/minions)
+<a href="#top">Back to top</a>
