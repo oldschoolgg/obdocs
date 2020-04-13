@@ -4,64 +4,65 @@ Minions are a feature in Old School Bot that let you simulate playing a virtual 
 > Minions are entirely virtual, and not in any way tradeable for real GP or real money. It's simulating the real game for fun. We strictly do not allow any bot users to break any of the official OSRS rules. Read the rules here: [Old School Bot Rules](https://www.oldschool.gg/oldschoolbot/rules)
 
 
-This page is editable by anyone at [obdocs/minions.md]([https://github.com/gc/obdocs/blob/master/minions.md](https://github.com/gc/obdocs/blob/master/minions.md)) - if you notice any mistakes or missing information, you can add it yourself, or report it to us in the [support server](https://discord.gg/ob)
+This page is editable by anyone at [obdocs/minions.md](https://github.com/gc/obdocs) - if you notice any mistakes or missing information, you can add it yourself, or report it to us in the [support server](https://discord.gg/ob)
 
-# Activities
+# Activities  
 
 ### Skills
 
-Currently available skills are:<br>
-  * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)
-  * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)
-  * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)
-  * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)
-  * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)
-  * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)
-  * [Runecrafting](link.here)
-  * Cooking (WIP)
-  * Crafting (WIP)
-  * Slayer (WIP)
-  * More skills are being worked on*
+Currently available skills are:  
+  * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)  
+  * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)  
+  * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)  
+  * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)  
+  * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)  
+  * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)  
+  * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
+  * Cooking (WIP)  
+  * Crafting (WIP)  
+  * Slayer (WIP)  
+  * More skills are being worked on
   
-You can view your minions' stats using `+m stats`.
-  
+You can view your minions' stats using `+m stats`.  
+
+
 ### Bossing
 
- Currently available bosses to kill are: <br>
-  * Barrows
-  * Dagannoth Prime 
-  * Dagannoth Rex 
-  * Dagannoth Supreme
-  * Cerberus
-  * Giant Mole
-  * Vorkath
-  * Zulrah
-  * General Graardor
-  * Commander Zilyana
-  * Kree'arra
-  * K'ril Tsutsaroth
-  * Callisto
-  * Vet'ion
-  * Venenatis
-  * Chaos Elemental
-  * Chaos Fanatic
-  * Crazy Archaeologist
-  * King Black Dragon
-  * Scorpia
-  * Corporeal Beast
-  * Kalphite Queen
-  * Lizardman Shaman<br>
+ Currently available bosses to kill are:  
+  * Barrows  
+  * Dagannoth Prime  
+  * Dagannoth Rex  
+  * Dagannoth Supreme  
+  * Cerberus  
+  * Giant Mole  
+  * Vorkath  
+  * Zulrah  
+  * General Graardor  
+  * Commander Zilyana  
+  * Kree'arra  
+  * K'ril Tsutsaroth  
+  * Callisto  
+  * Vet'ion  
+  * Venenatis  
+  * Chaos Elemental  
+  * Chaos Fanatic  
+  * Crazy Archaeologist  
+  * King Black Dragon  
+  * Scorpia  
+  * Corporeal Beast  
+  * Kalphite Queen  
+  * Lizardman Shaman  
  Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
   
  You can view your minions' killcount using `+m kc`.
  
 ### Miscellaneous
- * Questing
- * Skillcapes
- * Boosts(WIP)
- * Buyable items
- * Boss/Monster requirements
- * Bank backgrounds.
+ * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
+ * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)  
+ * Boosts(WIP)  
+ * [Buyable items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)  
+ * [Boss/Monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements)  
+ * [Bank backgrounds.](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
 
 
 ## Agility
