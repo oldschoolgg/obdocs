@@ -7,5 +7,5 @@ You can either make a github issue in the bot repo: [gc/oldschoolbot](https://gi
 #### I can't tell which items are which in my bank, how do I see what they are?
 You can use `+bank --text` or `+bank --text --full` to see the names of your items.
 
-### How do I create a Barrows set, or deconstruct a Barrows set into the items?
+#### How do I create a Barrows set, or deconstruct a Barrows set into the items?
 Here's an example: `+create Dharoks armour set` to turn items into a set, or `+create Dharoks` to turn it back into the items.
