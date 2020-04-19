@@ -21,7 +21,7 @@ Currently available skills are:
   * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)  
   * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)  
   * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
-  * [Cooking](example.com)  
+  * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
   
 You can view your minions' stats using `+m stats`.  
 
@@ -101,26 +101,26 @@ Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can b
 ### Fish
 | Fish | Required level |
 | - | :-: |
-| Shrimp | 1 |
-| Sardine | 5 |
-| Karambwanji | 5 |
-| Herring | 10 |
-| Anchovies | 15 |
-| Mackerel | 16 |
-| Trout | 20 |
-| Cod | 23 |
-| Pike | 25 |
-| Salmon | 30 |
-| Tuna | 35 |
-| Lobster | 40 |
-| Bass | 46 |
+| Raw Shrimp | 1 |
+| Raw Sardine | 5 |
+| Raw Karambwanji | 5 |
+| Raw Herring | 10 |
+| Raw Anchovies | 15 |
+| Raw Mackerel | 16 |
+| Raw Trout | 20 |
+| Raw Cod | 23 |
+| Raw Pike | 25 |
+| Raw Salmon | 30 |
+| Raw Tuna | 35 |
+| Raw Lobster | 40 |
+| Raw Bass | 46 |
 | Barbarian fishing | 48 |
-| Swordfish | 50 |
-| Monkfish | 62 |
-| Karambwan | 65 |
-| Shark | 76 |
-| Anglerfish | 82 |
-| Dark crab | 85 |
+| Raw Swordfish | 50 |
+| Raw Monkfish | 62 |
+| Raw Karambwan | 65 |
+| Raw Shark | 76 |
+| Raw Anglerfish | 82 |
+| Raw Dark crab | 85 |
 
 * **Karambwanji**(Not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.
 * **Monkfish** requires **100** Quest Points to fish.
