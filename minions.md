@@ -21,6 +21,7 @@ Currently available skills are:
   * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)  
   * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)  
   * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
+  * [Cooking](example.com)  
   
 You can view your minions' stats using `+m stats`.  
 
@@ -250,6 +251,37 @@ You can train runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 la
 | Wrath | 95 |
 
 Click [here](https://i.imgur.com/FMxtMSj.png) for **Runecrafting** XP rates.
+
+## Cooking
+You can train cooking using `+cook [quantity] <food>`, for example `+cook 50 bass`.  
+
+### Food
+| **Food** | **Required level** |
+| - | :-: |
+| Beef | 1 |
+| Shrimps | 1 |
+| Chicken | 1 |
+| Anchovies | 1 |
+| Sardine | 1 |
+| Herring | 5 |
+| Mackerel | 10 |
+| Trout | 15 |
+| Cod | 18 |
+| Pike | 20 |
+| Salmon | 25 |
+| Tuna | 30 |
+| Karambwan | 30 |
+| Jug of wine | 35 |
+| Lobster | 40 |
+| Bass | 43 |
+| Swordfish | 45 |
+| Monkfish | 62 |
+| Shark | 80 |
+| Anglerfish | 84 |
+| Dark Crab | 90 |
+| Manta Ray | 91 |
+
+Click [here](https://i.imgur.com/iJuoDbb.png) for **Cooking** XP rates.
 
 # Questing
 You can send your minion out to do quests for 30 minutes using `+quest`.<br>
