@@ -27,6 +27,35 @@ You can view your minions' stats using `+m stats`.
 
 ### Bossing
 
+Currently available bosses to kill are:  
+  
+
+
+![https://i.imgur.com/jLyLLND.png](https://i.imgur.com/jLyLLND.png)| Barrows
+:--------: | :-----:
+![https://i.imgur.com/sKTt3sl.png](https://i.imgur.com/sKTt3sl.png) | Callisto
+![https://i.imgur.com/GvC5Tco.png](https://i.imgur.com/GvC5Tco.png)| Cerberus
+![https://i.imgur.com/HdeDjCF.png](https://i.imgur.com/HdeDjCF.png)| Chaos Elemental
+![https://i.imgur.com/tN9bUAh.png](https://i.imgur.com/tN9bUAh.png)| Chaos Fanatic 
+![https://i.imgur.com/mLeZynK.png](https://i.imgur.com/mLeZynK.png)| Commander Zilyana
+![https://i.imgur.com/hZUNtgK.png](https://i.imgur.com/hZUNtgK.png)| Corporeal Beast
+![https://i.imgur.com/eqvQC4C.png](https://i.imgur.com/eqvQC4C.png)| Crazy Archaeologist
+![https://i.imgur.com/JfpXrXW.png](https://i.imgur.com/JfpXrXW.png)| Dagannoth Prime
+![https://i.imgur.com/pO822rj.png](https://i.imgur.com/pO822rj.png)| Dagannoth Rex
+![https://i.imgur.com/FKVIKMX.png](https://i.imgur.com/FKVIKMX.png)| Dagannoth Supreme
+![https://i.imgur.com/sLdtsrg.png](https://i.imgur.com/sLdtsrg.png)| General Graardor
+![https://i.imgur.com/igxsuRU.png](https://i.imgur.com/igxsuRU.png)| Giant Mole
+![https://i.imgur.com/gVIOuaQ.png](https://i.imgur.com/gVIOuaQ.png)| K'ril Tsutsaroth
+![https://i.imgur.com/rvqU0Z3.gif](https://i.imgur.com/rvqU0Z3.gif)| Kalphite Queen
+![https://i.imgur.com/pQFbspB.png](https://i.imgur.com/pQFbspB.png)| King Black Dragon
+![https://i.imgur.com/OfsrIfN.png](https://i.imgur.com/OfsrIfN.png)| Kree'arra 
+![https://i.imgur.com/Hv6IcBx.gif](https://i.imgur.com/Hv6IcBx.gif)| Lizardman Shaman
+![https://i.imgur.com/iwGwt1F.png](https://i.imgur.com/iwGwt1F.png)| Scorpia
+![https://i.imgur.com/HHEZj9X.png](https://i.imgur.com/HHEZj9X.png)| Venenatis
+![https://i.imgur.com/iSWr25X.gif](https://i.imgur.com/iSWr25X.gif)| Vet'ion
+![https://i.imgur.com/w9PrhyH.png](https://i.imgur.com/w9PrhyH.png)| Vorkath
+![https://i.imgur.com/p6d3Wna.gif](https://i.imgur.com/p6d3Wna.gif)| Zulrah
+
  Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
   
  You can view your minions' killcounts using `+m kc`.
@@ -280,7 +309,7 @@ Click on the bank bg name to see what it looks like.
 | [Default](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/1.jpg?raw=true) | 0  |   |  |
 | [Bandos](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/7.jpg?raw=true) | 100m | The 4 Godsword Hilts | Entire GWD log excluding pets, + Bandos pet |
 | [Corporeal Beast](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/8.jpg?raw=true) | 100m  |   | Entire Corporeal Beast log including pet |
-| [Lumbridge](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/3.jpg?raw=true) (\*) | 100m  |   |  |
-| [Casket (Legend Arts)]([https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg)) | 100m  |   | The 4 clue milestone item rewards|
+| [Lumbridge](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/3.jpg?raw=true) [^1] | 100m  |   |  |
+| [Casket (Legend Arts)](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
 
-Note: the Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
+[^1]: the Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
