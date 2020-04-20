@@ -447,6 +447,6 @@ Click on the bank bg name to see what it looks like.
 [^27]: **Mining:** Max 13% speed boost and 2.5% XP boost excluding weekend boost and patron perks.  Pickaxes don't stack with each other.  Mining gloves don't stack with each other.
 [^28]: **Smithing:** Each gold bar gives 56.2 XP instead of 22.5 XP if you have the Goldsmith gauntlets in your bank.
 [^29]: **Fishing:** Max 2.5% XP boost.  **Angler's outfit not yet added**
-[^30]: **Cooking:** Cooking gauntlets lower burn rate on certain foods.  Refer to this chart to see XP rates for certain foods.
+[^30]: **Cooking:** Cooking gauntlets lower burn rate on certain foods.  Refer to [this]([https://i.imgur.com/b2ZV8NE.png](https://i.imgur.com/b2ZV8NE.png)) chart to see XP rates for certain foods.
 [^31]: **Woodcutting:** Max 13% speed boost and 2.5% XP boost excluding weekend boost and patron perks.  Axes don't stack with each other.  **Lumberjack outfit not yet added**
 [^100]: The **Lumbridge** background is only available to T3 patrons, who are still required to pay 100m for it.
