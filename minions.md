@@ -296,7 +296,75 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 
 ### Boosts
 
-Below is a list of items/skills that boost your minion's activity.  To learn more about boosts, and how they work, visit the [FAQ](example.com)
+Boosts work a little differently on the bot then they do ingame.  Currently, there are 4 types of boosts.  
+Those would be **Minion Learning**, **Weekend Boosts**, **Item Speed Boosts** and **XP Boosts**.
+
+#### Minion Learning
+Say a monster takes 3 minutes to kill normally.  This means you should be able to kill 10 monsters per trip.  
+
+If you've killed that monster for 25 hours, you'll get a 5% **Speed Boost**.  
+(3 minutes per kill) * (95%) = 2.85 minutes per kill  
+30 minutes / 2.85 minutes per kill = 10.52 kills per trip.  
+
+If we assume another monster has a kill time of 30 seconds.  
+Normally you can kill (30 minutes * 60 seconds) / 30 seconds = 60 per trip.  
+If you've killed that monster for 25 hours, 5% speed boost.  
+(30 seconds per kill) * (95%) = 28.5 seconds per kill.  
+(30 minutes * 60 seconds) / 28.5 seconds per kill = 63.1 kills per trip.  
+
+So **Minion learning** allows you to get more kills in a single trip.  
+
+#### Weekend Boosts
+
+If it takes you 3 minutes to kill a monster, that means 10 kills per trip.  
+This trip will normalle take 30 minutes to finish, but now it will take 27 minutes.  
+Weekend boosts do not allow you to get extra kills in that trip, it only reduces the time.  
+This has the same effect as minion learning, but you have to type more.  
+
+#### Item Speed Boosts
+Speed boosts reduce the time it takes your minion to finish a trip by a flat percentage.  If you send your minion to kill a boss, that usually takes 30 minutes to kill, but you have an item in your bank that gives you a 10% boost, that trip will be reduced to 27 minutes.  This does not factor in Minion learning or Weekend boosts, but they all stack with each other.  
+
+Some boosts can stack together, for example an item that gives 10% boost and an item that gives 5% boost, will lower your trip by 15%, or from 30 minutes to 25.5 minutes.  The only items that do **NOT** stack with each other, are pickaxes, axes and mining gloves.  Only the highest value is counted.  
+
+#### XP Boosts
+These items just give you a flat percentage boost at the end of the trip.  
+
+#### Examples
+**10% boost due to minion learning** vs **10% boost due to the weekend boost.**
+
+*Assume 1 minute per kill:*  
+Before quantity is calculated:  
+mlearning: 1 * 0.9 = 0.9 minutes per kill  
+weekend: 1 minute per kill  
+
+*Quantity:*  
+mlearning = 30 / 0.9 = 33.3 = 33 kills per trip  
+weekend = 30 / 1 = 30 = 30 kills per trip  
+
+*After quantity is calculated:*  
+mlearning: 33 kills per trip for 30 mins  
+weekend: 30 kills per trip for (30 * 0.9) mins  
+weekend: 30 kills per trip for 27 mins  
+
+*Conclusion:*  
+With mlearning you can kill 33 monsters per 30 minutes  
+With weekend boost you can kill 30 monsters per 27 minutes  
+
+**Example with mlearning and weekend**  
+*Assume 1 minute per kill with a 10% mlearning boost and 10% weekend boost:*  
+1 minute per kill * 0.9 = 0.9 minutes per kill  
+30 minutes / 0.9 minutes per kill = 33 kills in 30 minutes  
+33 kills in (30 * 09) minutes  
+33 kills in 27 minutes.  
+
+**Example with mlearning, weekend and item speed boost**  
+*Assume 1 minute per kill with a 10% mlearning boost, 10% weekend boost and 10 item speed boost:*  
+1 minute per kill *0.8 = 0.8 minutes per kill  
+30 minutes / 0.8 minutes per kill = 37 kills in 30 minutes  
+37 kills in (30 * 0.9) minutes  
+37 kills in 27 minutes.  
+
+Below is a list of items/skills that boost your minion's activity.  
 
 | **Boost** | **Boost Type** | **Activity**|
 | - | :-: | :-: |
@@ -418,35 +486,35 @@ Click on the bank bg name to see what it looks like.
 | [Casket (Legend Arts)](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
 
 
-[^1]: **Clues:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.
-[^2]: **Questing:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.
-[^3]: **Cerberus:** Max 20% speed boost excluding weekend boosts, patron perks and minion learning.
-[^4]: **Barrows:** Max 7% speed boost excluding weekend boosts, patron perks and minion learning.
-[^5]: **Dagannoth Rex:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.
-[^6]: **Dagannoth Prime:** Max 8% speed boost excluding weekend boosts, patron perks and minion learning.
-[^7]: **Dagannoth Supreme:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.
-[^8]: **Giant Mole:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.
-[^9]: **Zulrah:** Max 12% speed boost excluding weekend boosts, patron perks and minion learning.
-[^10]: **Commander Zilyana(Sara):** Max 10% speed boost excluding weekend boost, patron perks and minion learning.
-[^11]: **Kree'arra(Arma):** Max 5% speed boost excluding weekend boost, patron perks and minion learning.
-[^12]: **Callisto:** Max 4% speed boost excluding weekend boost, patron perks and minion learning.
-[^13]: **Vet'ion:** Max 6% speed boost excluding weekend boost, patron perks and minion learning.
-[^14]: **Venenatis:** Max 3% speed boost excluding weekend boost, patron perks and minion learning.
-[^15]: **Chaos elemental:** Max 6% speed boost excluding weekend boost, patron perks and minion learning.
-[^16]: **Chaos fanatic:** Max 6% speed boost excluding weekend boost, patron perks and minion learning.
-[^17]: **Crazy archaeologist:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.
-[^18]: **Scorpia:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.
-[^19]: **Lizardman Shamans:** Max 3% speed boost excluding weekend boost, patron perks and minion learning.
-[^20]: **Blue dragons:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.
-[^21]: **Corporeal beast:** Max 15% speed boost excluding weekend boost, patron perks and minion learning.
-[^22]: **Kalphite queen:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.
-[^23]: **K'ril Tsutsaroth:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.
-[^24]: **General Graardor:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.
-[^25]: **King Black Dragon:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.
-[^26]: **Runecrafting:** Max 20% speed boost excluding weekend boost and patron perks.  Agility boosts don't stack with each other.
-[^27]: **Mining:** Max 13% speed boost and 2.5% XP boost excluding weekend boost and patron perks.  Pickaxes don't stack with each other.  Mining gloves don't stack with each other.
-[^28]: **Smithing:** Each gold bar gives 56.2 XP instead of 22.5 XP if you have the Goldsmith gauntlets in your bank.
-[^29]: **Fishing:** Max 2.5% XP boost.  **Angler's outfit not yet added**
-[^30]: **Cooking:** Cooking gauntlets lower burn rate on certain foods.  Refer to [this]([https://i.imgur.com/b2ZV8NE.png](https://i.imgur.com/b2ZV8NE.png)) chart to see XP rates for certain foods.
-[^31]: **Woodcutting:** Max 13% speed boost and 2.5% XP boost excluding weekend boost and patron perks.  Axes don't stack with each other.  **Lumberjack outfit not yet added**
-[^100]: The **Lumbridge** background is only available to T3 patrons, who are still required to pay 100m for it.
+[^1]: **Clues:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^2]: **Questing:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^3]: **Cerberus:** Max 20% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^4]: **Barrows:** Max 7% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^5]: **Dagannoth Rex:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^6]: **Dagannoth Prime:** Max 8% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^7]: **Dagannoth Supreme:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^8]: **Giant Mole:** Max 10% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^9]: **Zulrah:** Max 12% speed boost excluding weekend boosts, patron perks and minion learning.  
+[^10]: **Commander Zilyana(Sara):** Max 10% speed boost excluding weekend boost, patron perks and minion learning.  
+[^11]: **Kree'arra(Arma):** Max 5% speed boost excluding weekend boost, patron perks and minion learning.  
+[^12]: **Callisto:** Max 4% speed boost excluding weekend boost, patron perks and minion learning.  
+[^13]: **Vet'ion:** Max 6% speed boost excluding weekend boost, patron perks and minion learning.  
+[^14]: **Venenatis:** Max 3% speed boost excluding weekend boost, patron perks and minion learning.  
+[^15]: **Chaos elemental:** Max 6% speed boost excluding weekend boost, patron perks and minion learning.  
+[^16]: **Chaos fanatic:** Max 6% speed boost excluding weekend boost, patron perks and minion learning.  
+[^17]: **Crazy archaeologist:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.  
+[^18]: **Scorpia:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.  
+[^19]: **Lizardman Shamans:** Max 3% speed boost excluding weekend boost, patron perks and minion learning.  
+[^20]: **Blue dragons:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.  
+[^21]: **Corporeal beast:** Max 15% speed boost excluding weekend boost, patron perks and minion learning.  
+[^22]: **Kalphite queen:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.  
+[^23]: **K'ril Tsutsaroth:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.  
+[^24]: **General Graardor:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.  
+[^25]: **King Black Dragon:** Max 10% speed boost excluding weekend boost, patron perks and minion learning.  
+[^26]: **Runecrafting:** Max 20% speed boost excluding weekend boost and patron perks.  Agility boosts don't stack with each other.  
+[^27]: **Mining:** Max 13% speed boost and 2.5% XP boost excluding weekend boost and patron perks.  Pickaxes don't stack with each other.  Mining gloves don't stack with each other.  
+[^28]: **Smithing:** Each gold bar gives 56.2 XP instead of 22.5 XP if you have the Goldsmith gauntlets in your bank.  
+[^29]: **Fishing:** Max 2.5% XP boost.  **Angler's outfit not yet added**  
+[^30]: **Cooking:** Cooking gauntlets lower burn rate on certain foods.  Refer to [this]([https://i.imgur.com/b2ZV8NE.png](https://i.imgur.com/b2ZV8NE.png)) chart to see XP rates for certain foods.  
+[^31]: **Woodcutting:** Max 13% speed boost and 2.5% XP boost excluding weekend boost and patron perks.  Axes don't stack with each other.  **Lumberjack outfit not yet added**  
+[^100]: The **Lumbridge** background is only available to T3 patrons, who are still required to pay 100m for it.  
