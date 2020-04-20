@@ -358,7 +358,7 @@ Below is a list of items/skills that boost your minion's activity.  To learn mor
 |Prospector Outfit|2.5% XP|Mining [^27]|
 |Goldsmith gauntlets|Gold ore: 56.2 XP|Smithing [^28]|
 |Angler's outfit|2.5% XP|Fishing [^29]|
-|Cooking gauntlets|See chart in [FAQ](example.com)|Cooking [^30]|
+|Cooking gauntlets|See chart in [FAQ](https://www.oldschool.gg/oldschoolbot/faq?How%20do%20boosts%20work?)|Cooking [^30]|
 |Dragon axe|9% speed|Woodcutting [^31]|
 |Infernal axe|11% speed|Woodcutting [^31]|
 |Gilded axe|12% speed|Woodcutting [^31]|
