@@ -136,11 +136,11 @@ You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`
 Some ores reward you with golden nuggets or unidentified minerals.<br>
 You can use nuggets to buy the prospector equipment and minerals to buy the three types of mining gloves.  
 
-If you have atleast level 61, you can get one of these boosts from owning one of these pickaxes:
-* Dragon pickaxe 6%
-* Infernal pickaxe 10%
-* Gilded pickaxe 11%
-* 3rd age pickaxe 12%
+If you have atleast level 61, you can get one of these boosts from owning one of these pickaxes:  
+* Dragon pickaxe 6%  
+* Infernal pickaxe 10%  
+* Gilded pickaxe 11%  
+* 3rd age pickaxe 12%  
 
 ### Ores
 
@@ -185,11 +185,11 @@ Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
 ## Woodcutting
 You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
 
-If you have atleast level 61, you can get one of these boosts from owning one of these axes:
-* Dragon axe 9%
-* Infernal axe 11%
-* Gilded axe 12%
-* 3rd age axe 13%
+If you have atleast level 61, you can get one of these boosts from owning one of these axes:  
+* Dragon axe 9%  
+* Infernal axe 11%  
+* Gilded axe 12%  
+* 3rd age axe 13%  
 
 ### Logs
 | **Log** | **Required level** |
