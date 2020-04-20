@@ -14,7 +14,7 @@ You can use ``+bank --search=itemname`` to search for items.
 Here's an example: `+create Dharoks armour set` to turn items into a set, or `+create Dharoks` to turn it back into the items.
 
 #### How do boosts work?
-Refer to [this](https://cdn.discordapp.com/attachments/685237018170622077/701220865173487616/image0.jpg) image for more information on boosts
+Boosts are explained in detail [here.](https://www.oldschool.gg/oldschoolbot/minions?Boosts)
 
 #### What are the XP rates with Cooking gauntlets?
 Currently, there are only 5 types of fish that are affected by the Cooking gauntlets.  You can see the XP rates [here](https://i.imgur.com/b2ZV8NE.png)
