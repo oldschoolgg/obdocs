@@ -342,7 +342,7 @@ Click on the bank bg name to see what it looks like.
 | [Lumbridge](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/3.jpg?raw=true) [^1] | 100m  |   |  |
 | [Casket (Legend Arts)](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
 
-[^1]: The Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
+*The Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.*
 
 # Minion Icons
 
