@@ -346,7 +346,7 @@ Click on the bank bg name to see what it looks like.
 
 # Minion Icons
 
-You can sacrifice items, and their GP value will go towards you unlocking new minion icons. You will automatically receive the icon immediately after sacrificing enough GP.
+You can sacrifice items, and their GP value will go towards you unlocking new minion icons. You will automatically receive the icon immediately after sacrificing enough GP. You can see a leaderboard of who has sacrificed the most using `+lb sacrifice`.
 
 You can sacrifice items using `+sacrifice [quantity] <item>`, like `+sacrifice Bandos chestplate` or `+sacrifice 1000 gold ore`. You cannot sacrifice GP.
 
