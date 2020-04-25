@@ -30,8 +30,6 @@ You can view your minions' stats using `+m stats`.
 
 Currently available bosses to kill are:  
   
-
-
 ![https://i.imgur.com/jLyLLND.png](https://i.imgur.com/jLyLLND.png)| Barrows
 :--------: | :-----:
 ![https://i.imgur.com/sKTt3sl.png](https://i.imgur.com/sKTt3sl.png) | Callisto
@@ -345,3 +343,18 @@ Click on the bank bg name to see what it looks like.
 | [Casket (Legend Arts)](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
 
 [^1]: The Lumbridge background is only available to T3 patrons, who are still required to pay 100m for it.
+
+# Minion Icons
+
+You can sacrifice items, and their GP value will go towards you unlocking new minion icons. You will automatically receive the icon immediately after sacrificing enough GP.
+
+You can sacrifice items using `+sacrifice [quantity] <item>`, like `+sacrifice Bandos chestplate` or `+sacrifice 1000 gold ore`. You cannot sacrifice GP.
+
+| Icon | Amount Required |
+|:----------------------------:|:---------------:|
+| ![](https://cdn.discordapp.com/emojis/679007949108281357.png?v=1) | 0 |
+| ![](https://cdn.discordapp.com/emojis/673561629115416616.png?v=1) | 100m |
+| ![](https://cdn.discordapp.com/emojis/673561610366746635.png?v=1) | 500m |
+| ![](https://cdn.discordapp.com/emojis/673561610228465664.png?v=1) | 1b |
+| ![](https://cdn.discordapp.com/emojis/673561609834070047.png?v=1) | 5b |
+| ![](https://cdn.discordapp.com/emojis/673561609913892899.png?v=1) | 10b |
