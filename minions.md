@@ -22,7 +22,8 @@ Currently available skills are:
   * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)  
   * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
   * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
-  
+  * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
+    
 You can view your minions' stats using `+m stats`.  
 
 
@@ -280,6 +281,150 @@ You can train cooking using `+cook [quantity] <food>`, for example `+cook 50 bas
 | Manta Ray | 91 |
 
 Click [here](https://i.imgur.com/iJuoDbb.png) for **Cooking** XP rates.
+
+## Crafting
+You can train crafting with the `+craft` command. For example, `+craft 100 leather gloves`. To start training crafting, you will probably want to first kill cows for cowhide, then turn the cowhide into leather using `+craft leather`, then craft leather gloves from those. Alternatively, you can also buy these items from our grand-exchange channel.
+
+### Craftable Items
+| **Name** | **Required level** |
+| - | :-: |
+![](https://static.runelite.net/cache/item/icon/1609.png) Opal | 1
+![](https://static.runelite.net/cache/item/icon/1919.png) Beer glass | 1
+![](https://static.runelite.net/cache/item/icon/1059.png) Leather gloves | 1
+![](https://static.runelite.net/cache/item/icon/1759.png) Ball of wool | 1
+![](https://static.runelite.net/cache/item/icon/21081.png) Opal ring | 1
+![](https://static.runelite.net/cache/item/icon/1741.png) Leather | 1
+![](https://static.runelite.net/cache/item/icon/1743.png) Hard leather | 1
+![](https://static.runelite.net/cache/item/icon/1745.png) Green dragon leather | 1
+![](https://static.runelite.net/cache/item/icon/2505.png) Blue dragon leather | 1
+![](https://static.runelite.net/cache/item/icon/2507.png) Red dragon leather | 1
+![](https://static.runelite.net/cache/item/icon/2509.png) Black dragon leather | 1
+![](https://static.runelite.net/cache/item/icon/4527.png) Empty candle lantern | 4
+![](https://static.runelite.net/cache/item/icon/21512.png) Bird house | 5
+![](https://static.runelite.net/cache/item/icon/1635.png) Gold ring | 5
+![](https://static.runelite.net/cache/item/icon/1654.png) Gold necklace | 6
+![](https://static.runelite.net/cache/item/icon/11069.png) Gold bracelet | 7
+![](https://static.runelite.net/cache/item/icon/1061.png) Leather boots | 7
+![](https://static.runelite.net/cache/item/icon/1673.png) Gold amulet (u) | 8
+![](https://static.runelite.net/cache/item/icon/1692.png) Gold amulet | 8
+![](https://static.runelite.net/cache/item/icon/1167.png) Leather cowl | 9
+![](https://static.runelite.net/cache/item/icon/1777.png) Bow string | 10
+![](https://static.runelite.net/cache/item/icon/1063.png) Leather vambraces | 11
+![](https://static.runelite.net/cache/item/icon/4525.png) Empty oil lamp | 12
+![](https://static.runelite.net/cache/item/icon/1611.png) Jade | 13
+![](https://static.runelite.net/cache/item/icon/21084.png) Jade ring | 13
+![](https://static.runelite.net/cache/item/icon/1129.png) Leather body | 14
+![](https://static.runelite.net/cache/item/icon/13385.png) Xerician hat | 14
+![](https://static.runelite.net/cache/item/icon/21515.png) Oak bird house | 15
+![](https://static.runelite.net/cache/item/icon/1613.png) Red topaz | 16
+![](https://static.runelite.net/cache/item/icon/21090.png) Opal necklace | 16
+![](https://static.runelite.net/cache/item/icon/21087.png) Topaz ring | 16
+![](https://static.runelite.net/cache/item/icon/1714.png) Unstrung symbol | 16
+![](https://static.runelite.net/cache/item/icon/1716.png) Unblessed symbol | 16
+![](https://static.runelite.net/cache/item/icon/13389.png) Xerician robe | 17
+![](https://static.runelite.net/cache/item/icon/1720.png) Unstrung emblem | 17
+![](https://static.runelite.net/cache/item/icon/1722.png) Unpowered symbol | 17
+![](https://static.runelite.net/cache/item/icon/1095.png) Leather chaps | 18
+![](https://static.runelite.net/cache/item/icon/21123.png) Topaz bracelet | 18
+![](https://static.runelite.net/cache/item/icon/2961.png) Silver sickle | 18
+![](https://static.runelite.net/cache/item/icon/1607.png) Sapphire | 20
+![](https://static.runelite.net/cache/item/icon/1637.png) Sapphire ring | 20
+![](https://static.runelite.net/cache/item/icon/1656.png) Sapphire necklace | 22
+![](https://static.runelite.net/cache/item/icon/13387.png) Xerician top | 22
+![](https://static.runelite.net/cache/item/icon/21117.png) Opal bracelet | 22
+![](https://static.runelite.net/cache/item/icon/11072.png) Sapphire bracelet | 23
+![](https://static.runelite.net/cache/item/icon/5525.png) Tiara | 23
+![](https://static.runelite.net/cache/item/icon/1675.png) Sapphire amulet (u) | 24
+![](https://static.runelite.net/cache/item/icon/1694.png) Sapphire amulet | 24
+![](https://static.runelite.net/cache/item/icon/21518.png) Willow bird house | 25
+![](https://static.runelite.net/cache/item/icon/21093.png) Jade necklace | 25
+![](https://static.runelite.net/cache/item/icon/1605.png) Emerald | 27
+![](https://static.runelite.net/cache/item/icon/1639.png) Emerald ring | 27
+![](https://static.runelite.net/cache/item/icon/21108.png) Opal amulet | 27
+![](https://static.runelite.net/cache/item/icon/1131.png) Hardleather body | 28
+![](https://static.runelite.net/cache/item/icon/1658.png) Emerald necklace | 29
+![](https://static.runelite.net/cache/item/icon/21120.png) Jade bracelet | 29
+![](https://static.runelite.net/cache/item/icon/11076.png) Emerald bracelet | 30
+![](https://static.runelite.net/cache/item/icon/1677.png) Emerald amulet (u) | 31
+![](https://static.runelite.net/cache/item/icon/1696.png) Emerald amulet | 31
+![](https://static.runelite.net/cache/item/icon/21096.png) Topaz necklace | 32
+![](https://static.runelite.net/cache/item/icon/229.png) Vial | 33
+![](https://static.runelite.net/cache/item/icon/1603.png) Ruby | 34
+![](https://static.runelite.net/cache/item/icon/1641.png) Ruby ring | 34
+![](https://static.runelite.net/cache/item/icon/21111.png) Jade amulet | 34
+![](https://static.runelite.net/cache/item/icon/21521.png) Teak bird house | 35
+![](https://static.runelite.net/cache/item/icon/1169.png) Coif | 38
+![](https://static.runelite.net/cache/item/icon/1660.png) Ruby necklace | 40
+![](https://static.runelite.net/cache/item/icon/22269.png) Hardleather shield | 41
+![](https://static.runelite.net/cache/item/icon/1133.png) Studded body | 41
+![](https://static.runelite.net/cache/item/icon/6668.png) Fishbowl | 42
+![](https://static.runelite.net/cache/item/icon/11085.png) Ruby bracelet | 42
+![](https://static.runelite.net/cache/item/icon/1601.png) Diamond | 43
+![](https://static.runelite.net/cache/item/icon/1643.png) Diamond ring | 43
+![](https://static.runelite.net/cache/item/icon/1097.png) Studded chaps | 44
+![](https://static.runelite.net/cache/item/icon/22192.png) Maple bird house | 45
+![](https://static.runelite.net/cache/item/icon/6328.png) Snakeskin boots | 45
+![](https://static.runelite.net/cache/item/icon/21114.png) Topaz amulet | 45
+![](https://static.runelite.net/cache/item/icon/567.png) Unpowered orb | 46
+![](https://static.runelite.net/cache/item/icon/6330.png) Snakeskin vambraces | 47
+![](https://static.runelite.net/cache/item/icon/6326.png) Snakeskin bandana | 48
+![](https://static.runelite.net/cache/item/icon/4542.png) Lantern lens | 49
+![](https://static.runelite.net/cache/item/icon/22195.png) Mahogany bird house | 50
+![](https://static.runelite.net/cache/item/icon/1679.png) Ruby amulet (u) | 50
+![](https://static.runelite.net/cache/item/icon/1698.png) Ruby amulet | 50
+![](https://static.runelite.net/cache/item/icon/6324.png) Snakeskin chaps | 51
+![](https://static.runelite.net/cache/item/icon/12929.png) Serpentine helmet | 52
+![](https://static.runelite.net/cache/item/icon/6322.png) Snakeskin body | 53
+![](https://static.runelite.net/cache/item/icon/1395.png) Water battlestaff | 54
+![](https://static.runelite.net/cache/item/icon/11864.png) Slayer helmet | 55
+![](https://static.runelite.net/cache/item/icon/1615.png) Dragonstone | 55
+![](https://static.runelite.net/cache/item/icon/1645.png) Dragonstone ring | 55
+![](https://static.runelite.net/cache/item/icon/1662.png) Diamond necklace | 56
+![](https://static.runelite.net/cache/item/icon/22272.png) Snakeskin shield | 56
+![](https://static.runelite.net/cache/item/icon/1065.png) Green d'hide vambraces | 57
+![](https://static.runelite.net/cache/item/icon/11092.png) Diamond bracelet | 58
+![](https://static.runelite.net/cache/item/icon/1399.png) Earth battlestaff | 58
+![](https://static.runelite.net/cache/item/icon/12902.png) Toxic staff of the dead | 59
+![](https://static.runelite.net/cache/item/icon/12900.png) Trident of the swamp | 59
+![](https://static.runelite.net/cache/item/icon/22198.png) Yew bird house | 60
+![](https://static.runelite.net/cache/item/icon/1099.png) Green d'hide chaps | 60
+![](https://static.runelite.net/cache/item/icon/22275.png) Green d'hide shield | 62
+![](https://static.runelite.net/cache/item/icon/1393.png) Fire battlestaff | 62
+![](https://static.runelite.net/cache/item/icon/1135.png) Green d'hide body | 63
+![](https://static.runelite.net/cache/item/icon/2487.png) Blue d'hide vambraces | 66
+![](https://static.runelite.net/cache/item/icon/1397.png) Air battlestaff | 66
+![](https://static.runelite.net/cache/item/icon/6573.png) Onyx | 67
+![](https://static.runelite.net/cache/item/icon/6575.png) Onyx ring | 67
+![](https://static.runelite.net/cache/item/icon/2493.png) Blue d'hide chaps | 68
+![](https://static.runelite.net/cache/item/icon/22278.png) Blue d'hide shield | 69
+![](https://static.runelite.net/cache/item/icon/1681.png) Diamond amulet (u) | 70
+![](https://static.runelite.net/cache/item/icon/1700.png) Diamond amulet | 70
+![](https://static.runelite.net/cache/item/icon/2499.png) Blue d'hide body | 71
+![](https://static.runelite.net/cache/item/icon/1664.png) Dragonstone necklace | 72
+![](https://static.runelite.net/cache/item/icon/2489.png) Red d'hide vambraces | 73
+![](https://static.runelite.net/cache/item/icon/11115.png) Dragonstone bracelet | 74
+![](https://static.runelite.net/cache/item/icon/22201.png) Magic bird house | 75
+![](https://static.runelite.net/cache/item/icon/2495.png) Red d'hide chaps | 75
+![](https://static.runelite.net/cache/item/icon/22281.png) Red d'hide shield | 76
+![](https://static.runelite.net/cache/item/icon/2501.png) Red d'hide body | 77
+![](https://static.runelite.net/cache/item/icon/2491.png) Black d'hide vambraces | 79
+![](https://static.runelite.net/cache/item/icon/1683.png) Dragonstone amulet (u) | 80
+![](https://static.runelite.net/cache/item/icon/1702.png) Dragonstone amulet | 80
+![](https://static.runelite.net/cache/item/icon/2497.png) Black d'hide chaps | 82
+![](https://static.runelite.net/cache/item/icon/6577.png) Onyx necklace | 82
+![](https://static.runelite.net/cache/item/icon/22284.png) Black d'hide shield | 83
+![](https://static.runelite.net/cache/item/icon/2503.png) Black d'hide body | 84
+![](https://static.runelite.net/cache/item/icon/11130.png) Onyx bracelet | 84
+![](https://static.runelite.net/cache/item/icon/10980.png) Empty light orb | 87
+![](https://static.runelite.net/cache/item/icon/19493.png) Zenyte | 89
+![](https://static.runelite.net/cache/item/icon/19538.png) Zenyte ring | 89
+![](https://static.runelite.net/cache/item/icon/22204.png) Redwood bird house | 90
+![](https://static.runelite.net/cache/item/icon/6579.png) Onyx amulet (u) | 90
+![](https://static.runelite.net/cache/item/icon/6581.png) Onyx amulet | 90
+![](https://static.runelite.net/cache/item/icon/19535.png) Zenyte necklace | 92
+![](https://static.runelite.net/cache/item/icon/19532.png) Zenyte bracelet | 95
+![](https://static.runelite.net/cache/item/icon/19501.png) Zenyte amulet (u) | 98
+![](https://static.runelite.net/cache/item/icon/19541.png) Zenyte amulet | 98
 
 # Questing
 You can send your minion out to do quests for 30 minutes using `+quest`.<br>
