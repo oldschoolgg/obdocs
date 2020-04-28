@@ -9,7 +9,7 @@ You can also read the [FAQ](https://www.oldschool.gg/oldschoolbot/faq) for answe
 
 This page is editable by anyone at [obdocs/minions.md](https://github.com/gc/obdocs) - if you notice any mistakes or missing information, you can add it yourself, or report it to us in the [support server](https://discord.gg/ob)
 
-[Edit this page on Github](https://github.com/gc/obdocs/blob/master/FAQ.md)
+[Edit this page on Github](https://github.com/gc/obdocs/blob/master/minions.md)
 
 # Activities  
 
