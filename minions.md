@@ -7,9 +7,19 @@ You can also read the [FAQ](https://www.oldschool.gg/oldschoolbot/faq) for answe
 > Minions are entirely virtual, and not in any way tradeable for real GP or real money. It's simulating the real game for fun. We strictly do not allow any bot users to break any of the official OSRS rules. Read the rules here: [Old School Bot Rules](https://www.oldschool.gg/oldschoolbot/rules)
 
 
-This page is editable by anyone at [obdocs/minions.md](https://github.com/gc/obdocs) - if you notice any mistakes or missing information, you can add it yourself, or report it to us in the [support server](https://discord.gg/ob)
+If you notice any mistakes or missing information in this page, you can [add it yourself](https://github.com/gc/obdocs/blob/master/minions.md), or report it to us in the [support server](https://discord.gg/ob)
 
 [Edit this page on Github](https://github.com/gc/obdocs/blob/master/minions.md)
+
+
+# Getting started
+
+To get started, firstly [read the rules](https://www.oldschool.gg/oldschoolbot/rules), then get yourself a minion by typing `+minion buy`, or `+m buy` for short.
+
+Next, decide what you want to do. Skilling? PVM? Questing? Read the rest of the page to see what you can do, and how - and just do whatever you want to do!
+
+It's highly recommended to join the [support server](http://oldschool.gg/ob) for several reasons: All updates and changes to the bot are announced in the #news channel in the server. We have a #grand-exchange channel you can use to trade/sell items with others. We have a #notifications channel that shows all the rare drops, pets and other things that people are getting in real time! 
+
 
 # Activities  
 
@@ -505,3 +515,9 @@ You can sacrifice items using `+sacrifice [quantity] <item>`, like `+sacrifice B
 | ![](https://cdn.discordapp.com/emojis/673561610228465664.png?v=1) | 1b |
 | ![](https://cdn.discordapp.com/emojis/673561609834070047.png?v=1) | 5b |
 | ![](https://cdn.discordapp.com/emojis/673561609913892899.png?v=1) | 10b |
+
+# Patreon
+
+The Patreon is a way for users to donate to me (Magnaboy), if you wish. It's entirely your choice, if you want to. I will never sell items/GP from the bot for money, nor P2W perks/advantages. 
+
+You can donate to me on Patreon here: [https://www.patreon.com/oldschoolbot](https://www.patreon.com/oldschoolbot)
