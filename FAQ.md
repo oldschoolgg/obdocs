@@ -5,6 +5,9 @@ Most of the information on minions is on the [minions page](https://www.oldschoo
 ##### Why do prices in minions differ?
 The price depends on your account age. If your discord account is over 1 year old, you get it for free. Less than 1 year, and it costs 50m. You can get this initial 50m from asking friends, or by using `+daily` every day for a while.
 
+#### Is RWT or autotyping against the rules?
+YES. You will be banned from the bot, it's not allowed. To date, there has been 100+ users caught doing this and all have been wiped/banned.
+
 ##### I found a bug in the bot, where do I report it?
 You can either make a github issue in the bot repo: [gc/oldschoolbot](https://github.com/gc/oldschoolbot) OR join the [support server](http://support.oldschool.gg/) and post the bug in the help/support channel.
 
@@ -27,3 +30,7 @@ The pets from `+daily` are separate to pets your minion pets, and are only shown
 
 ##### How do I create a godsword?
 Example: `+create Bandos godsword` - note it requires you have the required Smithing level. You can pay another player to make it for you, if you wish.
+
+##### How do I search for specific items in my bank?
+You can use `+bank --search=name` to search for items in your bank, for example, to see all dragon items in your bank, you could do: `+b --search=dragon`.
+
