@@ -1,3 +1,4 @@
+[Edit this page on Github](https://github.com/gc/obdocs/blob/master/FAQ.md)
 
 ##### How do I see all the things I can do with my minion?
 Most of the information on minions is on the [minions page](https://www.oldschool.gg/oldschoolbot/minions).
