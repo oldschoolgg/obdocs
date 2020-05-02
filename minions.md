@@ -35,13 +35,14 @@ Currently available skills are:
   * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
  
 ### Miscellaneous
- * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
- * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)  
- * [Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boosts)  
- * [Buyable items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)  
- * [Boss/Monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements)  
- * [Bank backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
-* [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
+  * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
+  * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)  
+  * [Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boosts)  
+  * [Buyable items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)  
+  * [Boss/Monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements)  
+  * [Bank backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
+  * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
+  * [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
 
 You can view your minions' stats using `+m stats`.  
 
@@ -78,7 +79,25 @@ Currently available bosses to kill are:
  Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
   
  You can view your minions' killcounts using `+m kc`.
+ 
+#### Group Bossing
 
+Some bosses are able to be killed in groups, these bosses currently are: All four GWD bosses, and Corp - more bosses are planned to be added. To do group bossing, you create a party, there are two kinds of parties: invite-only and mass. Invite only parties are for you to invite select people on your trip and mass parties can be joined by anyone. Parties have a leader, who is the person who created the party (ran the command).
+
+Note that, similar to ingame, even if you have a very big group of people in a party killing a boss, you're still limited by that bosses respawn time, although the kills can get very very fast if you have lots of people.
+
+Loot is rolled out completely randomly, for example if your party is doing 5 kills, it will give each kill loot to a random party member, the same person can be given loot multiple times, or none at all if unlucky.
+
+Currently, boosts do not apply to group boss trips, however this will be added in the future.
+
+##### Invite-only group bossing
+Example of invite-only group bossing party: `+groupkill party corp @Magnaboy @Alexsuperfly @Crow653` - this would make an invite-only party, that only those 3 people can join. Note that, the leader (the person who is running the command) doesn't have to add themselves to the list, they're always included automatically.
+
+After, each user will have to confirm they want to join by clicking on the "join" reaction. The trip will start when all users have confirmed, or if the party leader has clicked the "start" reaction to start early.
+
+
+##### Mass bossing
+Example of a mass bossing party: `+groupkill mass corp` - this would make a mass party, that ANYONE can join. The trip will start after 2 minutes automatically, or when the party leader clicks the "start" reaction.
 
 
 ## Agility
