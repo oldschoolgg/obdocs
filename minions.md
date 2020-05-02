@@ -90,6 +90,8 @@ Loot is rolled out completely randomly, for example if your party is doing 5 kil
 
 Currently, boosts do not apply to group boss trips, however this will be added in the future.
 
+You **cannot** join parties if: you're an ironman or if your minion is busy.
+
 ##### Invite-only group bossing
 Example of invite-only group bossing party: `+groupkill party corp @Magnaboy @Alexsuperfly @Crow653` - this would make an invite-only party, that only those 3 people can join. Note that, the leader (the person who is running the command) doesn't have to add themselves to the list, they're always included automatically.
 
