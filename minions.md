@@ -193,11 +193,11 @@ If you have atleast level 61, you can get one of these boosts from owning one of
 Click [here](https://i.imgur.com/b3HNdSi.png) for **Mining** XP rates.
 
 ## Smithing
-You can train smithing using `+smith [quantity] <bar>`, for example `+smith 50 bronze bar`.  
+You can train smithing using `+smith` & `+smelt`
+`+smelt [quantity] <bar>`, for example `+smelt 50 bronze bar`
+`+smith [quantity] <item>`, for example `+smith adamant dart tips`
 
 Smithing is one of the more useful skills on the bot, because it is required to create Godswords and such!
-
-> Currently you can only smelt bars! Smithing the bars into items might get added later.
 
 ### Bars
 | **Bar** | **Required level** | **Materials needed** |
