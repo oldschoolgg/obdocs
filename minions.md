@@ -195,7 +195,7 @@ Click [here](https://i.imgur.com/b3HNdSi.png) for **Mining** XP rates.
 ## Smithing
 You can train smithing using `+smith` & `+smelt`
 `+smelt [quantity] <bar>`, for example `+smelt 50 bronze bar`
-`!smith [quantity] <item>`, for example `!smith adamant dart tips`
+`+smith [quantity] <item>`, for example `+smith adamant dart tips`
 
 Smithing is one of the more useful skills on the bot, because it is required to create Godswords and such!
 
