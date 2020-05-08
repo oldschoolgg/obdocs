@@ -33,6 +33,7 @@ Currently available skills are:
   * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
   * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
   * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
+  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)  
  
 ### Miscellaneous
   * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
@@ -319,6 +320,13 @@ Click [here](https://i.imgur.com/iJuoDbb.png) for **Cooking** XP rates.
 You can train crafting with the `+craft` command. For example, `+craft 100 leather gloves`. To start training crafting, you will probably want to first kill cows for cowhide, then turn the cowhide into leather using `+craft leather`, then craft leather gloves from those. Alternatively, you can also buy these items from our grand-exchange channel.
 
 To see all the items you can craft, check the [Crafting Wiki Page](https://oldschool.runescape.wiki/w/Crafting) - most of the items are in the bot, with the exact same level and item requirements.
+
+## Prayer
+You can train prayer by burying bones, or offering them to the Chaos altar. For example to bury 100 Dragon bones, you can do `+bury 100 Dragon bones`, or to bury the maximum amount you can: `+bury Dragon bones`. Offering the bones to the Chaos altar works exactly the same, except you use `+offer` instead, for example: `+offer 100 Dragon bones`.
+
+The Chaos Altar works like ingame, your minion will do 1 inventory trips back and forth to sacrifice, with a 10% chance of being PKed in the trip and losing some amount of your inventory of bones (depending on if you got PKed at the start/middle/finish).
+
+The Prayer skill is also required for creating Spirit shields.
 
 ## Questing
 Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP.
