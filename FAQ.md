@@ -35,3 +35,23 @@ Example: `+create Bandos godsword` - note it requires you have the required Smit
 ##### How do I search for specific items in my bank?
 You can use `+bank --search=name` to search for items in your bank, for example, to see all dragon items in your bank, you could do: `+b --search=dragon`.
 
+##### How do I get runecrafting pouches?
+There are 4 pouches, and the bot does a bit differently to ingame. To obtain them, you first need the crafting level required for each tier (1, 10, 20, 30), and then a little bit of leather, and simply `+create medium pouch`.
+
+##### Do I need to equip items to receive the boosts they provide?
+Skilling boosts *only* work when equipped in your skilling gear setup, while bossing/PVM boosts currently work either when equipped or when in your bank.
+
+##### How do I get X item?
+If the item is a drop from a boss in the main game, and the boss is killable in the bot (you can check using `+m kill` while idle), you can get the item from killing the monster(s) it normally drops from. If it is a quest reward or item pack, you can get it by using `+buy` (item). The graceful set can be obtained with 260 marks of grace and using the `+create graceful` command. Note that not all items are currently obtainable via either of these two methods.
+
+##### Will X be added to the bot?
+Probably. The bot is continuously being updated by a number of contributors. The entirety of OSRS (and perhaps more) may be added at some point in the future.
+
+##### I have a question that isn't on this page. Where can I go to for help?
+Join us in the Old School Bot Discord server and ask in our dedicated #help-and-support channel! Moderators and experienced players regularly monitor the channel and will usually answer your question shortly. Please make sure to read the channel topic before asking.
+
+##### I have an idea for new content that could be added to the Old School Bot. Where can I go to share it?
+Join the official Old School Bot Discord server and post it in our dedicated #submit-suggestions channel. If you want to help code your ideas, or the ideas of others, you can join the the development team. The bot is based in an open source GitHub file so anyone can contribute.
+
+##### I just signed up for Patreon! When are my perks active?
+Thank you for signing up! The creator of the bot has to manually run a command in order for you to receive your perks. After connecting your Discord, make a post in #patrons to let Magnaboy know that you have recently signed up and wait for him to respond. You may be in a different timezone, so you might have to wait a few hours depending on when you signed up.
