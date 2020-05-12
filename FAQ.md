@@ -55,3 +55,9 @@ Join the official Old School Bot Discord server and post it in our dedicated #su
 
 ##### I just signed up for Patreon! When are my perks active?
 Thank you for signing up! The creator of the bot has to manually run a command in order for you to receive your perks. After connecting your Discord, make a post in #patrons to let Magnaboy know that you have recently signed up and wait for him to respond. You may be in a different timezone, so you might have to wait a few hours depending on when you signed up.
+
+##### Can you stack clues on the Old School Bot?
+No you cannot, however you can stack caskets just like in game. Stacking clues may be a relic in the future!
+
+##### How do I equip gear on my minion?
+There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. To equip gear, simply type `+equip melee Bandos Chestplate`. Currently, you do not need to equip gear in order to receive the boosts except for Skilling gear. The list of items that need to be equipped to receive boosts are as follows: Full graceful, Cooking gauntlets, Goldsmithing gauntlets, Full prospectors, Runecrafting pouches, and each of the Mining gloves. Anything else can sit in your bank to still receive boosts.
