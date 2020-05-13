@@ -60,4 +60,10 @@ Thank you for signing up! The creator of the bot has to manually run a command i
 No you cannot, however you can stack caskets just like in game. Stacking clues may be a relic in the future!
 
 ##### How do I equip gear on my minion?
-There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. To equip gear, simply type `+equip melee Bandos Chestplate`. Currently, you do not need to equip gear in order to receive the boosts except for Skilling gear. The list of items that need to be equipped to receive boosts are as follows: Full graceful, Cooking gauntlets, Goldsmithing gauntlets, Full prospectors, Runecrafting pouches, and each of the Mining gloves. Anything else can sit in your bank to still receive boosts.
+There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. To equip gear, simply type `+equip melee Bandos Chestplate`. Currently, you do not need to equip gear in order to receive the boosts except for Skilling gear. The list of items that need to be equipped to receive boosts are as follows: Full graceful, Cooking gauntlets, Goldsmithing gauntlets, Full prospectors, and each of the Mining gloves. Anything else can sit in your bank to still receive boosts.
+
+##### How can I get an Occult necklace?
+Currently you cannot obtain an Occult necklace as they are only dropped by smoke devils or their boss variant, these will be obtainable when Slayer is released. There is not an ETA on Slayer currently, however it has been coded and tested a bit.
+
+##### Can we create Blowpipes yet?
+No, Fletching has not been added but is planned.
