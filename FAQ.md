@@ -42,28 +42,20 @@ There are 4 pouches, and the bot does a bit differently to ingame. To obtain the
 Skilling boosts *only* work when equipped in your skilling gear setup, while bossing/PVM boosts currently work either when equipped or when in your bank.
 
 ##### How do I get X item?
-If the item is a drop from a boss in the main game, and the boss is killable in the bot (you can check using `+m kill` while idle), you can get the item from killing the monster(s) it normally drops from. If it is a quest reward or item pack, you can get it by using `+buy` (item). The graceful set can be obtained with 260 marks of grace and using the `+create graceful` command. Note that not all items are currently obtainable via either of these two methods.
+You get most items exactly the same as you get them in the real game, all monsters drop the same things as ingame.
+
+If it is a quest reward or thing you usually buy from a shop, you can get it by using `+buy`. Graceful can be obtained with 260 marks of grace and using the `+create graceful` command. Note that not all items are currently obtainable via either of these two methods.
 
 ##### Will X be added to the bot?
-Probably. The bot is continuously being updated by a number of contributors. The entirety of OSRS (and perhaps more) may be added at some point in the future.
+I plan on adding all skills, minigames and bosses from OSRS to the bot. Anything that can reasonably be added will be added in time.
 
-##### I have a question that isn't on this page. Where can I go to for help?
-Join us in the Old School Bot Discord server and ask in our dedicated #help-and-support channel! Moderators and experienced players regularly monitor the channel and will usually answer your question shortly. Please make sure to read the channel topic before asking.
+##### Where can I make suggestions for the bot?
+Join http://support.oldschool.gg/ and post your suggestion in the suggestions channel and we'll consider adding it.
 
-##### I have an idea for new content that could be added to the Old School Bot. Where can I go to share it?
-Join the official Old School Bot Discord server and post it in our dedicated #submit-suggestions channel. If you want to help code your ideas, or the ideas of others, you can join the the development team. The bot is based in an open source GitHub file so anyone can contribute.
-
-##### I just signed up for Patreon! When are my perks active?
-Thank you for signing up! The creator of the bot has to manually run a command in order for you to receive your perks. After connecting your Discord, make a post in #patrons to let Magnaboy know that you have recently signed up and wait for him to respond. You may be in a different timezone, so you might have to wait a few hours depending on when you signed up.
-
-##### Can you stack clues on the Old School Bot?
-No you cannot, however you can stack caskets just like in game. Stacking clues may be a relic in the future!
+##### Can you stack clues on Old School Bot?
+No, you can't. It works like ingame.
 
 ##### How do I equip gear on my minion?
-There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. To equip gear, simply type `+equip melee Bandos Chestplate`. Currently, you do not need to equip gear in order to receive the boosts except for Skilling gear. The list of items that need to be equipped to receive boosts are as follows: Full graceful, Cooking gauntlets, Goldsmithing gauntlets, Full prospectors, and each of the Mining gloves. Anything else can sit in your bank to still receive boosts.
+There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. As an example, here's how you can equip a BCP to your melee setup: `+equip melee Bandos Chestplate`. If your doing a boss that needs Melee gear, the bot will check your Melee setup. It's done like this so you don't have to spend a long time equipping and unequipping stuff, you can just have your best stuff in each setup at all times.
 
-##### How can I get an Occult necklace?
-Currently you cannot obtain an Occult necklace as they are only dropped by smoke devils or their boss variant, these will be obtainable when Slayer is released. There is not an ETA on Slayer currently, however it has been coded and tested a bit.
-
-##### Can we create Blowpipes yet?
-No, Fletching has not been added but is planned.
+The Skilling setup is where you equip skilling-related stuff, for example: Graceful or the Prospector outfit.
