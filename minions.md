@@ -16,7 +16,7 @@ To get started, firstly [read the rules](https://www.oldschool.gg/oldschoolbot/r
 
 Next, decide what you want to do. Skilling? PVM? Questing? Read the rest of the page to see what you can do, and how - and just do whatever you want to do!
 
-It's highly recommended to join the [support server](http://oldschool.gg/ob) for several reasons: All updates and changes to the bot are announced in the #news channel in the server. We have a #grand-exchange channel you can use to trade/sell items with others. We have a #notifications channel that shows all the rare drops, pets and other things that people are getting in real time! 
+It's highly recommended to join the [support server](http://oldschool.gg/ob) for several reasons: All updates and changes to the bot are announced in the [#news](https://discord.gg/WCnhnBv) channel in the server. We have a [#grand-exchange](https://discord.gg/QnEwEJS) channel you can use to trade/sell items with others. We have a [#notifications](https://discord.gg/DQm2cND) channel that shows all the rare drops, pets and other things that people are getting in real time! 
 
 
 # Activities  
@@ -49,33 +49,6 @@ You can view your minions' stats using `+m stats`.
 
 
 ### Bossing
-
-Currently available bosses to kill are:  
-  
-![https://i.imgur.com/jLyLLND.png](https://i.imgur.com/jLyLLND.png)| Barrows
-:--------: | :-----:
-![https://i.imgur.com/sKTt3sl.png](https://i.imgur.com/sKTt3sl.png) | Callisto
-![https://i.imgur.com/GvC5Tco.png](https://i.imgur.com/GvC5Tco.png)| Cerberus
-![https://i.imgur.com/HdeDjCF.png](https://i.imgur.com/HdeDjCF.png)| Chaos Elemental
-![https://i.imgur.com/tN9bUAh.png](https://i.imgur.com/tN9bUAh.png)| Chaos Fanatic 
-![https://i.imgur.com/mLeZynK.png](https://i.imgur.com/mLeZynK.png)| Commander Zilyana
-![https://i.imgur.com/hZUNtgK.png](https://i.imgur.com/hZUNtgK.png)| Corporeal Beast
-![https://i.imgur.com/eqvQC4C.png](https://i.imgur.com/eqvQC4C.png)| Crazy Archaeologist
-![https://i.imgur.com/JfpXrXW.png](https://i.imgur.com/JfpXrXW.png)| Dagannoth Prime
-![https://i.imgur.com/pO822rj.png](https://i.imgur.com/pO822rj.png)| Dagannoth Rex
-![https://i.imgur.com/FKVIKMX.png](https://i.imgur.com/FKVIKMX.png)| Dagannoth Supreme
-![https://i.imgur.com/sLdtsrg.png](https://i.imgur.com/sLdtsrg.png)| General Graardor
-![https://i.imgur.com/igxsuRU.png](https://i.imgur.com/igxsuRU.png)| Giant Mole
-![https://i.imgur.com/gVIOuaQ.png](https://i.imgur.com/gVIOuaQ.png)| K'ril Tsutsaroth
-![https://i.imgur.com/rvqU0Z3.gif](https://i.imgur.com/rvqU0Z3.gif)| Kalphite Queen
-![https://i.imgur.com/pQFbspB.png](https://i.imgur.com/pQFbspB.png)| King Black Dragon
-![https://i.imgur.com/OfsrIfN.png](https://i.imgur.com/OfsrIfN.png)| Kree'arra 
-![https://i.imgur.com/Hv6IcBx.gif](https://i.imgur.com/Hv6IcBx.gif)| Lizardman Shaman
-![https://i.imgur.com/iwGwt1F.png](https://i.imgur.com/iwGwt1F.png)| Scorpia
-![https://i.imgur.com/HHEZj9X.png](https://i.imgur.com/HHEZj9X.png)| Venenatis
-![https://i.imgur.com/iSWr25X.gif](https://i.imgur.com/iSWr25X.gif)| Vet'ion
-![https://i.imgur.com/w9PrhyH.png](https://i.imgur.com/w9PrhyH.png)| Vorkath
-![https://i.imgur.com/p6d3Wna.gif](https://i.imgur.com/p6d3Wna.gif)| Zulrah
 
  Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
   
@@ -169,10 +142,10 @@ Some ores reward you with golden nuggets or unidentified minerals.<br>
 You can use nuggets to buy the prospector equipment and minerals to buy the three types of mining gloves.  
 
 If you have atleast level 61, you can get one of these boosts from owning one of these pickaxes:
-* Dragon pickaxe 6%
-* Infernal pickaxe 10%
-* Gilded pickaxe 11%
-* 3rd age pickaxe 12%
+* Dragon pickaxe 6%  
+* Infernal pickaxe 10%  
+* Gilded pickaxe 11%  
+* 3rd age pickaxe 12%  
 
 ### Ores
 
@@ -218,10 +191,10 @@ Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
 You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
 
 If you have atleast level 61, you can get one of these boosts from owning one of these axes:
-* Dragon axe 9%
-* Infernal axe 11%
-* Gilded axe 12%
-* 3rd age axe 13%
+* Dragon axe 9%  
+* Infernal axe 11%  
+* Gilded axe 12%  
+* 3rd age axe 13%  
 
 ### Logs
 | **Log** | **Required level** |
@@ -328,55 +301,142 @@ The Chaos Altar works like ingame, your minion will do 1 inventory trips back an
 
 The Prayer skill is also required for creating Spirit shields.
 
-## Questing
+# Questing
 Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP.
 
 Quest points are required to kill some bosses (e.g. Vorkath) and required to buy some items (e.g. Barrows gloves).
 
 
-## Skillcapes
+# Skillcapes
 
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
 
-### Boss and monster requirements
-| **Boss** | **QP required** | **Gear required** |
-| - | :-: | :-: |
-| Lizardman shaman | 30 | Karils Crossbow |
-| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop and Ahrim's robeskirt |
-| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt |
-| Giant Mole | N/A | Full Dharok's set |
-| Callisto | N/A | Full Verac's set |
-| Venenatis | N/A | Full Verac's set |
-| King Black Dragon | N/A | Anti-Dragon shield |
-| Corporeal Beast | N/A | Zamorakian Spear |
-| Cerberus | N/A | Bandos chestplate and Bandos tassets |
 
-# Buyable items
+### Boosts
 
-You can purchase these items by typing `+buy <item>`. Some require QP, and have higher costs than ingame.
+Boosts work a little differently on the bot then they do ingame.  Currently, there are 4 types of boosts.  
+Those would be **Minion Learning**, **Weekend Boosts**, **Item Speed Boosts** and **XP Boosts**.
+
+#### Minion Learning  
+
+The more time your minion spends on killing the same monsters, over time, it will take slightly less time to kill them.  
+It takes for example 25 hours to get a 5% **Speed Boost** from Minion Learning.  
+
+Minion learning allows you to get more kills in a single trip.  
+
+
+#### Weekend Boosts  
+
+Weekend Boosts reduce your total trip length by 10% on weekends.  
+
+
+#### XP Boosts
+These items just give you a flat percentage boost at the end of the trip.  
+
+
+#### Item Speed Boosts
+Some items reduce the time it takes to finish a trip.  Some boosts can stack together, for example an item that gives 10% boost and an item that gives 5% boost, will lower your trip by 15%.  The only items that do **NOT** stack with each other, are pickaxes, axes and mining gloves.  Only the highest value is counted.  
+
+Below is a list of items/skills that boost your minion's activity.  
+
+^1^ Max boost excluding weekend boost, patron perks, minion learning and any other extra boost.
+
+|**God Wards Dungeon bosses** | **Item needed to receive boost** | **Boost Type**| **Max Boost ^1^** |
+| :-: | :-: | :-: | :-: |
+|![https://i.imgur.com/Aoynyet.png](https://i.imgur.com/Aoynyet.png)<br>Commander Zilyana(Sara)|![https://i.imgur.com/BqfyfaF.png](https://i.imgur.com/BqfyfaF.png)Ranger boots<br>![https://i.imgur.com/m4ljYLH.png](https://i.imgur.com/m4ljYLH.png)Armadyl crossbow|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/MKTNBsR.png](https://i.imgur.com/MKTNBsR.png)<br>K'ril Tsutsaroth(Zammy)|![https://i.imgur.com/bqPPeGv.png](https://i.imgur.com/bqPPeGv.png)Dragon warhammer|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/YpEBUDM.png](https://i.imgur.com/YpEBUDM.png)<br>Kree'arra(Arma)|![https://i.imgur.com/BqfyfaF.png](https://i.imgur.com/BqfyfaF.png)Ranger boots|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% |
+|![https://i.imgur.com/TBVEcxB.png](https://i.imgur.com/TBVEcxB.png)<br>General Graardor<br><br>|![https://i.imgur.com/bqPPeGv.png](https://i.imgur.com/bqPPeGv.png)Dragon warhammer|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|**Wilderness Bosses**|**Item needed to receive boost**|**Boost Type**|
+|![https://i.imgur.com/FUDRrtb.png](https://i.imgur.com/FUDRrtb.png)<br>Callisto|![https://i.imgur.com/Cib3CT9.png](https://i.imgur.com/Cib3CT9.png)Barrows gloves<br>![https://i.imgur.com/z38Shwd.png](https://i.imgur.com/z38Shwd.png)Berserker ring|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)4% |
+|![https://i.imgur.com/brj0guF.png](https://i.imgur.com/brj0guF.png)<br>Chaos elemental|![https://i.imgur.com/sb1656f.png](https://i.imgur.com/sb1656f.png)Archers ring<br>![https://i.imgur.com/Cib3CT9.png](https://i.imgur.com/Cib3CT9.png)Barrows gloves|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)6% |
+|![https://i.imgur.com/nxDobMj.png](https://i.imgur.com/nxDobMj.png)<br>Chaos fanatic|![https://i.imgur.com/1HeouvW.png](https://i.imgur.com/1HeouvW.png)Karil's leathertop<br>![https://i.imgur.com/r1csy4v.png](https://i.imgur.com/r1csy4v.png)Karil's leatherskirt|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)6% |
+|![https://i.imgur.com/8GyJaKK.png](https://i.imgur.com/8GyJaKK.png)<br>Crazy archaeologist|![https://i.imgur.com/GI3Nx9o.png](https://i.imgur.com/GI3Nx9o.png)Occult necklace|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/tRbklxI.png](https://i.imgur.com/tRbklxI.png)<br>Scorpia|![https://i.imgur.com/GI3Nx9o.png](https://i.imgur.com/GI3Nx9o.png)Occult necklace|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/PucrJNy.png](https://i.imgur.com/PucrJNy.png)<br>Venenatis|![https://i.imgur.com/Cib3CT9.png](https://i.imgur.com/Cib3CT9.png)Barrows gloves|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% |
+|![https://i.imgur.com/d5bRYpQ.gif](https://i.imgur.com/d5bRYpQ.gif)<br>Vet'ion<br><br>|![https://i.imgur.com/bqPPeGv.png](https://i.imgur.com/bqPPeGv.png)Dragon warhammer|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% |
+|**General Bosses**|**Item needed to receive boost**|**Boost Type**|
+|![https://i.imgur.com/C8Pj39a.png](https://i.imgur.com/C8Pj39a.png)<br>Cerberus|![https://i.imgur.com/3hCaAyJ.png](https://i.imgur.com/3hCaAyJ.png)Spectral spirit shield<br>![https://i.imgur.com/JSFjj3B.png](https://i.imgur.com/JSFjj3B.png)Bandos chestplate<br>![https://i.imgur.com/8z6TtFt.png](https://i.imgur.com/8z6TtFt.png)Bandos tassets|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)20% |
+|![https://i.imgur.com/6d3aSw7.png](https://i.imgur.com/6d3aSw7.png)<br>Corporeal beast|![https://i.imgur.com/bqPPeGv.png](https://i.imgur.com/bqPPeGv.png)Dragon warhammer<br>![https://i.imgur.com/vqHkYFX.png](https://i.imgur.com/vqHkYFX.png)Bandos godsword|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)15% |
+|![https://i.imgur.com/dlgD4uB.png](https://i.imgur.com/dlgD4uB.png)<br>Dagannoth Prime|![https://i.imgur.com/xs0XM0D.png](https://i.imgur.com/xs0XM0D.png)Armadyl chestplate<br>![https://i.imgur.com/bZRieVo.png](https://i.imgur.com/bZRieVo.png)Armadyl chainskirt<br>![https://i.imgur.com/JSFjj3B.png](https://i.imgur.com/JSFjj3B.png)Bandos chestplate<br>![https://i.imgur.com/8z6TtFt.png](https://i.imgur.com/8z6TtFt.png)Bandos tassets|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)8% |
+|![https://i.imgur.com/DKLWf3O.png](https://i.imgur.com/DKLWf3O.png)<br>Dagannoth Rex|![https://i.imgur.com/kJ9wmr4.png](https://i.imgur.com/kJ9wmr4.png)Occult becklace<br>![https://i.imgur.com/bAdFMyD.png](https://i.imgur.com/bAdFMyD.png)Iban's staff|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/Lj0t0q4.png](https://i.imgur.com/Lj0t0q4.png)<br>Dagannoth Supreme|![https://i.imgur.com/xs0XM0D.png](https://i.imgur.com/xs0XM0D.png)Armadyl chestplate<br>![https://i.imgur.com/bZRieVo.png](https://i.imgur.com/bZRieVo.png)Armadyl chainskirt<br>![https://i.imgur.com/JSFjj3B.png](https://i.imgur.com/JSFjj3B.png)Bandos chestplate<br>![https://i.imgur.com/8z6TtFt.png](https://i.imgur.com/8z6TtFt.png)Bandos tassets<br>![https://i.imgur.com/GU63s9I.png](https://i.imgur.com/GU63s9I.png)Saradomin godsword|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/Lyb6HG4.png](https://i.imgur.com/Lyb6HG4.png)<br>Giant Mole|![https://i.imgur.com/Cib3CT9.png](https://i.imgur.com/Cib3CT9.png)Barrows gloves<br>![https://i.imgur.com/z38Shwd.png](https://i.imgur.com/z38Shwd.png)Berserker ring|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/RY8Q4nl.gif](https://i.imgur.com/RY8Q4nl.gif)<br>Kalphite queen|![https://i.imgur.com/bqPPeGv.png](https://i.imgur.com/bqPPeGv.png)Dragon warhammer|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/B8d3SFz.png](https://i.imgur.com/B8d3SFz.png)<br>King Black Dragon|![https://i.imgur.com/m4ljYLH.png](https://i.imgur.com/m4ljYLH.png)Armadyl crossbow|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/5hEsHtN.png](https://i.imgur.com/5hEsHtN.png)<br>Vorkath|![https://i.imgur.com/bqPPeGv.png](https://i.imgur.com/bqPPeGv.png)Dragon warhammer|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/ybsrnDr.gif](https://i.imgur.com/ybsrnDr.gif)<br>Zulrah<br><br>|![https://i.imgur.com/Cib3CT9.png](https://i.imgur.com/Cib3CT9.png)Barrows gloves<br>![https://i.imgur.com/BqfyfaF.png](https://i.imgur.com/BqfyfaF.png)Ranger boots<br>![https://i.imgur.com/bAdFMyD.png](https://i.imgur.com/bAdFMyD.png)Iban's staff|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)12% |
+|**Other Monsters**|**Item needed to receive boost**|**Boost Type**|
+|![https://i.imgur.com/0ezmC4X.png](https://i.imgur.com/0ezmC4X.png)<br>Barrows|![https://i.imgur.com/Cib3CT9.png](https://i.imgur.com/Cib3CT9.png)Barrows gloves<br>![https://i.imgur.com/bAdFMyD.png](https://i.imgur.com/bAdFMyD.png)Iban's staff|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)7% |
+|![https://i.imgur.com/RCq6gBl.png](https://i.imgur.com/RCq6gBl.png)<br>Blue dragons|![https://i.imgur.com/aHFRwuE.png](https://i.imgur.com/aHFRwuE.png)Zamorakian spear|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/1TK5Qas.gif](https://i.imgur.com/1TK5Qas.gif)<br>Lizardman Shamans<br><br>|![https://i.imgur.com/6wqLRr5.png](https://i.imgur.com/6wqLRr5.png)Ring of the gods|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)3% |
+|**Skills**|**Item or skills needed to receive boost**|**Boost Type**|
+|![https://i.imgur.com/PeOmcP0.png](https://i.imgur.com/PeOmcP0.png)<br> Cooking|![https://i.imgur.com/HzQFYeR.png](https://i.imgur.com/HzQFYeR.png)Cooking gauntlets|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)See chart in [FAQ](https://www.oldschool.gg/oldschoolbot/faq?How%20do%20boosts%20work?)|
+|![https://i.imgur.com/7i8JM9L.png](https://i.imgur.com/7i8JM9L.png)<br>Fishing|![https://i.imgur.com/URDEHIO.png](https://i.imgur.com/URDEHIO.png)Angler's outfit|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2.5% XP| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2.5% XP |
+|![https://i.imgur.com/zG0bWp7.png](https://i.imgur.com/zG0bWp7.png)<br>Mining|![https://i.imgur.com/8JQOBlg.png](https://i.imgur.com/8JQOBlg.png)Dragon pickaxe<br>![https://i.imgur.com/UY6Rp6U.png](https://i.imgur.com/UY6Rp6U.png)Infernal pickaxe<br>![https://i.imgur.com/CHNKQr2.png](https://i.imgur.com/CHNKQr2.png)Gilded pickaxe<br>![https://i.imgur.com/66w7fwS.png](https://i.imgur.com/66w7fwS.png)3rd age pickaxe<br>![https://i.imgur.com/x3m2j1I.png](https://i.imgur.com/x3m2j1I.png)Mining gloves<br>![https://i.imgur.com/1its8nr.png](https://i.imgur.com/1its8nr.png)Superior mining gloves<br>![https://i.imgur.com/nxBBe6A.png](https://i.imgur.com/nxBBe6A.png)Expert mining gloves<br>![https://i.imgur.com/hA7FGr6.png](https://i.imgur.com/hA7FGr6.png)Prospector Outfit|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)6% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)11% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)13% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)4% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)6% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2.5% XP| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)19% speed & 2.5% XP |
+|![https://i.imgur.com/AyvDOtc.png](https://i.imgur.com/AyvDOtc.png)<br>Runecrafting|![https://i.imgur.com/M5jOoRH.png](https://i.imgur.com/M5jOoRH.png)Graceful outfit<br>![https://i.imgur.com/VeCwOcX.png](https://i.imgur.com/VeCwOcX.png)Agility 60+<br>![https://i.imgur.com/VeCwOcX.png](https://i.imgur.com/VeCwOcX.png)Agility 90+|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)5% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)20% |
+|![https://i.imgur.com/U9i2NB0.png](https://i.imgur.com/U9i2NB0.png)<br>Smithing|![https://i.imgur.com/D5N7XUY.png](https://i.imgur.com/D5N7XUY.png)Goldsmith gauntlets|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)Gold ore: 56.2 XP|
+|![https://i.imgur.com/80QzvvT.png](https://i.imgur.com/80QzvvT.png)<br>Woodcutting|![https://i.imgur.com/BDIyEkU.png](https://i.imgur.com/BDIyEkU.png)Dragon axe<br>![https://i.imgur.com/fdbwYGh.png](https://i.imgur.com/fdbwYGh.png)Infernal axe<br>![https://i.imgur.com/plqFQlN.png](https://i.imgur.com/plqFQlN.png)Gilded axe<br>![https://i.imgur.com/VOLE3PK.png](https://i.imgur.com/VOLE3PK.png)3rd age axe<br>![https://i.imgur.com/f5d0NMw.png](https://i.imgur.com/f5d0NMw.png)Lumberjack outfit|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)9% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)11% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)12% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)13% speed<br>![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)2.5% XP| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)13% speed & 2.5% XP |
+|**Miscellaneous**|**Boost**|**Boost Type**|
+|![https://i.imgur.com/bVMxdnI.png](https://i.imgur.com/bVMxdnI.png)<br>Clues|![https://i.imgur.com/QhdyDUi.png](https://i.imgur.com/QhdyDUi.png)Graceful outfit|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+|![https://i.imgur.com/BDkYYWj.png](https://i.imgur.com/BDkYYWj.png)<br>Questing|![https://i.imgur.com/QhdyDUi.png](https://i.imgur.com/QhdyDUi.png)Graceful outfit|![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% speed| ![https://i.imgur.com/Vz7oeaw.png](https://i.imgur.com/Vz7oeaw.png)10% |
+
+
+### Buyable items
+
+Upon reaching the required Quest points for an item, you can purchase these items by typing `+buy <item>`.
 
 | **Item** | **Quest points required** | **Price** |
 | - | :-: | :-: |
-| Quest Point Cape | 275 | 99k |
-| Helm of Neitiznot | 75 | 500k |
-| Magic Secateurs | 40 | 2.5m |
-| Goldsmith gauntlets | 25 | 1m |
-| Cooking gauntlets | 25 | 1m |
-| Anti-dragon shield | 35 | 10k |
-| Barrows gloves | 175 | 1m |
-| Dragon gloves | 107 | 850k |
-| Rune gloves | 85 | 700k |
-| Adamant gloves | 65 | 600k |
-| Mithril gloves | 50 | 500k |
-| Black gloves | 35 | 400k |
-| Steel gloves | 25 | 300k |
-| Iron gloves | 20 | 200k |
-| Bronze gloves | 10 | 100k |
-| Hardleather gloves | 5 | 50k |
-| Huge Fishing Bait Pack | N/A | 50k |
-| Feather Pack (300x Feathers) | N/A | 30k |
-| Huge Jug Pack (300x Jugs of water) | N/A | 30k |
+| ![https://i.imgur.com/WCGycDU.png](https://i.imgur.com/WCGycDU.png)Quest Point Cape | 275 | 99k |
+| ![https://i.imgur.com/Cib3CT9.png](https://i.imgur.com/Cib3CT9.png)Barrows gloves | 175 | 1m |
+| ![https://i.imgur.com/QYbrLjw.png](https://i.imgur.com/QYbrLjw.png)Dragon gloves | 107 | 850k |
+| ![https://i.imgur.com/mvjoLOA.png](https://i.imgur.com/mvjoLOA.png)Rune gloves | 85 | 700k |
+| ![https://i.imgur.com/xhhRr6P.png](https://i.imgur.com/xhhRr6P.png)Helm of Neitiznot | 75 | 500k |
+| ![https://i.imgur.com/Pp2hNGC.png](https://i.imgur.com/Pp2hNGC.png)Adamant gloves | 65 | 600k |
+| ![https://i.imgur.com/0ap6dGZ.png](https://i.imgur.com/0ap6dGZ.png)Mithril gloves | 50 | 500k |
+| ![https://i.imgur.com/Hedj8zL.png](https://i.imgur.com/Hedj8zL.png)Magic Secateurs | 40 | 2.5m | 
+| ![https://i.imgur.com/uwjKSEb.png](https://i.imgur.com/uwjKSEb.png)Anti-dragon shield | 35 | 10k |
+| ![https://i.imgur.com/qXzN8mK.png](https://i.imgur.com/qXzN8mK.png)Black gloves | 35 | 400k |
+| ![https://i.imgur.com/bAdFMyD.png](https://i.imgur.com/bAdFMyD.png)Iban's staff | 30 | 250k |
+| ![https://i.imgur.com/wivDiNF.png](https://i.imgur.com/wivDiNF.png)Barrelchest ancor | 30 | 2m |
+| ![https://i.imgur.com/Hnj7lRr.png](https://i.imgur.com/Hnj7lRr.png)Steel gloves | 25 | 300k |
+| ![https://i.imgur.com/Lvexhtm.png](https://i.imgur.com/Lvexhtm.png)Goldsmith gauntlets | 25 | 1m |
+| ![https://i.imgur.com/HzQFYeR.png](https://i.imgur.com/HzQFYeR.png)Cooking gauntlets | 25 | 1m |
+| ![https://i.imgur.com/9zEdBbq.png](https://i.imgur.com/9zEdBbq.png)Iron gloves | 20 | 200k |
+| ![https://i.imgur.com/RVM6G3N.png](https://i.imgur.com/RVM6G3N.png)Bronze gloves | 10 | 100k |
+| ![https://i.imgur.com/72rIEv4.png](https://i.imgur.com/72rIEv4.png)Hardleather gloves | 5 | 50k |
+| ![https://i.imgur.com/1XOVNWd.png](https://i.imgur.com/1XOVNWd.png)Huge Fishing Bait Pack | N/A | 50k |
+| ![https://i.imgur.com/YH1WAdo.png](https://i.imgur.com/YH1WAdo.png)Huge Jug Pack (300x Jugs of water)| N/A | 30k |
+| ![https://i.imgur.com/3Zt7EfD.png](https://i.imgur.com/3Zt7EfD.png)Feather pack (300x Feathers) | N/A | 30k
+
+### Boss and monster requirements
+|**God Wards Dungeon bosses** | **Items required** | **QP required** |
+| :-: | :-: | :-: |
+|![https://i.imgur.com/Aoynyet.png](https://i.imgur.com/Aoynyet.png)<br>Commander Zilyana(Sara)|![https://i.imgur.com/xs0XM0D.png](https://i.imgur.com/xs0XM0D.png)Armadyl chestplate **or**<br>![https://i.imgur.com/1HeouvW.png](https://i.imgur.com/1HeouvW.png)Karil's leathertop<br>**and**<br>![https://i.imgur.com/bZRieVo.png](https://i.imgur.com/bZRieVo.png)Armadyl chainskirt **or**<br>![https://i.imgur.com/r1csy4v.png](https://i.imgur.com/r1csy4v.png)Karil's leatherskirt| 75 QP |
+|![https://i.imgur.com/MKTNBsR.png](https://i.imgur.com/MKTNBsR.png)<br>K'ril Tsutsaroth(Zammy)|![https://i.imgur.com/xs0XM0D.png](https://i.imgur.com/xs0XM0D.png)Armadyl chestplate **or**<br>![https://i.imgur.com/1HeouvW.png](https://i.imgur.com/1HeouvW.png)Karil's leathertop<br>**and**<br>![https://i.imgur.com/bZRieVo.png](https://i.imgur.com/bZRieVo.png)Armadyl chainskirt **or**<br>![https://i.imgur.com/r1csy4v.png](https://i.imgur.com/r1csy4v.png)Karil's leatherskirt| 75 QP |
+|![https://i.imgur.com/YpEBUDM.png](https://i.imgur.com/YpEBUDM.png)<br>Kree'arra(Arma)|![https://i.imgur.com/xs0XM0D.png](https://i.imgur.com/xs0XM0D.png)Armadyl chestplate **or**<br>![https://i.imgur.com/1HeouvW.png](https://i.imgur.com/1HeouvW.png)Karil's leathertop<br>**and**<br>![https://i.imgur.com/bZRieVo.png](https://i.imgur.com/bZRieVo.png)Armadyl chainskirt **or**<br>![https://i.imgur.com/r1csy4v.png](https://i.imgur.com/r1csy4v.png)Karil's leatherskirt| 75 QP |
+|![https://i.imgur.com/TBVEcxB.png](https://i.imgur.com/TBVEcxB.png)<br>General Graardor<br><br>| N/A | 75 QP |
+|**Wilderness Bosses**| **Items required** | **QP required** |
+|![https://i.imgur.com/FUDRrtb.png](https://i.imgur.com/FUDRrtb.png)<br>Callisto | ![https://i.imgur.com/s2MVh1n.png](https://i.imgur.com/s2MVh1n.png)Full Verac's | N/A |
+|![https://i.imgur.com/brj0guF.png](https://i.imgur.com/brj0guF.png)<br>Chaos elemental| ![https://i.imgur.com/FnVfeBA.png](https://i.imgur.com/FnVfeBA.png)Black d'hide body **or**<br>![https://i.imgur.com/1HeouvW.png](https://i.imgur.com/1HeouvW.png)Karil's leathertop<br>**and**<br> ![https://i.imgur.com/318G7Vl.png](https://i.imgur.com/318G7Vl.png)Black d'hide chaps **or**<br>![https://i.imgur.com/r1csy4v.png](https://i.imgur.com/r1csy4v.png)Karil's leatherskirt| N/A |
+|![https://i.imgur.com/PucrJNy.png](https://i.imgur.com/PucrJNy.png)<br>Venenatis|![https://i.imgur.com/s2MVh1n.png](https://i.imgur.com/s2MVh1n.png)Full Verac's|N/A |
+|![https://i.imgur.com/d5bRYpQ.gif](https://i.imgur.com/d5bRYpQ.gif)<br>Vet'ion<br><br>|![https://i.imgur.com/s2MVh1n.png](https://i.imgur.com/s2MVh1n.png)Full Verac's|N/A |
+|**General Bosses**| **Items required** | **QP required** |
+|![https://i.imgur.com/C8Pj39a.png](https://i.imgur.com/C8Pj39a.png)<br>Cerberus|![https://i.imgur.com/Ee5excb.png](https://i.imgur.com/Ee5excb.png)Torag's platebody **or**<br>![https://i.imgur.com/9tkiIIu.png](https://i.imgur.com/9tkiIIu.png)Dharok's platebody **or**<br>![https://i.imgur.com/JSFjj3B.png](https://i.imgur.com/JSFjj3B.png)Bandos chestplate <br>**and**<br>![https://i.imgur.com/4ggKDTF.png](https://i.imgur.com/4ggKDTF.png)Torag's platelegs **or**<br>![https://i.imgur.com/b5NG8Bz.png](https://i.imgur.com/b5NG8Bz.png)Dharok's platelegs **or**<br>![https://i.imgur.com/8z6TtFt.png](https://i.imgur.com/8z6TtFt.png)Bandos tassets<br>**and**<br>![https://i.imgur.com/aHFRwuE.png](https://i.imgur.com/aHFRwuE.png)Zamorakian spear|N/A |
+|![https://i.imgur.com/6d3aSw7.png](https://i.imgur.com/6d3aSw7.png)<br>Corporeal beast|![https://i.imgur.com/aHFRwuE.png](https://i.imgur.com/aHFRwuE.png)Zamorakian spear|N/A |
+|![https://i.imgur.com/dlgD4uB.png](https://i.imgur.com/dlgD4uB.png)<br>Dagannoth Prime|![https://i.imgur.com/bJb6hUs.png](https://i.imgur.com/bJb6hUs.png)Full Guthan's<br>**and**<br>![https://i.imgur.com/xs0XM0D.png](https://i.imgur.com/xs0XM0D.png)Armadyl chestplate **or**<br>![https://i.imgur.com/1HeouvW.png](https://i.imgur.com/1HeouvW.png)Karil's leathertop<br>**and**<br>![https://i.imgur.com/bZRieVo.png](https://i.imgur.com/bZRieVo.png)Armadyl chainskirt **or**<br>![https://i.imgur.com/r1csy4v.png](https://i.imgur.com/r1csy4v.png)Karil's leatherskirt|N/A |
+|![https://i.imgur.com/DKLWf3O.png](https://i.imgur.com/DKLWf3O.png)<br>Dagannoth Rex|![https://i.imgur.com/bJb6hUs.png](https://i.imgur.com/bJb6hUs.png)Full Guthan's<br>**and**<br>![https://i.imgur.com/Ee5excb.png](https://i.imgur.com/Ee5excb.png)Torag's platebody **or**<br>![https://i.imgur.com/JSFjj3B.png](https://i.imgur.com/JSFjj3B.png)Bandos chestplate <br>**and**<br>![https://i.imgur.com/4ggKDTF.png](https://i.imgur.com/4ggKDTF.png)Torag's platelegs **or**<br>![https://i.imgur.com/8z6TtFt.png](https://i.imgur.com/8z6TtFt.png)Bandos tassets|N/A |
+|![https://i.imgur.com/Lj0t0q4.png](https://i.imgur.com/Lj0t0q4.png)<br>Dagannoth Supreme|![https://i.imgur.com/bJb6hUs.png](https://i.imgur.com/bJb6hUs.png)Full Guthan's<br>**and**<br>![https://i.imgur.com/Ee5excb.png](https://i.imgur.com/Ee5excb.png)Torag's platebody **or**<br>![https://i.imgur.com/JSFjj3B.png](https://i.imgur.com/JSFjj3B.png)Bandos chestplate <br>**and**<br>![https://i.imgur.com/4ggKDTF.png](https://i.imgur.com/4ggKDTF.png)Torag's platelegs **or**<br>![https://i.imgur.com/8z6TtFt.png](https://i.imgur.com/8z6TtFt.png)Bandos tassets|N/A |
+|![https://i.imgur.com/Lyb6HG4.png](https://i.imgur.com/Lyb6HG4.png)<br>Giant Mole|![https://i.imgur.com/qCVH9Qw.png](https://i.imgur.com/qCVH9Qw.png)Full Dharok's|N/A |
+|![https://i.imgur.com/RY8Q4nl.gif](https://i.imgur.com/RY8Q4nl.gif)<br>Kalphite queen|![https://i.imgur.com/oIvH4L4.png](https://i.imgur.com/oIvH4L4.png)Verac's flail<br>**and**<br>![https://i.imgur.com/FnVfeBA.png](https://i.imgur.com/FnVfeBA.png)Black d'hide body **or**<br>![https://i.imgur.com/1HeouvW.png](https://i.imgur.com/1HeouvW.png)Karil's leathertop<br>**and**<br>![https://i.imgur.com/PO87WWj.png](https://i.imgur.com/PO87WWj.png)Verac's plateskirt|N/A |
+|![https://i.imgur.com/B8d3SFz.png](https://i.imgur.com/B8d3SFz.png)<br>King Black Dragon]|![https://i.imgur.com/m4ljYLH.png](https://i.imgur.com/m4ljYLH.png)Armadyl crossbow **or**<br>![https://i.imgur.com/PEzCNQy.png](https://i.imgur.com/PEzCNQy.png)Rune crossbow<br>**and**<br>![https://i.imgur.com/uwjKSEb.png](https://i.imgur.com/uwjKSEb.png)Anti-dragon shield<br>**and**<br>![https://i.imgur.com/FnVfeBA.png](https://i.imgur.com/FnVfeBA.png)Black d'hide body **or**<br>![https://i.imgur.com/1HeouvW.png](https://i.imgur.com/1HeouvW.png)Karil's leathertop<br>**and**<br> ![https://i.imgur.com/318G7Vl.png](https://i.imgur.com/318G7Vl.png)Black d'hide chaps **or**<br>![https://i.imgur.com/r1csy4v.png](https://i.imgur.com/r1csy4v.png)Karil's leatherskirt|N/A |
+|![https://i.imgur.com/5hEsHtN.png](https://i.imgur.com/5hEsHtN.png)<br>Vorkath|![https://i.imgur.com/xs0XM0D.png](https://i.imgur.com/xs0XM0D.png)Armadyl chestplate<br>**and**<br>![https://i.imgur.com/bZRieVo.png](https://i.imgur.com/bZRieVo.png)Armadyl chainskirt|205 QP |
+|![https://i.imgur.com/ybsrnDr.gif](https://i.imgur.com/ybsrnDr.gif)<br>Zulrah<br><br>|![https://i.imgur.com/xs0XM0D.png](https://i.imgur.com/xs0XM0D.png)Armadyl chestplate<br>**and**<br>![https://i.imgur.com/bZRieVo.png](https://i.imgur.com/bZRieVo.png)Armadyl chainskirt<br>**and**<br>![https://i.imgur.com/vfecEnK.png](https://i.imgur.com/vfecEnK.png)Ahrim's robetop<br>**and**<br>![https://i.imgur.com/RnpehNG.png](https://i.imgur.com/RnpehNG.png)Ahrim's robeskirt|75 QP |
+|  **Other Monsters**  | **Items required** | **QP required** |
+|![https://i.imgur.com/1TK5Qas.gif](https://i.imgur.com/1TK5Qas.gif)<br>Lizardman Shamans|![https://i.imgur.com/m4ljYLH.png](https://i.imgur.com/m4ljYLH.png)Armadyl crossbow **or**<br>![https://i.imgur.com/PEzCNQy.png](https://i.imgur.com/PEzCNQy.png)Rune crossbow **or**<br>![https://i.imgur.com/6s6zlTV.png](https://i.imgur.com/6s6zlTV.png)Karil's crossbow | 30 QP |
+|![https://i.imgur.com/5SZzHxr.png](https://i.imgur.com/5SZzHxr.png)<br>Lizardman | N/A | 30 QP
 
 # Bank Backgrounds
 
