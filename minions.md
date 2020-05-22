@@ -16,7 +16,7 @@ To get started, firstly [read the rules](https://www.oldschool.gg/oldschoolbot/r
 
 Next, decide what you want to do. Skilling? PVM? Questing? Read the rest of the page to see what you can do, and how - and just do whatever you want to do!
 
-It's highly recommended to join the [support server](http://oldschool.gg/ob) for several reasons: All updates and changes to the bot are announced in the #news channel in the server. We have a #grand-exchange channel you can use to trade/sell items with others. We have a #notifications channel that shows all the rare drops, pets and other things that people are getting in real time! 
+It's highly recommended to join the [support server](https://discord.gg/ob) for several reasons: All updates and changes to the bot are announced in the #news channel in the server. We have a #grand-exchange channel you can use to trade/sell items with others. We have a #notifications channel that shows all the rare drops, pets and other things that people are getting in real time! 
 
 
 # Activities  
