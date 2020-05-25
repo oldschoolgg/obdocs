@@ -34,6 +34,8 @@ Currently available skills are:
   * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
   * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
   * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)  
+  
+You can view your minions' stats using `+m stats`.  
  
 ### Miscellaneous
   * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
@@ -44,8 +46,6 @@ Currently available skills are:
   * [Bank backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
   * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
   * [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
-
-You can view your minions' stats using `+m stats`.  
 
 
 ### Bossing
