@@ -66,15 +66,11 @@ There's two options: `+daily`, `+dice` or if you're lucky, someone will gift you
 ##### Why can't I use certain commands?
 This could be one of 2 reasons: either your account looks like an **alt** or your account is too **new**. Your Discord account needs to be at least **30 days** old.
 
-##### Diango says I got the daily wrong despite it being correct? (Sent after answer)
-That means you answered the question late, the incorrect message is a bit delayed is all. Discord lag may also play a part in getting the "wrong" answer despite being correct.
-
-However, if you think that you got it wrong due to a small thing (IE: You said 5 when answer is X5), post the error in #help-and-support so mods can edit question!
+##### Diango says I got the daily wrong despite it being correct?
+This usually means you answered the question late, the incorrect message can be a bit delayed.
 
 ##### Why is the bot not responding to any commands?
-It's most likely because the prefix was changed due to an update, this will probably be a temporary issue. To see what the current prefix is simply tag the bot. Then use whatever prefix it shows and type `<prefix>prefix <new prefix>`.
-
-It could also have to do with permissions the bot has. If you're not sure how to fix this, always welcome to ask in #help-and-support.
+First, mention the bot (like this: `@Old School Bot`), and it will tell you what prefix it is set to use for your server. If it still doesn't respond, It could have to do with permissions the bot has. If you're not sure how to fix this, you can ask in the [support server](https://discord.gg/ob).
 
 ##### The bot says it needs permission to ‘Manage messages’ in order to use a command. How do I do this?
 Server settings > Roles > Old School Bot (The auto assigned one) > Turn `Manage Messages` on.
