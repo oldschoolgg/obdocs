@@ -4,7 +4,7 @@
 Most of the information on minions is on the [minions page](https://www.oldschool.gg/oldschoolbot/minions).
 
 ##### Why do prices in minions differ?
-The price depends on your account age. If your discord account is over 1 year old, you get it for free. Less than 1 year, and it costs 50m. You can get this initial 50m from asking friends, or by using `+daily` every day for a while.
+The price depends on your account age. If your discord account is over 6 months old, you get it for free. Less than 6 months, and it costs 20m. You can get this initial 20m from asking friends, or by using `+daily` every day for a while.
 
 #### Is RWT or autotyping against the rules?
 YES. You will be banned from the bot, it's not allowed. To date, there has been 100+ users caught doing this and all have been wiped/banned.
@@ -59,3 +59,18 @@ No, you can't. It works like ingame.
 There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. As an example, here's how you can equip a BCP to your melee setup: `+equip melee Bandos Chestplate`. If your doing a boss that needs Melee gear, the bot will check your Melee setup. It's done like this so you don't have to spend a long time equipping and unequipping stuff, you can just have your best stuff in each setup at all times.
 
 The Skilling setup is where you equip skilling-related stuff, for example: Graceful or the Prospector outfit.
+
+##### How do I get money for a minion?
+There's two options: `+daily`, `+dice` or if you're lucky, someone will gift you money.
+
+##### Why can't I use certain commands?
+This could be one of 2 reasons: either your account looks like an **alt** or your account is too **new**. Your Discord account needs to be at least **30 days** old.
+
+##### Diango says I got the daily wrong despite it being correct?
+This usually means you answered the question late, the incorrect message can be a bit delayed.
+
+##### Why is the bot not responding to any commands?
+First, mention the bot (like this: `@Old School Bot`), and it will tell you what prefix it is set to use for your server. If it still doesn't respond, It could have to do with permissions the bot has. If you're not sure how to fix this, you can ask in the [support server](https://discord.gg/ob).
+
+##### The bot says it needs permission to ‘Manage messages’ in order to use a command. How do I do this?
+Server settings > Roles > Old School Bot (The auto assigned one) > Turn `Manage Messages` on.
