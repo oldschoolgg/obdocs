@@ -12,7 +12,7 @@ If you notice any mistakes or missing information in this page, you can [add it 
 
 # Getting started
 
-To get started, firstly [read the rules](https://www.oldschool.gg/oldschoolbot/rules), then get yourself a minion by typing `+minion buy`, or `+m buy` for short.
+To get started, firstly [read the rules](https://www.oldschool.gg/oldschoolbot/rules), then get yourself a minion by typing `+minion buy`, or `+m buy` for short. If your discord account is 6 months old or older, your minion will be free. If it is between 1 and 6 months old, your minion will cost 20m. If your account is less than one month old, you are currently unable to purchase a minion as a precaution against alt accounts and bots unless you become a patron. To get your starting gp, you can use the `+daily` command every 12 hours to get a trivia question you can answer for gp and special Diango items.
 
 Next, decide what you want to do. Skilling? PVM? Questing? Read the rest of the page to see what you can do, and how - and just do whatever you want to do!
 
@@ -80,6 +80,12 @@ Currently available bosses to kill are:
  Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
   
  You can view your minions' killcounts using `+m kc`.
+ 
+#### Equipment Setups
+
+You can equip your items in specific gear setups. Every minion has a melee, range, mage, skilling, and misc. you can use to have different sets of gear equipped. To equip a specific item to one of your setups, you can use the `+equip <setup> <item>` command. Currently, only a few things check your gear setups, including checks for skilling boosts and checks for your range bonus when attempting the Fight Caves, however more gear-based checks are planned for future updates. 
+
+You can also `+equippet <pet name>` to your minion, and it will show the icon for your equipped pet on your display window for your gear setups. You can only have one pet equipped at a time across all your gear setups, and it must be a pet recived via game mechanics (something which would show up as a monster drop and in your `+cl pets`) and not from a daily or the pet messages feature (which are bot mechanics and would show up in `+mypets`.
  
 #### Group Bossing
 
@@ -378,6 +384,14 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 | Feather Pack (300x Feathers) | N/A | 30k |
 | Huge Jug Pack (300x Jugs of water) | N/A | 30k |
 
+# The Grand Exchange
+
+One of the channels in the bot [support server](https://discord.gg/ob) is the #grand-exchange. This channel is intended for use by non-ironman players wishing to buy and sell items or services. Simply post a single message saying what you're buying or selling and for how much. It is not a channel for discussing trades or the act of buying or selling itself (for that, you can use the #bot-channel). Before you make a post, please review some of the past posts in the #grand-exchange or use the Discord search function to see if anyone is already buying or selling the item you are looking to sell or buy.
+
+Prices in the bot can vary from the in-game grand exchange price displayed using the `+price <item>` command. While scamming is against the rules, buying and selling items for above or below the average rate in the #grand-exchange is not, so it is recommended that you be smart about sales and think things through. The bot currently does not have its own price guide, but you can use Discord's search function find old trades and offers for a rough estimate of the going rate. 
+
+You can sell items to other players using the `+sellto @<username> <price> <quantity> <item>` command. There is currently no trading mechanism in the bot, but you can sell items to other players using that mechanic, or send other players gp using the `+pay @<username> <gp>` command. 
+
 # Bank Backgrounds
 
 If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and having certain items in your collection log, they are quite hard to obtain.
@@ -390,7 +404,6 @@ Click on the bank bg name to see what it looks like.
 | [Bandos](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/7.jpg?raw=true) | 100m | The 4 Godsword Hilts | Entire GWD log excluding pets, + Bandos pet |
 | [Corporeal Beast](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/8.jpg?raw=true) | 100m  |   | Entire Corporeal Beast log including pet |
 | [Casket (Legend Arts)](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
-
 
 # Minion Icons
 
