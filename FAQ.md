@@ -26,11 +26,17 @@ You can sell items to other players using the `+sellto` command, which is used l
 
 After using the command, both users will have to confirm the sale.
 
+##### Can I trade items with someone else?
+It is currently not possible to trade someone items for items, however you can use the `+sellto` command (see above) to sell items to another player.
+
 ##### I got a pet from `+daily` but it doesn't show in my bank or collection log?
 The pets from `+daily` are separate to pets your minion pets, and are only shown in `+mypets`.  You have 2 separate groups of pets, `+mypets` and then you have the real item pets in your `+bank` that you have gotten from killing stuff and training skills.
 
 ##### How do I create a godsword?
 Example: `+create Bandos godsword` - note it requires you have the required Smithing level. You can pay another player to make it for you, if you wish.
+
+##### Can I pay a fee to have the bot make my Dragonfire Ward/Shield or Spectral/Arcane/Elysian/Blessed Spirirt Shield for me?
+No. However, you can pay another player with the required levels to make it for you. You can look for someone to do it for you in the [support server.](https://www.discord.gg/ob)
 
 ##### How do I search for specific items in my bank?
 You can use `+bank --search=name` to search for items in your bank, for example, to see all dragon items in your bank, you could do: `+b --search=dragon`.
@@ -59,6 +65,8 @@ No, you can't. It works like ingame.
 There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. As an example, here's how you can equip a BCP to your melee setup: `+equip melee Bandos Chestplate`. If your doing a boss that needs Melee gear, the bot will check your Melee setup. It's done like this so you don't have to spend a long time equipping and unequipping stuff, you can just have your best stuff in each setup at all times.
 
 The Skilling setup is where you equip skilling-related stuff, for example: Graceful or the Prospector outfit.
+
+You also have a cosmetic pet slot, shared across all gear setups. It allows you to equip a pet, like its following your minion around. You can equip a pet using the `+equippet` command. For example, to equip the Commander Zilyana pet, you would use `+equippet pet zilyana`. You need to use the exact item name as it is ingame. 
 
 ##### How do I get money for a minion?
 There's two options: `+daily`, `+dice` or if you're lucky, someone will gift you money.
