@@ -35,8 +35,8 @@ The pets from `+daily` are separate to pets your minion pets, and are only shown
 ##### How do I create a godsword?
 Example: `+create Bandos godsword` - note it requires you have the required Smithing level. You can pay another player to make it for you, if you wish.
 
-##### Can I pay a fee to have the bot make my Dragonfire Ward/Shield or Spectral/Arcane/Elysian/Blessed Spirirt Sheild for me?
-No. If you have the constitutent pieces of those items, but lack the required Smithing or Prayer levels, you cannot pay a fee to have them made. You can pay another player with the required levels to make it for you, if you wish. 
+##### Can I pay a fee to have the bot make my Dragonfire Ward/Shield or Spectral/Arcane/Elysian/Blessed Spirirt Shield for me?
+No. However, you can pay another player with the required levels to make it for you. You can look for someone to do it for you in the [support server.](https://www.discord.gg/ob)
 
 ##### How do I search for specific items in my bank?
 You can use `+bank --search=name` to search for items in your bank, for example, to see all dragon items in your bank, you could do: `+b --search=dragon`.
@@ -66,13 +66,7 @@ There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. As an exam
 
 The Skilling setup is where you equip skilling-related stuff, for example: Graceful or the Prospector outfit.
 
-You also have a cosmetic pet slot, shared across all gear setups. You can equip a pet to your gear using the `+equippet` command. The bot checks for the name of the pet rather than any coloquialisms, so, for example, to equip the Saradomin GWD pet, you would use `+equippet pet zilyana` and not `+equippet zilyana jr.`. 
-
-##### How do I increase my number of kills per trip?
-A regularly updated list of item-based boosts exists in the [support server](http://support.oldschool.gg/) FAQ channel. You also recieve a 1% boost for every 5 hours you spend on a monster. To see information about a particular monster including requirements, boosts, and kills per trip, you can use the `+monster` command. 
-
-##### Can I stop my minion if I send it out on a trip accidentally?
-This is currently not an option, but may be added in a future update. 
+You also have a cosmetic pet slot, shared across all gear setups. It allows you to equip a pet, like its following your minion around. You can equip a pet using the `+equippet` command. For example, to equip the Commander Zilyana pet, you would use `+equippet pet zilyana`. You need to use the exact item name as it is ingame. 
 
 ##### How do I get money for a minion?
 There's two options: `+daily`, `+dice` or if you're lucky, someone will gift you money.
