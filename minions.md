@@ -54,7 +54,7 @@ Currently available bosses to kill are:
   
 ![https://i.imgur.com/jLyLLND.png](https://i.imgur.com/jLyLLND.png)| Barrows
 :--------: | :-----:
-![https://i.imgur.com/sKTt3sl.png](https://i.imgur.com/sKTt3sl.png) | Callisto
+![https://i.imgur.com/sKTt3sl.png](https://i.imgur.com/sKTt3sl.png)| Callisto
 ![https://i.imgur.com/GvC5Tco.png](https://i.imgur.com/GvC5Tco.png)| Cerberus
 ![https://i.imgur.com/HdeDjCF.png](https://i.imgur.com/HdeDjCF.png)| Chaos Elemental
 ![https://i.imgur.com/tN9bUAh.png](https://i.imgur.com/tN9bUAh.png)| Chaos Fanatic 
@@ -77,9 +77,10 @@ Currently available bosses to kill are:
 ![https://i.imgur.com/w9PrhyH.png](https://i.imgur.com/w9PrhyH.png)| Vorkath
 ![https://i.imgur.com/p6d3Wna.gif](https://i.imgur.com/p6d3Wna.gif)| Zulrah
 
- Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
-  
- You can view your minions' killcounts using `+m kc`.
+Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
+ 
+You can find out more information about bosses using `+monster <boss>`, for example `+monster Vorkath`.
+You can view your minions' killcounts using `+m kc`.
  
 #### Group Bossing
 
@@ -129,7 +130,7 @@ You can train fishing using `+fish [quantity] <fish>`, for example `+fish 100 lo
 
 Fishing bait is buyable with `+buy fishing bait`.  
 
-Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can be obtained by buying from other players or obtaining them yourself.
+Dark fishing bait and Raw Karambwanji aren't sold by the bot. They can be obtained by buying them from other players, or obtaining them yourself as you would in game.
 
 ### Fish
 | **Fish** | **Required level** |
