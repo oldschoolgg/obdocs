@@ -42,7 +42,7 @@ No. However, you can pay another player with the required levels to make it for 
 You can use `+bank --search=name` to search for items in your bank, for example, to see all dragon items in your bank, you could do: `+b --search=dragon`.
 
 ##### How do I get runecrafting pouches?
-There are 4 pouches, and the bot does a bit differently to ingame. To obtain them, you first need the crafting level required for each tier (1, 10, 20, 30), and then a little bit of leather, and simply `+create medium pouch`.
+There are 4 pouches, and the bot does it a bit differently to ingame. To obtain them, you first need the crafting level required for each tier (1, 10, 20, 30), and then a little bit of leather, and simply `+create medium pouch`.
 
 ##### Do I need to equip items to receive the boosts they provide?
 Skilling boosts *only* work when equipped in your skilling gear setup, while bossing/PVM boosts currently work either when equipped or when in your bank.
