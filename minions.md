@@ -77,7 +77,7 @@ Currently available bosses to kill are:
 ![https://i.imgur.com/w9PrhyH.png](https://i.imgur.com/w9PrhyH.png)| Vorkath
 ![https://i.imgur.com/p6d3Wna.gif](https://i.imgur.com/p6d3Wna.gif)| Zulrah
 
- Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information.
+ Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information or use the `+monster` command in the bot. 
   
  You can view your minions' killcounts using `+m kc`.
  
@@ -102,11 +102,16 @@ After, each user will have to confirm they want to join by clicking on the "join
 ##### Mass bossing
 Example of a mass bossing party: `+groupkill mass corp` - this would make a mass party, that ANYONE can join. The trip will start after 2 minutes automatically, or when the party leader clicks the "start" reaction.
 
+##### Fight Caves
+You can now challenge the Fight Caves and TzTok-Jad to recieve a fire cape, tokkul, and the TzRek-Jad pet using the `+fightcaves` command. Requirements: total +160 range bonus equipped to your range gear setup, 43 prayer, and 10x Prayer Potion (4), 4x Super Restore (4), and 6x Saradomin Brew (4) per attempt, some of which may be returned to you should you fail before the final wave. You can make the 4 dose potions from 3, 2, and 1 dose drops using the `+decant` command. Better range gear will reduce the time each attempt takes, as will total Jad kc. Having a Saradomin Godsword equipped in your melee gear setup will reduce your chances of dying before Jad by 4%, and the number of total attempts you have made will determine your chances of killing Jad when he is reached. 
+
+If you have extra fire capes, you can gamble them for an additional roll at the TzRek-Jad pet using the `+capegamble` command. 
+
 
 ## Agility
 You can train agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
 
-Agility rewards you with marks of grace which you can use to buy Graceful equipment.
+Agility rewards you with marks of grace which you can use to buy Graceful equipment using the command `+create graceful` or `+create graceful (piece)`.
 
 ### Courses
 | **Course** | **Required level** |
@@ -168,11 +173,20 @@ You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`
 Some ores reward you with golden nuggets or unidentified minerals.<br>
 You can use nuggets to buy the prospector equipment and minerals to buy the three types of mining gloves.  
 
-If you have atleast level 61, you can get one of these boosts from owning one of these pickaxes:
-* Dragon pickaxe 6%
-* Infernal pickaxe 10%
-* Gilded pickaxe 11%
-* 3rd age pickaxe 12%
+### Mining Gear Boosts
+
+If you have at least level 61, you can get one of these boosts to mining output from owning one of these pickaxes:
+
+* Dragon pickaxe = +6%
+* Infernal pickaxe = +10%
+* Gilded pickaxe =+ 11%
+* 3rd age pickaxe =+ 12%
+
+You can also recieve boosts to mining xp rates from:
+
+* Prospector's Outfit: Helmet (40x Golden Nuggets), Jacket (60x Golden Nuggets), Legs (50x Golden Nuggets, and Boots (30x Golden Nuggets)
+
+* Gloves: Mining Gloves (60x Unidentified Minerals), Superior Mining Gloves (120x Unidentified Minerals), Expert Mining Gloves (60x Unidentified Minerals, 1x Mining Gloves, 1x Superior Mining Gloves)
 
 ### Ores
 
@@ -265,7 +279,11 @@ You can train firemaking using `+light [quantity] <logs>`, for example `+light 5
 Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
 ## Runecrafting
-You can train runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.  
+You can train runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.
+
+You can create rune pouches to aid in your runecrafting using the `+create` command to make:
+
+* Runecrafting Pouches: Small Pouch (10x Leather), Medium Pouch (20x Leather, 10 Crafting), Large Pouch (30x Leather, 20 Crafting), Giant Pouch (40x Leather, 30 Crafting)
 
 ### Runes
 | **Rune** | **Required level** |
@@ -329,10 +347,11 @@ The Chaos Altar works like ingame, your minion will do 1 inventory trips back an
 The Prayer skill is also required for creating Spirit shields.
 
 ## Questing
-Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP.
+Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-275 QP. 
 
 Quest points are required to kill some bosses (e.g. Vorkath) and required to buy some items (e.g. Barrows gloves).
 
+Questing recieves a 10% boost if you have the full graceful outfit equipped in your skilling gear setup.
 
 ## Skillcapes
 
@@ -360,6 +379,8 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 | - | :-: | :-: |
 | Quest Point Cape | 275 | 99k |
 | Helm of Neitiznot | 75 | 500k |
+| Iban's Staff | 30 | 250k |
+| Barrelchest Anchor | 30 | 2m |
 | Magic Secateurs | 40 | 2.5m |
 | Goldsmith gauntlets | 25 | 1m |
 | Cooking gauntlets | 25 | 1m |
@@ -374,10 +395,38 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 | Iron gloves | 20 | 200k |
 | Bronze gloves | 10 | 100k |
 | Hardleather gloves | 5 | 50k |
-| Huge Fishing Bait Pack | N/A | 50k |
+| Huge Fishing Bait Pack (10,000x Fishing Bait) | N/A | 50k |
 | Feather Pack (300x Feathers) | N/A | 30k |
 | Huge Jug Pack (300x Jugs of water) | N/A | 30k |
 
+# Creatable Items
+
+These items can be made by typing `create <item>`. 
+
+| **Item** | **Input item(s) required** | **Stat(s) required** |
+| - | :-: | :-: |
+| Godsword Blade | Godsword Shard 1, 2 & 3 | 80 Smithing |
+| <God> Godsword | Godsword Blade, <God> Hilt | 80 Smithing |
+| Dragonfire Shield | Anti-dragon Shield, Draconic Visage | 90 Smithing |
+| Dragonfire Ward | Anti-dragon Shield, Skeletal Visage | 90 Smithing |
+| Infernal Pickaxe | Dragon Pickaxe, Smouldering Stone | 85 Smithing |
+| Infernal Axe | Dragon Axe, Smouldering Stone | 85 Firemaking |
+| Odium Ward | Odium Shard 1, 2, & 3 | None |
+| Malediction Ward | Malediction Shard 1, 2 & 3 | None |
+| Blessed Spirit Sheild | Spirit Shield, Holy Elixir | 85 Prayer|
+| Spectral Spirit Sheild | Blessed Spirit Shield, Spectral Sigil | 90 Prayer, 85 Smithing |
+| Arcane Spirit Sheild | Blessed Spirit Shield, Arcane Sigil | 90 Prayer, 85 Smithing |
+| Elysian Spirit Sheild | Blessed Spirit Shield, Elysian Sigil | 90 Prayer, 85 Smithing |
+| Master Clue | Clue Scroll Easy, Medium, Hard, & Elite | None |
+| Holy Book | Saradomin Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
+| Book of Balance | Guthix Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
+| Unholy Book | Zamorak Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
+| Book of Law | Armadyl Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
+| Book of War | Bandos Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
+| Book of Darkness | Ancient Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
+| Ava's Accumulator | 75x Steel Arrows | 30 QP |
+| Ava's Assembler | 75x Mithril Arrows, Ava's Accumulator, Vorkath's Head | 205 QP |
+ 
 # Bank Backgrounds
 
 If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and having certain items in your collection log, they are quite hard to obtain.
