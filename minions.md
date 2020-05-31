@@ -406,17 +406,17 @@ These items can be made by typing `create <item>`.
 | **Item** | **Input item(s) required** | **Stat(s) required** |
 | - | :-: | :-: |
 | Godsword Blade | Godsword Shard 1, 2 & 3 | 80 Smithing |
-| <God> Godsword | Godsword Blade, <God> Hilt | 80 Smithing |
+| Godsword | Godsword Blade, Hilt | 80 Smithing |
 | Dragonfire Shield | Anti-dragon Shield, Draconic Visage | 90 Smithing |
 | Dragonfire Ward | Anti-dragon Shield, Skeletal Visage | 90 Smithing |
 | Infernal Pickaxe | Dragon Pickaxe, Smouldering Stone | 85 Smithing |
 | Infernal Axe | Dragon Axe, Smouldering Stone | 85 Firemaking |
 | Odium Ward | Odium Shard 1, 2, & 3 | None |
 | Malediction Ward | Malediction Shard 1, 2 & 3 | None |
-| Blessed Spirit Sheild | Spirit Shield, Holy Elixir | 85 Prayer|
-| Spectral Spirit Sheild | Blessed Spirit Shield, Spectral Sigil | 90 Prayer, 85 Smithing |
-| Arcane Spirit Sheild | Blessed Spirit Shield, Arcane Sigil | 90 Prayer, 85 Smithing |
-| Elysian Spirit Sheild | Blessed Spirit Shield, Elysian Sigil | 90 Prayer, 85 Smithing |
+| Blessed Spirit Shield | Spirit Shield, Holy Elixir | 85 Prayer|
+| Spectral Spirit Shield | Blessed Spirit Shield, Spectral Sigil | 90 Prayer, 85 Smithing |
+| Arcane Spirit Shield | Blessed Spirit Shield, Arcane Sigil | 90 Prayer, 85 Smithing |
+| Elysian Spirit Shield | Blessed Spirit Shield, Elysian Sigil | 90 Prayer, 85 Smithing |
 | Master Clue | Clue Scroll Easy, Medium, Hard, & Elite | None |
 | Holy Book | Saradomin Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
 | Book of Balance | Guthix Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
