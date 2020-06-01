@@ -401,7 +401,7 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 
 # Creatable Items
 
-These items can be made by typing `create <item>`. 
+These items can be made by using the `+create <item>` command. 
 
 | **Item** | **Input item(s) required** | **Stat(s) required** |
 | - | :-: | :-: |
