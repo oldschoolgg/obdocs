@@ -33,7 +33,8 @@ Currently available skills are:
   * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
   * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
   * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
-  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)  
+  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)
+  * [Fletching](https://www.oldschool.gg/oldschoolbot/minions?Fletching)
   
 You can view your minions' stats using `+m stats`.  
  
@@ -42,6 +43,7 @@ You can view your minions' stats using `+m stats`.
   * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)  
   * [Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boosts)  
   * [Buyable items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)  
+  * [Creatable items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
   * [Boss/Monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements)  
   * [Bank backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
   * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
@@ -346,6 +348,12 @@ The Chaos Altar works like ingame, your minion will do 1 inventory trips back an
 
 The Prayer skill is also required for creating Spirit shields.
 
+## FLetching
+
+You can train fletching with the `+fletch` command. For example, `+fletch 10000 adamant dart`. To start off training fletching, you will want to `+chop` some logs for arrow shafts, and then `+fletch arrow shaft` them into arrow shafts. Alternativley, you can buy logs or unfinished fletching supplies from out #grand-exchange channel in the support server. 
+
+To see all the items you can fletch, check out the [Fletching Wiki Page](https://oldschool.runescape.wiki/w/Fletching) - most of the items found there are fletchable in the bot, having the exact same level and item requirements. 
+
 ## Questing
 Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-275 QP. 
 
@@ -359,17 +367,29 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 
 
 ### Boss and monster requirements
-| **Boss** | **QP required** | **Gear required** |
-| - | :-: | :-: |
-| Lizardman shaman | 30 | Karils Crossbow |
-| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop and Ahrim's robeskirt |
-| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt |
-| Giant Mole | N/A | Full Dharok's set |
-| Callisto | N/A | Full Verac's set |
-| Venenatis | N/A | Full Verac's set |
-| King Black Dragon | N/A | Anti-Dragon shield |
-| Corporeal Beast | N/A | Zamorakian Spear |
-| Cerberus | N/A | Bandos chestplate and Bandos tassets |
+| **Boss** | **QP required** | **Gear required** | **Skill(s) required** |
+| - | :-: | :-: | :-: |
+| Barrows | N/A | N/A | 43 Prayer |
+| Lizardman shaman | 30 | Karils Crossbow | 43 Prayer |
+| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer |
+| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer |
+| Giant Mole | N/A | Full Dharok's set | 43 Prayer |
+| Callisto | N/A | Full Verac's set | N/A |
+| Venenatis | N/A | Full Verac's set | N/A |
+| King Black Dragon | N/A | Anti-Dragon shield | N/A |
+| Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A |
+| Corporeal Beast | N/A | Zamorakian spear | 43 Prayer |
+| Cerberus | N/A | Bandos chestplate or Torag's platebody or Dharok's platebody, Bandos tassets or Torag's platelegs or Dharok's platelegs, and Zamorakian spear | 43 Prayer |
+| Commander Zilyana | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer, 70 Agility|
+| General Graardor | 75 | N/A | 43 Prayer |
+| Kree'Arra | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer |
+| K'ril Tsutsaroth | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer |
+| Kalphite Queen | N/A | Verac's flail, Karil's leathertop or Black d'hide top, and Verac's plateskirt | 43 Prayer |
+| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer |
+| Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | 
+| Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer |
+
+
 
 # Buyable items
 
