@@ -179,14 +179,21 @@ If you have at least level 61, you can get one of these boosts to mining output 
 
 * Dragon pickaxe = +6%
 * Infernal pickaxe = +10%
-* Gilded pickaxe =+ 11%
-* 3rd age pickaxe =+ 12%
+* Gilded pickaxe = +11%
+* 3rd age pickaxe = +12%
 
 You can also recieve boosts to mining xp rates from:
 
-* Prospector's Outfit: Helmet (40x Golden Nuggets), Jacket (60x Golden Nuggets), Legs (50x Golden Nuggets, and Boots (30x Golden Nuggets)
+* Prospector's Outfit = +2.5%
+  * Prospector's Helmet = +0.4%
+  * Prospector's Jacket = +0.8%
+  * Prospector's Legs = +0.6%
+  * Prospector's Boots = +0.2%
 
-* Gloves: Mining Gloves (60x Unidentified Minerals), Superior Mining Gloves (120x Unidentified Minerals), Expert Mining Gloves (60x Unidentified Minerals, 1x Mining Gloves, 1x Superior Mining Gloves)
+* Mining Gloves
+  * Mining Gloves = +2%
+  * Superior Mining Gloves = +4%
+  * Expert Mining Gloves = +6%
 
 ### Ores
 
@@ -426,6 +433,13 @@ These items can be made by using the `+create <item>` command.
 | Book of Darkness | Ancient Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
 | Ava's Accumulator | 75x Steel Arrows | 30 QP |
 | Ava's Assembler | 75x Mithril Arrows, Ava's Accumulator, Vorkath's Head | 205 QP |
+| Prospector Helmet | 40x Golden Nuggets | None |
+| Prospector Jacket | 60x Golden Nuggets | None |
+| Prospector Legs | 50x Golden Nuggets | None |
+| Prospector Boots | 30x Golden Nuggets | None |
+| Mining Gloves | 60x Unidentified Minerals | None |
+| Superior Mining Gloves | 120x Unidentified Minerals | None |
+| Expert Mining Gloves | 60x Unidentified Minerals, 1x Mining Gloves, 1x Superior Mining Gloves | None |
  
 # Bank Backgrounds
 
