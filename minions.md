@@ -1,4 +1,4 @@
-Minions are a feature in Old School Bot that let you simulate playing a virtual runescape account in discord. You control a minion, who you send out to do various tasks, like killing monsters for loot, completing clue scrolls, and training skills. With the loot they get, you can craft items, sell them and trade to other real players.
+Minions are a feature in Old School Bot that let you simulate playing a virtual RuneScape account in Discord. You control a minion, who you send out to do various tasks, like killing monsters for loot, completing clue scrolls, and training skills. With the loot they get, you can craft items, sell them, and trade to other real players.
 
 You can also read the [FAQ](https://www.oldschool.gg/oldschoolbot/faq) for answers to common questions.
 
@@ -16,7 +16,7 @@ To get started, firstly [read the rules](https://www.oldschool.gg/oldschoolbot/r
 
 Next, decide what you want to do. Skilling? PVM? Questing? Read the rest of the page to see what you can do, and how - and just do whatever you want to do!
 
-It's highly recommended to join the [support server](https://discord.gg/ob) for several reasons: All updates and changes to the bot are announced in the #news channel in the server. We have a #grand-exchange channel you can use to trade/sell items with others. We have a #notifications channel that shows all the rare drops, pets and other things that people are getting in real time! 
+It's highly recommended to join the [support server](https://discord.gg/ob) for several reasons: All updates and changes to the bot are announced in the #news channel in the server. We have a #grand-exchange channel you can use to trade/sell items with others. We have a #notifications channel that shows all the rare drops, pets, and other things that people are getting in real time! 
 
 
 # Activities  
@@ -103,13 +103,13 @@ After, each user will have to confirm they want to join by clicking on the "join
 Example of a mass bossing party: `+groupkill mass corp` - this would make a mass party, that ANYONE can join. The trip will start after 2 minutes automatically, or when the party leader clicks the "start" reaction.
 
 ##### Fight Caves
-You can now challenge the Fight Caves and TzTok-Jad to recieve a fire cape, tokkul, and the TzRek-Jad pet using the `+fightcaves` command. Requirements: total +160 range bonus equipped to your range gear setup, 43 prayer, and 10x Prayer Potion (4), 4x Super Restore (4), and 6x Saradomin Brew (4) per attempt, some of which may be returned to you should you fail before the final wave. You can make the 4 dose potions from 3, 2, and 1 dose drops using the `+decant` command. Better range gear will reduce the time each attempt takes, as will total Jad kc. Having a Saradomin Godsword equipped in your melee gear setup will reduce your chances of dying before Jad by 4%, and the number of total attempts you have made will determine your chances of killing Jad when he is reached. 
+You can now challenge the Fight Caves and TzTok-Jad to recieve a fire cape, tokkul, and the TzRek-Jad pet using the `+fightcaves` command. Requirements: total +160 range bonus equipped to your range gear setup, 43 prayer, 10x Prayer Potion (4), 4x Super Restore (4), and 6x Saradomin Brew (4) per attempt, some of which may be returned to you should you fail before the final wave. You can make the 4 dose potions from 3, 2, and 1 dose drops using the `+decant` command. Better range gear will reduce the time each attempt takes, as will total Jad kc. Having a Saradomin Godsword equipped in your melee gear setup will reduce your chances of dying before Jad by 4%, and the number of total attempts you have made will determine your chances of killing Jad when he is reached. 
 
 If you have extra fire capes, you can gamble them for an additional roll at the TzRek-Jad pet using the `+capegamble` command. 
 
 
 ## Agility
-You can train agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
+You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
 
 Agility rewards you with marks of grace which you can use to buy Graceful equipment using the command `+create graceful` or `+create graceful (piece)`.
 
@@ -130,11 +130,11 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Marks of Grace** per hour.
 
 ## Fishing
-You can train fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
+You can train Fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
 
 Fishing bait is buyable with `+buy fishing bait`.  
 
-Feathers, Dark fishing bait or Raw Karambwanji aren't sold by the bot, and can be obtained by buying from other players or obtaining them yourself.
+Feathers, Dark fishing bait, or Raw Karambwanji aren't sold by the bot and can be obtained by buying from other players or obtaining them yourself.
 
 ### Fish
 | **Fish** | **Required level** |
@@ -168,7 +168,7 @@ Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 
 ## Mining
 
-You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.  
+You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.  
 
 Some ores reward you with golden nuggets or unidentified minerals.<br>
 You can use nuggets to buy the prospector equipment and minerals to buy the three types of mining gloves.  
@@ -208,7 +208,7 @@ You can also recieve boosts to mining xp rates from:
 Click [here](https://i.imgur.com/b3HNdSi.png) for **Mining** XP rates.
 
 ## Smithing
-You can train smithing using `+smith` & `+smelt`
+You can train Smithing using `+smith` & `+smelt`
 `+smelt [quantity] <bar>`, for example `+smelt 50 bronze bar`
 `+smith [quantity] <item>`, for example `+smith adamant dart tips`
 
@@ -229,9 +229,9 @@ Smithing is one of the more useful skills on the bot, because it is required to 
 Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
 
 ## Woodcutting
-You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
+You can train Woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
 
-If you have atleast level 61, you can get one of these boosts from owning one of these axes:
+If you have at least level 61, you can get one of these boosts from owning one of these axes:
 * Dragon axe 9%
 * Infernal axe 11%
 * Gilded axe 12%
@@ -259,7 +259,7 @@ If you have atleast level 61, you can get one of these boosts from owning one of
 Click [here](https://i.imgur.com/fVG81BQ.png) for **Woodcutting** XP rates.
 
 ## Firemaking
-You can train firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.  
+You can train Firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.  
 
 ### Logs
 | **Log** | **Required level** |
@@ -279,7 +279,7 @@ You can train firemaking using `+light [quantity] <logs>`, for example `+light 5
 Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
 ## Runecrafting
-You can train runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.
+You can train Runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.
 
 You can create rune pouches to aid in your runecrafting using the `+create` command to make:
 
@@ -304,7 +304,7 @@ You can create rune pouches to aid in your runecrafting using the `+create` comm
 Click [here](https://i.imgur.com/FMxtMSj.png) for **Runecrafting** XP rates.
 
 ## Cooking
-You can train cooking using `+cook [quantity] <food>`, for example `+cook 50 bass`.  
+You can train Cooking using `+cook [quantity] <food>`, for example `+cook 50 bass`.  
 
 ### Food
 | **Food** | **Required level** |
@@ -335,12 +335,12 @@ You can train cooking using `+cook [quantity] <food>`, for example `+cook 50 bas
 Click [here](https://i.imgur.com/iJuoDbb.png) for **Cooking** XP rates.
 
 ## Crafting
-You can train crafting with the `+craft` command. For example, `+craft 100 leather gloves`. To start training crafting, you will probably want to first kill cows for cowhide, then turn the cowhide into leather using `+craft leather`, then craft leather gloves from those. Alternatively, you can also buy these items from our grand-exchange channel.
+You can train Crafting with the `+craft` command. For example, `+craft 100 leather gloves`. To start training Crafting, you will probably want to first kill cows for cowhide, then turn the cowhide into leather using `+craft leather`, then craft leather gloves from those. Alternatively, you can also buy these items from our grand-exchange channel.
 
 To see all the items you can craft, check the [Crafting Wiki Page](https://oldschool.runescape.wiki/w/Crafting) - most of the items are in the bot, with the exact same level and item requirements.
 
 ## Prayer
-You can train prayer by burying bones, or offering them to the Chaos altar. For example to bury 100 Dragon bones, you can do `+bury 100 Dragon bones`, or to bury the maximum amount you can: `+bury Dragon bones`. Offering the bones to the Chaos altar works exactly the same, except you use `+offer` instead, for example: `+offer 100 Dragon bones`.
+You can train Prayer by burying bones, or offering them to the Chaos altar. For example to bury 100 Dragon bones, you can do `+bury 100 Dragon bones`, or to bury the maximum amount you can: `+bury Dragon bones`. Offering the bones to the Chaos altar works exactly the same, except you use `+offer` instead, for example: `+offer 100 Dragon bones`.
 
 The Chaos Altar works like ingame, your minion will do 1 inventory trips back and forth to sacrifice, with a 10% chance of being PKed in the trip and losing some amount of your inventory of bones (depending on if you got PKed at the start/middle/finish).
 
@@ -351,7 +351,7 @@ Questing in the bot is simple and easy, and roughly 20% faster than ingame. Inst
 
 Quest points are required to kill some bosses (e.g. Vorkath) and required to buy some items (e.g. Barrows gloves).
 
-Questing recieves a 10% boost if you have the full graceful outfit equipped in your skilling gear setup.
+Questing recieves a 10% boost if you have the full Graceful outfit equipped in your skilling gear setup.
 
 ## Skillcapes
 
