@@ -107,6 +107,15 @@ You can now challenge the Fight Caves and TzTok-Jad to recieve a fire cape, tokk
 
 If you have extra fire capes, you can gamble them for an additional roll at the TzRek-Jad pet using the `+capegamble` command. 
 
+##### Equipping Gear
+When sending your minion out on boss or skilling trips, you can equip it with gear to improve its speed and effeciency. For convenience, there is a gear setup for melee, range, mage, skilling, and misc. Depending on the activity your minion is doing will depend on which gear is used. For example, taking on the fightcaves uses your minion's **range** gear setup as well as the Saradomin Godsword if it is equipped in your **melee** gear setup. Whereas going mining will use your minion's **skilling** gear setup. You can equip any equippable items you want into the different setups.
+When an item is equipped, it is removed from your bank to the gear setup. When unequipped, the item moves back to your bank.
+
+To **equip** an item into a setup, use: `+equip [setup] [item]`. For example, to equip a Bandos chestplate to the melee setup, you would use the command: `+equip melee bandos chestplate`. To **unequip** an item from a setup, use: `+unequip [setup] [item]`. For example: `+unequip melee bandos chestplate`.
+
+To view your currently equipped gear, use: `+gear [setup]`. For example, to see your skilling setup, use: `+gear skilling`.
+
+Just like dropping a pet ingame and having it follow you, your minion can also equip a pet. This will keep your minion company while it's out working hard to earn you items and gp. To equip a pet, use: `+equippet [pet name]` and it will show on all your gear setups. To unequip it, use: `+unequippet`.
 
 ## Agility
 You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
@@ -179,21 +188,14 @@ If you have at least level 61, you can get one of these boosts to mining output 
 
 * Dragon pickaxe = +6%
 * Infernal pickaxe = +10%
-* Gilded pickaxe = +11%
-* 3rd age pickaxe = +12%
+* Gilded pickaxe =+ 11%
+* 3rd age pickaxe =+ 12%
 
 You can also recieve boosts to mining xp rates from:
 
-* Prospector's Outfit = +2.5%
-  * Prospector's Helmet = +0.4%
-  * Prospector's Jacket = +0.8%
-  * Prospector's Legs = +0.6%
-  * Prospector's Boots = +0.2%
+* Prospector's Outfit: Helmet (40x Golden Nuggets), Jacket (60x Golden Nuggets), Legs (50x Golden Nuggets, and Boots (30x Golden Nuggets)
 
-* Mining Gloves
-  * Mining Gloves = +2%
-  * Superior Mining Gloves = +4%
-  * Expert Mining Gloves = +6%
+* Gloves: Mining Gloves (60x Unidentified Minerals), Superior Mining Gloves (120x Unidentified Minerals), Expert Mining Gloves (60x Unidentified Minerals, 1x Mining Gloves, 1x Superior Mining Gloves)
 
 ### Ores
 
@@ -433,13 +435,6 @@ These items can be made by using the `+create <item>` command.
 | Book of Darkness | Ancient Page 1, 2, 3, & 4 | 35 Agility, 5 QP |
 | Ava's Accumulator | 75x Steel Arrows | 30 QP |
 | Ava's Assembler | 75x Mithril Arrows, Ava's Accumulator, Vorkath's Head | 205 QP |
-| Prospector Helmet | 40x Golden Nuggets | None |
-| Prospector Jacket | 60x Golden Nuggets | None |
-| Prospector Legs | 50x Golden Nuggets | None |
-| Prospector Boots | 30x Golden Nuggets | None |
-| Mining Gloves | 60x Unidentified Minerals | None |
-| Superior Mining Gloves | 120x Unidentified Minerals | None |
-| Expert Mining Gloves | 60x Unidentified Minerals, 1x Mining Gloves, 1x Superior Mining Gloves | None |
  
 # Bank Backgrounds
 
