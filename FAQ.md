@@ -59,7 +59,7 @@ I plan on adding all skills, minigames and bosses from OSRS to the bot. Anything
 ##### Where can I make suggestions for the bot?
 Join http://support.oldschool.gg/ and post your suggestion in the suggestions channel and we'll consider adding it.
 
-##### Can you stack clues on the Old School Bot?
+##### Can you stack clues on Old School Bot?
 No, you can't. It works like ingame.
 
 ##### How do I equip gear on my minion?
