@@ -107,6 +107,15 @@ You can now challenge the Fight Caves and TzTok-Jad to recieve a fire cape, tokk
 
 If you have extra fire capes, you can gamble them for an additional roll at the TzRek-Jad pet using the `+capegamble` command. 
 
+##### Equipping Gear
+When sending your minion out on boss or skilling trips, you can equip it with gear to improve its speed and effeciency. For convenience, there is a gear setup for melee, range, mage, skilling, and misc. Depending on the activity your minion is doing will depend on which gear is used. For example, taking on the fightcaves uses your minion's **range** gear setup as well as the Saradomin Godsword if it is equipped in your **melee** gear setup. Whereas going mining will use your minion's **skilling** gear setup. You can equip any equippable items you want into the different setups.
+When an item is equipped, it is removed from your bank to the gear setup. When unequipped, the item moves back to your bank.
+
+To **equip** an item into a setup, use: `+equip [setup] [item]`. For example, to equip a Bandos chestplate to the melee setup, you would use the command: `+equip melee bandos chestplate`. To **unequip** an item from a setup, use: `+unequip [setup] [item]`. For example: `+unequip melee bandos chestplate`.
+
+To view your currently equipped gear, use: `+gear [setup]`. For example, to see your skilling setup, use: `+gear skilling`.
+
+Just like dropping a pet ingame and having it follow you, your minion can also equip a pet. This will keep your minion company while it's out working hard to earn you items and gp. To equip a pet, use: `+equippet [pet name]` and it will show on all your gear setups. To unequip it, use: `+unequippet`.
 
 ## Agility
 You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
