@@ -450,8 +450,8 @@ Click on the bank bg name to see what it looks like.
 | **Name** | **GP Cost** | **Item Cost** | **Collection Log Items Needed** |
 | - | :-: | :-: | :-: |
 | [Default](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/1.jpg?raw=true) | 0  |   |  |
-| [Bandos](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/7.jpg?raw=true) | 100m | The 4 Godsword Hilts | Entire GWD log excluding pets, + Bandos pet |
-| [Corporeal Beast](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/8.jpg?raw=true) | 100m  |   | Entire Corporeal Beast log including pet |
+| [Bandos](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/7.jpg?raw=true) | 100m | The 4 Godswords | Entire GWD log including pets |
+| [Corporeal Beast](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/8.jpg?raw=true) | 100m  | 1 spectral spirit shield, 1 arcane spirit shield  | Entire Corporeal Beast log including pet (4x spirit shield, 4x holy elixir for all the shields) |
 | [Casket (Legend Arts)](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
 
 
