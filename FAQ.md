@@ -48,6 +48,9 @@ There are 4 pouches, and the bot does it a bit differently to ingame. To obtain 
 ##### Do I need to equip items to receive the boosts they provide?
 Skilling boosts *only* work when equipped in your skilling gear setup, while bossing/PVM boosts currently work either when equipped or when in your bank.
 
+##### How do I get Barrows gloves?
+The various gloves require quest points and gp to buy. Barrows gloves require 175 quest points and 1m gp. The full list of gloves can be found on the [minions page.](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)
+
 ##### How do I get X item?
 You get most items exactly the same as you get them in the real game, all monsters drop the same things as ingame.
 
