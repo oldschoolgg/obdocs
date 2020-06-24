@@ -33,7 +33,7 @@ Currently available skills are:
   * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
   * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
   * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
-  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)
+  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)  
   * [Fletching](https://www.oldschool.gg/oldschoolbot/minions?Fletching)
   
 You can view your minions' stats using `+m stats`.  
@@ -171,7 +171,7 @@ Feathers, Dark fishing bait, or Raw Karambwanji aren't sold by the bot and can b
 | Raw Anglerfish | 82 |
 | Raw Dark crab | 85 |
 
-* **Karambwanji**(Not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.
+* **Karambwanji** (not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.
 * **Monkfish** requires **100** Quest Points to fish.
 * **Anglerfish** requires **40** Quest Points to fish.
 
@@ -364,9 +364,9 @@ The Chaos Altar works like ingame, your minion will do 1 inventory trips back an
 
 The Prayer skill is also required for creating Spirit shields.
 
-## FLetching
+## Fletching
 
-You can train fletching with the `+fletch` command. For example, `+fletch 10000 adamant dart`. To start off training fletching, you will want to `+chop` some logs for arrow shafts, and then `+fletch arrow shaft` them into arrow shafts. Alternativley, you can buy logs or unfinished fletching supplies from out #grand-exchange channel in the support server. 
+You can train Fletching with the `+fletch` command. For example, `+fletch 10000 adamant dart`. To start off training Fletching, you will want to `+chop` some logs for arrow shafts, and then `+fletch arrow shaft` them into arrow shafts. Alternativley, you can buy logs or unfinished fletching supplies from out #grand-exchange channel in the support server. 
 
 To see all the items you can fletch, check out the [Fletching Wiki Page](https://oldschool.runescape.wiki/w/Fletching) - most of the items found there are fletchable in the bot, having the exact same level and item requirements. 
 
@@ -382,7 +382,7 @@ Questing recieves a 10% boost if you have the full Graceful outfit equipped in y
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
 
-### Boss and monster requirements
+## Boss and monster requirements
 | **Boss** | **QP required** | **Gear required** | **Skill(s) required** |
 | - | :-: | :-: | :-: |
 | Barrows | N/A | N/A | 43 Prayer |
@@ -405,7 +405,46 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 | Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | 
 | Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer |
 
+## Boosts to bosses
+| **Boss** | **Item** | **Percentage Boost** |
+| - | :-: | :-: |
+| Barrows | Barrows gloves | 2% |
+| Barrows | Iban's staff | 5% |
+| Callisto | Barrows gloves | 2% |
+| Callisto | Berserker ring | 2% |
+| Cerberus | Bandos chestplate | 5% |
+| Cerberus | Bandos tassets | 5% |
+| Cerberus | Spectral spirit shield | 10% |
+| Chaos Elemental | Archers ring | 3% |
+| Chaos Elemental | Barrows gloves | 3% |
+| Chaos Fanatic | Karil's leathertop | 3% |
+| Chaos Fanatic | Karil's leatherskirt | 3% |
+| Commander Zilyana | Armadyl crossbow | 5% |
+| Commander Zilyana | Ranger boots | 5% |
+| Corporeal Beast | Dragon warhammer | 10% |
+| Corporeal Beast | Bandos godsword | 5% |
+| Dagganoth Prime | Armadyl chestplate | 2% |
+| Dagganoth Prime | Armadyl chainskirt | 2% |
+| Dagganoth Rex | Iban's staff | 5% |
+| Dagganoth Supreme | Bandos chestplate | 2% |
+| Dagganoth Supreme | Bandos tassets | 2% |
+| Dagganoth Supreme | Saradomin godsword | 2% |
+| General Graardor | Dragon warhammer | 10% |
+| Giant Mole | Barrows gloves | 5% |
+| Giant Mole | Berserker ring | 5% |
+| Kalphite Queen | Dragon warhammer | 10% |
+| K'ril Tsutsaroth | Dragon warhammer | 10% |
+| KBD | Armadyl crossbow | 10% |
+| Kree'arra | Armadyl crossbow | 5% |
+| Lizardman Shaman | Ring of the gods | 3% |
+| Venenatis | Barrows gloves | 3% |
+| Vet'ion | Dragon warhammer | 3% |
+| Vorkath | Dragon warhammer | 10% |
+| Zulrah | Barrows gloves | 5% |
+| Zulrah | Iban's staff | 2% |
+| Zulrah | Ranger boots | 5% |
 
+> These boosts stack cumulatively. For example, if you have a Dragon warhammer and Bandos godsword, you will receive a 15% boost when fighting Corporeal Beast.
 
 # Buyable items
 
