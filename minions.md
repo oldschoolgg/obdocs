@@ -12,7 +12,7 @@ If you notice any mistakes or missing information in this page, you can [add it 
 
 # Getting started
 
-To get started, firstly [read the rules](https://www.oldschool.gg/oldschoolbot/rules), then get yourself a minion by typing `+minion buy`, or `+m buy` for short.
+To get started, firstly [read the rules](https://www.oldschool.gg/oldschoolbot/rules), then get yourself a minion by typing `+minion buy`, or `+m buy` for short. If your Discord account is 6 months old or older, your minion will be free. If it is between 1 and 6 months old, your minion will cost 20m. If your account is less than one month old, you are currently unable to purchase a minion as a precaution against alt accounts and bots (unless you become a patron which bypasses this restriction). To get your starting gp, you can use the `+daily` command every 12 hours to get a trivia question you can answer for gp and special Diango items.
 
 Next, decide what you want to do. Skilling? PVM? Questing? Read the rest of the page to see what you can do, and how - and just do whatever you want to do!
 
@@ -42,10 +42,10 @@ You can view your minions' stats using `+m stats`.
   * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
   * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)  
   * [Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boosts)  
-  * [Buyable items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20items)  
-  * [Creatable items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
-  * [Boss/Monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements)  
-  * [Bank backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
+  * [Buyable Items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20Items)  
+  * [Creatable Items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
+  * [Boss/Monster Requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20Monster%20Requirements)  
+  * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
   * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
   * [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
 
@@ -80,6 +80,8 @@ Currently available bosses to kill are:
 ![https://i.imgur.com/p6d3Wna.gif](https://i.imgur.com/p6d3Wna.gif)| Zulrah
 
  Some bosses have requirements, like Quest points or gear, refer to [Boss and monster requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20monster%20requirements) for more information or use the `+monster` command in the bot. 
+ 
+ Don't know what you want to kill? Use the `+m k random` command to send your minion off to kill a random monster, limited to monsters you have the requirements to kill.
   
  You can view your minions' killcounts using `+m kc`.
  
@@ -104,12 +106,12 @@ After, each user will have to confirm they want to join by clicking on the "join
 ##### Mass bossing
 Example of a mass bossing party: `+groupkill mass corp` - this would make a mass party, that ANYONE can join. The trip will start after 2 minutes automatically, or when the party leader clicks the "start" reaction.
 
-##### Fight Caves
+#### Fight Caves
 You can now challenge the Fight Caves and TzTok-Jad to recieve a fire cape, tokkul, and the TzRek-Jad pet using the `+fightcaves` command. Requirements: total +160 range bonus equipped to your range gear setup, 43 prayer, 10x Prayer Potion (4), 4x Super Restore (4), and 6x Saradomin Brew (4) per attempt, some of which may be returned to you should you fail before the final wave. You can make the 4 dose potions from 3, 2, and 1 dose drops using the `+decant` command. Better range gear will reduce the time each attempt takes, as will total Jad kc. Having a Saradomin Godsword equipped in your melee gear setup will reduce your chances of dying before Jad by 4%, and the number of total attempts you have made will determine your chances of killing Jad when he is reached. 
 
 If you have extra fire capes, you can gamble them for an additional roll at the TzRek-Jad pet using the `+capegamble` command. 
 
-##### Equipping Gear
+#### Equipping Gear
 When sending your minion out on boss or skilling trips, you can equip it with gear to improve its speed and effeciency. For convenience, there is a gear setup for melee, range, mage, skilling, and misc. Depending on the activity your minion is doing will depend on which gear is used. For example, taking on the fightcaves uses your minion's **range** gear setup as well as the Saradomin Godsword if it is equipped in your **melee** gear setup. Whereas going mining will use your minion's **skilling** gear setup. You can equip any equippable items you want into the different setups.
 When an item is equipped, it is removed from your bank to the gear setup. When unequipped, the item moves back to your bank.
 
@@ -118,6 +120,7 @@ To **equip** an item into a setup, use: `+equip [setup] [item]`. For example, to
 To view your currently equipped gear, use: `+gear [setup]`. For example, to see your skilling setup, use: `+gear skilling`.
 
 Just like dropping a pet ingame and having it follow you, your minion can also equip a pet. This will keep your minion company while it's out working hard to earn you items and gp. To equip a pet, use: `+equippet [pet name]` and it will show on all your gear setups. To unequip it, use: `+unequippet`.
+
 
 ## Agility
 You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
@@ -145,7 +148,7 @@ You can train Fishing using `+fish [quantity] <fish>`, for example `+fish 100 lo
 
 Fishing bait is buyable with `+buy fishing bait`.  
 
-Feathers, Dark fishing bait, or Raw Karambwanji aren't sold by the bot and can be obtained by buying from other players or obtaining them yourself.
+Dark fishing bait and Raw Karambwanji aren't sold by the bot and can be obtained by buying from other players or obtaining them yourself.
 
 ### Fish
 | **Fish** | **Required level** |
@@ -183,8 +186,6 @@ You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`
 
 Some ores reward you with golden nuggets or unidentified minerals.<br>
 You can use nuggets to buy the prospector equipment and minerals to buy the three types of mining gloves.  
-
-### Mining Gear Boosts
 
 If you have at least level 61, you can get one of these boosts to mining output from owning one of these pickaxes:
 
@@ -231,6 +232,8 @@ You can train Smithing using `+smith` & `+smelt`
 `+smith [quantity] <item>`, for example `+smith adamant dart tips`
 
 Smithing is one of the more useful skills on the bot, because it is required to create Godswords and such!
+
+You can recieve a boost to gold bar smelting xp rates by equipping the goldsmith guantlets which increases the xp/bar from 22.5 to 56.2. 
 
 ### Bars
 | **Bar** | **Required level** | **Materials needed** |
@@ -296,12 +299,12 @@ You can train Firemaking using `+light [quantity] <logs>`, for example `+light 5
 
 Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
+You can now also train Firemaking via the Wintertodt minigame using the `+wt` or `+wintertodt` commands. Fighting the Wintertodt provides item rewards scales to your Woodcutting, Mining, Fishing, Farming, Crafting, and Herblore levels, and xp scaled to your Firemaking level. You need level 50 Firemaking to challenge the Wintertodt, and each attempt requires food to heal yourself from the Wintertodt's attacks, currently a fish which heals >10hp. The speed at which you challenge the Wintertodt increases with a higher Woodcutting level, and the food required is reduced for every piece of the pyromancer outfit you have equipped in your skilling setup, as well as the warm gloves and the fire cape. 
+
 ## Runecrafting
 You can train Runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.
 
-You can create rune pouches to aid in your runecrafting using the `+create` command to make:
-
-* Runecrafting Pouches: Small Pouch (10x Leather), Medium Pouch (20x Leather, 10 Crafting), Large Pouch (30x Leather, 20 Crafting), Giant Pouch (40x Leather, 30 Crafting)
+You can boost Runecrafting xp rates by using rune pouches to increase the number of pure essence you can bring per trip to the altar you are using. 
 
 ### Runes
 | **Rune** | **Required level** |
@@ -323,6 +326,8 @@ Click [here](https://i.imgur.com/FMxtMSj.png) for **Runecrafting** XP rates.
 
 ## Cooking
 You can train Cooking using `+cook [quantity] <food>`, for example `+cook 50 bass`.  
+
+You can boost Cooking xp rates when attempting to cook fish while having the cooking guantlets equipped which decrease your faliure rate when cooking fish.
 
 ### Food
 | **Food** | **Required level** |
@@ -382,7 +387,7 @@ Questing recieves a 10% boost if you have the full Graceful outfit equipped in y
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
 
-### Boss and monster requirements
+# Boss and Monster Requirements
 | **Boss** | **QP required** | **Gear required** | **Skill(s) required** |
 | - | :-: | :-: | :-: |
 | Barrows | N/A | N/A | 43 Prayer |
@@ -407,7 +412,7 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 
 
 
-# Buyable items
+# Buyable Items
 
 You can purchase these items by typing `+buy <item>`. Some require QP, and have higher costs than ingame.
 
@@ -432,7 +437,7 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 | Bronze gloves | 10 | 100k |
 | Hardleather gloves | 5 | 50k |
 | Huge Fishing Bait Pack (10,000x Fishing Bait) | N/A | 50k |
-| Feather Pack (300x Feathers) | N/A | 30k |
+| Feather Pack (1,000x Feathers) | N/A | 10k |
 | Huge Jug Pack (300x Jugs of water) | N/A | 30k |
 
 # Creatable Items
@@ -469,6 +474,10 @@ These items can be made by using the `+create <item>` command.
 | Mining Gloves | 60x Unidentified Minerals | None |
 | Superior Mining Gloves | 120x Unidentified Minerals | None |
 | Expert Mining Gloves | 60x Unidentified Minerals, 1x Mining Gloves, 1x Superior Mining Gloves | None |
+| Small Pouch | 10x Leather | None |
+| Medium Pouch | 20x Leather | 10 Crafting |
+| Large Pouch | 30x Leather | 20 Crafting |
+| Giant Pouch | 40x Leather | 30 Crafting |
  
 # Bank Backgrounds
 
