@@ -406,43 +406,29 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 | Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer |
 
 ## Boosts to bosses
-| **Boss** | **Item** | **Percentage Boost** |
-| - | :-: | :-: |
-| Barrows | Barrows gloves | 2% |
-| Barrows | Iban's staff | 5% |
-| Callisto | Barrows gloves | 2% |
-| Callisto | Berserker ring | 2% |
-| Cerberus | Bandos chestplate | 5% |
-| Cerberus | Bandos tassets | 5% |
-| Cerberus | Spectral spirit shield | 10% |
-| Chaos Elemental | Archers ring | 3% |
-| Chaos Elemental | Barrows gloves | 3% |
-| Chaos Fanatic | Karil's leathertop | 3% |
-| Chaos Fanatic | Karil's leatherskirt | 3% |
-| Commander Zilyana | Armadyl crossbow | 5% |
-| Commander Zilyana | Ranger boots | 5% |
-| Corporeal Beast | Dragon warhammer | 10% |
-| Corporeal Beast | Bandos godsword | 5% |
-| Dagganoth Prime | Armadyl chestplate | 2% |
-| Dagganoth Prime | Armadyl chainskirt | 2% |
-| Dagganoth Rex | Iban's staff | 5% |
-| Dagganoth Supreme | Bandos chestplate | 2% |
-| Dagganoth Supreme | Bandos tassets | 2% |
-| Dagganoth Supreme | Saradomin godsword | 2% |
-| General Graardor | Dragon warhammer | 10% |
-| Giant Mole | Barrows gloves | 5% |
-| Giant Mole | Berserker ring | 5% |
-| Kalphite Queen | Dragon warhammer | 10% |
-| K'ril Tsutsaroth | Dragon warhammer | 10% |
-| KBD | Armadyl crossbow | 10% |
-| Kree'arra | Armadyl crossbow | 5% |
-| Lizardman Shaman | Ring of the gods | 3% |
-| Venenatis | Barrows gloves | 3% |
-| Vet'ion | Dragon warhammer | 3% |
-| Vorkath | Dragon warhammer | 10% |
-| Zulrah | Barrows gloves | 5% |
-| Zulrah | Iban's staff | 2% |
-| Zulrah | Ranger boots | 5% |
+| **Boss** | **Boosts given** |
+| - | :-: |
+| Barrows | Barrows gloves (2%), Iban's staff (5%) |
+| Callisto | Barrows gloves (2%), Berserker ring (2%) |
+| Cerberus | Bandos chestplate (5%), Bandos tassets, (5%), Spectral spirit shield (10%) |
+| Chaos Elemental | Archers ring (3%), Barrows gloves (3%) |
+| Chaos Fanatic | Karil's leathertop (3%), Karil's leatherskirt (3%) |
+| Commander Zilyana | Armadyl crossbow (5%), Ranger boots (5%) |
+| Corporeal Beast | Dragon warhammer (10%), Bandos godsword (5%) |
+| Dagganoth Prime | Armadyl chestplate (2%), Armadyl chainskirt (2%) |
+| Dagganoth Rex | Iban's staff (5%) |
+| Dagganoth Supreme | Bandos chestplate (2%), Bandos tassets (2%), Saradomin godsword (2%) |
+| General Graardor | Dragon warhammer (10%) |
+| Giant Mole | Barrows gloves (5%), Berserker ring (5%) |
+| Kalphite Queen | Dragon warhammer (10%) |
+| K'ril Tsutsaroth | Dragon warhammer (10%) |
+| KBD | Armadyl crossbow (10%) |
+| Kree'arra | Armadyl crossbow (5%) |
+| Lizardman Shaman | Ring of the gods (3%) |
+| Venenatis | Barrows gloves (3%) |
+| Vet'ion | Dragon warhammer (3%) |
+| Vorkath | Dragon warhammer (10%) |
+| Zulrah | Barrows gloves (5%), Iban's staff (2%), Ranger boots (5%) |
 
 > These boosts stack cumulatively. For example, if you have a Dragon warhammer and Bandos godsword, you will receive a 15% boost when fighting Corporeal Beast.
 
