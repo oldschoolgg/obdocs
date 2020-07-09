@@ -397,6 +397,7 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 | Giant Mole | N/A | Full Dharok's set | 43 Prayer |
 | Callisto | N/A | Full Verac's set | N/A |
 | Venenatis | N/A | Full Verac's set | N/A |
+| Vet'ion | N/A | Full Verac's set | N/A |
 | King Black Dragon | N/A | Anti-Dragon shield | N/A |
 | Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A |
 | Corporeal Beast | N/A | Zamorakian spear | 43 Prayer |
@@ -410,7 +411,7 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 | Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | 
 | Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer |
 
-
+For detailed information about any killable monster or boss, you can use the `+monster <monster>` command.
 
 # Buyable Items
 
