@@ -438,8 +438,8 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 | Bronze gloves | 10 | 100k |
 | Hardleather gloves | 5 | 50k |
 | Huge Fishing Bait Pack (10,000x Fishing Bait) | N/A | 50k |
-| Feather Pack (1,000x Feathers) | N/A | 10k |
-| Huge Jug Pack (300x Jugs of water) | N/A | 30k |
+| Feather Pack (10,000x Feathers) | N/A | 100k |
+| Huge Jug Pack (500x Jugs of water) | N/A | 50k |
 
 # Creatable Items
 
