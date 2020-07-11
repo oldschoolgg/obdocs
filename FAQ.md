@@ -9,6 +9,9 @@ Most of the information on minions is on the [minions page](https://www.oldschoo
 ##### How do I create a Barrows set, or deconstruct a Barrows set into the items?
 Here's an example: `+create Dharoks armour set` to turn items into a set, or `+create Dharoks` to turn the set back into the items.
 
+##### Can I stop my minion from going on a trip I started ny accident?
+Yes. Using the `+cancel` command you can tell your minion to drop everything and return at once. However, it takes the command literally and you will not receive any loot or xp, nor will you get any items you would have expended during the trip returned. For example, if you accidentally sent your minion off to smith 10 bronze daggers, using the cancel command would return your minion to idle status, but you would not have returned any bronze daggers, any smithing xp, or any of the 10 bronze bars initially allocated to your minion's trip.
+
 ##### Why do prices in minions differ?
 The price depends on your account age. If your discord account is over 6 months old, you get it for free. Less than 6 months, and it costs 20m. You can get this initial 20m from asking friends, or by using `+daily` every day for a while.
 
