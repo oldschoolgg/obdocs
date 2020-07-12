@@ -90,7 +90,7 @@ No. However, you can pay another player with the required levels to make it for 
 I plan on adding all skills, minigames and bosses from OSRS to the bot. Anything that can reasonably be added will be added in time.
 
 ##### Where can I make suggestions for the bot?
-Join http://support.oldschool.gg/ and post your suggestion in the suggestions channel and we'll consider adding it.
+Suggestions can be made via the GitHub page for this bot and can be accessed through this link: https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=feature.md . Fill in the title of your suggestion and edit the description to explain your suggestion. Please search the issues before making a suggestion to ensure that it has not been suggested before.
 
 ##### Can you stack clues on Old School Bot?
 No, you can't. It works like ingame.
