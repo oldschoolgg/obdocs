@@ -33,18 +33,19 @@ Currently available skills are:
   * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
   * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
   * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
-  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)
+  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer) 
   * [Fletching](https://www.oldschool.gg/oldschoolbot/minions?Fletching)
   
 You can view your minions' stats using `+m stats`.  
  
 ### Miscellaneous
   * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
-  * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)  
-  * [Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boosts)  
+  * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)   
+  * [Boss/Monster Requirements & Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20Monster%20Requirements%20and%20Boosts) 
   * [Buyable Items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20Items)  
   * [Creatable Items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
-  * [Boss/Monster Requirements](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20Monster%20Requirements)  
+  * [Openable Items](https://www.oldschool.gg/oldschoolbot/minions?Openable%20Items)
+  * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds) 
   * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
   * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
   * [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
@@ -174,7 +175,7 @@ Dark fishing bait and Raw Karambwanji aren't sold by the bot and can be obtained
 | Raw Anglerfish | 82 |
 | Raw Dark crab | 85 |
 
-* **Karambwanji**(Not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.
+* **Karambwanji**(not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.
 * **Monkfish** requires **100** Quest Points to fish.
 * **Anglerfish** requires **40** Quest Points to fish.
 
@@ -253,10 +254,10 @@ Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
 You can train Woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
 
 If you have at least level 61, you can get one of these boosts from owning one of these axes:
-* Dragon axe 9%
-* Infernal axe 11%
-* Gilded axe 12%
-* 3rd age axe 13%
+* Dragon axe = +9%
+* Infernal axe = +11%
+* Gilded axe = +12%
+* 3rd age axe = +13%
 
 ### Logs
 | **Log** | **Required level** |
@@ -371,12 +372,12 @@ The Prayer skill is also required for creating Spirit shields.
 
 ## Fletching
 
-You can train fletching with the `+fletch` command. For example, `+fletch 10000 adamant dart`. To start off training fletching, you will want to `+chop` some logs for arrow shafts, and then `+fletch arrow shaft` them into arrow shafts. Alternativley, you can buy logs or unfinished fletching supplies from our #grand-exchange channel in the support server. 
+You can train Fletching with the `+fletch` command. For example, `+fletch 10000 adamant dart`. To start off training Fletching, you will want to `+chop` some logs for arrow shafts, and then `+fletch arrow shaft` them into arrow shafts. Alternativley, you can buy logs or unfinished fletching supplies from our #grand-exchange channel in the support server. 
 
 To see all the items you can fletch, check out the [Fletching Wiki Page](https://oldschool.runescape.wiki/w/Fletching) - most of the items found there are fletchable in the bot, having the exact same level and item requirements. 
 
 ## Questing
-Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-275 QP. 
+Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-277 QP. 
 
 Quest points are required to kill some bosses (e.g. Vorkath) and required to buy some items (e.g. Barrows gloves).
 
@@ -387,29 +388,30 @@ Questing recieves a 10% boost if you have the full Graceful outfit equipped in y
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
 
-# Boss and Monster Requirements
-| **Boss** | **QP required** | **Gear required** | **Skill(s) required** |
-| - | :-: | :-: | :-: |
-| Barrows | N/A | N/A | 43 Prayer |
-| Lizardman shaman | 30 | Karils Crossbow | 43 Prayer |
-| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer |
-| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer |
-| Giant Mole | N/A | Full Dharok's set | 43 Prayer |
-| Callisto | N/A | Full Verac's set | N/A |
-| Venenatis | N/A | Full Verac's set | N/A |
-| Vet'ion | N/A | Full Verac's set | N/A |
-| King Black Dragon | N/A | Anti-Dragon shield | N/A |
-| Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A |
-| Corporeal Beast | N/A | Zamorakian spear | 43 Prayer |
-| Cerberus | N/A | Bandos chestplate or Torag's platebody or Dharok's platebody, Bandos tassets or Torag's platelegs or Dharok's platelegs, and Zamorakian spear | 43 Prayer |
-| Commander Zilyana | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer, 70 Agility|
-| General Graardor | 75 | N/A | 43 Prayer |
-| Kree'Arra | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer |
-| K'ril Tsutsaroth | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer |
-| Kalphite Queen | N/A | Verac's flail, Karil's leathertop or Black d'hide top, and Verac's plateskirt | 43 Prayer |
-| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer |
-| Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | 
-| Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer |
+# Boss and Monster Requirements and Boosts
+
+| **Boss** | **QP required** | **Gear required** | **Skill(s) required** | **Boost(s) Available** |
+| - | :-: | :-: | :-: | :-: |
+| Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%) |
+| Lizardman shaman | 30 | Karils Crossbow | 43 Prayer | Ring of the Gods (3%) |
+| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer | Barrows Gloves (5%), Ranger Boots (5%), Iban's Staff (2%)|
+| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer | Dragon Warhammer (10%) |
+| Giant Mole | N/A | Full Dharok's set | 43 Prayer | Barrows Gloves (2%), Berserker Ring (2%) |
+| Callisto | N/A | Full Verac's set | N/A |  Barrows Gloves (2%), Berserker Ring (2%) |
+| Venenatis | N/A | Full Verac's set | N/A | Barrows Gloves (3%) |
+| Vet'ion | N/A | Full Verac's set | N/A | Dragon Warhammer (3%) |
+| King Black Dragon | N/A | Anti-Dragon shield, Armadyl Crossbow or Rune Crossbow, Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Armadyl Crossbow (10%) |
+| Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Barrows Gloves (3%), Archers Ring (3%) |
+| Corporeal Beast | N/A | Zamorakian spear | 43 Prayer | Dragon Warhammer (10%), Bandos Godsword (5%) |
+| Cerberus | N/A | Bandos chestplate or Torag's platebody or Dharok's platebody, Bandos tassets or Torag's platelegs or Dharok's platelegs, and Zamorakian spear | 43 Prayer | Bandos Tassets (5%), Bandos Chestplate (5%), Spectral Spirit Shield (10%) |
+| Commander Zilyana | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer, 70 Agility| Armadyl Crossbow (5%), Ranger Boots (5%) |
+| General Graardor | 75 | N/A | 43 Prayer | Dragon Warhammer (10%) |
+| Kree'Arra | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Crossbow (5%) |
+| K'ril Tsutsaroth | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Dragon Warhammer (10%) |
+| Kalphite Queen | N/A | Verac's flail, Karil's leathertop or Black d'hide top, and Verac's plateskirt | 43 Prayer | Dragon Warhammer (10%) |
+| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Chestplate (2%), Armadyl Chainskirt (2%) |
+| Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Iban's Staff (5%) |
+| Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Bandos Chestplate (2%), Bandos Tassets (2%), Saradomin Godsword (2%) |
 
 For detailed information about any killable monster or boss, you can use the `+monster <monster>` command.
 
@@ -419,7 +421,7 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 
 | **Item** | **Quest points required** | **Price** |
 | - | :-: | :-: |
-| Quest Point Cape | 275 | 99k |
+| Quest Point Cape | 277 | 99k |
 | Helm of Neitiznot | 75 | 500k |
 | Iban's Staff | 30 | 250k |
 | Barrelchest Anchor | 30 | 2m |
@@ -447,6 +449,7 @@ These items can be made by using the `+create <item>` command.
 
 | **Item** | **Input item(s) required** | **Stat(s) required** |
 | - | :-: | :-: |
+| Crystal Key | Loop Half of Key, Tooth Half of Key | None |
 | Godsword Blade | Godsword Shard 1, 2 & 3 | 80 Smithing |
 | Godsword | Godsword Blade, Hilt | 80 Smithing |
 | Dragonfire Shield | Anti-dragon Shield, Draconic Visage | 90 Smithing |
@@ -479,6 +482,18 @@ These items can be made by using the `+create <item>` command.
 | Medium Pouch | 20x Leather | 10 Crafting |
 | Large Pouch | 30x Leather | 20 Crafting |
 | Giant Pouch | 40x Leather | 30 Crafting |
+
+# Openable Items
+
+These items can be opened using the `+open <item>` command.
+
+| **Item** | **Input item(s) required** | 
+| - | :-: |
+| Crystal Chest | Crystal Key |
+| Mystery Box | Mystery Box |
+| Reward Casket (Tier) | Reward Casket (Tier) |
+| Birthday Present | Birthday Present |
+| Casket | Casket |
  
 # Bank Backgrounds
 
