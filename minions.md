@@ -137,7 +137,7 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 | Al Kharid | 20 |
 | Varrock | 30 |
 | Canifis | 40 |
-| Ape | 48 |
+| Ape Atoll | 48 |
 | Falador | 50 |
 | Seers Village | 60 |
 | Pollnivneach | 70 |
@@ -148,7 +148,7 @@ Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Mar
 
 #### Monkey Backpacks
 
-When completing laps of the Ape Atoll agility course you can earn a [monkey backpack](https://oldschool.runescape.wiki/w/Monkey_(Monkey_Madness_II))! These are obtained automatically whenever you reach the lap count required for each backpack.
+When completing laps of the Ape Atoll agility course you can earn a [monkey backpack](https://oldschool.runescape.wiki/w/Ape_Atoll_Agility_Course)! These are obtained automatically whenever you reach the lap count required for each backpack.
 
 | **Monkey** | **Required laps** |
 | - | :-: |
@@ -159,7 +159,7 @@ When completing laps of the Ape Atoll agility course you can earn a [monkey back
 | Kruk jr. | 1,500 |
 | Princley | 2,000 |
 
-To view your total lap count on each specific agility course you can use the `+lap` command (note: only counts laps performed since August 3rd, 2020). 
+To view your total lap count on each specific agility course you can use the `+laps` command (note: only counts laps performed since August 3rd, 2020). 
 
 
 ## Fishing
