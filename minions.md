@@ -41,6 +41,7 @@ You can view your minions' stats using `+m stats`.
 ### Miscellaneous
   * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
   * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)   
+  * [Alching](https://www.oldschool.gg/oldschoolbot/minions?Alching) 
   * [Boss/Monster Requirements & Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20Monster%20Requirements%20and%20Boosts) 
   * [Buyable Items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20Items)  
   * [Creatable Items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
@@ -136,6 +137,7 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 | Al Kharid | 20 |
 | Varrock | 30 |
 | Canifis | 40 |
+| Ape | 48 |
 | Falador | 50 |
 | Seers Village | 60 |
 | Pollnivneach | 70 |
@@ -143,6 +145,22 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 | Ardougne | 90 |
 
 Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Marks of Grace** per hour.
+
+#### Monkey Backpacks
+
+When completing laps of the Ape Atoll agility course you can earn a [monkey backpack](https://oldschool.runescape.wiki/w/Monkey_(Monkey_Madness_II))! These are obtained automatically whenever you reach the lap count required for each backpack.
+
+| **Monkey** | **Required laps** |
+| - | :-: |
+| Karamjan | 100 |
+| Zombie | 250 |
+| Maniacal | 500 |
+| Skeleton | 1,000 |
+| Kruk jr. | 1,500 |
+| Princley | 2,000 |
+
+To view your total lap count on each specific agility course you can use the `+lap` command (note: only counts laps performed since August 3rd, 2020). 
+
 
 ## Fishing
 You can train Fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
@@ -283,6 +301,8 @@ Click [here](https://i.imgur.com/fVG81BQ.png) for **Woodcutting** XP rates.
 ## Firemaking
 You can train Firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.  
 
+You can boost firemaking xp by 2.5% if you have the full pyromancer outfit equipped in your skilling gear setup.
+
 ### Logs
 | **Log** | **Required level** |
 | - | :-: |
@@ -300,7 +320,7 @@ You can train Firemaking using `+light [quantity] <logs>`, for example `+light 5
 
 Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
-You can now also train Firemaking via the Wintertodt minigame using the `+wt` or `+wintertodt` commands. Fighting the Wintertodt provides item rewards scales to your Woodcutting, Mining, Fishing, Farming, Crafting, and Herblore levels, and xp scaled to your Firemaking level. You need level 50 Firemaking to challenge the Wintertodt, and each attempt requires food to heal yourself from the Wintertodt's attacks, currently a fish which heals >10hp. The speed at which you challenge the Wintertodt increases with a higher Woodcutting level, and the food required is reduced for every piece of the pyromancer outfit you have equipped in your skilling setup, as well as the warm gloves and the fire cape. 
+You can now also train Firemaking via the Wintertodt minigame using the `+wt` or `+wintertodt` commands. Fighting the Wintertodt provides item rewards scales to your Woodcutting, Mining, Fishing, Farming, Crafting, and Herblore levels, and xp scaled to your Firemaking level. You need level 50 Firemaking to challenge the Wintertodt, and each attempt requires food to heal yourself from the Wintertodt's attacks, currently a fish which heals >10hp. Your worst food (the food which heals the least) will be used first before better (and more expensive food) is used. The speed at which you challenge the Wintertodt increases with a higher Woodcutting level, and the food required is reduced for every piece of the pyromancer outfit you have equipped in your skilling setup, as well other items of [warm clothing](https://oldschool.runescape.wiki/w/Wintertodt/Warm_clothing).
 
 ## Runecrafting
 You can train Runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.
@@ -359,7 +379,7 @@ You can boost Cooking xp rates when attempting to cook fish while having the coo
 Click [here](https://i.imgur.com/iJuoDbb.png) for **Cooking** XP rates.
 
 ## Crafting
-You can train Crafting with the `+craft` command. For example, `+craft 100 leather gloves`. To start training Crafting, you will probably want to first kill cows for cowhide, then turn the cowhide into leather using `+craft leather`, then craft leather gloves from those. Alternatively, you can also buy these items from our grand-exchange channel.
+You can train Crafting with the `+tan` and `+craft` command. For example, `+craft 100 leather gloves`. To start training Crafting, you will probably want to first kill cows for cowhide, then turn the cowhide into leather using `+tan leather`, then craft leather gloves from those. Alternatively, you can also buy these items from our grand-exchange channel.
 
 To see all the items you can craft, check the [Crafting Wiki Page](https://oldschool.runescape.wiki/w/Crafting) - most of the items are in the bot, with the exact same level and item requirements.
 
@@ -387,6 +407,9 @@ Questing recieves a 10% boost if you have the full Graceful outfit equipped in y
 
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
+## Alching
+
+While the magic skill may not yet be released, you can still alch your items for gp! Alchemy uses the high level alchemy prices of items and requires nature runes and fire runes, though items which provide infinite fire runes will also work when equipped in any of your gear setups. Alching is not instant, and you will get your gp when your trip has finished. 
 
 # Boss and Monster Requirements and Boosts
 
@@ -417,11 +440,12 @@ For detailed information about any killable monster or boss, you can use the `+m
 
 # Buyable Items
 
-You can purchase these items by typing `+buy <item>`. Some require QP, and have higher costs than ingame.
+You can purchase these items by typing `+buy x <item>`. Some require QP, and have higher costs than ingame. You can buy up to 250k of any item in a single command.
 
 | **Item** | **Quest points required** | **Price** |
 | - | :-: | :-: |
 | Quest Point Cape | 277 | 99k |
+| Shield right half | 111 | 750k |
 | Helm of Neitiznot | 75 | 500k |
 | Iban's Staff | 30 | 250k |
 | Barrelchest Anchor | 30 | 2m |
@@ -439,9 +463,9 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 | Iron gloves | 20 | 200k |
 | Bronze gloves | 10 | 100k |
 | Hardleather gloves | 5 | 50k |
-| Huge Fishing Bait Pack (10,000x Fishing Bait) | N/A | 50k |
-| Feather Pack (10,000x Feathers) | N/A | 100k |
-| Huge Jug Pack (500x Jugs of water) | N/A | 50k |
+| Fishing Bait | N/A | 5 |
+| Feather | N/A | 10 |
+| Jug of water | N/A | 100 |
 
 # Creatable Items
 
@@ -482,10 +506,11 @@ These items can be made by using the `+create <item>` command.
 | Medium Pouch | 20x Leather | 10 Crafting |
 | Large Pouch | 30x Leather | 20 Crafting |
 | Giant Pouch | 40x Leather | 30 Crafting |
+| Dragon Sq Shield | 1x Shield left half, 1x Shield right half | 60 Smithing, 111 QP |
 
 # Openable Items
 
-These items can be opened using the `+open <item>` command.
+These items can be opened using the `+open x <item>` command.
 
 | **Item** | **Input item(s) required** | 
 | - | :-: |
