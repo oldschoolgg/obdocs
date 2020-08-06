@@ -157,7 +157,7 @@ When completing laps of the Ape Atoll agility course you can earn a [monkey back
 | Maniacal | 500 |
 | Skeleton | 1,000 |
 | Kruk jr. | 1,500 |
-| Princley | 2,000 |
+| Princely | 2,000 |
 
 To view your total lap count on each specific agility course you can use the `+laps` command (note: only counts laps performed since August 3rd, 2020). 
 
