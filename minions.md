@@ -20,35 +20,51 @@ It's highly recommended to join the [support server](https://discord.gg/ob) for 
 
 # List of Commands for your Minion
 
-**Skills**
-**Patreon**
-**Bank**
-**Suffix Flags**
 
 | **Command Name** | **Description** | **Examples/Aliases** |
 | - | :-: | :-: |
 | +bank | Shows your minion bank | +bank, +bank 2, +bank --full |
+| +bury | Bury bones to train the Prayer Skill | +bury 10 bones, +bury dragon bones |
 | +buy | Buy unique items from the bot | +buy anti-dragon shield |
 | +cash | Shows your current bot GP balance | +gp, +cash, +bal |
+| +chop | Cut down trees to train the Woodcutting skill | +chop logs, +chop 20 willow logs |
 | +collectionlog | Shows your minions' collection log | +collectionlog boss. +cl, +cl clue all  |
+| +cook | Cook various items to train the Cooking skill | +cook 10 sardine, +cook jug of wine |
+| +craft | Create various items to train the Crafting Skill | +craft 10 gold ring, +craft leather gloves |
 | +create | Allows you to create items from other items in your bank | +create dragonfire shield, +create karil's armour set, +create karil's |
 | +daily | Allows you to answer a OSRS trivia question to receveive bot GP and rewards | +daily |
+| +decant | Make partially empty, useful potions into 4 dose potions | +decant saradomin brew, +decant super restore |
 | +dice | Used to roll a dice, optionally to gamble your bot GP. Rolling 55+ doubles your gamble | +dice, +dice 2b |
 | +drop | Drops any item from your bank, deleting it | +drop 100 bandos tassets |
 | +duel | Duel with another user for GP, or for fun | +duel @Woox 2b |
+| +economystats | Patreon-only command showing the stats of the bot economy | +estats |
+| +equip | Put gear on your minion | +equip skilling graceful hood, +equip melee bandos chestplate |
+| +equippet | Show off the pets you have received from minion trips | +equippet pet kree'arra, +equippet hellpuppy |
+| +fightcaves | Attempt the fight caves to pursue a fire cape | +fightcaves |
+| +fish | Catch fish to train the Fishing skill | +fish 10 shrimp, +fish barbarian fishing |
+| +fletch | Create items using the Fletching Skill | +fletch arrow shaft, +fletch 100 adamant dart |
 | +ge | Shows a link to help you find the Grand Exchange channel | +ge |
+| +gear | Check what gear your minion is wearing | +gear skilling, +gear melee, +gear misc |
+| +k | Shortcut to send your minion to kill monsters (instead of +m k) | +k bandos, +k 100 blue dragon |
+| +laps | Send your minion to a course to train the Agility Skill | +laps gnome, +laps 10 seers |
 | +leaderboard | Shows minion leaderboards | +leaderboard pets, +lb kc barrows |
+| +light | Burn logs to train the Firemaking skill | +light logs, +light 20 willow |
 | +mine | Tells minion to mine ores for mining XP and ores | +mine iron, +mine 50 coal |
-| +minion | The main minion command for controlling your minion | +minion, +m kill 73 dward, +m pat |
+| +minion | The main minion command for controlling your minion | +minion, +m setname, +m kill 73 dward, +m pat |
+| +monster | Shows important and useful information about a monster, such as boosts, required gear, and kill times | +monster kree, +monster cow |
+| +mypets | Show a list of pets received from chatting in the support server or doing +daily trivia | +mypets |
+| +offer | Send your minion to train prayer at the Chaos Altar at the risk of losing bones to PKers | +offer bones, +offer 20 superior dragon bones |
 | +open | Open caskets, boxes, chests, and anything openable that you have in your bank | +open medium, +open mystery box, +open casket |
 | +pay | Pay bot GP to someone | +pay Woox 2b |
 | +quest | Sends your minion off to quest to gain Quest Points | +quest, +q |
+| +rc | Send your minion to make runes | +rc air, +rc 20 nature |
+| +sacrifice | Sacrifice items to unlock new minion icon colors | +sacrifice elysian sigil, +sacrifice dragon pickaxe |
 | +sell | Sell items to the bot for 20% below guide price | +sell 500 bones. +sell logs |
 | +sellto | Sell items from your bank to another player | +sellto B0aty 35m 1 dragon warhammer |
 | +skillcape | Allows you to purchase a skillcape if your minion reaches level 99 in a skill | +skillcape smithing |
-| +smith | Make items out of metal bars | +smith iron dagger, +smith 10 adamant platebody |
 | +smelt | Make bars out of ores for smithing | +smelt gold, +smelt 10 adamantite |
-| +economystats | Patreon-only command showing the stats of the bot economy | +estats |
+| +smith | Make items out of metal bars | +smith iron dagger, +smith 10 adamant platebody |
+| +wt | Send your minion to subdue the Wintertodt | +wt |
 
 
 
