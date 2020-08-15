@@ -18,6 +18,39 @@ Next, decide what you want to do. Skilling? PVM? Questing? Read the rest of the 
 
 It's highly recommended to join the [support server](https://discord.gg/ob) for several reasons: All updates and changes to the bot are announced in the #news channel in the server. We have a #grand-exchange channel you can use to trade/sell items with others. We have a #notifications channel that shows all the rare drops, pets, and other things that people are getting in real time! 
 
+# List of Commands for your Minion
+
+**Skills**
+**Patreon**
+**Bank**
+**Suffix Flags**
+
+| **Command Name** | **Description** | **Examples/Aliases** |
+| - | :-: | :-: |
+| +bank | Shows your minion bank | +bank, +bank 2, +bank --full |
+| +buy | Buy unique items from the bot | +buy anti-dragon shield |
+| +cash | Shows your current bot GP balance | +gp, +cash, +bal |
+| +collectionlog | Shows your minions' collection log | +collectionlog boss. +cl, +cl clue all  |
+| +create | Allows you to create items from other items in your bank | +create dragonfire shield, +create karil's armour set, +create karil's |
+| +daily | Allows you to answer a OSRS trivia question to receveive bot GP and rewards | +daily |
+| +dice | Used to roll a dice, optionally to gamble your bot GP. Rolling 55+ doubles your gamble | +dice, +dice 2b |
+| +drop | Drops any item from your bank, deleting it | +drop 100 bandos tassets |
+| +duel | Duel with another user for GP, or for fun | +duel @Woox 2b |
+| +ge | Shows a link to help you find the Grand Exchange channel | +ge |
+| +leaderboard | Shows minion leaderboards | +leaderboard pets, +lb kc barrows |
+| +mine | Tells minion to mine ores for mining XP and ores | +mine iron, +mine 50 coal |
+| +minion | The main minion command for controlling your minion | +minion, +m kill 73 dward, +m pat |
+| +open | Open caskets, boxes, chests, and anything openable that you have in your bank | +open medium, +open mystery box, +open casket |
+| +pay | Pay bot GP to someone | +pay Woox 2b |
+| +quest | Sends your minion off to quest to gain Quest Points | +quest, +q |
+| +sell | Sell items to the bot for 20% below guide price | +sell 500 bones. +sell logs |
+| +sellto | Sell items from your bank to another player | +sellto B0aty 35m 1 dragon warhammer |
+| +skillcape | Allows you to purchase a skillcape if your minion reaches level 99 in a skill | +skillcape smithing |
+| +smith | Make items out of metal bars | +smith iron dagger, +smith 10 adamant platebody |
+| +smelt | Make bars out of ores for smithing | +smelt gold, +smelt 10 adamantite |
+| +economystats | Patreon-only command showing the stats of the bot economy | +estats |
+
+
 
 # Activities  
 
