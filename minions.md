@@ -24,31 +24,30 @@ It's highly recommended to join the [support server](https://discord.gg/ob) for 
 ### Skills
 
 Currently available skills are:  
-  * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)  
-  * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)  
-  * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)  
-  * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)  
-  * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)  
-  * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)  
-  * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
-  * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
-  * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
-  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer) 
-  * [Fletching](https://www.oldschool.gg/oldschoolbot/minions?Fletching)
+  * [Agility](#Agility)  
+  * [Fishing](#Fishing)  
+  * [Mining](#Mining)  
+  * [Smithing](#Smithing)  
+  * [Woodcutting](#Woodcutting)  
+  * [Firemaking](#Firemaking)  
+  * [Runecrafting](#Runecrafting)  
+  * [Cooking](#Cooking)  
+  * [Crafting](#Crafting)  
+  * [Prayer](#Prayer) 
+  * [Fletching](#Fletching)
   
 You can view your minions' stats using `+m stats`.  
  
 ### Miscellaneous
-  * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
-  * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)   
-  * [Boss/Monster Requirements & Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20Monster%20Requirements%20and%20Boosts) 
-  * [Buyable Items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20Items)  
-  * [Creatable Items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
-  * [Openable Items](https://www.oldschool.gg/oldschoolbot/minions?Openable%20Items)
-  * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds) 
-  * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
-  * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
-  * [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
+  * [Questing](#Questing)  
+  * [Skillcapes](#Skillcapes)   
+  * [Boss/Monster Requirements & Boosts](#BossMonsterRequirementsBoosts) 
+  * [Buyable Items](#BuyableItems)  
+  * [Creatable Items](#CreatableItems)
+  * [Openable Items](#OpenableItems)
+  * [Bank Backgrounds](#BankBackgrounds)
+  * [Minion Icons](#MinionIcons)
+  * [Patreon](#Patreon) 
 
 
 ### Bossing
@@ -123,7 +122,7 @@ To view your currently equipped gear, use: `+gear [setup]`. For example, to see 
 Just like dropping a pet ingame and having it follow you, your minion can also equip a pet. This will keep your minion company while it's out working hard to earn you items and gp. To equip a pet, use: `+equippet [pet name]` and it will show on all your gear setups. To unequip it, use: `+unequippet`.
 
 
-## Agility
+## <a name = "Agility"></a>Agility
 You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
 
 Agility rewards you with marks of grace which you can use to buy Graceful equipment using the command `+create graceful` or `+create graceful (piece)`.
@@ -144,7 +143,7 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 
 Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Marks of Grace** per hour.
 
-## Fishing
+## <a name = "Fishing"></a>Fishing
 You can train Fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
 
 Fishing bait is buyable with `+buy fishing bait`.  
@@ -181,7 +180,7 @@ Dark fishing bait and Raw Karambwanji aren't sold by the bot and can be obtained
 
 Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 
-## Mining
+## <a name = "Mining"></a>Mining
 
 You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.  
 
@@ -227,7 +226,7 @@ You can also recieve boosts to mining xp rates from:
 
 Click [here](https://i.imgur.com/b3HNdSi.png) for **Mining** XP rates.
 
-## Smithing
+## <a name = "Smithing"></a>Smithing
 You can train Smithing using `+smith` & `+smelt`
 `+smelt [quantity] <bar>`, for example `+smelt 50 bronze bar`
 `+smith [quantity] <item>`, for example `+smith adamant dart tips`
@@ -250,7 +249,7 @@ You can recieve a boost to gold bar smelting xp rates by equipping the goldsmith
 
 Click [here](https://i.imgur.com/tOTEqHS.png) for **Smithing** XP rates.
 
-## Woodcutting
+## <a name = "Woodcutting"></a>Woodcutting
 You can train Woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.  
 
 If you have at least level 61, you can get one of these boosts from owning one of these axes:
@@ -280,7 +279,7 @@ If you have at least level 61, you can get one of these boosts from owning one o
 
 Click [here](https://i.imgur.com/fVG81BQ.png) for **Woodcutting** XP rates.
 
-## Firemaking
+## <a name = "Firemaking"></a>Firemaking
 You can train Firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.  
 
 ### Logs
@@ -302,7 +301,7 @@ Click [here](https://i.imgur.com/80iIwN9.png) for **Firemaking** XP rates.
 
 You can now also train Firemaking via the Wintertodt minigame using the `+wt` or `+wintertodt` commands. Fighting the Wintertodt provides item rewards scales to your Woodcutting, Mining, Fishing, Farming, Crafting, and Herblore levels, and xp scaled to your Firemaking level. You need level 50 Firemaking to challenge the Wintertodt, and each attempt requires food to heal yourself from the Wintertodt's attacks, currently a fish which heals >10hp. The speed at which you challenge the Wintertodt increases with a higher Woodcutting level, and the food required is reduced for every piece of the pyromancer outfit you have equipped in your skilling setup, as well as the warm gloves and the fire cape. 
 
-## Runecrafting
+## <a name = "Runecrafting"></a>Runecrafting
 You can train Runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.
 
 You can boost Runecrafting xp rates by using rune pouches to increase the number of pure essence you can bring per trip to the altar you are using. 
@@ -325,7 +324,7 @@ You can boost Runecrafting xp rates by using rune pouches to increase the number
 
 Click [here](https://i.imgur.com/FMxtMSj.png) for **Runecrafting** XP rates.
 
-## Cooking
+## <a name = "Cooking"></a>Cooking
 You can train Cooking using `+cook [quantity] <food>`, for example `+cook 50 bass`.  
 
 You can boost Cooking xp rates when attempting to cook fish while having the cooking guantlets equipped which decrease your faliure rate when cooking fish.
@@ -358,37 +357,37 @@ You can boost Cooking xp rates when attempting to cook fish while having the coo
 
 Click [here](https://i.imgur.com/iJuoDbb.png) for **Cooking** XP rates.
 
-## Crafting
+## <a name = "Crafting"></a>Crafting
 You can train Crafting with the `+craft` command. For example, `+craft 100 leather gloves`. To start training Crafting, you will probably want to first kill cows for cowhide, then turn the cowhide into leather using `+craft leather`, then craft leather gloves from those. Alternatively, you can also buy these items from our grand-exchange channel.
 
 To see all the items you can craft, check the [Crafting Wiki Page](https://oldschool.runescape.wiki/w/Crafting) - most of the items are in the bot, with the exact same level and item requirements.
 
-## Prayer
+## <a name = "Prayer"></a>Prayer
 You can train Prayer by burying bones, or offering them to the Chaos altar. For example to bury 100 Dragon bones, you can do `+bury 100 Dragon bones`, or to bury the maximum amount you can: `+bury Dragon bones`. Offering the bones to the Chaos altar works exactly the same, except you use `+offer` instead, for example: `+offer 100 Dragon bones`.
 
 The Chaos Altar works like ingame, your minion will do 1 inventory trips back and forth to sacrifice, with a 10% chance of being PKed in the trip and losing some amount of your inventory of bones (depending on if you got PKed at the start/middle/finish).
 
 The Prayer skill is also required for creating Spirit shields.
 
-## Fletching
+## <a name = "Fletching"></a>Fletching
 
 You can train Fletching with the `+fletch` command. For example, `+fletch 10000 adamant dart`. To start off training Fletching, you will want to `+chop` some logs for arrow shafts, and then `+fletch arrow shaft` them into arrow shafts. Alternativley, you can buy logs or unfinished fletching supplies from our #grand-exchange channel in the support server. 
 
 To see all the items you can fletch, check out the [Fletching Wiki Page](https://oldschool.runescape.wiki/w/Fletching) - most of the items found there are fletchable in the bot, having the exact same level and item requirements. 
 
-## Questing
+## <a name = "Questing"></a>Questing
 Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-277 QP. 
 
 Quest points are required to kill some bosses (e.g. Vorkath) and required to buy some items (e.g. Barrows gloves).
 
 Questing recieves a 10% boost if you have the full Graceful outfit equipped in your skilling gear setup.
 
-## Skillcapes
+## <a name = "Skillcapes"></a>Skillcapes
 
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
 
-# Boss and Monster Requirements and Boosts
+# <a name = "BossMonsterRequirementsBoosts"></a>Boss and Monster Requirements and Boosts
 
 | **Boss** | **QP required** | **Gear required** | **Skill(s) required** | **Boost(s) Available** |
 | - | :-: | :-: | :-: | :-: |
@@ -415,7 +414,7 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 
 For detailed information about any killable monster or boss, you can use the `+monster <monster>` command.
 
-# Buyable Items
+# <a name = "BuyableItems"></a>Buyable Items
 
 You can purchase these items by typing `+buy <item>`. Some require QP, and have higher costs than ingame.
 
@@ -443,7 +442,7 @@ You can purchase these items by typing `+buy <item>`. Some require QP, and have 
 | Feather Pack (10,000x Feathers) | N/A | 100k |
 | Huge Jug Pack (500x Jugs of water) | N/A | 50k |
 
-# Creatable Items
+# <a name = "CreatableItems"></a>Creatable Items
 
 These items can be made by using the `+create <item>` command. 
 
@@ -483,7 +482,7 @@ These items can be made by using the `+create <item>` command.
 | Large Pouch | 30x Leather | 20 Crafting |
 | Giant Pouch | 40x Leather | 30 Crafting |
 
-# Openable Items
+# <a name = "OpenableItems"></a>Openable Items
 
 These items can be opened using the `+open <item>` command.
 
@@ -495,7 +494,7 @@ These items can be opened using the `+open <item>` command.
 | Birthday Present | Birthday Present |
 | Casket | Casket |
  
-# Bank Backgrounds
+# <a name = "BankBackgrounds"></a>Bank Backgrounds
 
 If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and having certain items in your collection log, they are quite hard to obtain.
 
@@ -509,7 +508,7 @@ Click on the bank bg name to see what it looks like.
 | [Casket (Legend Arts)](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
 
 
-# Minion Icons
+# <a name = "MinionIcons"></a>Minion Icons
 
 You can sacrifice items, and their GP value will go towards you unlocking new minion icons. You will automatically receive the icon immediately after sacrificing enough GP. You can see a leaderboard of who has sacrificed the most using `+lb sacrifice`.
 
@@ -524,7 +523,7 @@ You can sacrifice items using `+sacrifice [quantity] <item>`, like `+sacrifice B
 | ![](https://cdn.discordapp.com/emojis/673561609834070047.png?v=1) | 5b |
 | ![](https://cdn.discordapp.com/emojis/673561609913892899.png?v=1) | 10b |
 
-# Patreon
+# <a name = "Patreon"></a>Patreon
 
 The Patreon is a way for users to donate to me (Magnaboy), if you wish. It's entirely your choice, if you want to. I will never sell items/GP from the bot for money, nor P2W perks/advantages. 
 
