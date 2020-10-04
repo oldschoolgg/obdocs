@@ -46,7 +46,6 @@ You can view your minions' stats using `+m stats`.
   * [Buyable Items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20Items)  
   * [Creatable Items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
   * [Openable Items](https://www.oldschool.gg/oldschoolbot/minions?Openable%20Items)
-  * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds) 
   * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
   * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
   * [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
@@ -87,26 +86,19 @@ Currently available bosses to kill are:
   
  You can view your minions' killcounts using `+m kc`.
  
-#### Group Bossing
+#### Mass Bossing
 
-Some bosses are able to be killed in groups, these bosses currently are: All four GWD bosses, and Corp - more bosses are planned to be added. To do group bossing, you create a party, there are two kinds of parties: invite-only and mass. Invite only parties are for you to invite select people on your trip and mass parties can be joined by anyone. Parties have a leader, who is the person who created the party (ran the command).
+Some bosses are able to be killed in groups, these bosses currently are: All four GWD bosses, the Nightmare, and Corp - more bosses are planned to be added. 
 
 Note that, similar to ingame, even if you have a very big group of people in a party killing a boss, you're still limited by that bosses respawn time, although the kills can get very very fast if you have lots of people.
 
-Loot is rolled out completely randomly, for example if your party is doing 5 kills, it will give each kill loot to a random party member, the same person can be given loot multiple times, or none at all if unlucky.
+Loot is rolled out completely randomly, for example if your party is doing 5 kills, it will give each kill loot to a random party member, the same person can be given loot multiple times, or none at all if unlucky. This does not apply to the Nightmare, where damage dealt is calculated to determine the MvP in accordance with the specific loot mechanics of that boss. 
 
-Currently, boosts do not apply to group boss trips, however this will be added in the future.
+Currently, boosts do not apply to group boss trips, however this may be added in the future. Unlike gear boosts, patron trip extensions can apply to boss massing. The host of the mass (the player who initiated the mass) is the player checked for patron status.
 
-You **cannot** join parties if: you're an ironman or if your minion is busy.
+You **cannot** join parties if: you're an ironman (except for the Nightmare, which Ironmen can join) or if your minion is busy. 
 
-##### Invite-only group bossing
-Example of invite-only group bossing party: `+groupkill party corp @Magnaboy @Alexsuperfly @Crow653` - this would make an invite-only party, that only those 3 people can join. Note that, the leader (the person who is running the command) doesn't have to add themselves to the list, they're always included automatically.
-
-After, each user will have to confirm they want to join by clicking on the "join" reaction. The trip will start when all users have confirmed, or if the party leader has clicked the "start" reaction to start early.
-
-
-##### Mass bossing
-Example of a mass bossing party: `+groupkill mass corp` - this would make a mass party, that ANYONE can join. The trip will start after 2 minutes automatically, or when the party leader clicks the "start" reaction.
+Example of a mass bossing party: `+groupkill mass corp` - this would make a mass party, that anyone can join. The trip will start after 2 minutes automatically, or when the party leader clicks the "start" reaction. 
 
 #### Fight Caves
 You can now challenge the Fight Caves and TzTok-Jad to recieve a fire cape, tokkul, and the TzRek-Jad pet using the `+fightcaves` command. Requirements: total +160 range bonus equipped to your range gear setup, 43 prayer, 10x Prayer Potion (4), 4x Super Restore (4), and 6x Saradomin Brew (4) per attempt, some of which may be returned to you should you fail before the final wave. You can make the 4 dose potions from 3, 2, and 1 dose drops using the `+decant` command. Better range gear will reduce the time each attempt takes, as will total Jad kc. Having a Saradomin Godsword equipped in your melee gear setup will reduce your chances of dying before Jad by 4%, and the number of total attempts you have made will determine your chances of killing Jad when he is reached. 
@@ -123,6 +115,7 @@ To view your currently equipped gear, use: `+gear [setup]`. For example, to see 
 
 Just like dropping a pet ingame and having it follow you, your minion can also equip a pet. This will keep your minion company while it's out working hard to earn you items and gp. To equip a pet, use: `+equippet [pet name]` and it will show on all your gear setups. To unequip it, use: `+unequippet`.
 
+Your equipment stats are displayed on your `+gear [setup]` screen.
 
 ## Agility
 You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
@@ -159,7 +152,7 @@ When completing laps of the Ape Atoll agility course you can earn a [monkey back
 | Kruk jr. | 1,500 |
 | Princely | 2,000 |
 
-To view your total lap count on each specific agility course you can use the `+laps` command (note: only counts laps performed since August 3rd, 2020). 
+To view your total lap counts on all agility courses, you can use the `+lapcount` command (note: only displays laps completed since August 3rd, 2020). 
 
 
 ## Fishing
@@ -413,7 +406,7 @@ While the magic skill may not yet be released, you can still alch your items for
 
 # Boss and Monster Requirements and Boosts
 
-| **Boss** | **QP required** | **Gear required** | **Skill(s) required** | **Boost(s) Available** |
+| **Boss** | **QP required** | **Gear/Gear Stats required** | **Skill(s) required** | **Boost(s) Available** |
 | - | :-: | :-: | :-: | :-: |
 | Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%) |
 | Lizardman shaman | 30 | Karils Crossbow | 43 Prayer | Ring of the Gods (3%) |
@@ -435,6 +428,8 @@ While the magic skill may not yet be released, you can still alch your items for
 | Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Chestplate (2%), Armadyl Chainskirt (2%) |
 | Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Iban's Staff (5%) |
 | Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Bandos Chestplate (2%), Bandos Tassets (2%), Saradomin Godsword (2%) |
+| Sarachnis | N/A | Melee Setup: 57 + 120 Ranged Defence, 47 + 26 Stab Defence, 65 Crush Attack | 43 Prayer | N/A |
+| The Nightmare | 10 | Melee Setup: 150 Slash Defence, 80 Crush Attack | 43 Prayer | N/A |
 
 For detailed information about any killable monster or boss, you can use the `+monster <monster>` command.
 
@@ -445,7 +440,7 @@ You can purchase these items by typing `+buy x <item>`. Some require QP, and hav
 | **Item** | **Quest points required** | **Price** |
 | - | :-: | :-: |
 | Quest Point Cape | 277 | 99k |
-| Shield right half | 111 | 750k |
+| Shield right half | 111 | 1m |
 | Helm of Neitiznot | 75 | 500k |
 | Iban's Staff | 30 | 250k |
 | Barrelchest Anchor | 30 | 2m |
@@ -466,6 +461,69 @@ You can purchase these items by typing `+buy x <item>`. Some require QP, and hav
 | Fishing Bait | N/A | 5 |
 | Feather | N/A | 10 |
 | Jug of water | N/A | 100 |
+| Eye of newt | N/A | 10 |
+| Vial of Water | N/A | 10 |
+| Vial | N/A | 10 |
+| Cup of hot water | N/A | 1500 |
+| Chocolate bar | N/A | 200 |
+
+
+## Tokkul Shops
+
+These items can be purchased or sold using the `+tokkulshop [buy/sell] [item]` command. Tokkul can be obtained from the Fightcaves or from selling items to this shop
+
+### Tokkul Ore and Gem Shop
+
+| **Item** | **Price sold at** | **Price bought at** |
+| - | :-: | :-: |
+| Tin ore | 4 | 1 |
+| Copper ore | 4 | 1 |
+| Iron ore | 25 | 1 |
+| Silver ore | N/A | 7 |
+| Coal | N/A | 4 |
+| Gold ore | N/A | 15 |
+| Mithril ore | N/A | 16 |
+| Adamantite ore | N/A | 40 |
+| Runite ore | N/A | 320 |
+| Uncut sappire | 37 | 2 |
+| Uncut emerald | 75 | 5 |
+| Uncut ruby | N/A | 10 |
+| Uncut diamond | N/A | 20 |
+| Uncut dragonstone | N/A | 100 |
+| Uncut onyx | 300k | 20k |
+| Onyx bolt tips | 1500 | 100 |
+
+
+### Tokkul Rune Shop
+
+| **Item** | **Price sold at** | **Price bought at** |
+| - | :-: | :-: |
+| Fire rune | 6 | 1 |
+| Water rune | 6 | 1 |
+| Air rune | 6 | 1 |
+| Earth rune | 6 | 1 |
+| Mind rune | 4 | 1 |
+| Body rune | 4 | 1 |
+| Chaos rune | 135 | 9 |
+| Death rune | 270 | 18 |
+
+
+### Tokkul Equipment Shop
+
+| **Item** | **Price sold at** | **Price bought at** |
+| - | :-: | :-: |
+| Obsidian throwing ring | 375 | 25 |
+| Obsidian sword | 60k | 4k |
+| Obsidian dagger | 37.5k | 2.5k |
+| Obsidian maul | 75001 | 5k |
+| Obsidian staff | 52.5k | 3.5k |
+| Obsidian mace | 45k | 3k |
+| Obsidian cape | 90k | 6k |
+| Obsidian shield | 67.5k | 4.5k |
+| Obsidian helmet | 84480 | 5632 |
+| Obsidian platebody | 126k | 8.4k |
+| Obsidian platelegs | 100.5k | 6.7k |
+
 
 # Creatable Items
 
@@ -507,6 +565,12 @@ These items can be made by using the `+create <item>` command.
 | Large Pouch | 30x Leather | 20 Crafting |
 | Giant Pouch | 40x Leather | 30 Crafting |
 | Dragon Sq Shield | 1x Shield left half, 1x Shield right half | 60 Smithing, 111 QP |
+| Zamorakian Hasta | Zamorakian Spear, 300k gp | 55 Fishing, 35 Firemaking, 11 Crafting, 5 Smithing |
+| Zamorakian Spear | Zamorakian Hasta | None |
+| Coconut Milk | Vial, Coconut | None |
+| Eldritch Nightmare Staff | Nightmare Staff, Eldtrich Orb | None |
+| Harmonised Nightmare Staff | Nightmare Staff, Harmonised Orb | None |
+| Volatile Nightmare Staff | Nightmare Staff, Volatile Orb | None |
 
 # Openable Items
 
