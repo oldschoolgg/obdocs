@@ -33,7 +33,7 @@ Currently available skills are:
   * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
   * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
   * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
-  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer) 
+  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)  
   * [Fletching](https://www.oldschool.gg/oldschoolbot/minions?Fletching)
   
 You can view your minions' stats using `+m stats`.  
