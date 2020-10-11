@@ -6,10 +6,26 @@
 ##### How do I see all the things I can do with my minion?
 Most of the information on minions is on the [minions page](https://www.oldschool.gg/oldschoolbot/minions).
 
-##### How do I create a Barrows set, or deconstruct a Barrows set into the items?
-Here's an example: `+create Dharoks armour set` to turn items into a set, or `+create Dharoks` to turn the set back into the items.
+##### Where can I report bugs?
+You can either make a github issue in the bot repo: [oldschoolgg/oldschoolbot](https://github.com/oldschoolgg/oldschoolbot) OR join the [support server](http://support.oldschool.gg/) and post the bug in the help/support channel.
 
-##### Can I stop my minion from going on a trip I started ny accident?
+##### Where can I make suggestions for the bot?
+Suggestions can be made via the GitHub page for this bot and can be accessed through this link: https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=feature.md . Fill in the title of your suggestion and edit the description to explain your suggestion. Please search the issues before making a suggestion to ensure that it has not been suggested before.
+
+##### How do I sell items to someone?
+You can sell items to other players using the `+sellto` command, which is used like this: `+sellto @person [totalprice] [quantity] [item]`. For example, if you wanted to sell 3 bandos chestplates for a *combined total* of 50m: `+sellto @Magnaboy 50m 3 Bandos chestplate`.
+
+After using the command, both users will have to confirm the sale.
+
+
+##### How do I equip gear on my minion?
+There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. As an example, here's how you can equip a BCP to your melee setup: `+equip melee Bandos Chestplate`. If you're doing a boss that needs Melee gear, the bot will check your Melee setup. It's done like this so you don't have to spend a long time equipping and unequipping stuff, you can just have your best stuff in each setup at all times.
+
+The Skilling setup is where you equip skilling-related stuff, for example: Graceful or the Prospector outfit.
+
+You also have a cosmetic pet slot, shared across all gear setups. It allows you to equip a pet, like its following your minion around. You can equip a pet using the `+equippet` command. For example, to equip the Commander Zilyana pet, you would use `+equippet pet zilyana`. You need to use the exact item name as it is ingame. 
+
+##### Can I stop my minion from going on a trip I started by accident?
 Yes. Using the `+cancel` command you can tell your minion to drop everything and return at once. However, it takes the command literally and you will not receive any loot or xp, nor will you get any items you would have expended during the trip returned. For example, if you accidentally sent your minion off to smith 10 bronze daggers, using the cancel command would return your minion to idle status, but you would not have returned any bronze daggers, any smithing xp, or any of the 10 bronze bars initially allocated to your minion's trip.
 
 ##### Why do prices in minions differ?
@@ -22,13 +38,10 @@ There are two options: `+daily`, `+dice`. If you're lucky, someone will gift you
 This could be one of 3 reasons: either your account looks like an **alt**, your account is too **new**, or you have been banned for breaking the rules. Your Discord account needs to be at least **30 days** old.
 
 ##### Is RWT or autotyping against the rules?
-YES. You will be banned from the bot, it's not allowed. To date, there have been 100+ users caught doing this and all have been wiped/banned.
+YES. You will be banned from the bot, it's not allowed. To date, there have been hundreds of users caught doing this and all have been wiped/banned.
 
 ##### Can I create an alt account?
-Yes, however you can only create an alt account which is an ironman you are not allowed to de-iron. All other alt accounts are not permissable and you will be caught and banned. Creating an alt account is subject to the same restrictions regarding Discord account age as all other accounts.
-
-##### I found a bug in the bot, where do I report it?
-You can either make a github issue in the bot repo: [gc/oldschoolbot](https://github.com/gc/oldschoolbot) OR join the [support server](http://support.oldschool.gg/) and post the bug in the help/support channel.
+NO. You will be permanently banned from the bot on all accounts. However, you may create a single alt account as a permanent ironman, but you are not allowed to de-iron - ever, de-ironning the account for any reason will be considered as an alt and you will be banned. All other alt accounts are not permissable and you will be caught and banned. Creating an alt account is subject to the same restrictions regarding Discord account age as all other accounts.
 
 ##### I can't tell which items are which in my bank, how do I see what they are?
 You can use `+bank --text` or `+bank --text --full` to see the names of your items.
@@ -36,13 +49,8 @@ You can use `+bank --text` or `+bank --text --full` to see the names of your ite
 ##### How do I sell all my bank, or an entire page, at once?
 This is not currently possible, but might be added in a future update.
 
-##### How do I sell items to someone?
-You can sell items to other players using the `+sellto` command, which is used like this: `+sellto @person [totalprice] [quantity] [item]`. For example, if you wanted to sell 3 bandos chestplates for a *combined total* of 50m: `+sellto @Magnaboy 50m 3 Bandos chestplate`.
-
-After using the command, both users will have to confirm the sale.
-
 ##### Can I trade items with someone else?
-It is currently not possible to trade someone items for items, however you can use the `+sellto` command (see above) to sell items to another player.
+It is currently not possible to trade someone items for items, however you can use the `+sellto` command to sell items to another player.
 
 ##### How do I search for specific items in my bank?
 You can use `+bank --search=name` to search for items in your bank, for example, to see all dragon items in your bank, you could do: `+b --search=dragon`.
@@ -50,13 +58,6 @@ If searching for an item with spaces, surround the item with double quotes `"`. 
 
 ##### I got a pet from `+daily` but it doesn't show in my bank or collection log?
 The pets from `+daily` are separate to pets your minion pets, and are only shown in `+mypets`.  You have 2 separate groups of pets, `+mypets` and then you have the real item pets in your `+bank` that you have gotten from killing stuff and training skills.
-
-##### How do I equip gear on my minion?
-There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. As an example, here's how you can equip a BCP to your melee setup: `+equip melee Bandos Chestplate`. If you're doing a boss that needs Melee gear, the bot will check your Melee setup. It's done like this so you don't have to spend a long time equipping and unequipping stuff, you can just have your best stuff in each setup at all times.
-
-The Skilling setup is where you equip skilling-related stuff, for example: Graceful or the Prospector outfit.
-
-You also have a cosmetic pet slot, shared across all gear setups. It allows you to equip a pet, like its following your minion around. You can equip a pet using the `+equippet` command. For example, to equip the Commander Zilyana pet, you would use `+equippet pet zilyana`. You need to use the exact item name as it is ingame. 
 
 ##### Do I need to equip items to receive the boosts they provide?
 Skilling boosts *only* work when equipped in your skilling gear setup, while bossing/PVM boosts currently work either when equipped or when in your bank.
@@ -89,9 +90,6 @@ No. However, you can pay another player with the required levels to make it for 
 ##### Will X be added to the bot?
 I plan on adding all skills, minigames and bosses from OSRS to the bot. Anything that can reasonably be added will be added in time.
 
-##### Where can I make suggestions for the bot?
-Suggestions can be made via the GitHub page for this bot and can be accessed through this link: https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=feature.md . Fill in the title of your suggestion and edit the description to explain your suggestion. Please search the issues before making a suggestion to ensure that it has not been suggested before.
-
 ##### Can you stack clues on Old School Bot?
 No, you can't. It works like ingame.
 
@@ -100,6 +98,9 @@ This usually means you answered the question late, the incorrect message can be 
 
 ##### Why is the bot not responding to any commands?
 First, mention the bot (like this: `@Old School Bot`), and it will tell you what prefix it is set to use for your server. If it still doesn't respond, It could have to do with permissions the bot has. If you're not sure how to fix this, you can ask in the [support server](https://discord.gg/ob).
+
+##### How do I create a Barrows set, or deconstruct a Barrows set into the items?
+Here's an example: `+create Dharoks armour set` to turn items into a set, or `+create Dharoks` to turn the set back into the items.
 
 ##### The bot says it needs permission to ‘Manage messages’ in order to use a command. How do I do this?
 Server settings > Roles > Old School Bot (The auto assigned one) > Turn `Manage Messages` on.
