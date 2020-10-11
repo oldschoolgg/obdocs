@@ -45,7 +45,6 @@ You can view your minions' stats using `+m stats`.
   * [Buyable Items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20Items)  
   * [Creatable Items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
   * [Openable Items](https://www.oldschool.gg/oldschoolbot/minions?Openable%20Items)
-  * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds) 
   * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
   * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
   * [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
@@ -494,7 +493,7 @@ These items can be opened using the `+open <item>` command.
 | Reward Casket (Tier) | Reward Casket (Tier) |
 | Birthday Present | Birthday Present |
 | Casket | Casket |
- 
+
 # Bank Backgrounds
 
 If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and having certain items in your collection log, they are quite hard to obtain.
