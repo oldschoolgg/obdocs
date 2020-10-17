@@ -568,9 +568,14 @@ These items can be made by using the `+create <item>` command.
 | Zamorakian Hasta | Zamorakian Spear, 300k gp | 55 Fishing, 35 Firemaking, 11 Crafting, 5 Smithing |
 | Zamorakian Spear | Zamorakian Hasta | None |
 | Coconut Milk | Vial, Coconut | None |
-| Eldritch Nightmare Staff | Nightmare Staff, Eldtrich Orb | None |
+| Eldritch Nightmare Staff | Nightmare Staff, Eldritch Orb | None |
 | Harmonised Nightmare Staff | Nightmare Staff, Harmonised Orb | None |
 | Volatile Nightmare Staff | Nightmare Staff, Volatile Orb | None |
+| Volatile Orb* | Volatile Nightmare Staff | None |
+| Eldritch Orb* | Eldritch Nightmare Staff | None |
+| Harmonised Orb* | Harmonised Nightmare Staff | None |
+
+* Items indicated with a * will return all their constituent parts and not only the item listed. For example, the Eldritch orb creatable command will return both the Eldritch orb as well as the Nightmare staff.
 
 # Openable Items
 
