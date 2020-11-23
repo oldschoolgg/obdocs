@@ -111,11 +111,11 @@ When an item is equipped, it is removed from your bank to the gear setup. When u
 
 To **equip** an item into a setup, use: `+equip [setup] [item]`. For example, to equip a Bandos chestplate to the melee setup, you would use the command: `+equip melee bandos chestplate`. To **unequip** an item from a setup, use: `+unequip [setup] [item]`. For example: `+unequip melee bandos chestplate`.
 
-To view your currently equipped gear, use: `+gear [setup]`. For example, to see your skilling setup, use: `+gear skilling`.
+To view your currently equipped gear and equipment stats, use: `+gear [setup]`. For example, to see your skilling setup, use: `+gear skilling`. Your equipment stats are displayed on your `+gear [setup]` screen.
+
+To automatically equip *your* Best in Slot (BIS) items for a certain style use `+autoequip [melee/range/mage] [attack/defence] [crush/slash/stab/ranged/magic]`. It is used by specifying gear setup, whether you want to equip for attack or defence, and what stat you wish to equip for. For example, if you want to equip your BIS attack-crush items to your melee setup, you would do `+autoequip melee attack crush`. If you wanted to equip your best magic-attack gear in your magic setup, you would do `+autoequip mage attack magic`. It will use any gear you currently have equipped in the style you're currently trying to autoequip or in your bank.
 
 Just like dropping a pet ingame and having it follow you, your minion can also equip a pet. This will keep your minion company while it's out working hard to earn you items and gp. To equip a pet, use: `+equippet [pet name]` and it will show on all your gear setups. To unequip it, use: `+unequippet`.
-
-Your equipment stats are displayed on your `+gear [setup]` screen.
 
 ## Agility
 You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
