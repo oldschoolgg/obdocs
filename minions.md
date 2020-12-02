@@ -531,6 +531,8 @@ These items can be made by using the `+create <item>` command.
 
 | **Item** | **Input item(s) required** | **Stat(s) required** |
 | - | :-: | :-: |
+| Barrows Armour Set (`+create Brother's Armour Set`)| All Barrows pieces for desired set | None |
+| Barrows Armour (`+create Brother's`) | Barrows Armour Set | None |
 | Crystal Key | Loop Half of Key, Tooth Half of Key | None |
 | Godsword Blade | Godsword Shard 1, 2 & 3 | 80 Smithing |
 | Godsword | Godsword Blade, Hilt | 80 Smithing |
@@ -571,6 +573,9 @@ These items can be made by using the `+create <item>` command.
 | Eldritch Nightmare Staff | Nightmare Staff, Eldtrich Orb | None |
 | Harmonised Nightmare Staff | Nightmare Staff, Harmonised Orb | None |
 | Volatile Nightmare Staff | Nightmare Staff, Volatile Orb | None |
+| Eldritch Orb (and Nightmare Staff) | Eldritch Nightmare Staff | None |
+| Harmonised Orb (and Nightmare Staff) | Harmonised Nightmare Staff | None |
+| Volatile Orb (and Nightmare Staff) | Volatile Nightmare Staff | None |
 
 # Openable Items
 
