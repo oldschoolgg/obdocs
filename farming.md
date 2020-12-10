@@ -11,6 +11,7 @@ when they're ready to be harvested, you send your minion out to harvest and repl
 - Can choose to pay to protect a plant using +farm <plant> --pay. Some plants allow for use of both compost and payment: +farm <plant> --supercompost --pay.
 - To harvest a tree, you need the woodcutting level or 200gp per patch (you will not get logs in this case).
 - Wearing full gracefull boosts trips by 10%.
+- Wearing ring of endurance anywhere boosts trips by 10%.
 - Owning Farmer's equipment (not needing to be worn) gives xp boost. 
 - Having magic secateurs or farming cape in bank boosts your yield by 10% and 5% respectively.
 
@@ -22,7 +23,7 @@ when they're ready to be harvested, you send your minion out to harvest and repl
 - Graceful is needed for optimal time (10% boost). 
 - Owning Farmer's equipment (not neededing to be worn) gives xp boost. 
 - `+tithefarm --points` shows you how many tithe farm points you have.
-- You can use tithe farm points to buy farmer's outfit through the shop. `+buy Farmer's jacket` for example.
+- You can use tithe farm points to buy farmer's outfit through the shop. `+tithefarmshop Farmer's jacket` or `+tfs farmers hat` for example.
 
 +farmingcontract OR +fc
 - Need 45 farming to be assigned a contract.
