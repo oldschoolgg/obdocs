@@ -19,41 +19,45 @@ Next, decide what you want to do. Skilling? PVM? Questing? Read the rest of the 
 It's highly recommended to join the [support server](https://discord.gg/ob) for several reasons: All updates and changes to the bot are announced in the #news channel in the server. We have a #grand-exchange channel you can use to trade/sell items with others. We have a #notifications channel that shows all the rare drops, pets, and other things that people are getting in real time! 
 
 
-# Activities  
+# Page Contents
 
 ### Skills
 
 Currently available skills are:  
-  * [Agility](https://www.oldschool.gg/oldschoolbot/minions?Agility)  
-  * [Fishing](https://www.oldschool.gg/oldschoolbot/minions?Fishing)  
-  * [Mining](https://www.oldschool.gg/oldschoolbot/minions?Mining)  
-  * [Smithing](https://www.oldschool.gg/oldschoolbot/minions?Smithing)  
-  * [Woodcutting](https://www.oldschool.gg/oldschoolbot/minions?Woodcutting)  
-  * [Firemaking](https://www.oldschool.gg/oldschoolbot/minions?Firemaking)  
-  * [Runecrafting](https://www.oldschool.gg/oldschoolbot/minions?Runecrafting)  
-  * [Cooking](https://www.oldschool.gg/oldschoolbot/minions?Cooking)  
-  * [Crafting](https://www.oldschool.gg/oldschoolbot/minions?Crafting)  
-  * [Prayer](https://www.oldschool.gg/oldschoolbot/minions?Prayer)  
-  * [Fletching](https://www.oldschool.gg/oldschoolbot/minions?Fletching)
+  * Agility  
+  * Fishing  
+  * Mining
+  * Smithing 
+  * Woodcutting  
+  * Firemaking  
+  * Runecraft  
+  * Cooking
+  * Crafting
+  * Prayer
+  * Fletching
+  * Thieving
+  * Farming
+  
+Information about all of these skills can be found further down on this page.
   
 You can view your minions' stats using `+m stats`.  
  
 ### Miscellaneous
-  * [Questing](https://www.oldschool.gg/oldschoolbot/minions?Questing)  
-  * [Skillcapes](https://www.oldschool.gg/oldschoolbot/minions?Skillcapes)   
-  * [Alching](https://www.oldschool.gg/oldschoolbot/minions?Alching) 
-  * [Boss/Monster Requirements & Boosts](https://www.oldschool.gg/oldschoolbot/minions?Boss%20and%20Monster%20Requirements%20and%20Boosts) 
-  * [Buyable Items](https://www.oldschool.gg/oldschoolbot/minions?Buyable%20Items)  
-  * [Creatable Items](https://www.oldschool.gg/oldschoolbot/minions?Creatable%20Items)
-  * [Openable Items](https://www.oldschool.gg/oldschoolbot/minions?Openable%20Items)
-  * [Bank Backgrounds](https://www.oldschool.gg/oldschoolbot/minions?Bank%20Backgrounds)  
-  * [Minion Icons](https://www.oldschool.gg/oldschoolbot/minions?Minion%20Icons)
-  * [Patreon](https://www.oldschool.gg/oldschoolbot/minions?Patreon) 
+  * Questing
+  * Skillcapes
+  * Alching
+  * Warriors Guild
+  * Boss/Monster Requirements and Boosts
+  * Buyable Items
+  * Creatable Items
+  * Openable Items
+  * Bank Backgrounds
+  * Minion Icons
+  * Patreon
 
+### Bossing Overview
 
-### Bossing
-
-Currently available bosses to kill are:  
+Some of the currently available bosses to kill are:  
   
 ![https://i.imgur.com/jLyLLND.png](https://i.imgur.com/jLyLLND.png)| Barrows
 :--------: | :-----:
@@ -139,6 +143,38 @@ Agility rewards you with marks of grace which you can use to buy Graceful equipm
 
 Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Marks of Grace** per hour.
 
+#### Hallowed Sepulchre
+
+You can now challenge the Hallowed Sepulchre and unlock the Dark Graceful outfit, the Dark Squirrel recolor, and the Ring of Endurance, as well as the other [unqiue and useful items](https://oldschool.runescape.wiki/w/Hallowed_Sepulchre) provided by this minigame! You can get started by using the `+sepulchre` command, with a base agility level of 52 being required. The rewards increase the higher level floor you can reach, as will the number of hallowed marks you will obtain. 
+
+Items from the sepulchre shop can speed up your performance, as well as the Strange Old Lockpick and the Ring of Endurance, both of which are obtainable from the speulchre itself and provide respective boosts of 1% and 4%.
+
+| **Floor** | **Agility level required** |
+| - | :-: |
+| 1 | 52 |
+| 2 | 62 |
+| 3 | 72 |
+| 4 | 82 |
+| 5 | 92 |
+
+##### Hallowed Sepulchre Shop
+
+The following items can be purchased using the `+buy` command using hallowed marks. Many of these items provide a boost to your performance in the sepulchre.
+
+| **Item** | **Hallowed marks required** | **Boost provided** |
+| - | :-: | :-: |
+| Hallowed crystal shard | 1 | N/A |
+| Hallowed token | 10 | N/A |
+| Hallowed grapple | 100 | 3% |
+| Hallowed focus | 100 | 3% |
+| Hallowed symbol | 100 | 3% |
+| Hallowed hammer | 100 | 3% |
+| Hallowed ring | 250 | N/A |
+| Dark dye | 300 | N/A |
+| Dark acorn | 3000 | N/A |
+
+The dark graceful set can be made using the `+buy dark graceful` piece command with the base graceful item and a dark dye in your bank. If you have obtianed a Giant Squirrel agility pet, you can `+buy dark squirrel` if you have the pet and the dark acorn in your bank to transmogrify the pet. 
+
 #### Monkey Backpacks
 
 When completing laps of the Ape Atoll agility course you can earn a [monkey backpack](https://oldschool.runescape.wiki/w/Ape_Atoll_Agility_Course)! These are obtained automatically whenever you reach the lap count required for each backpack.
@@ -221,16 +257,18 @@ You can also recieve boosts to mining xp rates from:
 
 ### Ores
 
-| **Ore Name** | **Nuggets** | **Minerals** | Required level** |
+| **Ore Name** | **Nuggets** | **Minerals** | **Required level** |
 | - | :-: | :-: | :-: |
 | Rune essence |  |   | 1 |
 | Copper ore |  |   | 1 |
 | Tin ore |  |   | 1 |
 | Iron ore |  |   | 15 |
 | Silver ore |  |   | 20 |
+| Volcanic ash |  |  | 22 |
 | Pure essence |  |   | 30 |
 | Coal |  |  ✔ | 30 |
 | Gold ore | ✔ |   | 40 |
+| Gem rock |  |  | 40 |
 | Mithril ore | ✔ |   | 55 |
 | Adamantite ore | ✔ |   | 70 |
 | Runite ore | ✔ |   | 85 |
@@ -389,8 +427,120 @@ You can train Fletching with the `+fletch` command. For example, `+fletch 10000 
 
 To see all the items you can fletch, check out the [Fletching Wiki Page](https://oldschool.runescape.wiki/w/Fletching) - most of the items found there are fletchable in the bot, having the exact same level and item requirements. 
 
+## Thieving
+
+You can train thieving using the `+pickpocket` command. For example, you can `+pickpocket master farmer`. To start training Thieving, you can `+pickpocket man` or `woman`. You will obtain the standard loot from each monster you can pickpocket, all of which can be found on the [OSRS Thieving Wiki Page](https://oldschool.runescape.wiki/w/Thieving).
+
+### Thievable NPCs
+| **NPC Name** | **Required level** |
+| - | :-: |
+| Man/Woman | 1 |
+| Farmer | 10 |
+| Female H.A.M. member | 15 |
+| Male H.A.M. member | 20 |
+| Warrior woman | 25 |
+| Rogue | 32 |
+| Cave goblin | 36 |
+| Master farmer | 38 |
+| Guard | 40 |
+| Fremennik citizen | 45 |
+| Desert bandit | 53 |
+| Knight of ardougne | 55 |
+| Pollnivian bandit | 55 |
+| Yanille watchman | 65 |
+| Menaphite thug | 65 |
+| Paladin | 70 |
+| Gnome | 75 |
+| Hero | 80 |
+| Vyre | 82 |
+| Elf | 85 |
+| TzHaar-Hur | 90 |
+
+## Farming
+Farming in the bot works like farming ingame, where you will send your minion off on plating and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of pathces you have availble will increase with the number of quest points you have and your farming level.
+
+To plant crops, you can use the `+plant <name>` or `+farm <name>` commands. When a crop is fully grown, you can either use the `+harvest <name>` command, which will leave your patches empty, or the `+plant` or `+farm` commands which will plant whatever new crop you specify.
+
+Some crops can be protected when planted using the `--pay` flag on the end of your farming command. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `+create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10. 
+
+#### Farming Payment Creatables
+| **Item name** | **Input items** |
+| - | :-: |
+| Tomatoes(5) | 5 Tomato |
+| Tomato | Tomatoes(5) |
+| Apples(5) | 5 Cooking Apple |
+| Cooking Apple | Apples(5) |
+| Bananas(5) | 5 Banana |
+| Banana | Bananas(5) |
+| Strawberries(5) | 5 Strawberry |
+| Strawberry | Strawberries(5) |
+| Oranges(5) | 5 Orange |
+| Orange | Oranges(5) |
+| Potatoes(10) | 10 Potato |
+| Potato | Potatoes(10) |
+| Onions(10) | 10 Onion |
+| Onion | Onions(10) |
+| Cabbages(10) | 10 Cabbage |
+| Cabbage | Cabbages(10) |
+
+When harvesting trees, you will either need the woodcutting level necessary to chop down the tree (which will award logs), or if you lack the necessary woodcutting level, 200gp for a farmer to remove the tree for you (which will not award logs). 
+
+Compost is buyable from the game shop using the `+buy` command, and is automatically applied to your crops if you have any available. If you have supercompost or ultracompost, you can use their respecitve flags (`--supercompost` and `--ultracompost`) to add them to your crops when planting. Ultracompost can be created by combining supercompost with volcanic ash, which you can mine with 22 Mining. Compost decreases the death chances for your crops as they grow and increases some crop yields, so it can be very useful to get the most out of your seeds. 
+
+### Farming Contracts
+An easy way to get additional seeds while farming is to take on a [farming contract](https://oldschool.runescape.wiki/w/Guildmaster_Jane#Farming_contracts) from Farming Guildmaster Jane using the `+farmingcontract <tier>` command. You can take easy contracts at 45 Farming, medium contracts at 65 Farming, and hard contracts at 85 Farming. Guildmaster Jane will ask you to grow a crop suitable for your farming level, and upon successfully harvesting the requested crop you will be given a seed pack. If your contract is too difficult, you can use the `+fc easier` command to have Jane downgrade your contract to the next lowest tier. After completing your contract, you must use the `+seedpack` command to get your rewards. 
+
+### Tithe Farm
+The [Tithe Farm](https://oldschool.runescape.wiki/w/Tithe_Farm) is a Farming minigame where you earn points which can be used to purchase the Farmers outfit and grape seeds, and is unlocked with 34 Farming. Your minion will go out and actively participate in this minigame getting you points and farming xp, with the time taken decreasing with your minigame kc and a flat 10% time reduction from the graceful set.
+
+#### Tithe Farm Shop
+| **Item name** | **Point cost** |
+| - | :-: |
+| Farmers strawhat | 75 |
+| Farmers jacket/shirt | 150 |
+| Farmers boro trousers | 125 |
+| Farmers boots | 50 |
+| Grape seed | 2 |
+| Supercompost | 5 |
+
+
+#### Farming Boosts
+The speed of your farming trips and the xp you gain from farming activities can both be boosted, as well as the quantity of items harvested. The following items provide boosts to the farming skill:
+
+* Farmers Strawhat = +0.4% to XP
+* Farmers Jacket/Shirt = +0.8% to XP
+* Farmers Boro Trousers + +0.6% to XP
+* Farmers Boots = +0.2% to XP
+* Full Farmers Outfit = +0.4% to XP on top of item bonuses
+* Magic Secateurs = +10% to harvest quantity
+* Farming Cape = +5% to harvest quantity
+* Full Graceful Outfit = +10% to trip speed
+* Ring of Endurance = +10% to trip speed
+
+The full [Farming commands breakdown] (https://github.com/oldschoolgg/obdocs/blob/master/farming.md) gives an overview of all the commands introduced with the Farming skill. 
+
+#### Farming Patches
+| **Patch type** | **Base patches** | **Number of possible additional patches** | **Additional patch requirements** |
+| - | :-: | :-: | :-: |
+| Herb | 4 | 5 | 65 Farming and 1, 10, 15, & 31 QP |
+| Tree | 5 | 1 | 65 Farming |
+| Allotment | 6 | 7 | 45 Farming and 1, 15, & 33 QP |
+| Fruit tree | 4 | 2 | 85 Farming and 22 QP |
+| Seaweed | 0 | 2 | 22 QP |
+| Flower | 4 | 3 | 45 Farming and 1 & 33 QP |
+| Hardwood | 0 | 3 | 3 QP |
+| Vine | 12 | 0 | N/A |
+| Bush | 3 | 2 | 45 Farming and 3 QP |
+| Cactus | 1 | 1 | 45 Farming |
+| Hespori | 1 | 0 | N/A |
+| Calquat | 1 | 0 | N/A |
+| Crystal | 0 | 1 | 33 QP |
+| Spirit | 1 | 4 | 91 and 99 Farming |
+| Celastrus | 0 | 1 | 85 Farming |
+| Redwood | 0 | 1 | 85 Farming |
+
 ## Questing
-Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-277 QP. 
+Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-279 QP. 
 
 Quest points are required to kill some bosses (e.g. Vorkath) and required to buy some items (e.g. Barrows gloves).
 
@@ -403,6 +553,10 @@ Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typin
 ## Alching
 
 While the magic skill may not yet be released, you can still alch your items for gp! Alchemy uses the high level alchemy prices of items and requires nature runes and fire runes, though items which provide infinite fire runes will also work when equipped in any of your gear setups. Alching is not instant, and you will get your gp when your trip has finished. 
+
+## Warriors Guild
+
+You can use the Warriors Guild to get defenders, powerful offensive offhand slot items. You can use sets of black, mithril, adamant, or rune armour to earn guild tokens using the `+wg tokens` command. Once you have tokens, you can fight the cyclops housed in the guild to earn bronze through dragon defenders using the `+wg cyclops` command. 
 
 # Boss and Monster Requirements and Boosts
 
@@ -439,7 +593,7 @@ You can purchase these items by typing `+buy x <item>`. Some require QP, and hav
 
 | **Item** | **Quest points required** | **Price** |
 | - | :-: | :-: |
-| Quest Point Cape | 277 | 99k |
+| Quest Point Cape | 279 | 99k |
 | Shield right half | 111 | 1m |
 | Helm of Neitiznot | 75 | 500k |
 | Iban's Staff | 30 | 250k |
@@ -466,6 +620,8 @@ You can purchase these items by typing `+buy x <item>`. Some require QP, and hav
 | Vial | N/A | 10 |
 | Cup of hot water | N/A | 1500 |
 | Chocolate bar | N/A | 200 |
+| Ball of wool | N/A | 200 |
+| Compost | N/A | 20 |
 
 
 ## Tokkul Shops
@@ -540,6 +696,9 @@ These items can be made by using the `+create <item>` command.
 | Dragonfire Ward | Anti-dragon Shield, Skeletal Visage | 90 Smithing |
 | Infernal Pickaxe | Dragon Pickaxe, Smouldering Stone | 85 Smithing |
 | Infernal Axe | Dragon Axe, Smouldering Stone | 85 Firemaking |
+| Crystal Pickaxe | Dragon Pickaxe, Crystal Tool Seed, 120 Crystal Shard | 76 Smithing, 76 Crafting, 150 QP | 
+| Crystal Axe | Dragon Axe, Crystal Tool Seed, 120 Crystal Shard | 76 Smithing, 76 Crafting, 150 QP |
+| Crystal Harpoon | Dragon Harpoon, Crystal Tool Seed, 120 Crystal Shard | 76 Smithing, 76 Crafting, 150 QP |
 | Odium Ward | Odium Shard 1, 2, & 3 | None |
 | Malediction Ward | Malediction Shard 1, 2 & 3 | None |
 | Blessed Spirit Shield | Spirit Shield, Holy Elixir | 85 Prayer|
@@ -576,6 +735,7 @@ These items can be made by using the `+create <item>` command.
 | Eldritch Orb (and Nightmare Staff) | Eldritch Nightmare Staff | None |
 | Harmonised Orb (and Nightmare Staff) | Harmonised Nightmare Staff | None |
 | Volatile Orb (and Nightmare Staff) | Volatile Nightmare Staff | None |
+| Ultracompost | Supercompost, 2 Volcanic Ash | None |
 
 # Openable Items
 
