@@ -147,7 +147,7 @@ Click [here](https://i.imgur.com/LZGlSgj.png) for **Agility** XP rates and **Mar
 
 You can now challenge the Hallowed Sepulchre and unlock the Dark Graceful outfit, the Dark Squirrel recolor, and the Ring of Endurance, as well as the other [unqiue and useful items](https://oldschool.runescape.wiki/w/Hallowed_Sepulchre) provided by this minigame! You can get started by using the `+sepulchre` command, with a base agility level of 52 being required. The rewards increase the higher level floor you can reach, as will the number of hallowed marks you will obtain. 
 
-Items from the sepulchre shop can speed up your performance, as well as the Strange Old Lockpick and the Ring of Endurance, both of which are obtainable from the speulchre itself and provide respective boosts of 1% and 4%.
+Items from the sepulchre shop can speed up your performance, as well as the Strange Old Lockpick and the Ring of Endurance, both of which are obtainable from the sepulchre itself and provide respective boosts of 1% and 4%.
 
 | **Floor** | **Agility level required** |
 | - | :-: |
@@ -173,7 +173,7 @@ The following items can be purchased using the `+buy` command using hallowed mar
 | Dark dye | 300 | N/A |
 | Dark acorn | 3000 | N/A |
 
-The dark graceful set can be made using the `+buy dark graceful` piece command with the base graceful item and a dark dye in your bank. If you have obtianed a Giant Squirrel agility pet, you can `+buy dark squirrel` if you have the pet and the dark acorn in your bank to transmogrify the pet. 
+The dark graceful set can be made using the `+buy dark graceful` piece command with the base graceful item and a dark dye in your bank. If you have obtained a Giant Squirrel agility pet, you can `+buy dark squirrel` if you have the pet and the dark acorn in your bank to transmogrify the pet. 
 
 #### Monkey Backpacks
 
@@ -457,7 +457,7 @@ You can train thieving using the `+pickpocket` command. For example, you can `+p
 | TzHaar-Hur | 90 |
 
 ## Farming
-Farming in the bot works like farming ingame, where you will send your minion off on plating and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of pathces you have availble will increase with the number of quest points you have and your farming level.
+Farming in the bot works like farming ingame, where you will send your minion off on plating and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of patches you have available will increase with the number of quest points you have and your farming level.
 
 To plant crops, you can use the `+plant <name>` or `+farm <name>` commands. When a crop is fully grown, you can either use the `+harvest <name>` command, which will leave your patches empty, or the `+plant` or `+farm` commands which will plant whatever new crop you specify.
 
@@ -485,7 +485,7 @@ Some crops can be protected when planted using the `--pay` flag on the end of yo
 
 When harvesting trees, you will either need the woodcutting level necessary to chop down the tree (which will award logs), or if you lack the necessary woodcutting level, 200gp for a farmer to remove the tree for you (which will not award logs). 
 
-Compost is buyable from the game shop using the `+buy` command, and is automatically applied to your crops if you have any available. If you have supercompost or ultracompost, you can use their respecitve flags (`--supercompost` and `--ultracompost`) to add them to your crops when planting. Ultracompost can be created by combining supercompost with volcanic ash, which you can mine with 22 Mining. Compost decreases the death chances for your crops as they grow and increases some crop yields, so it can be very useful to get the most out of your seeds. 
+Compost is buyable from the game shop using the `+buy` command, and is automatically applied to your crops if you have any available. If you have supercompost or ultracompost, you can use their respective flags (`--supercompost` and `--ultracompost`) to add them to your crops when planting. Ultracompost can be created by combining supercompost with volcanic ash, which you can mine with 22 Mining. Compost decreases the death chances for your crops as they grow and increases some crop yields, so it can be very useful to get the most out of your seeds. 
 
 ### Farming Contracts
 An easy way to get additional seeds while farming is to take on a [farming contract](https://oldschool.runescape.wiki/w/Guildmaster_Jane#Farming_contracts) from Farming Guildmaster Jane using the `+farmingcontract <tier>` command. You can take easy contracts at 45 Farming, medium contracts at 65 Farming, and hard contracts at 85 Farming. Guildmaster Jane will ask you to grow a crop suitable for your farming level, and upon successfully harvesting the requested crop you will be given a seed pack. If your contract is too difficult, you can use the `+fc easier` command to have Jane downgrade your contract to the next lowest tier. After completing your contract, you must use the `+seedpack` command to get your rewards. 
