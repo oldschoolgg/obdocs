@@ -769,12 +769,12 @@ These backgrounds are only available for purchase and usage by patrons.
 
 | **Name** | **GP Cost** | **Item Cost** | **Collection Log Items Needed** | **Patron Tier Needed** |
 | - | :-: | :-: | :-: | :-: |
-| [Lumbridge](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/3.jpg) | 10m  |  |  | 3 |
-| [Night-time Edgeville](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/5.jpg) | 10m  |  |  | 3 |
-| [Default Dark mode](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/11.jpg) | 10m  |  |  | 3 |
-| [Grassy Area ](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/13.jpg) | 10m  |  |  | 3 |
-| [Morytania](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/12.jpg) | 10m  |  |  | 4 |
-| [Night-time Barrows](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/6.jpg) | 10m  |  |  | 5 |
+| [Lumbridge](https://github.com/oldschoolgg/oldschoolbot/blob/master/resources/images/bank_backgrounds/3.jpg) | 10m  |  |  | 3 |
+| [Night-time Edgeville](https://github.com/oldschoolgg/oldschoolbot/blob/master/resources/images/bank_backgrounds/5.jpg) | 10m  |  |  | 3 |
+| [Default Dark mode](https://github.com/oldschoolgg/oldschoolbot/blob/master/resources/images/bank_backgrounds/11.jpg) | 10m  |  |  | 3 |
+| [Grassy Area ](https://github.com/oldschoolgg/oldschoolbot/blob/master/resources/images/bank_backgrounds/13.jpg) | 10m  |  |  | 3 |
+| [Morytania](https://github.com/oldschoolgg/oldschoolbot/blob/master/resources/images/bank_backgrounds/12.jpg) | 10m  |  |  | 4 |
+| [Night-time Barrows](https://github.com/oldschoolgg/oldschoolbot/blob/master/resources/images/bank_backgrounds/6.jpg) | 10m  |  |  | 5 |
 
 # Minion Icons
 
