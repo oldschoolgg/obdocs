@@ -2,6 +2,8 @@ Farming works like ingame, you do a *farm run* to plant stuff (you send your min
 
 You can get seeds from seed packs, pickpocketing master farmers, wintertodt, and nests. You can also buy seeds (and any other tradeable items) from the Grand-Exchange channel in our discord server: http://discord.gg/ob
 
+To get started, the first you should do is `+farm potato`.
+
 # Commands
 
 ## +farm
