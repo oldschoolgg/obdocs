@@ -761,7 +761,20 @@ Click on the bank bg name to see what it looks like.
 | [Bandos](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/7.jpg?raw=true) | 100m | The 4 Godswords | Entire GWD log including pets |
 | [Corporeal Beast](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/8.jpg?raw=true) | 100m  | 1 spectral spirit shield, 1 arcane spirit shield  | Entire Corporeal Beast log including pet (4x spirit shield, 4x holy elixir for all the shields) |
 | [Casket (Legend Arts)](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
+| [Nightmare](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/9.jpg) | 100m  | 3 Orbs | Entire Nightmare CL |
 
+## Patron-only bank backgrounds
+
+These backgrounds are only available for purchase and usage by patrons.
+
+| **Name** | **GP Cost** | **Item Cost** | **Collection Log Items Needed** | **Patron Tier Needed** |
+| - | :-: | :-: | :-: | :-: |
+| [Lumbridge](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/3.jpg) | 10m  |  |  | 3 |
+| [Night-time Edgeville](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/5.jpg) | 10m  |  |  | 3 |
+| [Default Dark mode](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/11.jpg) | 10m  |  |  | 3 |
+| [Grassy Area ](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/13.jpg) | 10m  |  |  | 3 |
+| [Morytania](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/12.jpg) | 10m  |  |  | 4 |
+| [Night-time Barrows](https://github.com/gc/oldschoolbot/blob/master/resources/images/bank_backgrounds/6.jpg) | 10m  |  |  | 5 |
 
 # Minion Icons
 
