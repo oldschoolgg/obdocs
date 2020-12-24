@@ -23,20 +23,20 @@ It's highly recommended to join the [support server](https://discord.gg/ob) for 
 
 ### Skills
 
-Currently available skills are:  
-  * Agility  
-  * Fishing  
+Currently available skills are:
+  * Agility
+  * Fishing
   * Mining
-  * Smithing 
-  * Woodcutting  
-  * Firemaking  
-  * Runecraft  
+  * Smithing
+  * Woodcutting
+  * Firemaking
+  * Runecraft
   * Cooking
   * Crafting
   * Prayer
   * Fletching
-  * Thieving
-  * Farming
+  * Thieving 
+  * Farming 
   
 Information about all of these skills can be found further down on this page.
   
@@ -47,6 +47,8 @@ You can view your minions' stats using `+m stats`.
   * Skillcapes
   * Alching
   * Warriors Guild
+  * Barbarian Assault
+  * Champions' Challenge
   * Boss/Monster Requirements and Boosts
   * Buyable Items
   * Creatable Items
@@ -113,7 +115,7 @@ If you have extra fire capes, you can gamble them for an additional roll at the 
 When sending your minion out on boss or skilling trips, you can equip it with gear to improve its speed and effeciency. For convenience, there is a gear setup for melee, range, mage, skilling, and misc. Depending on the activity your minion is doing will depend on which gear is used. For example, taking on the fightcaves uses your minion's **range** gear setup as well as the Saradomin Godsword if it is equipped in your **melee** gear setup. Whereas going mining will use your minion's **skilling** gear setup. You can equip any equippable items you want into the different setups.
 When an item is equipped, it is removed from your bank to the gear setup. When unequipped, the item moves back to your bank.
 
-To **equip** an item into a setup, use: `+equip [setup] [item]`. For example, to equip a Bandos chestplate to the melee setup, you would use the command: `+equip melee bandos chestplate`. To **unequip** an item from a setup, use: `+unequip [setup] [item]`. For example: `+unequip melee bandos chestplate`.
+To **equip** an item into a setup, use: `+equip [setup] [item]`. For example, to equip a Bandos chestplate to the melee setup, you would use the command: `+equip melee bandos chestplate`. To **unequip** an item from a setup, use: `+unequip [setup] [item]`. For example: `+unequip melee bandos chestplate`. You can also `+autoequip` gear which will, depending on your desired combat style and type, equip the best gear you currently have available. You can `+autoequip melee/range/mage attack/defence crush/stab/slash/ranged/magic`. For example, if you wanted to equip your best magic attack gear in your mage setup, you would `+autoequip mage attack magic`. 
 
 To view your currently equipped gear, use: `+gear [setup]`. For example, to see your skilling setup, use: `+gear skilling`.
 
@@ -190,6 +192,21 @@ When completing laps of the Ape Atoll agility course you can earn a [monkey back
 
 To view your total lap counts on all agility courses, you can use the `+lapcount` command (note: only displays laps completed since August 3rd, 2020). 
 
+#### Brimhaven Agility
+An alternative form of agility training is to use the `+agilityarena`. While your minion will take some time to learn the ins and outs of the agility arena, this minigame can be quite rewarding, providing agility arena tickets which can be turned in for additional agility xp, a graceful recolour, herbs, and even a Pirate's hook! If you have the stats for the Karamja Medium diary, your xp from obstacles and from turning in tickets will be increased by 10%. If you have the stats for the Karamja Elite diary, you will get 10% more tickets from the minigame.
+
+You can spend your tickets on the items below using the `+aa buy` item command.
+| **Reward** | **Arena ticket cost** | **XP per ticket** |
+| - | :-: | :-: |
+| Agility XP | 1 | 240 |
+| Agility XP | 10 | 248 |
+| Agility XP | 25 | 260 |
+| Agility XP | 100 | 280 |
+| Agility XP | 1000 | 320 |
+| Toadflax | 3 | N/A |
+| Snapdragon | 10 | N/A |
+| Pirate's hook | 800 | N/A |
+| Recolor (brimhaven graceful) | 250 | N/A |
 
 ## Fishing
 You can train Fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.  
@@ -262,6 +279,7 @@ You can also recieve boosts to mining xp rates from:
 | Rune essence |  |   | 1 |
 | Copper ore |  |   | 1 |
 | Tin ore |  |   | 1 |
+| Saltpetre |  |  | 1 |
 | Iron ore |  |   | 15 |
 | Silver ore |  |   | 20 |
 | Volcanic ash |  |  | 22 |
@@ -402,6 +420,7 @@ You can boost Cooking xp rates when attempting to cook fish while having the coo
 | Bass | 43 |
 | Swordfish | 45 |
 | Monkfish | 62 |
+| Wine of Zamorak | 65 |
 | Shark | 80 |
 | Anglerfish | 84 |
 | Dark Crab | 90 |
@@ -456,12 +475,19 @@ You can train thieving using the `+pickpocket` command. For example, you can `+p
 | Elf | 85 |
 | TzHaar-Hur | 90 |
 
+### Pyramid Plunder
+You can challenge the thieving minigame Pyramid Plunder for good, high level thieving xp and a chance to obtain the Pharaoh's sceptre. The sceptre and graceful provide boosts to your time spent in this minigame, and it is highly recommended that you wait until at least level 71 thieving, though you only need a base thieving level of 21. Outside of the sceptre, the pyramid also drops small trinkets which can be sold to the bot for gp. 
+
 ## Farming
 Farming in the bot works like farming ingame, where you will send your minion off on plating and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of patches you have available will increase with the number of quest points you have and your farming level.
 
 To plant crops, you can use the `+plant <name>` or `+farm <name>` commands. When a crop is fully grown, you can either use the `+harvest <name>` command, which will leave your patches empty, or the `+plant` or `+farm` commands which will plant whatever new crop you specify.
 
 Some crops can be protected when planted using the `--pay` flag on the end of your farming command. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `+create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10. 
+
+You can set crop payment and compost to apply automatically using the `+defaultfarming tier compost/supercompost/ultracompost` and `+defaultfarming pay enable/disable` commands.
+
+You can make supercompost from watermelons using the `+compostbin watermelon` command. Otherwise supercompost can be obtained from drops by wilderness bosses. 
 
 #### Farming Payment Creatables
 | **Item name** | **Input items** |
@@ -502,6 +528,7 @@ The [Tithe Farm](https://oldschool.runescape.wiki/w/Tithe_Farm) is a Farming min
 | Farmers boots | 50 |
 | Grape seed | 2 |
 | Supercompost | 5 |
+| Bologa's Blessing (x10) | 1 |
 
 
 #### Farming Boosts
@@ -517,20 +544,23 @@ The speed of your farming trips and the xp you gain from farming activities can 
 * Full Graceful Outfit = +10% to trip speed
 * Ring of Endurance = +10% to trip speed
 
-The full [Farming commands breakdown] (https://github.com/oldschoolgg/obdocs/blob/master/farming.md) gives an overview of all the commands introduced with the Farming skill. 
+The full [Farming commands breakdown](https://github.com/oldschoolgg/obdocs/blob/master/farming.md) gives an overview of all the commands introduced with the Farming skill. 
 
 #### Farming Patches
 | **Patch type** | **Base patches** | **Number of possible additional patches** | **Additional patch requirements** |
 | - | :-: | :-: | :-: |
 | Herb | 4 | 5 | 65 Farming and 1, 10, 15, & 31 QP |
 | Tree | 5 | 1 | 65 Farming |
-| Allotment | 6 | 7 | 45 Farming and 1, 15, & 33 QP |
+| Allotment | 8 | 7 | 45 Farming and 1, 15, & 33 QP |
 | Fruit tree | 4 | 2 | 85 Farming and 22 QP |
 | Seaweed | 0 | 2 | 22 QP |
 | Flower | 4 | 3 | 45 Farming and 1 & 33 QP |
 | Hardwood | 0 | 3 | 3 QP |
 | Vine | 12 | 0 | N/A |
 | Bush | 3 | 2 | 45 Farming and 3 QP |
+| Hops | 4 | 0 | N/A |
+| Mushroom | 1 | 0 | N/A |
+| Belladonna | 1 | 0 | N/A |
 | Cactus | 1 | 1 | 45 Farming |
 | Hespori | 1 | 0 | N/A |
 | Calquat | 1 | 0 | N/A |
@@ -557,6 +587,31 @@ While the magic skill may not yet be released, you can still alch your items for
 ## Warriors Guild
 
 You can use the Warriors Guild to get defenders, powerful offensive offhand slot items. You can use sets of black, mithril, adamant, or rune armour to earn guild tokens using the `+wg tokens` command. Once you have tokens, you can fight the cyclops housed in the guild to earn bronze through dragon defenders using the `+wg cyclops` command. 
+
+## Barbarian Assault
+
+Challenge waves of penance monsters with three teammates to unlock the rewards from Barbarian Assault. BA in the bot works a bit differently than BA in OSRS as it was modified to be easier to find teams and earn points. The `+BA start` command will begin a two minute timer during which the three other members of your group can join using the emoji interface. There are no defined roles or role-specific honour levels, there aren't even specific waves. At random, one member of the team will be selected as the Fighter, and that member's melee strength bonus will provide an overall boost to your time spent per wave. Boosts are also provided based on total team honour level and BA killcount. If you have the stats required for the Kandarin Hard diary, you will get an additional 10% honour points. 
+
+To spend your honour points, you can `+BA buy` the items in the table below, `+BA level` to increase your honour level up to level 5, or `+ba gamble low/medium/high` and try your luck at the random rolls of the BA gambling table.
+
+**Barbarian Assault Shop**
+| **Item** | **Honour pount cost** |
+| - | :-: | :-: |
+| Fighter hat | 1100 |
+| Ranger hat | 1100 |
+| Healer hat | 1100 |
+| Runner hat | 1100 |
+| Fighter torso | 1500 |
+| Penance skirt | 1500 |
+| Runner boots | 400 |
+| Penance gloves | 600 |
+| Low gamble | 200 |
+| Medium gamble | 400 |
+| High gamble | 500 |
+
+
+## Champions' Challenge
+Do you have what it takes to become the champion? Once you have collected one of every champion scroll from mobs across the bot, you can undertake the champions' challenge! Using the `+cc` command, you can obtain the Champion's cape, an extremely rare item that will signal to other players you are a champion over many varied monsters.
 
 # Boss and Monster Requirements and Boosts
 
@@ -596,7 +651,7 @@ You can purchase these items by typing `+buy x <item>`. Some require QP, and hav
 | Quest Point Cape | 279 | 99k |
 | Shield right half | 111 | 1m |
 | Helm of Neitiznot | 75 | 500k |
-| Iban's Staff | 30 | 250k |
+| Iban's Staff | 30 | 300k |
 | Barrelchest Anchor | 30 | 2m |
 | Magic Secateurs | 40 | 2.5m |
 | Goldsmith gauntlets | 25 | 1m |
@@ -612,16 +667,16 @@ You can purchase these items by typing `+buy x <item>`. Some require QP, and hav
 | Iron gloves | 20 | 200k |
 | Bronze gloves | 10 | 100k |
 | Hardleather gloves | 5 | 50k |
-| Fishing Bait | N/A | 5 |
-| Feather | N/A | 10 |
+| Fishing Bait | N/A | 20 |
+| Feather | N/A | 50 |
 | Jug of water | N/A | 100 |
-| Eye of newt | N/A | 10 |
-| Vial of Water | N/A | 10 |
-| Vial | N/A | 10 |
+| Eye of newt | N/A | 300 |
+| Vial of Water | N/A | 60 |
+| Vial | N/A | 30 |
 | Cup of hot water | N/A | 1500 |
-| Chocolate bar | N/A | 200 |
-| Ball of wool | N/A | 200 |
-| Compost | N/A | 20 |
+| Chocolate bar | N/A | 1000 |
+| Ball of wool | N/A | 300 |
+| Compost | N/A | 400 |
 
 
 ## Tokkul Shops
@@ -736,6 +791,7 @@ These items can be made by using the `+create <item>` command.
 | Harmonised Orb (and Nightmare Staff) | Harmonised Nightmare Staff | None |
 | Volatile Orb (and Nightmare Staff) | Volatile Nightmare Staff | None |
 | Ultracompost | Supercompost, 2 Volcanic Ash | None |
+| Zamorak's grapes | Bologa's blessing, Grapes | None |
 
 # Openable Items
 
