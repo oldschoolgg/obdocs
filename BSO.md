@@ -7,14 +7,13 @@ Bot School Old, also known as BSO, is a fun, alterantive version of the Old Scho
 ## Key Mechanics Changes
 - Clue scrolls are stackable
 - 5x XP gain
-- No 200m cap on XP, and QP is capped at 5000
+- No 200m cap on XP
+- Quest points are capped at 5000, and you get 1-30 at a time
 - 2x PvM speed
 - Clue caskets give extra loot
 - There are special, custom items, like Mystery boxes and BSO pets
 - Certain commands are limited to T5 patrons when outside the support server to prevent botting and alts.
-- Everything is tradeable, and there are no ironmen*
-
-*If you have an ironman alt on OSB you can use it to play on BSO, but you cannot have your two BSO account interact in any way whatsoever. 
+- Everything is tradeable, and there are no ironmen
 
 ## BSO Items
 Some items are unique to BSO due to custom bosses, mechanic changes, and drop table changes. These can be extremely useful for everything from PvM to Skilling, and are often very rare drops. 
