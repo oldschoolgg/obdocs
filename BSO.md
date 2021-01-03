@@ -1,8 +1,11 @@
-# This document is WIP 
-It is intended to outline the key differences between BSO and OSB, but may be out of date from recent updates. If you have a question not covered within, please feel free to ask in the support server.
-
 # BSO
-Bot School Old, also known as BSO, is a fun, alterantive version of the Old School Bot. It has fun changes, new bosses, custom pets, and more! BSO is completely separate to OSB, and nothing you do in BSO will impact your real minion in OSB. 
+Bot School Old, also known as BSO, is an alterantive version of the Old School Bot. It has fun changes, new bosses, custom pets, and more! BSO is completely separate to OSB, and nothing you do in BSO will impact your real minion in OSB. 
+
+It's kind of like a "Leagues" of OSBot, where things are buffed for fun.
+
+## Invite
+
+You can invite BSO to your server using this link: https://discord.com/oauth2/authorize?client_id=729244028989603850&scope=bot
 
 ## Key Mechanics Changes
 - Clue scrolls are stackable
