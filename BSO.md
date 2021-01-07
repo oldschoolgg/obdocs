@@ -29,6 +29,9 @@ Some items are unique to BSO due to custom bosses, mechanic changes, and drop ta
 - XP Lamps:
 Dailies can provide you with XP **lamps** (tiny, small, average, large, and huge) which can be placed in most skills after a short time has passed from the point of their release. These provide 20k, 50k, 100k, 1m, and 5m xp respectively. They are very rare and are used by `=lamp size lamp, skill`.
 
+- Clues:
+Clues are stackable, *and* there is a new tier of clue, **Grandmaster**. Grandmaster clues require 50 Master clue completion to complete and have a unique drop table including some BSO exclusive items. 
+
 - Misc:
 The **Fish Sack** drops from the Sea Kraken and boost fishing trip times by 9 minutes. The **Thieves’ Armband** is obtained while training Thieving with the Wilvus pet equipped, it halves your chance to fail a pickpocket attempt. The **Divine Sigil** is from Corp and has the stats of the Elysian. 
 
