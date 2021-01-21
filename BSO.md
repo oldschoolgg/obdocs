@@ -45,7 +45,7 @@ King Goldemar is a group-only boss which drops the Dwarven Warhammer as well as 
 The Sea Kraken is a solo boss which drops a lot of raw food items. It requires range attack and magic defence gear in your range setup. It also drops the fish sack which boosts fishing. 
 
 - Treebeard:
-Treebeard is a solo boss which drops farming and herblore items. It requires 100 qp to kill and it requires magic attack and magic defence gear in your mage setup. It also drops the lumberjack outfit.
+Treebeard is a solo boss which drops farming and herblore items. It requires 100 qp to kill and it requires magic attack and magic defence gear in your mage setup.
 
 - Malygos:
 Malygos is a solo boss which has some rare abyssal gear drops. It requires 999 qp to kill and an anti dragon shield or an abyssal cape. It drops visages, the dragon hunter lance, a unique pet, and abyssal items.
