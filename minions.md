@@ -38,6 +38,7 @@ Currently available skills are:
   * Thieving 
   * Farming 
   * Herblore
+  * Construction
   
 Information about all of these skills can be found further down on this page.
   
@@ -281,7 +282,7 @@ You can also recieve boosts to mining xp rates from:
 | Copper ore |  |   | 1 |
 | Tin ore |  |   | 1 |
 | Saltpetre |  |  | 1 |
-| Iron ore |  |   | 15 |
+| Iron ore |  | ✔ | 15 |
 | Silver ore |  |   | 20 |
 | Volcanic ash |  |  | 22 |
 | Pure essence |  |   | 30 |
@@ -385,6 +386,7 @@ You can boost Runecrafting xp rates by using rune pouches to increase the number
 | Water | 5 |
 | Earth | 9 |
 | Fire | 14 |
+| Body | 20 |
 | Cosmic | 27 |
 | Chaos | 35 |
 | Astral | 40 |
@@ -622,6 +624,8 @@ All potions in OSRS are available to be made in the bot, however ingredients may
 | Saradomin Brew | Toadflax potion (unf) | Crushed nest | 81 |
 
 Some potions require other potions as inputs, or require things other than the standard vial of water + herb + secondary setup.
+
+#### Non-standard potions
 | **Finished potion** | **Potion base** | **Potion secondary** | **Required level** |
 | - | :-: | :-: | :-: |
 | Guthix balance | Restore potion | Garlic, Silver dust | 22 |
@@ -636,6 +640,58 @@ Some potions require other potions as inputs, or require things other than the s
 | Super antifire potion | Antifire potion | Crushed superior dragon bones | 92 |
 | Anti-venom+ | Anti-venom | Torstol | 94 |
 | Extended super antifire | Super antifire potion | Lava scale shard | 98 |
+
+## Construction
+It's free real estate. Literally, a house is provided, so get building! Construction in the bot is a paired down version of construction in OSRS, with more limited options designed to hit on the things with the most utility either for training or for aiding you in completing other content, with some cosmetics retained to spice up your house. Construction in the bot has three distinct parts: **Training**, **Mahogany Homes**, and your **Player-owned House**. Standard training requires planks, which can be made from normal, oak, teak, and mahogany logs using the `+sawmill <logs>` command, Mahogany Homes requires planks and steel bars, and building things in your PoH requires planks as well as various mob drops or buyables. 
+
+You can also `+offer` curved bones and long bones you get from PvM for construction xp after level 30 construction. Fighting the Wintertodt also provides some construction xp. 
+
+### Training
+Standard training offers the fastest methods for training construction in the bot, and also uses the most planks. When building these items, they do not appear in your PoH, and currently have no functionality outside of being the best xp per hour. You can do normal construction training using the `+build <item>` command. 
+
+#### Standard Construction Training Table
+| **Item** | **Required level** | **Planks needed** |
+| - | :-: | :-: |
+| Crude wooden chair | 1 | 2 Planks |
+| Wooden bookcase | 4 | 4 Planks |
+| Wooden chair | 8 | 3 Planks |
+| Wooden larder | 9 | 8 Planks |
+| Wood dining table | 10 | 4 Planks |
+| Rocking chair | 14 | 3 Planks |
+| Repair bench | 15 | 2 Oak planks |
+| Crafting table 1 | 16 | 4 Oak planks |
+| Oak chair | 19 | 2 Oak planks |
+| Oak dining table | 22 | 4 Oak planks |
+| Oak armchair | 26 | 3 Oak planks |
+| Carved oak table | 31 | 6 Oak planks |
+| Oak larder | 33 | 8 Oak planks |
+| Teak armchair | 35 | 2 Teak planks |
+| Teak table | 38 | 4 Teak planks |
+| Mahogany armchair | 50 | 2 Mahogany planks |
+| Mahogany table | 52 | 6 Mahogny planks |
+| Teak garden bench | 66 | 6 Teak planks |
+| Oak door | 74 | 10 Oak planks |
+| Gnome bench | 77 | 6 Mahogany planks |
+
+### Mahogany Homes
+Mahogany Homes is the construction minigame and it provides more xp per plank as well as some rewards which will improve your construction experience. To start a contract, use the `+mh build` command. Beginner contracts are available from level 1 to level 19, award 2 points per contract, and use normal planks. Novice contracts are available from level 10 to level 49, award 3 points per contract, and use oak planks. Adept contracts are available from level 50 to level 69, award 4 points per contract, and use teak planks. Expert contracts are available at level 70, award 5 points per contract, and use mahogany planks. All contracts use a random amount of steel bars and planks scaling with the number of contracts you are completing in a trip. The points gained from this minigame can be spent on a variety of items which will help train construction, provide you construction resources, fill your collection log, or are simply cosmetic. You can buy these items with the `+mh buy <item>` command. 
+
+#### Mahogany Homes Buyables
+| **Item** | **Point cost** | **Use** |
+| - | :-: | :-: |
+| Builders supply crate | 25 | Provides construction materials when opened |
+| Amy's saw | 500 | Cosmetic saw |
+| Plank sack | 350 | Construction xp boost |
+| Hosidius blueprints | 2000 | Future PoH recolour |
+| Carpenter's helmet | 400 | 0.4% construction xp boost |
+| Carpenter's shirt | 800 | 0.8% construction xp boost |
+| Carpenter's trousers | 600 | 0.6% construction xp boost |
+| Carpenter's boots | 200 | 0.2% construction xp boost |
+
+And the full carpenter's outfit boosts construction xp by an additional 0.5% for a total set bonus of 2.5%. 
+
+### Player-owned House
+When building your PoH, no construction xp is awarded, but your PoH can provide some great boots as well as being able to use the image generated by the `+poh` command to flex on your friends. There are 13 different object spaces in your PoH, all of which have a bunch of different items you can build in them. Currently, the only item which provides a boost is the Rejuvination pool which is built in the pool space, but other items will be made useful in teh future. Not all items that have been coded are currently able to be built, but that will change as more updates are made to the bot. For a full list of items which can be build in each space, use the `+poh items` command. Your PoH is where your minion lives when not out working for you, so make sure to give it a good home!
 
 ## Questing
 Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-279 QP. 
@@ -685,7 +741,7 @@ Do you have what it takes to become the champion? Once you have collected one of
 
 | **Boss** | **QP required** | **Gear/Gear Stats required** | **Skill(s) required** | **Boost(s) Available** |
 | - | :-: | :-: | :-: | :-: |
-| Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%) |
+| Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%), Rejuvination pool + (10%) |
 | Lizardman shaman | 30 | Karils Crossbow | 43 Prayer | Ring of the Gods (3%) |
 | Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer | Barrows Gloves (5%), Ranger Boots (5%), Iban's Staff (2%)|
 | Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer | Dragon Warhammer (10%) |
@@ -695,14 +751,14 @@ Do you have what it takes to become the champion? Once you have collected one of
 | Vet'ion | N/A | Full Verac's set | N/A | Dragon Warhammer (3%) |
 | King Black Dragon | N/A | Anti-Dragon shield, Armadyl Crossbow or Rune Crossbow, Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Armadyl Crossbow (10%) |
 | Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Barrows Gloves (3%), Archers Ring (3%) |
-| Corporeal Beast | N/A | Zamorakian spear | 43 Prayer | Dragon Warhammer (10%), Bandos Godsword (5%) |
+| Corporeal Beast | N/A | Zamorakian spear | 43 Prayer | Dragon Warhammer (10%), Bandos Godsword (5%), Rejuvination pool + (50%) |
 | Cerberus | N/A | Bandos chestplate or Torag's platebody or Dharok's platebody, Bandos tassets or Torag's platelegs or Dharok's platelegs, and Zamorakian spear | 43 Prayer | Bandos Tassets (5%), Bandos Chestplate (5%), Spectral Spirit Shield (10%) |
 | Commander Zilyana | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer, 70 Agility| Armadyl Crossbow (5%), Ranger Boots (5%) |
 | General Graardor | 75 | N/A | 43 Prayer | Dragon Warhammer (10%) |
 | Kree'Arra | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Crossbow (5%) |
 | K'ril Tsutsaroth | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Dragon Warhammer (10%) |
 | Kalphite Queen | N/A | Verac's flail, Karil's leathertop or Black d'hide top, and Verac's plateskirt | 43 Prayer | Dragon Warhammer (10%) |
-| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Chestplate (2%), Armadyl Chainskirt (2%) |
+| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Chestplate (2%), Armadyl Chainskirt (2%), Rejuvination pool + (10%) |
 | Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Iban's Staff (5%) |
 | Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Bandos Chestplate (2%), Bandos Tassets (2%), Saradomin Godsword (2%) |
 | Sarachnis | N/A | Melee Setup: 57 + 120 Ranged Defence, 47 + 26 Stab Defence, 65 Crush Attack | 43 Prayer | N/A |
@@ -745,6 +801,15 @@ You can purchase these items by typing `+buy x <item>`. Some require QP, and hav
 | Chocolate bar | N/A | 1000 |
 | Ball of wool | N/A | 300 |
 | Compost | N/A | 400 |
+| Limestone brick | N/A | 1000 |
+| Gold leaf | N/A | 500k |
+| Marble block | N/A | 1m |
+| Magic stone | N/A | 4m |
+| Red dye | N/A | 100k |
+| Skull | N/A | 100k |
+| Fairy enchantment | 23 | 100k |
+| Ancient signet | 105 | 100k |
+| Lunar signet | 52 | 100k |
 
 
 ## Tokkul Shops
