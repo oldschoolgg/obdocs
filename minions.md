@@ -751,7 +751,7 @@ Do you have what it takes to become the champion? Once you have collected one of
 | Vet'ion | N/A | Full Verac's set | N/A | Dragon Warhammer (3%) |
 | King Black Dragon | N/A | Anti-Dragon shield, Armadyl Crossbow or Rune Crossbow, Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Armadyl Crossbow (10%) |
 | Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Barrows Gloves (3%), Archers Ring (3%) |
-| Corporeal Beast | N/A | Zamorakian spear | 43 Prayer | Dragon Warhammer (10%), Bandos Godsword (5%), Rejuvination pool + (50%) |
+| Corporeal Beast | N/A | Zamorakian spear | 43 Prayer | Dragon Warhammer (10%), Bandos Godsword (5%), Rejuvenation pool + (50%) |
 | Cerberus | N/A | Bandos chestplate or Torag's platebody or Dharok's platebody, Bandos tassets or Torag's platelegs or Dharok's platelegs, and Zamorakian spear | 43 Prayer | Bandos Tassets (5%), Bandos Chestplate (5%), Spectral Spirit Shield (10%) |
 | Commander Zilyana | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer, 70 Agility| Armadyl Crossbow (5%), Ranger Boots (5%) |
 | General Graardor | 75 | N/A | 43 Prayer | Dragon Warhammer (10%) |
