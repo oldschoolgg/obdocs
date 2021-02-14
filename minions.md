@@ -948,7 +948,7 @@ Click on the bank bg name to see what it looks like.
 | - | :-: | :-: | :-: |
 | [Default](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/1.jpg?raw=true) | 0  |   |  |
 | [Bandos](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/7.jpg?raw=true) | 100m | The 4 Godswords | Entire GWD log including pets |
-| [Corporeal Beast](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/8.jpg?raw=true) | 100m  | 1 spectral spirit shield, 1 arcane spirit shield  | Entire Corporeal Beast log including pet (4x spirit shield, 4x holy elixir for all the shields) |
+| [Corporeal Beast](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/8.jpg?raw=true) | 100m  | 1 spectral spirit shield, 1 arcane spirit shield, 1 elysian spirit shield  | Entire Corporeal Beast log including pet (4x spirit shield, 4x holy elixir for all the shields) |
 | [Casket (Legend Arts)](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/9.jpg) | 100m  |   | The 4 clue milestone item rewards|
 | [Nightmare](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/9.jpg) | 100m  | 3 Orbs | Entire Nightmare CL |
 
