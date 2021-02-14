@@ -1,3 +1,7 @@
+# Changelog
+
+This shows changes made to Old School Bot, the most recent update is at the top.
+
 # Update - 2021/02/09
 
 ### Magic 
