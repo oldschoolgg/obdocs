@@ -52,7 +52,7 @@ You get boosts in Gnome Restaurant for... your experience (up to 20% boost at 10
 ### Other changes
 - Added all dragonfire protection shields to work in place of anti-dragon shield.
 - Fixed checking Zalcano kc.
-- A few tiny bugfxies.
+- A few tiny bugfixes.
 
 
 ### Github Sponsors
