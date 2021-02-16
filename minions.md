@@ -757,8 +757,8 @@ Do you have what it takes to become the champion? Once you have collected one of
 | General Graardor | 75 | N/A | 43 Prayer | Dragon Warhammer (10%) |
 | Kree'Arra | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Crossbow (5%) |
 | K'ril Tsutsaroth | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Dragon Warhammer (10%) |
-| Kalphite Queen | N/A | Verac's flail, Karil's leathertop or Black d'hide top, and Verac's plateskirt | 43 Prayer | Dragon Warhammer (10%) |
-| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Chestplate (2%), Armadyl Chainskirt (2%), Rejuvination pool + (10%) |
+| Kalphite Queen | N/A | Verac's flail, Karil's leathertop or Black d'hide top, and Verac's plateskirt | 43 Prayer | Dragon Warhammer (10%), Rejuvenation pool+ (10%)  |
+| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Chestplate (2%), Armadyl Chainskirt (2%)|
 | Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Iban's Staff (5%) |
 | Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Bandos Chestplate (2%), Bandos Tassets (2%), Saradomin Godsword (2%) |
 | Sarachnis | N/A | Melee Setup: 57 + 120 Ranged Defence, 47 + 26 Stab Defence, 65 Crush Attack | 43 Prayer | N/A |
