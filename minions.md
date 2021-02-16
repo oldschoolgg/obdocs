@@ -741,7 +741,7 @@ Do you have what it takes to become the champion? Once you have collected one of
 
 | **Boss** | **QP required** | **Gear/Gear Stats required** | **Skill(s) required** | **Boost(s) Available** |
 | - | :-: | :-: | :-: | :-: |
-| Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%), Rejuvination pool + (10%) |
+| Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%), Rejuvenation pool+ (10%), Strange Old Lockpick (7%) |
 | Lizardman shaman | 30 | Karils Crossbow | 43 Prayer | Ring of the Gods (3%) |
 | Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer | Barrows Gloves (5%), Ranger Boots (5%), Iban's Staff (2%)|
 | Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer | Dragon Warhammer (10%) |
