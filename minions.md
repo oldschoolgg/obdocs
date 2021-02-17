@@ -51,6 +51,7 @@ You can view your minions' stats using `+m stats`.
   * Skillcapes
   * Warriors Guild
   * Barbarian Assault
+  * Zalcano
   * Champions' Challenge
   * Gnome Restaurant
   * Boss/Monster Requirements and Boosts
@@ -764,6 +765,10 @@ To spend your honour points, you can `+BA buy` the items in the table below, `+B
 | Medium gamble | 400 |
 | High gamble | 500 |
 
+## Zalcano
+Are you ready to take on the demon underneath Prifddinas? Defeating Zalcano gives plenty of loot, with many gems, ores and bars to be stacked up. Zalcano has a requirement of 70 mining and smithing. There are several boosts for Zalcano, with a small boost for extra mining and smithing levels, up to 4.95% with both 99 mining and smithing. Minion learning provides a maximum 16.67% boost as well as a -10% penalty for not having graceful equipped in the skilling gear setup. Zalcano also uses food, however, only a small amount in comparison to other activities. 
+
+Zalcano can be started by using the `+zalcano` command. 
 
 ## Champions' Challenge
 Do you have what it takes to become the champion? Once you have collected one of every champion scroll from mobs across the bot, you can undertake the champions' challenge! Using the `+cc` command, you can obtain the Champion's cape, an extremely rare item that will signal to other players you are a champion over many varied monsters.
