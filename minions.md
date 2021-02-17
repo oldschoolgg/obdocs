@@ -39,6 +39,8 @@ Currently available skills are:
   * Farming 
   * Herblore
   * Construction
+  * Hunter
+  * Magic
   
 Information about all of these skills can be found further down on this page.
   
@@ -47,10 +49,10 @@ You can view your minions' stats using `+m stats`.
 ### Miscellaneous
   * Questing
   * Skillcapes
-  * Alching
   * Warriors Guild
   * Barbarian Assault
   * Champions' Challenge
+  * Gnome Restaurant
   * Boss/Monster Requirements and Boosts
   * Buyable Items
   * Creatable Items
@@ -117,13 +119,18 @@ If you have extra fire capes, you can gamble them for an additional roll at the 
 When sending your minion out on boss or skilling trips, you can equip it with gear to improve its speed and effeciency. For convenience, there is a gear setup for melee, range, mage, skilling, and misc. Depending on the activity your minion is doing will depend on which gear is used. For example, taking on the fightcaves uses your minion's **range** gear setup as well as the Saradomin Godsword if it is equipped in your **melee** gear setup. Whereas going mining will use your minion's **skilling** gear setup. You can equip any equippable items you want into the different setups.
 When an item is equipped, it is removed from your bank to the gear setup. When unequipped, the item moves back to your bank.
 
-To **equip** an item into a setup, use: `+equip [setup] [item]`. For example, to equip a Bandos chestplate to the melee setup, you would use the command: `+equip melee bandos chestplate`. To **unequip** an item from a setup, use: `+unequip [setup] [item]`. For example: `+unequip melee bandos chestplate`. You can also `+autoequip` gear which will, depending on your desired combat style and type, equip the best gear you currently have available. You can `+autoequip melee/range/mage attack/defence crush/stab/slash/ranged/magic`. For example, if you wanted to equip your best magic attack gear in your mage setup, you would `+autoequip mage attack magic`. 
+To **equip** an item into a setup, use: `+equip [setup] [item]`. For example, to equip a Bandos chestplate to the melee setup, you would use the command: `+equip melee bandos chestplate`. To **unequip** an item from a setup, use: `+unequip [setup] [item]`. For example: `+unequip melee bandos chestplate`. If you wish to unequip all items in a setup at once, you can use the `+unequipall` setup command. You can also `+autoequip` gear which will, depending on your desired combat style and type, equip the best gear you currently have available. You can `+autoequip melee/range/mage attack/defence crush/stab/slash/ranged/magic`. For example, if you wanted to equip your best magic attack gear in your mage setup, you would `+autoequip mage attack magic`. 
 
 To view your currently equipped gear, use: `+gear [setup]`. For example, to see your skilling setup, use: `+gear skilling`.
 
 Just like dropping a pet ingame and having it follow you, your minion can also equip a pet. This will keep your minion company while it's out working hard to earn you items and gp. To equip a pet, use: `+equippet [pet name]` and it will show on all your gear setups. To unequip it, use: `+unequippet`.
 
 Your equipment stats are displayed on your `+gear [setup]` screen.
+
+##### Gear Presets
+Gear presets allow you to save custom gear setups and equip all items with a single command so long as you have them in your bank and have not sold them or equipped them in another setup. Currently, there is one global preset "graceful" which can be used to equip the base graceful outfit. 
+
+To see what gear presets you currently have, you can use the `+gearpresets` command. To save a gear preset, you use the `+gearpresets new (name) (setup)` command. You can delete a gear preset using the `+gearpresets delete (name)` command. To equip on of the global or custom gear presets, you `+gearpresets equip (name) (setup)`, for example, `+gearpresets equip graceful skilling` would equip the global preset of the full graceful outfit in your skilling setup. 
 
 ## Agility
 You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.  
@@ -264,10 +271,10 @@ If you have at least level 61, you can get one of these boosts to mining output 
 You can also recieve boosts to mining xp rates from:
 
 * Prospector's Outfit = +2.5%
-  * Prospector's Helmet = +0.4%
-  * Prospector's Jacket = +0.8%
-  * Prospector's Legs = +0.6%
-  * Prospector's Boots = +0.2%
+  * Prospector Helmet = +0.4%
+  * Prospector Jacket = +0.8%
+  * Prospector Legs = +0.6%
+  * Prospector Boots = +0.2%
 
 * Mining Gloves
   * Mining Gloves = +2%
@@ -682,7 +689,7 @@ Mahogany Homes is the construction minigame and it provides more xp per plank as
 | Builders supply crate | 25 | Provides construction materials when opened |
 | Amy's saw | 500 | Cosmetic saw |
 | Plank sack | 350 | Construction xp boost |
-| Hosidius blueprints | 2000 | Future PoH recolour |
+| Hosidius blueprints | 2000 | PoH recolour |
 | Carpenter's helmet | 400 | 0.4% construction xp boost |
 | Carpenter's shirt | 800 | 0.8% construction xp boost |
 | Carpenter's trousers | 600 | 0.6% construction xp boost |
@@ -692,6 +699,34 @@ And the full carpenter's outfit boosts construction xp by an additional 0.5% for
 
 ### Player-owned House
 When building your PoH, no construction xp is awarded, but your PoH can provide some great boots as well as being able to use the image generated by the `+poh` command to flex on your friends. There are 13 different object spaces in your PoH, all of which have a bunch of different items you can build in them. Currently, the only item which provides a boost is the Rejuvination pool which is built in the pool space, but other items will be made useful in teh future. Not all items that have been coded are currently able to be built, but that will change as more updates are made to the bot. For a full list of items which can be build in each space, use the `+poh items` command. Your PoH is where your minion lives when not out working for you, so make sure to give it a good home!
+
+If you have 99 construction, you can `+PoH build item mount` and then `+PoH mountitem` any item you own in your PoH to display to the world. This item is refunded if you ever want to switch it out for something else, though the magic stones required to mount the item itself are not. 
+
+If you have the Hosidious blueprints from the mahogany homes minigame, you can modify the wallkit for your house using the `+PoH wallkit hosidious` command. This will permanently unlock this wallkit for your PoH, and more may be added in the future. 
+
+## Hunter
+From copper longtails to black chinchompas, use the hunter skill to track, trap, and catch a variety of critters. Though they're animals, they aren't stupid, and it will take some time to learn the most efficient ways to `+hunt` them, with a 10% maximum boost after 50 hours at a given creature. For a full list of creatures, you can use the `+hunt --creatures` command. Each creature also has a `+lb creatures` so you can see how you stack up against your fellow players. For example, to see the top black chinchompa hunters in OSB, you can `+lb creatures black chinchompa`. Make sure to have a set of graceful equipped in your skilling setup, as it provides boosts for certain creatures. Stamina potion (4)s will aid you in hunting the Herbiboar as well, and if you ever lack the level requirement for a creature, you can use the `--potion` flag to use hunter potion (4)s to boost if you have them.
+
+A warning, black chin and black salamander hunting is dangerous! These wilderness creatures will put you in the path of virtual PKers, who may attack you, causing you to lose potions, catch chances, or even your minion's gear! A failed PK attempt will see you lose some saradomin brews and super restores, as well as lose some of your maximum catch chances. If the PKer kills you, you will lose some of the creatures you were catching, pots, as well as the body and leg slot items in your misc gear setup. While those two items are risked, their defensive stats also help you escape PKers, so it may be worth the risk.
+
+Beyond the standard `+hunt` command, there are two additional forms of hunter: aerial fishing and birdhouses. Aerial fishing gives both fishing and hunter experience, as well as a rare chance at molch pears that you can use to purchase various skilling items. Rates improve with higher hunter and fishing levels as new `+aerialfish` targets are unlocked. Birdhouses are a passive way to earn hunter xp, and also provide bird nests which are useful for training herblore. Birdhouse runs need birdhouses, which can be crafted, and seeds to use as bait. To do a birdhouse run, use the `+birdhouse run` command followed by the type of birdhouse you want to use (e.g. maple birdhouse). To check the status of your birdhouses you can use the `+birdhouse check` command. 
+
+#### Aerial Fishing Buyables
+| **Item** | **Molch pearl cost** |
+| - | :-: |
+| Angler hat | 100 |
+| Angler top | 100 |
+| Angler waders | 100 |
+| Angler boots | 100 |
+| Pearl fishing rod | 100 |
+| Pearl fly fishing rod | 120 |
+| Pearl barbarian rod | 150 |
+| Fish sack | 1000 |
+
+## Magic
+Yer a wizard, or at least your minion is. Currently, you can cast *non-combat magic spells* like alching, enchanting, and certain utility spells like teleports. To start off the magic skill, you need to quest to get initial levels. If you had quest point progression before the magic skill, you may already have the starter levels out of the way. All spells require the same levels they require in OSRS. Bolt and jewellrey enchanting have variable level requirements depending on what type of object you're trying to enchant, and you can see all of your different options and the levels at which they become unlocked using the `+enchant --items` command. You can also `+cast` bones to bananas at level 15, the Varrock teleport at level 25, the Camelot teleport at level 45, and use high level alchemy at level 55. All spells require runes, but you can cut down on the rune cost by equipping an [elemental stave](https://oldschool.runescape.wiki/w/Elemental_staves) in your skilling setup, which will provide infinite elemental runes depending on the type of staff you equip. 
+
+With the magic skill, the Fountain of Rune is open for limited use in charging your amulets of glory using the `+chargeglories (quantity)` command. Your minion will do full inventories of 26 glories, and will have a small chance of being PK'd and losing your full inventory. If you have all the stats required for the wilderness elite diary, including the 96 magic requirement, you will have a 3x boost when chanrging glories. It is **not** recommended to charge amulets of glory without the wilderness elite diary. Charging amulets of glory in this way provides a small change to give you an amulet of eternal glory, which will never run out of charges. 
 
 ## Questing
 Questing in the bot is simple and easy, and roughly 20% faster than ingame. Instead of doing specific quests, you just "quest" and gain QP for "questing". You can keep questing until you reach the max QP. The amount of QP you recieve per trip scales down as you progress, with averages of 4 QP/hr from 0 to 100 QP, 3 QP/hr from 100-200 QP, and 2 QP/hr from 200-279 QP. 
@@ -704,17 +739,13 @@ Questing recieves a 10% boost if you have the full Graceful outfit equipped in y
 
 Upon reaching level 99 in a skill, you can purchase a skillcape for 99k by typing `+skillcape <skill_name>`. If it's your first 99, you'll get an untrimmed cape.
 
-## Alching
-
-While the magic skill may not yet be released, you can still alch your items for gp! Alchemy uses the high level alchemy prices of items and requires nature runes and fire runes, though items which provide infinite fire runes will also work when equipped in any of your gear setups. Alching is not instant, and you will get your gp when your trip has finished. 
-
 ## Warriors Guild
 
 You can use the Warriors Guild to get defenders, powerful offensive offhand slot items. You can use sets of black, mithril, adamant, or rune armour to earn guild tokens using the `+wg tokens` command. Once you have tokens, you can fight the cyclops housed in the guild to earn bronze through dragon defenders using the `+wg cyclops` command. 
 
 ## Barbarian Assault
 
-Challenge waves of penance monsters with three teammates to unlock the rewards from Barbarian Assault. BA in the bot works a bit differently than BA in OSRS as it was modified to be easier to find teams and earn points. The `+BA start` command will begin a two minute timer during which the three other members of your group can join using the emoji interface. There are no defined roles or role-specific honour levels, there aren't even specific waves. At random, one member of the team will be selected as the Fighter, and that member's melee strength bonus will provide an overall boost to your time spent per wave. Boosts are also provided based on total team honour level and BA killcount. If you have the stats required for the Kandarin Hard diary, you will get an additional 10% honour points. 
+Challenge waves of penance monsters with a teammate to unlock the rewards from Barbarian Assault. BA in the bot works a bit differently than BA in OSRS as it was modified to be easier to find teams and earn points. The `+BA start` command will begin a two minute timer during which the other member of your group can join using the emoji interface. There are no defined roles or role-specific honour levels, there aren't even specific waves. At random, one member of the team will be selected as the Fighter, and that member's melee strength bonus will provide an overall boost to your time spent per wave. Boosts are also provided based on total team honour level and BA killcount. If you have the stats required for the Kandarin Hard diary, you will get an additional 10% honour points. 
 
 To spend your honour points, you can `+BA buy` the items in the table below, `+BA level` to increase your honour level up to level 5, or `+ba gamble low/medium/high` and try your luck at the random rolls of the BA gambling table.
 
@@ -736,6 +767,9 @@ To spend your honour points, you can `+BA buy` the items in the table below, `+B
 
 ## Champions' Challenge
 Do you have what it takes to become the champion? Once you have collected one of every champion scroll from mobs across the bot, you can undertake the champions' challenge! Using the `+cc` command, you can obtain the Champion's cape, an extremely rare item that will signal to other players you are a champion over many varied monsters.
+
+## Gnome Restaurant 
+Order up! Help the gnomes prepare food and make deliveries in this minigame that you can run using the `+gnomerestaurant` command. It is a farily slow minigame, so it is recommended that you have some of the boosts which will make things much smoother. Boosts are gained through experience at the minigame (up to 20% at 100 kc), having full graceful in your skilling setup (25%), having level 66 magic or greater for teleports (25%), and for having teleportation jewellery in your bank. For the jewellery, you can have boosts for either the Amulet of glory (6), the Games necklace (8), or the Ring of dueling (8) in your bank, and the game will randomly select one of the three to check for and consume. An amulet of eternal glory will not be lost, and all amulets of glory (6) will be returned as an amulet of glory without charges. However, the ring of dueling or the games necklace will be consumed if selected. 
 
 # Boss and Monster Requirements and Boosts
 
@@ -810,6 +844,7 @@ You can purchase these items by typing `+buy x <item>`. Some require QP, and hav
 | Fairy enchantment | 23 | 100k |
 | Ancient signet | 105 | 100k |
 | Lunar signet | 52 | 100k |
+| Bucket of water | N/A | 500 |
 
 
 ## Tokkul Shops
@@ -925,6 +960,7 @@ These items can be made by using the `+create <item>` command.
 | Volatile Orb (and Nightmare Staff) | Volatile Nightmare Staff | None |
 | Ultracompost | Supercompost, 2 Volcanic Ash | None |
 | Zamorak's grapes | Bologa's blessing, Grapes | None |
+| Toads legs | Swamp toad | None |
 
 # Openable Items
 
@@ -937,6 +973,9 @@ These items can be opened using the `+open x <item>` command.
 | Reward Casket (Tier) | Reward Casket (Tier) |
 | Birthday Present | Birthday Present |
 | Casket | Casket |
+| Nest box (seeds/ring/empty) | Nest box (seeds/ring/empty) |
+| Giant egg sac (full) | Giant egg sac (full) |
+| Builders supply crate | Builders supply crate |
 
 # Bank Backgrounds
 
