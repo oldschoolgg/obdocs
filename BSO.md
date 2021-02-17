@@ -56,6 +56,9 @@ Malygos is a solo boss which has some rare abyssal gear drops. It requires 999 q
 - The Chambers of Xeric, Raids 1:
 CoX is a BSO exclusive for now. Equip your best gear (see the [OSRS wiki CoX strategies page](https://oldschool.runescape.wiki/w/Chambers_of_Xeric/Strategies) and group with to learn. You must get 200 kc before you can solo raids. Notable drops include the twisted bow and the olmlet pet.
 
+- Nex:
+Nex is an endgame boss that requires 95 prayer and a Frozen Key to start. You can either Solo or Mass it and requires some high level ranged gear to fight. It drops Pernix, Torva and Virtus gear. (There's a pin in the #mass-nex channel with information).
+
 ## BSO Pets
 These BSO-exclusive pets provide some unqiue and powerful perks and are rare drops from the activites listed.
 
