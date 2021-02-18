@@ -260,14 +260,14 @@ Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.  
 
 Some ores reward you with golden nuggets or unidentified minerals.<br>
-You can use nuggets to buy the prospector equipment and minerals to buy the three types of mining gloves.  
+You can use nuggets to buy the prospector outfit and minerals to buy the three mining gloves, this is done via the `+create` command.
 
 If you have at least level 61, you can get one of these boosts to mining output from owning one of these pickaxes:
 
 * Dragon pickaxe = +6%
 * Infernal pickaxe = +10%
 * Gilded pickaxe = +11%
-* 3rd age pickaxe = +12%
+* 3rd age pickaxe = +13%
 
 You can also recieve boosts to mining xp rates from:
 
