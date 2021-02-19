@@ -83,4 +83,4 @@ These BSO-exclusive pets provide some unqiue and powerful perks and are rare dro
 - Plopper: obtained from farming, makes it so your crops cant die ever and gives 4x farming yield
 - Cob: (2020 Halloween exclusive): 30% boost to the Hallowed Sepulchre, 2x boost to the Nightmare
 - Smokey (2020 Christmas exclusive): extra 1 in 15 chance of mystery box roll in any non-pvm trip, 10% chance of extra mystery box roll
-- Cakey (2021 Bot Birthday exclusive): it is a sentient slice of cake. **Do not consume**
+- Flappy (2021 Bot Birthday exclusive): 2x loot from minigames
