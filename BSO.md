@@ -67,7 +67,7 @@ These BSO-exclusive pets provide some unqiue and powerful perks and are rare dro
 - Shelldon: obtained from fishing, doubles your catch and xp when fishing
 - Remy: obtained from cooking, boosts cooking speed for food (except wine)
 - Lil Lamb: obtained from alching, boosts xp from offering bones by 1x-3x
-- Harry: obtained from Ardougne agility, gives bananas on pvm trips
+- Harry: obtained from Ardougne agility, gives bananas on pvm trips, extra marks of grace and eliminates the level-scaling for obtaining marks of grace on rooftop courses
 - Klik: obtained from killing dragons, automatically smelts ores from mining and cooks fish from fishing
 - Wintertoad: obtained from  the Wintertodt, halves the duration of Fight Cave attempts
 - Scruffy: obtained from Varrock agility, boosts fletching speed
