@@ -260,14 +260,14 @@ Click [here](https://i.imgur.com/0PUaA3J.png) for **Fishing** XP rates.
 You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.  
 
 Some ores reward you with golden nuggets or unidentified minerals.<br>
-You can use nuggets to buy the prospector equipment and minerals to buy the three types of mining gloves.  
+You can use nuggets to buy the prospector outfit and minerals to buy the three mining gloves, this is done via the `+create` command.
 
 If you have at least level 61, you can get one of these boosts to mining output from owning one of these pickaxes:
 
 * Dragon pickaxe = +6%
 * Infernal pickaxe = +10%
 * Gilded pickaxe = +11%
-* 3rd age pickaxe = +12%
+* 3rd age pickaxe = +13%
 
 You can also recieve boosts to mining xp rates from:
 
@@ -487,7 +487,7 @@ You can train thieving using the `+pickpocket` command. For example, you can `+p
 | TzHaar-Hur | 90 |
 
 ### Pyramid Plunder
-You can challenge the thieving minigame Pyramid Plunder for good, high level thieving xp and a chance to obtain the Pharaoh's sceptre. The sceptre and graceful provide boosts to your time spent in this minigame, and it is highly recommended that you wait until at least level 71 thieving, though you only need a base thieving level of 21. Outside of the sceptre, the pyramid also drops small trinkets which can be sold to the bot for gp. 
+You can challenge the thieving minigame Pyramid Plunder for good, high level thieving xp and a chance to obtain the Pharaoh's sceptre. The sceptre provides a boost to your time spent in this minigame, and it is highly recommended that you wait until at least level 71 thieving, though you only need a base thieving level of 21. Outside of the sceptre, the pyramid also drops small trinkets which can be sold to the bot for gp. Be sure to have graceful equipped in your skilling outfit or you'll be subject to a 7.5% time penalty.
 
 ## Farming
 Farming in the bot works like farming ingame, where you will send your minion off on plating and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of patches you have available will increase with the number of quest points you have and your farming level.
