@@ -20,8 +20,8 @@ You can invite BSO to your server using this link: https://discord.com/oauth2/au
 ## Lottery
 
 The BSO banklottery is a lottery where you can put both items and gp in. 
-To put in items do =lotterybank <itemname>, every item(stack) has to have a value of 10m and you need to put in 50m worth per command. Every 10m u put in, is equal to 1 ticket. 
-To put in gp do =buy x bank lottery ticket, where the x is for the amount of tickets u want to buy. Again these are 10m each.
+To put in items do =lotterybank <itemname>, every item(stack) has to have a value of 10m and you need to put in 50m worth per command. Every 10m you put in, is equal to 1 ticket. 
+To put in gp do =buy x bank lottery ticket, where the x is for the amount of tickets u want to buy. These are also 10m each.
 
 As a tier 3 patron, or higher, you can see the items in the lottery using the =lottery command.
 
