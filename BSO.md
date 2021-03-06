@@ -44,7 +44,7 @@ Dailies can provide you with XP **lamps** (tiny, small, average, large, and huge
 Clues are stackable, *and* there is a new tier of clue, **Grandmaster**. Grandmaster clues require you to complete 50 Master clue scrolls before you can attempt them. They have a unique drop table including some BSO exclusive items such as the **Clue Hunter Outfit** which halves time to complete clue scrolls, and the **Dwarven Blessing** which provides a 20% speed boost to all PvM activities at a cost of 1x Prayer Potion (4) per 5 minutes of the trip.
 
 - Misc:
-The **Fish Sack** drops from the Sea Kraken and boosts fishing trip times by 9 minutes. The **Thieves’ Armband** is obtained while training Thieving with the Wilvus pet equipped, it halves your chance to fail a pickpocket attempt. The **Divine Sigil** is from Corp and has the stats of the Elysian. 
+The **Fish Sack** drops from the Sea Kraken and boosts fishing trip times by 9 minutes. The **Thieves’ Armband** is obtained while training Thieving with the Wilvus pet equipped, it halves your chance to fail a pickpocket attempt. The **Divine Sigil** is from Corp and has the stats of the Elysian. **Rocktail** is a custom food, healing 26HP. It can obtained from Fishing Trawler or can be fished at level 120 and cooked at level 120.
 
 ## BSO Monsters
 Some monsters and their drops are unique to BSO, and some mobs have had their drop tables slightly modified. 
@@ -78,7 +78,7 @@ These BSO-exclusive pets provide some unqiue and powerful perks and are rare dro
 - Shelldon: obtained from fishing, doubles your catch and xp when fishing
 - Remy: obtained from cooking, boosts cooking speed for food (except wine)
 - Lil Lamb: obtained from alching, boosts xp from offering bones by 1x-3x
-- Harry: obtained from Ardougne agility, gives bananas on pvm trips
+- Harry: obtained from Ardougne agility, gives bananas on pvm trips, extra marks of grace and eliminates the level-scaling for obtaining marks of grace on rooftop course
 - Klik: obtained from killing dragons, automatically smelts ores from mining and cooks fish from fishing
 - Wintertoad: obtained from  the Wintertodt, halves the duration of Fight Cave attempts
 - Scruffy: obtained from Varrock agility, boosts fletching speed
@@ -92,6 +92,7 @@ These BSO-exclusive pets provide some unqiue and powerful perks and are rare dro
 - Brock: obtained from pvm zulrah, gives random logs on any non-pvm trip
 - Wilvus: obtained from pickpocketing, gives pre-made pickpocket loot on **ALL TRIPS** (including chance of thieves armband which halves the chance of failing pickpocketing)
 - Plopper: obtained from farming, makes it so your crops cant die ever and gives 4x farming yield
+- Ishi: obtained from killing ogress warriors, has a chance to interrupt commands and (when equiped) will change any pvm trip to =k ogress warrior
 - Cob: (2020 Halloween exclusive): 30% boost to the Hallowed Sepulchre, 2x boost to the Nightmare
 - Smokey (2020 Christmas exclusive): extra 1 in 15 chance of mystery box roll in any non-pvm trip, 10% chance of extra mystery box roll
 - Flappy (2021 Bot Birthday exclusive): 2x loot from minigames
