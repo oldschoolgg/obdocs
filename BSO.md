@@ -87,7 +87,7 @@ These BSO-exclusive pets provide some unqiue and powerful perks and are rare dro
 - Skipper: obtained from penguin agility, removes tax from item sales to the bot, adds 40% sacrifice value, and gives more gp on dailies (passive)
 - Ori: obtained from killing Malygos, boosts loot from pvm trips by 25% (rounding up)
 - Takon: obtained from completing the Chambers of Xeric, boosts smithing by 5x
-- Obis: obtained from runecrafting, gives random runes on any non-pvm trip
+- Obis: obtained from runecrafting, gives random runes on any non-pvm trip and 2x boost to Zalcano
 - Peky: obtained from woodcutting, gives random seeds on any non-pvm trip
 - Brock: obtained from pvm zulrah, gives random logs on any non-pvm trip
 - Wilvus: obtained from pickpocketing, gives pre-made pickpocket loot on **ALL TRIPS** (including chance of thieves armband which halves the chance of failing pickpocketing)
