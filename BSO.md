@@ -27,6 +27,13 @@ As a tier 3 patron, or higher, you can see the items in the lottery using the =l
 
 The Lottery is not drawn on any specific date.
 
+## Ironman
+
+You’re now allowed to have a permanent BSO ironman account. To create this, you’ll have to make a new discord account and do the =ironman command. Any other commands (on new accounts) will say you need to verify some thing first, but the =ironman command will bypass this. After confirming, you now have a permanent BSO ironman account. 
+
+The BSO Iron removes the options to trade, sell, gri (GiveRandomItem), gamble and answer spawnbox/lamps.
+
+If you want to make your current account an ironman, your ENTIRE minion profile will be reset/wiped, but you can use your main account as a permanent ironman if you wish. HOWEVER, you cannot make an alt account to be "your new main", because your main is your ironman, and you'd be breaking the rules by making an alt to be a non-iron.
 
 ## BSO Items
 Some items are unique to BSO due to custom bosses, mechanic changes, and drop table changes. These can be extremely useful for everything from PvM to Skilling, and are often very rare drops. 
