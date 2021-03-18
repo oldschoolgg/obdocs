@@ -15,7 +15,7 @@ You can invite BSO to your server using this link: https://discord.com/oauth2/au
 - 2x PvM speed
 - Clue caskets give extra loot
 - There are special, custom items, like Mystery boxes and BSO pets
-- Everything is tradeable, and there are no ironmen
+- Everything is tradeable
 
 ## Lottery
 
