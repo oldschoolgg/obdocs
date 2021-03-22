@@ -51,7 +51,7 @@ Dailies can provide you with XP **lamps** (tiny, small, average, large, and huge
 Clues are stackable, *and* there is a new tier of clue, **Grandmaster**. Grandmaster clues require you to complete 50 Master clue scrolls before you can attempt them. They have a unique drop table including some BSO exclusive items such as the **Clue Hunter Outfit** which halves time to complete clue scrolls, and the **Dwarven Blessing** which provides a 20% speed boost to all PvM activities at a cost of 1x Prayer Potion (4) per 5 minutes of the trip.
 
 - Misc:
-The **Fish Sack** drops from the Sea Kraken and boosts fishing trip times by 9 minutes. The **Thieves’ Armband** is obtained while training Thieving with the Wilvus pet equipped, it halves your chance to fail a pickpocket attempt and gives 3x pickpocket loot. The **Divine Sigil** is from Corp and has the stats of the Elysian. **Rocktail** is a custom food, healing 26HP. It can obtained from Fishing Trawler or can be fished at level 120 and cooked at level 120.
+The **Fish Sack** drops from the Sea Kraken and boosts fishing trip times by 9 minutes. The **Thieves’ Armband** can be obtained from any activity with the Wilvus pet equipped, it halves your chance to fail a pickpocket attempt and gives 3x pickpocket loot. The **Divine Sigil** is from Corp and has the stats of the Elysian. **Rocktail** is a custom food, healing 26HP. It can obtained from Fishing Trawler or can be fished at level 120 and cooked at level 120.
 
 ## BSO Monsters
 Some monsters and their drops are unique to BSO, and some mobs have had their drop tables slightly modified. 
