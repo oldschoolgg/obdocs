@@ -109,7 +109,7 @@ These BSO-exclusive pets provide some unqiue and powerful perks and are rare dro
 ## Master Skill Capes
 These BSO-exclusive master skillcapes provide varying perks to each skill, along with 8% XP boost if training the corresponding skill, or 3% on any other skills.
 
-They can be purchased when you have 500m xp in a skill and cost 1b GP. The command to purchase one is `=skillcape hunter master cape` for example.
+They can be purchased when you have 500m xp in a skill and cost 1b GP. The command to purchase one is `=skillcape hunter master cape` for example. These capes are untradeable.
 Skills with missing perks are either yet to be added or still unknown.
 
 - Attack:
