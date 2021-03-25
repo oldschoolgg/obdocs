@@ -103,3 +103,37 @@ These BSO-exclusive pets provide some unqiue and powerful perks and are rare dro
 - Cob: (2020 Halloween exclusive): 2x speed boost at the Hallowed Sepulchre and The Nightmare
 - Smokey (2020 Christmas exclusive): extra 1 in 15 chance of mystery box roll in any non-pvm trip, 10% chance of extra mystery box roll
 - Flappy (2021 Bot Birthday exclusive): 2x loot from minigames
+- Sandy: Obtained from hunting Sand Geckos, gives 3x hunter loot (2x if used at Sand Geckos, this also requires the Hunter Master Cape)
+- Hoppy (2021 Easter exclusive): Perk currently unknown
+
+## Master Skill Capes
+These BSO-exclusive master skillcapes provide varying perks to each skill, along with 8% XP boost if training the corresponding skill, or 3% on any other skills.
+
+They can be purchased when you have 500m xp in a skill and cost 1b GP. The command to purchase one is `=skillcape hunter master cape` for example.
+Skills with missing perks are either yet to be added or not yet found out.
+
+- Attack:
+- Strength:
+- Defence:
+- Hitpoints:
+- Ranged:
+- Prayer: 40% Less Prayer Potions consumed when using Dwarven Blessing
+- Magic:
+- Runecrafting:
+- Construction: 
+- Agility: Acts as a set of full graceful
+- Herblore: 
+- Thieving: 30% speed boost to Thieving
+- Crafting:
+- Fletching:  
+- Slayer:
+- Hunter: 2x speed boost to Hunting
+- Mining:
+- Smithing: 
+- Fishing: 4x loot and mystery boxes from Fishing Trawler
+- Cooking: 5x speed boost to Cooking
+- Firemaking: 2x loot from Wintertodt
+- Woodcutting: 2x loot from Woodcutting
+- Farming: 
+
+Note: these perks do not currently stack with the orginal skillcape's perks, so you must equip one in skilling and one in misc to get the effects of both.
