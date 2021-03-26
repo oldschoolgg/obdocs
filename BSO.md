@@ -136,4 +136,4 @@ Skills with missing perks are either yet to be added or still unknown.
 - Woodcutting: 2x loot from Woodcutting
 - Farming: 
 
-Note: these perks do not currently stack with the orginal skillcape's perks, so you must equip one in skilling and one in misc to get the effects of both.
+Note: Master cape perks do not currently include the orginal skillcape's perks, so you must equip one in skilling and one in misc to get the effects of both.
