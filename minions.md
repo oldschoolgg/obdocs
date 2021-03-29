@@ -266,7 +266,7 @@ If you have at least level 61, you can get one of these boosts to mining output 
 
 * Dragon pickaxe = +6%
 * Infernal pickaxe = +10%
-* Gilded pickaxe = +11%
+* Gilded/Crystal pickaxe = +11%
 * 3rd age pickaxe = +13%
 
 You can also recieve boosts to mining xp rates from:
@@ -333,7 +333,7 @@ You can train Woodcutting using `+chop [quantity] <logs>`, for example `+chop 50
 If you have at least level 61, you can get one of these boosts from owning one of these axes:
 * Dragon axe = +9%
 * Infernal axe = +11%
-* Gilded axe = +12%
+* Gilded/Crystal axe = +12%
 * 3rd age axe = +13%
 
 ### Logs
