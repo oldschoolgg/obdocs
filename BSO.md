@@ -14,7 +14,8 @@ You can invite BSO to your server using this link: https://discord.com/oauth2/au
 - Quest points are capped at 5000, and you get 1-30 at a time
 - 2x PvM speed
 - Clue caskets give extra loot
-- There are special, custom items, like Mystery boxes and BSO pets
+- Custom bosses
+- Custom items, like Mystery boxes, custom pets and master skill capes!
 - Everything is tradeable
 
 ## Lottery
