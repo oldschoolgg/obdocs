@@ -82,7 +82,7 @@ Nex is an endgame boss that requires 95 prayer and a Frozen Key to start. You ca
 These BSO-exclusive pets provide some unqiue and powerful perks and are rare drops from the activites listed.
 
 - Doug: obtained from mining, gives random ores when mining
-- Zippy: obtained from questing, gives extra clues and mystery boxes when completing clues, has a chance to double the amout of clue caskets obtained
+- Zippy: obtained from questing, gives extra clues and mystery boxes when completing clues, has a chance to double the amount of clue caskets obtained
 - Shelldon: obtained from fishing, doubles your catch and xp when fishing
 - Remy: obtained from cooking, boosts cooking speed for food (except wine)
 - Lil Lamb: obtained from alching, boosts xp from offering bones by 1x-3x
