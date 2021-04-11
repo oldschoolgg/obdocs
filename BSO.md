@@ -98,7 +98,7 @@ These BSO-exclusive pets provide some unqiue and powerful perks and are rare dro
 - Obis: obtained from runecrafting, gives random runes on any non-pvm trip and 2x boost to Zalcano
 - Peky: obtained from woodcutting, gives random seeds on any non-pvm trip
 - Brock: obtained from pvm zulrah, gives random logs on any non-pvm trip
-- Wilvus: obtained from pickpocketing, gives pre-made pickpocket loot on **ALL TRIPS**
+- Wilvus: obtained from pickpocketing, gives pre-made pickpocket loot on **ALL TRIPS** and 2x speed boost to thieving
 - Plopper: obtained from farming, makes it so your crops cant die ever and gives 4x farming yield
 - Ishi: obtained from killing ogress warriors, has a chance to interrupt commands and (when equipped) will change any pvm trip to =k ogress warrior
 - Cob: (2020 Halloween exclusive): 2x speed boost at the Hallowed Sepulchre and The Nightmare
