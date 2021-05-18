@@ -267,7 +267,7 @@ If you have at least level 61, you can get one of these boosts to mining output 
 * Dragon pickaxe = +6%
 * Infernal pickaxe = +10%
 * Gilded/Crystal pickaxe = +11%
-* 3rd age pickaxe = +13%
+* 3rd age pickaxe = +11%
 
 You can also recieve boosts to mining xp rates from:
 
@@ -334,7 +334,7 @@ If you have at least level 61, you can get one of these boosts from owning one o
 * Dragon axe = +9%
 * Infernal axe = +11%
 * Gilded/Crystal axe = +12%
-* 3rd age axe = +13%
+* 3rd age axe = +12%
 
 ### Logs
 | **Log** | **Required level** |
@@ -781,26 +781,26 @@ Order up! Help the gnomes prepare food and make deliveries in this minigame that
 | **Boss** | **QP required** | **Gear/Gear Stats required** | **Skill(s) required** | **Boost(s) Available** |
 | - | :-: | :-: | :-: | :-: |
 | Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%), Rejuvenation pool+ (10%), Strange Old Lockpick (7%) |
-| Lizardman shaman | 30 | Karils Crossbow | 43 Prayer | Ring of the Gods (3%) |
-| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer | Barrows Gloves (5%), Ranger Boots (5%), Iban's Staff (2%)|
+| Lizardman shaman | 30 | Karils Crossbow | 43 Prayer | Ring of the Gods (3%) OR Ring of the Gods (i) (5%) |
+| Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer | Barrows Gloves (3%), Ranger Boots (2%) OR Pegasian Boots (4%), Iban's Staff (2%) OR Harmonised Nightmare Staff (5%), Twisted Bow (5%), Ancestral (2% per piece)|
 | Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer | Dragon Hunter Crossbow (30%), Bandos Godsword (10%), Dragon Warhammer (10%), or Dragon Claws (10%) |
-| Giant Mole | N/A | Full Dharok's set | 43 Prayer | Barrows Gloves (2%), Berserker Ring (2%) |
-| Callisto | N/A | Full Verac's set | N/A |  Barrows Gloves (2%), Berserker Ring (2%) |
+| Giant Mole | N/A | Full Dharok's set | 43 Prayer | Barrows Gloves (5%), Berserker Ring (5%) OR Berserker Ring (i) (7%) OR Twisted Bow (10%)|
+| Callisto | N/A | Full Verac's set | N/A |  Barrows Gloves (3%), Berserker Ring (3%) OR Berserker Ring (i) (5%) |
 | Venenatis | N/A | Full Verac's set | N/A | Barrows Gloves (3%) |
 | Vet'ion | N/A | Full Verac's set | N/A | Dragon Warhammer (3%) |
-| King Black Dragon | N/A | Anti-Dragon shield, Armadyl Crossbow or Rune Crossbow, Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Armadyl Crossbow (10%) |
-| Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Barrows Gloves (3%), Archers Ring (3%) |
+| King Black Dragon | N/A | Anti-Dragon shield, Armadyl Crossbow OR Rune Crossbow OR Twisted Bow OR Dragon Hunter Crossbow, Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Armadyl Crossbow (6%) OR Dragon Hunter Crossbow (8%) OR Twisted Bow (10%) |
+| Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Barrows Gloves (3%), Archers Ring (3%) OR Archers Ring (i) (5%) |
 | Corporeal Beast | N/A | Zamorakian spear | 43 Prayer | Dragon Warhammer (10%), Bandos Godsword (5%), Rejuvenation pool + (50%) |
 | Cerberus | N/A | Bandos chestplate or Torag's platebody or Dharok's platebody, Bandos tassets or Torag's platelegs or Dharok's platelegs, and Zamorakian spear | 43 Prayer | Bandos Tassets (5%), Bandos Chestplate (5%), Spectral Spirit Shield (10%) |
-| Commander Zilyana | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer, 70 Agility| Armadyl Crossbow (5%), Ranger Boots (5%) |
-| General Graardor | 75 | N/A | 43 Prayer | Dragon Warhammer (10%) |
-| Kree'Arra | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Crossbow (5%) |
-| K'ril Tsutsaroth | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Dragon Warhammer (10%) |
-| Kalphite Queen | N/A | Verac's flail, Karil's leathertop or Black d'hide top, and Verac's plateskirt | 43 Prayer | Dragon Warhammer (10%), Rejuvenation pool+ (10%)  |
-| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Chestplate (2%), Armadyl Chainskirt (2%)|
-| Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Iban's Staff (5%) |
-| Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Bandos Chestplate (2%), Bandos Tassets (2%), Saradomin Godsword (2%) |
-| Sarachnis | N/A | Melee Setup: 57 + 120 Ranged Defence, 47 + 26 Stab Defence, 65 Crush Attack | 43 Prayer | N/A |
+| Commander Zilyana | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer, 70 Agility| Armadyl Crossbow (5%) OR Twisted Bow (10%), Ranger Boots (3%) OR Pegasian Boots (5%),  |
+| General Graardor | 75 | N/A | 43 Prayer | Bandos Godsword (5%) OR Dragon Warhammer (10%) |
+| Kree'Arra | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Crossbow (5%) OR Twisted Bow (10%)|
+| K'ril Tsutsaroth | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Dragon Claws (3%) OR Bandos Godsword (5%) OR Dragon Warhammer (10%) |
+| Kalphite Queen | N/A | Verac's flail, Karil's leathertop or Black d'hide top, and Verac's plateskirt | 43 Prayer | Dragon Warhammer (10%), Rejuvenation pool+ (10%), Elder Maul (5%)  |
+| Dagannoth Prime | N/A | Full Guthan's, Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Chestplate (2%), Armadyl Chainskirt (2%), Twisted Bow (6%)|
+| Dagannoth Rex | N/A | Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Iban's Staff (3%) OR Harmonised Nightmare Staff (5%), Occult Necklace (5%) |
+| Dagannoth Supreme | N/A |Full Guthan's, Bandos chestplate or Torag's chestplate, and Bandos tassets or Torag's platelegs | 43 Prayer | Bandos Chestplate (2%), Bandos Tassets (2%), Saradomin Godsword (4%) OR Dragon Claws (6%) |
+| Sarachnis | N/A | Melee Setup: 57 + 120 Ranged Defence, 47 + 26 Stab Defence, 65 Crush Attack | 43 Prayer | Dragon Claws (5%)|
 | The Nightmare | 10 | Melee Setup: 150 Slash Defence, 80 Crush Attack | 43 Prayer | N/A |
 
 For detailed information about any killable monster or boss, you can use the `+monster <monster>` command.
