@@ -766,7 +766,7 @@ To spend your honour points, you can `+BA buy` the items in the table below, `+B
 | High gamble | 500 |
 
 ## Zalcano
-Are you ready to take on the demon underneath Prifddinas? Defeating Zalcano gives plenty of loot, with many gems, ores and bars to be stacked up. Zalcano has a requirement of 70 mining and smithing. There are several boosts for Zalcano, with a small boost for extra mining and smithing levels, up to 4.95% with both 99 mining and smithing. Minion learning provides a maximum 16.67% boost as well as a -10% penalty for not having graceful equipped in the skilling gear setup. Zalcano also uses food, however, only a small amount in comparison to other activities. 
+Are you ready to take on the demon underneath Prifddinas? Defeating Zalcano gives plenty of loot, with many gems, ores and bars to be stacked up. Zalcano requires the stats to complete song of the elves: 70 mining, smithing, agility, construction, farming, herblore, hunter, and woodcutting. There are several boosts for Zalcano, with a small boost for extra mining and smithing levels, up to 4.95% with both 99 mining and smithing. Minion learning provides a maximum 16.67% boost as well as a -10% penalty for not having graceful equipped in the skilling gear setup. Zalcano also uses food, however, only a small amount in comparison to other activities. 
 
 Zalcano can be started by using the `+zalcano` command. 
 
@@ -783,7 +783,7 @@ Order up! Help the gnomes prepare food and make deliveries in this minigame that
 | Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%), Rejuvenation pool+ (10%), Strange Old Lockpick (7%) |
 | Lizardman shaman | 30 | Karils Crossbow | 43 Prayer | Ring of the Gods (3%) |
 | Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer | Barrows Gloves (5%), Ranger Boots (5%), Iban's Staff (2%)|
-| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer | Dragon Warhammer (10%) |
+| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer | Dragon Hunter Crossbow (30%), Bandos Godsword (10%), Dragon Warhammer (10%), or Dragon Claws (10%) |
 | Giant Mole | N/A | Full Dharok's set | 43 Prayer | Barrows Gloves (2%), Berserker Ring (2%) |
 | Callisto | N/A | Full Verac's set | N/A |  Barrows Gloves (2%), Berserker Ring (2%) |
 | Venenatis | N/A | Full Verac's set | N/A | Barrows Gloves (3%) |
