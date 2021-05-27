@@ -76,23 +76,6 @@ An alternative form of agility training is to use the `+agilityarena`. While you
 
 You can spend your tickets on the items below using the `+aa buy` item command.
 
- \| **Reward** \| **Arena ticket cost** \| **XP per ticket** \| \| - \| :-: \| :-: \| \| 
-
-Agility XP \| 1 \| 240 \| \| Agility XP \| 10 \| 248 \| \| 
-
-Agility XP \| 25 \| 260 \| \| Agility XP \| 100 \| 280 \| \| 
-
-Agility XP \| 1000 \| 320 \| \| 
-
-Toadflax \| 3 \| N/A \| \| 
-
-Snapdragon \| 10 \| N/A \| \| 
-
-Pirate's hook \| 800 \| N/A \| \| 
-
-Recolor \(brimhaven graceful\) \| 250 \| N/A \|[  
-](https://www.oldschool.gg/oldschoolbot/minions?Fishing)
-
 | Reward | Arena Ticket Cost | XP Per Ticket |
 | :--- | :--- | :--- |
 | Agility XP | 1 | 240 |
