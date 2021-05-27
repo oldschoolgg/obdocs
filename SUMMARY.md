@@ -1,9 +1,13 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome to the Old School Bot Wiki!](README.md)
 
 ## Skills
 
 * [Mining](skills/mining.md)
-* [Agility](skills/agility.md)
+
+## BSO
+
+* [Agility](bso/agility.md)
+* [Custom Bosses](bso/custom-bosses.md)
 
