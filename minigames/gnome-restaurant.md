@@ -1,0 +1,4 @@
+# Gnome Restaurant
+
+You can do this minigame using the `+gnomerestaurant` command. It is a fairly slow minigame, so it is recommended that you have some of the boosts which will make things much smoother. Boosts are gained through experience at the minigame \(up to 20% at 100 kc\), having full graceful in your skilling setup \(25%\), having level 66 magic or greater for teleports \(25%\), and for having teleportation jewelry in your bank. For the jewelry, you can have boosts for either the Amulet of glory \(6\), the Games necklace \(8\), or the Ring of dueling \(8\) in your bank, and the game will randomly select one of the three to check for and consume. An amulet of eternal glory will not be lost, and all amulets of glory \(6\) will be returned as an amulet of glory without charges. However, the ring of dueling or the games necklace will be consumed if selected.
+
