@@ -45,6 +45,63 @@ The following items can be purchased using the `+buy` command using hallowed mar
 | :--- | :--- | :--- |
 | Hallowed Crystal Shard | 1 | N/A |
 | Hallowed Token | 10 | N/A |
+| Hallowed Ring | 250 | N/A |
+| Hallowed Grapple | 100 | 3% |
+| Hallowed Focus | 100 | 3% |
+| Hallowed Symbol | 100 | 3% |
+| Hallowed Hammer | 100 | 3% |
+| Dark Dye | 300 | N/A |
+| Dark Acorn | 3000 | N/A |
 
-WIP
+The dark graceful set can be made using the `+buy dark graceful` piece command with the base graceful item and a dark dye in your bank. If you have obtained a Giant Squirrel agility pet, you can `+buy dark squirrel` if you have the pet and the dark acorn in your bank to transmogrify the pet.
+
+## Ape Atoll/Monkey Backpacks
+
+When completing laps of the Ape Atoll agility course you can earn a [monkey backpack](https://oldschool.runescape.wiki/w/Ape_Atoll_Agility_Course)! These are obtained automatically whenever you reach the lap count required for each backpack.
+
+| Monkey Backpack | Required Lap Count |
+| :--- | :--- |
+| Karamjan | 100 |
+| Zombie | 250 |
+| Maniacal | 500 |
+| Skeleton | 1,000 |
+| Kruk Jr. | 1,500 |
+| Princely | 2,000 |
+
+To view your total lap counts on all agility courses, you can use the `+lapcount` command \(note: only displays laps completed since August 3rd, 2020\).
+
+## Brimhaven
+
+An alternative form of agility training is to use the `+agilityarena`. While your minion will take some time to learn the ins and outs of the agility arena, this minigame can be quite rewarding, providing agility arena tickets which can be turned in for additional agility xp, a graceful recolour, herbs, and even a Pirate's hook! If you have the stats for the Karamja Medium diary, your xp from obstacles and from turning in tickets will be increased by 10%. If you have the stats for the Karamja Elite diary, you will get 10% more tickets from the minigame.
+
+You can spend your tickets on the items below using the `+aa buy` item command.
+
+ \| **Reward** \| **Arena ticket cost** \| **XP per ticket** \| \| - \| :-: \| :-: \| \| 
+
+Agility XP \| 1 \| 240 \| \| Agility XP \| 10 \| 248 \| \| 
+
+Agility XP \| 25 \| 260 \| \| Agility XP \| 100 \| 280 \| \| 
+
+Agility XP \| 1000 \| 320 \| \| 
+
+Toadflax \| 3 \| N/A \| \| 
+
+Snapdragon \| 10 \| N/A \| \| 
+
+Pirate's hook \| 800 \| N/A \| \| 
+
+Recolor \(brimhaven graceful\) \| 250 \| N/A \|[  
+](https://www.oldschool.gg/oldschoolbot/minions?Fishing)
+
+| Reward | Arena Ticket Cost | XP Per Ticket |
+| :--- | :--- | :--- |
+| Agility XP | 1 | 240 |
+| Agility XP | 25 | 260 |
+| Agility XP | 1,000 | 320 |
+| Toadflax | 3 | N/A |
+| Snapdragon | 10 | N/A |
+| Pirate's Hook | 800 | N/A |
+| Recolor \(Brimhaven Graceful\) | 250 | N/A |
+
+
 
