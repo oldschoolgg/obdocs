@@ -5,9 +5,9 @@
 ## Skills
 
 * [Mining](skills/mining.md)
+* [Agility](skills/agility.md)
 
 ## BSO
 
-* [Agility](bso/agility.md)
 * [Custom Bosses](bso/custom-bosses.md)
 
