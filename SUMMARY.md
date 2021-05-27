@@ -5,4 +5,5 @@
 ## Skills
 
 * [Mining](skills/mining.md)
+* [Agility](skills/agility.md)
 
