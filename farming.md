@@ -21,7 +21,7 @@ e.g +farm potato, +farm 5 potato
 - To harvest a tree, you need the woodcutting level or 200gp per patch (you will not get logs in this case).
 - Wearing full graceful boosts trips by 10%.
 - Owning Farmer's equipment (not needing to be worn) gives xp boost. 
-- Having magic secateurs or farming cape in bank boosts your yield by 10% and 5% respectively.
+- Having magic secateurs or farming cape in bank or equipped boosts your yield by 10% and 5% respectively.
 
 ## +harvest
 - +harvest <patch-name> harvests the specific patch desired and leaves it empty (no seeds planted).
