@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Welcome to the Old School Bot Wiki!](README.md)
+* [FAQ](faq.md)
+* [Rules](rules.md)
 
 ## Skills
 
