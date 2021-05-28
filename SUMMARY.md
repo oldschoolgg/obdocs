@@ -7,7 +7,7 @@
 ## Skills
 
 * [Fishing](skills/fishing.md)
-* [Magic](skills/magic.md)
+* [Magic \(Non-combat\)](skills/magic.md)
 * [Hunter](skills/hunter.md)
 * [Construction](skills/construction/README.md)
   * [Player-owned Houses](skills/construction/player-owned-houses.md)
@@ -26,6 +26,7 @@
 * [Agility](skills/agility/README.md)
   * [Monkey Backpacks](skills/agility/monkey-backpacks.md)
 * [Mining](skills/mining.md)
+* [Combat Skills](skills/combat-skills.md)
 
 ## Minigames
 
