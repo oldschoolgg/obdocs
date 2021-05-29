@@ -13,6 +13,7 @@
   * [Player-owned Houses](skills/construction/player-owned-houses.md)
 * [Herblore](skills/herblore.md)
 * [Farming](skills/farming/README.md)
+  * [Farmables](skills/farming/farmables.md)
   * [Farming Contracts](skills/farming/farming-contracts.md)
 * [Thieving](skills/thieving.md)
 * [Fletching](skills/fletching.md)
