@@ -10,7 +10,7 @@ Base 80 Combat stats and 70 Prayer. 55 Farming and 78 Herblore are also required
 
 It is highly recommended that you have the best possible Melee, Range and Mage gear you can acquire and to equip them in their respective setups.  You can still participate with less than the best gear but you will be more likely to receive less points than somebody with max gear as well as making your times slower the worse your gear is.  
 
-Below is a current image of what the best in slot gear is for every slot, Not including gear received from the raids, IE Ancestral/Kodai.  It would also be beneficial to you to have a BGS or DWH in your bank as that is a hidden benefit that helps to improve your raid times.
+Below is a current image of what the best in slot gear is for every slot,  not including gear received from the raids, IE Ancestral/Twisted Bow or DHCB.  It would also be beneficial to you to have a BGS or DWH in your bank as that is a hidden benefit that helps to improve your raid times.
 
 ![](../../.gitbook/assets/image.png)
 

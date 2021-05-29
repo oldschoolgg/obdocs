@@ -10,7 +10,7 @@ The Challenge Mode version of the Chambers of Xeric is significantly more diffic
 
 _**Finding a Raid Team**_
 
-For Challenge Mode raids you will be primarily looking in `#raids-mass-cm` or if you have a Twisted Bow you can start doing solos immediately at 200 KC.
+For Challenge Mode raids you will be primarily looking in `#raids-mass-cm` or if you have a Twisted Bow you can start doing solos immediately at 200 KC which you can do in your own server or in the cm mass channel.  If you don't have a Twisted Bow but you do have a DHCB you will still be able to participate in CMs just only doing masses until you obtain a Twisted Bow.  To do this you will be doing `+raid mass --cm,` or joining a mass that has already been started from doing the command listed.
 
 _**Getting Started...Again**_
 
