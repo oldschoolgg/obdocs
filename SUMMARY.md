@@ -3,6 +3,7 @@
 * [Welcome to the Old School Bot Wiki!](README.md)
 * [FAQ](faq.md)
 * [Rules](rules.md)
+* [Gear](gear.md)
 * [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
 
 ## Skills
