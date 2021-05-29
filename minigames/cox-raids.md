@@ -18,5 +18,5 @@ Make sure to have your stamina potions, saradomin brews and super restores ready
 
 _**Finding a Raid Team**_
 
-Within the discord you will find dedicated channels where you can talk, do normal raids or do cm raids.  For chatting, asking for help with your gear score you can talk in `#raids-general-anim`, for challenge mode raids, solo or mass its recommended that you use `#raids-mass-cm` _****_and for regular raids its recommended that you use **`#raids-mass-regular`**.  
+Within the discord you will find dedicated channels where you can talk, do normal raids or do cm raids.  For chatting, asking for help with your gear score you can talk in `#raids-general-anim`, for challenge mode raids, solo or mass its recommended that you use `#raids-mass-cm` _****_and for regular raids its recommended that you use `#raids-mass-regular`.  
 
