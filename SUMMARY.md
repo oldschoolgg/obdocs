@@ -6,7 +6,8 @@
 
 ## Skills
 
-* [Fishing](skills/fishing.md)
+* [Fishing](skills/fishing/README.md)
+  * [Fishing Training](skills/fishing/fishing-training.md)
 * [Magic \(Non-combat\)](skills/magic.md)
 * [Hunter](skills/hunter.md)
 * [Construction](skills/construction/README.md)
@@ -14,6 +15,7 @@
 * [Herblore](skills/herblore.md)
 * [Farming](skills/farming/README.md)
   * [Farmables](skills/farming/farmables.md)
+  * [Farming Training](skills/farming/farming-training.md)
   * [Farming Contracts](skills/farming/farming-contracts.md)
 * [Thieving](skills/thieving.md)
 * [Fletching](skills/fletching.md)
