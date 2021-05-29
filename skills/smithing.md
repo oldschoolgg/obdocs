@@ -4,7 +4,7 @@ You can train Smithing using `+smith` & `+smelt` `+smelt [quantity] <bar>`, for 
 
 Smithing is one of the more useful skills on the bot, because it is required to create Godswords and such!
 
-You can recieve a boost to gold bar smelting xp rates by equipping the goldsmith gauntlets which increases the xp/bar from 22.5 to 56.2.
+You can receive a boost to gold bar smelting xp rates by equipping the goldsmith gauntlets which increases the xp/bar from 22.5 to 56.2.
 
 #### Bars
 
@@ -18,4 +18,6 @@ You can recieve a boost to gold bar smelting xp rates by equipping the goldsmith
 | Mithril | 50 | Mithril ore + 4 coal |
 | Adamantite | 70 | Adamantite ore + 6 coal |
 | Runite | 85 | Runite ore + 8 coal |
+
+
 

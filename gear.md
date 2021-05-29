@@ -70,7 +70,7 @@ Your minion has 5 gear setups \(Melee, Mage, Range, Skilling, and Misc\) in whic
   </tbody>
 </table>
 
-## Gear Presets
+### Gear Presets
 
 Now that you have equipped the gear you like you probably would like to save that setup for later before you equip something up in that setup. This can done through the `+gearpresets` commands listed before. Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup.
 
@@ -81,7 +81,7 @@ Now that you have equipped the gear you like you probably would like to save tha
 | +gearpresets delete  &lt;name&gt; | delete your setup called &lt;name&gt;. | +gearpresets delete corp |
 | +gearpresets equip  &lt;name&gt; &lt;setup&gt; | equip your &lt;name&gt; setup to your &lt;setup&gt; outfit. | +gearpresets equip corp melee |
 
-### Global Gear Presets
+#### Global Gear Presets
 
 * Graceful
 * Pyro

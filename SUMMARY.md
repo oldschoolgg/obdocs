@@ -35,6 +35,7 @@
 
 ## Minigames
 
+* [Blast Furnace](minigames/blast-furnace.md)
 * [Warriors Guild](minigames/warriors-guild.md)
 * [Fight Caves](minigames/fight-caves.md)
 * [Hallowed Sepulchre](minigames/hallowed-sepulchre.md)
