@@ -14,9 +14,13 @@ Below is a current image of what the best in slot gear is for every slot, Not in
 
 ![](../.gitbook/assets/image.png)
 
-Make sure to have your stamina potions, saradomin brews and super restores ready as you will need them. 
+Make sure to have your stamina potions, saradomin brews and super restores ready as you will need them.  When you are first starting out you will be using 7 saradomin brews, 4 super restores and 1 stamina potion per mass, these numbers will be decreasing as your KC gets higher, excluding the stamina potion. For solos you will start out using the same amount of brews and restores but will now also be using 2 stamina's per raid.
 
 _**Finding a Raid Team**_
 
-Within the discord you will find dedicated channels where you can talk, do normal raids or do cm raids.  For chatting, asking for help with your gear score you can talk in `#raids-general-anim`, for challenge mode raids, solo or mass its recommended that you use `#raids-mass-cm` _****_and for regular raids its recommended that you use `#raids-mass-regular`.  
+Within the discord you will find dedicated channels where you can talk, do normal raids or do cm raids.  For chatting, asking for help with your gear score you can talk in `#raids-general-anim`, for challenge mode raids, solo or mass its recommended that you use `#raids-mass-cm` _****_and for regular raids its recommended that you use `#raids-mass-regular.` Please keep in mind that these are just recommendations, you are not restricted to these channels in order to participate in raiding, it is only reccomended as finding a group would be much easier.  
+
+_**Getting Started**_
+
+There are a few things that need to be prefaced before you get started.  To view your KC, unique's, points per unique and how many total points you've gotten you will be using the command `+raid.`  From there you can either solo a raid which will require you to be at least 50 kc or you can mass a raid which you can do at 1 kc.  For this you will be doing `+raid solo` for normal's,  and to mass a raid you will be doing `+raid mass` for normal's.  In order to start a mass your team must have at least 2 people and will automatically start at 15, among the members of that mass at least one person must have 55 farming and 78 herblore or the mass will not start.  
 
