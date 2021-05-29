@@ -3,6 +3,7 @@
 * [Welcome to the Old School Bot Wiki!](README.md)
 * [FAQ](faq.md)
 * [Rules](rules.md)
+* [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
 
 ## Skills
 
@@ -43,4 +44,8 @@
 * [Tithe Farm](minigames/tithe-farm.md)
 * [Pyramid Plunder](minigames/pyramid-plunder.md)
 * [Wintertodt](minigames/wintertodt.md)
+
+---
+
+* [Bot Firsts](bot-firsts.md)
 
