@@ -1,5 +1,5 @@
 ---
-description: This page goes over how your gear functions on the bot
+description: This page goes over how your gear functions on the bot.
 ---
 
 # Gear
