@@ -4,9 +4,9 @@ You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 c
 
 Agility rewards you with marks of grace which you can use to buy Graceful equipment, using the command `+create graceful` or `+create graceful (piece)`.
 
-Alternatively you may train agility with +sepulchre, requiring level 52 agility as well as a full set of graceful. You will progressively get better at plundering the sepulchre as your agility level increases, peaking at 92 agility. 
+Alternatively you may train agility with `+sepulchre`, requiring level 52 agility as well as a full set of graceful. You will progressively get better at plundering the sepulchre as your agility level increases, peaking at 92 agility. 
 
-Another option to train agility is through the Brimhaven Agility Arena using +agilityarena, this activity will reward you with Agility tickets with which you can purchase cosmetic rewards as well as exchange them for XP.  You can read more on these alternative methods of training below.
+Another option to train agility is through the Brimhaven Agility Arena using `+agilityarena`, this activity will reward you with Agility tickets with which you can purchase cosmetic rewards as well as exchange them for XP.  You can read more on these alternative methods of training below.
 
 [https://wiki.oldschool.gg/minigames/hallowed-sepulchre](https://wiki.oldschool.gg/minigames/hallowed-sepulchre)
 
