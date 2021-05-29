@@ -6,7 +6,7 @@ You have conquered the Chambers of Xeric, or so you think.
 
 _**Requirements**_
 
-The Challenge Mode version of the Chambers of Xeric is significantly more difficult than the regular version and thus requires you to have at least 200 normal raids kc before you can start doing challenge mode.  Once you have the 200 kc required you will be able to start doing cm solos or cm masses.  In order to do cm solos you will need a Twisted Bow and if you have that then you will need to do `+raid solo --cm` in order to start your first solo.  To start a cm mass you will be doing `+raid mass --cm.`  
+The Challenge Mode version of the Chambers of Xeric is significantly more difficult than the regular version and thus requires you to have at least 200 normal raids kc before you can start doing challenge mode.  Once you have the 200 kc required you will be able to start doing cm solos or cm masses.  In order to do cm solos you will need to have a Twisted Bow.  To participate in a cm mass you require a Dragonhunter Crossbow OR Twisted Bow.  ``
 
 _**Finding a Raid Team**_
 
