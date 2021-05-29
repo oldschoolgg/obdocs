@@ -46,7 +46,8 @@
 * [Tithe Farm](minigames/tithe-farm.md)
 * [Pyramid Plunder](minigames/pyramid-plunder.md)
 * [Wintertodt](minigames/wintertodt.md)
-* [Cox/Raids](minigames/cox-raids.md)
+* [Cox/Raids](minigames/cox-raids/README.md)
+  * [Challenge Mode](minigames/cox-raids/challenge-mode.md)
 
 ---
 
