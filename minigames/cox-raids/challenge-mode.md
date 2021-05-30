@@ -6,7 +6,11 @@ You have conquered the Chambers of Xeric, or so you think.
 
 _**Requirements**_
 
-The Challenge Mode version of the Chambers of Xeric is significantly more difficult than the regular version and thus requires you to have at least 200 normal raids kc before you can start doing challenge mode.  Once you have the 200 kc required you will be able to start doing cm solos or cm masses.  In order to do cm solos you will need to have a Twisted Bow.  To participate in a cm mass you require a Dragonhunter Crossbow OR Twisted Bow.  ``
+The Challenge Mode version of the Chambers of Xeric is significantly more difficult and thus has harder requirements.
+
+* 200 Normal KC
+* Twisted Bow or DHCB for Masses
+* Twisted Bow for Solos
 
 _**Finding a Raid Team**_
 
@@ -24,5 +28,5 @@ Challenge Mode raids scale a little bit differently compared to Normal raids and
 
 _**Loot**_
 
-Now that you are in Challenge Mode you will start to see more drops unique to this version of the Chambers.  You will still be seeing the Purple square for the Normal unique drops such as Twisted bow or a Prayer scroll, but you will also now be seeing a purple square for the Metamorphic dust pets that drop separately after you have received the dust.  If you receive a Blue square next to your spoiler that means you have received the Metamorphic dust and now have a chance per raid to receive the Morphed pets.  If you receive a Green square next to your spoiler that means you have received a Twisted Ancestral Kit that can be added to your regular ancestral pieces to make them Twisted.  In challenge modes you also have a chance to receive what is known as a "disco light."  This is when you receive more than 1 drop from the special tables that could be a purple square or a blue square or purple and green, or even all 3 at once which is extremely rare. 
+Now that you are in Challenge Mode you will start to see more drops unique to this version of the Chambers.  You will still be seeing the Purple square for the Normal unique drops such as Twisted bow or a Prayer scroll, but you will also now be seeing a purple square for the Metamorphic dust pets that drop separately after you have received the dust.  If you see a Blue square that means you or another member has received the Metamorphic dust and now have a chance per raid to receive the Morphed pets. A Green square means somebody has received a Twisted Ancestral Kit that can be added to ancestral pieces to make them Twisted.  It is possible to receive more than one unique drop at a time.
 
