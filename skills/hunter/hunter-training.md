@@ -1,6 +1,6 @@
 # Hunter Training
 
-## Fastest to 99
+## Fastest Route to 99:
 
 Polar Kebbits 1-7  
 Feldip Weasels 7-15  

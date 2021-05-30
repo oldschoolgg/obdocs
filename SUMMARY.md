@@ -14,6 +14,7 @@
 * [Hunter](skills/hunter/README.md)
   * [Hunter Training](skills/hunter/hunter-training.md)
 * [Construction](skills/construction/README.md)
+  * [Construction Training](skills/construction/construction-training.md)
   * [Player-owned Houses](skills/construction/player-owned-houses.md)
 * [Herblore](skills/herblore.md)
 * [Farming](skills/farming/README.md)
