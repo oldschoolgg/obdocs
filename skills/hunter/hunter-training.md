@@ -2,6 +2,8 @@
 
 ## Fastest Route to 99:
 
+Note: for early levels, only send short trips, as you only need ~20-50 successful catches to move onto the next creature. 
+
 Polar Kebbits 1-7  
 Feldip Weasels 7-15  
 Ruby Harvests 15-29  
