@@ -2,7 +2,7 @@
 
 You can train Smithing using `+smith` & `+smelt` `+smelt [quantity] <bar>`, for example `+smelt 50 bronze bar` `+smith [quantity] <item>`, for example `+smith adamant dart tips`
 
-An Alternative way to train smithing is now through use of the blast furnace.  At the blast furnace you can expect higher xp/hr and by proxy expect to make more bars/hr.  In order to use the blast furnace you will be required to meet the following.
+An Alternative way to train smithing is now through use of the blast furnace in order to do this you can use `+bf barname` or `+blastfurnace barname`.  At the blast furnace you can expect higher xp/hr and by proxy expect to make more bars/hr.  In order to use the blast furnace you will be required to meet the following.
 
 * Crafting: 12
 * Firemaking: 16
