@@ -12,7 +12,7 @@ Black Salamanders 67-73 \(risks misc gear top/bottom, uses brews\)
 Black Chinchompas 73-99 \(risks misc gear top/bottom, uses brews\)  
 
 
-### Additional Information
+### Additional Information:
 
 If you wish to avoid using brews/risking gear, you can alternatively do Red Chinchompas starting at 63.
 
