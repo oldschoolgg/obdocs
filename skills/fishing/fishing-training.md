@@ -14,7 +14,7 @@ Barb Fishing 58-99 \(requires feathers\)
 
 Aerial Fishing when at least 43 fishing/35 hunter, this is much better than doing Hunting or Fishing on their own for training if you're looking to get 99 in both.
 
-Collection log slots from: Bass \(Big Bass\), Swordfish \(Big Swordfish\), Shark \(Big Shark\), Fishing Trawler \(Angler outfit\), Aerial Fishing \(3 Rods+Golden Tench\).
+Collection log slots from: Bass \(Big Bass\), Swordfish \(Big Swordfish\), Shark \(Big Shark\), Fishing Trawler \(Angler outfit\), Aerial Fishing \(3 Rods+Golden Tench+Fish Sack\).
 
 
 
