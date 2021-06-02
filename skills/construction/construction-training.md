@@ -25,3 +25,5 @@ There are two commands associated with Mahogany Homes:
 `+mh build  
 +mh buy`
 
+See the minigame page for a full breakdown of Mahogany Homes [https://wiki.oldschool.gg/minigames/mahogany-homes](https://wiki.oldschool.gg/minigames/mahogany-homes)
+
