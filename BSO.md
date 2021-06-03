@@ -16,7 +16,7 @@ You can invite BSO to your server using this link: https://discord.com/oauth2/au
 - Clue caskets give extra loot
 - Custom bosses
 - Custom items, like Mystery boxes, custom pets and master skill capes!
-- Everything is tradeable
+- Most items are tradeable
 
 ## Lottery
 
