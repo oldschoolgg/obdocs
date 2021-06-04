@@ -32,6 +32,7 @@
 * [Woodcutting](skills/woodcutting.md)
 * [Smithing](skills/smithing.md)
 * [Agility](skills/agility/README.md)
+  * [Agility Alching](skills/agility/agility-alching.md)
   * [Monkey Backpacks](skills/agility/monkey-backpacks.md)
 * [Mining](skills/mining.md)
 * [Combat Skills](skills/combat-skills.md)
