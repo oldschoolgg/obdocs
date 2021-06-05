@@ -29,7 +29,7 @@ All potions in OSRS are available to be made in the bot, however ingredients may
 | :--- | :---: | :---: | :---: |
 | Attack potion | Guam potion \(unf\) | Eye of newt | 3 |
 | Antipoison | Marrentill potion \(unf\) | Unicorn horn dust | 5 |
-| Strength potion | Tarromin potion \(unf\) | 12 |  |
+| Strength potion | Tarromin potion \(unf\) | Limpwurt Root | 12 |
 | Serum 207 | Tarromin potion \(unf\) | Ashes | 15 |
 | Restore potion | Harralander potion \(unf\) | Red spiders' eggs | 22 |
 | Compost potion | Harralander potion \(unf\) | Volcanic ash | 22 |
