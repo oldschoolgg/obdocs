@@ -28,7 +28,7 @@ Standard training offers the fastest methods for training construction in the bo
 | Teak armchair | 35 | 2 Teak planks |
 | Teak table | 38 | 4 Teak planks |
 | Mahogany armchair | 50 | 2 Mahogany planks |
-| Mahogany table | 52 | 6 Mahogny planks |
+| Mahogany table | 52 | 6 Mahogany planks |
 | Teak garden bench | 66 | 6 Teak planks |
 | Oak door | 74 | 10 Oak planks |
 | Gnome bench | 77 | 6 Mahogany planks |
