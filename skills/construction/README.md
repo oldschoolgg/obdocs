@@ -4,7 +4,7 @@ Construction in the bot has three distinct parts: **Training**, **Mahogany Homes
 
 You can also `+offer` curved bones and long bones you get from PvM for construction xp after level 30 construction. Fighting the Wintertodt also provides some construction xp.
 
-#### Training
+## Training
 
 Standard training offers the fastest methods for training construction in the bot, and also uses the most planks. When building these items, they do not appear in your PoH, and currently have no functionality outside of being the best xp per hour. You can do normal construction training using the `+build <item>` command.
 
