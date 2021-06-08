@@ -6,6 +6,10 @@
 * [Gear](gear.md)
 * [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
 
+## Bosses
+
+* [Boosts](bosses/boosts.md)
+
 ## Skills
 
 * [Fishing](skills/fishing/README.md)
