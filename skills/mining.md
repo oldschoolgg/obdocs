@@ -6,11 +6,11 @@ Some ores reward you with golden nuggets or unidentified minerals. You can use n
 
 The bot uses XP rates based off rune pickaxe as standard; however, you can get one of the following boosts to mining output from owning one of these pickaxes:
 
-* Dragon pickaxe: +6%
-* Infernal pickaxe: +10%
+* Dragon pickaxe: +6% (level 61)
+* Infernal pickaxe: +10% (level 61)
 * Gilded pickaxe: +11% (level 41)
 * Crystal pickaxe: +11% (level 71)
-* 3rd age pickaxe: +11%
+* 3rd age pickaxe: +11% (level 61)
 
 You can also receive boosts to mining XP rates from:
 
