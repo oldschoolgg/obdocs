@@ -1,0 +1,12 @@
+# Rogues' Den
+
+Complete laps of the maze using `+rd` for a chance to obtain pieces of the Rogues Outfit. Works a bit differently to in game, after your trip returns you'll receive loot with an equal chance at any of the 5 outfit pieces.
+
+Requires 50 Thieving & 50 Agility. Same as in game there is a shortcut unlocked at 80 Thieving, this provides a 40% bonus in the bot. Stamina potions will also be automatically used if you have them providing a 50% boost & using 1 pot per 4 laps.
+
+# Rogues Outfit
+
+Every piece of outfit equipped in the skilling slot provides a 20% chance of double loot while pickpocketing, with the whole outfit adding up to 100% chance
+Use `+gearpresets equip rogue skilling` to autoequip entire set.
+
+Check your progress with `+cl rd`
