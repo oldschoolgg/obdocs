@@ -1,6 +1,6 @@
 # Boosts & Requirements
 
-Image needs updating
+Image needs updating 
 
 | Boss | Boost\(s\) | Required items |
 | :--- | :--- | :--- |
@@ -8,4 +8,6 @@ Image needs updating
 |  |     |  |
 
 ![](../.gitbook/assets/image%20%282%29.png)
+
+
 

@@ -47,7 +47,7 @@ The speed of your farming trips and the xp you gain from farming activities can 
 * Magic Secateurs = +10% to harvest quantity
 * Farming Cape = +5% to harvest quantity
 * Full Graceful Outfit = +10% to trip speed
-* Ring of Endurance = +10% to trip speed
+* Ring of Endurance = +10% to trip speed \(currently you cannot charge the ring, making this boost unobtainable\)
 
 The full [Farming commands breakdown](https://github.com/oldschoolgg/obdocs/blob/master/farming.md) gives an overview of all the commands introduced with the Farming skill.
 
