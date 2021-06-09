@@ -1,19 +1,24 @@
 # Agility
 
-You can train Agility using `+laps [quantity] <course>`, for example `+laps 10 canifis`.
+Agility is required to participate variety of activities. 
 
-Agility rewards you with marks of grace which you can use to buy Graceful equipment, using the command `+create graceful` or `+create graceful (piece).`  You may also spend your marks of grace on amylase packs using the command `+buy amylase pack` which will give you 100 amylase crystals per 10 marks.
+| Level | Activity | Bonus | 
+| :--- | :--- | :---|
+| 15 | Barbarian Fishing | 
+| 50 | Rouges' Den | Becomes 40% at level 80 |
+| 70 | Commander Zilyana |
 
-Alternatively you may train agility with `+sepulchre`, requiring level 52 agility as well as a full set of graceful. You will progressively get better at plundering the sepulchre as your agility level increases, peaking at 92 agility. 
+## Training Methods
+Agility can be trained by using the command `+laps [quantity] <course>`. For example: `+laps 10 canifis`.
 
-Another option to train agility is through the Brimhaven Agility Arena using `+agilityarena`, this activity will reward you with Agility tickets with which you can purchase cosmetic rewards as well as exchange them for XP.  You can read more on these alternative methods of training below.
+### Rooftop Agility
+Rooftop agility courses reward the player with marks of grace which can be used to buy pieces of the Graceful outfit, using the command `+create graceful` or `+create graceful <piece>`, and amylase packs using the command `+buy [quantity] amylase pack`, which will give you 100 amylase crystals per amylase pack costing 10 marks of grace each.
 
-[https://wiki.oldschool.gg/minigames/hallowed-sepulchre](https://wiki.oldschool.gg/minigames/hallowed-sepulchre)
+### [Hallowed Sepulchre](https://wiki.oldschool.gg/minigames/hallowed-sepulchre)
+From level 52 agility, the player may train agility using the command `+sepulchre`, which also requires full Graceful equipped in your skilling setup. You will progressively get better at plundering the sepulchre as your agility level increases, peaking at 92 agility. 
 
-[https://wiki.oldschool.gg/minigames/brimhaven-agility-arena](https://wiki.oldschool.gg/minigames/brimhaven-agility-arena)
-
-Agility is also required for a variety of other things that you will find yourself having to train it in order to participate.  You are required to have 70 agility for Saradomin Godwars, 50 Agility in order to traverse the Rogues' Den to acquire the Rogues' Outfit, unlocking a shortcut at 80 making the activity 40% faster, and 15 Agility in order to learn the ways of Barbarian Fishing from Otto.[  
-](https://www.oldschool.gg/oldschoolbot/minions?Courses)
+### [Brimhaven Agility Arena](https://wiki.oldschool.gg/minigames/brimhaven-agility-arena)
+The Brimhaven Agility Arena rewards the player with Agility tickets which can be used to purchase cosmetic rewards or agility XP, using the command `+agilityarena`. 
 
 ## Courses
 
