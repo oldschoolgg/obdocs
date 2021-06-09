@@ -3,7 +3,7 @@
 ### Overview
 
 You can challenge the Fight Caves and TzTok-Jad to receive a fire cape, tokkul, and the TzRek-Jad pet using the `+fightcaves` command. Better range gear will reduce the time each attempt takes, as will total Jad kc. The number of total attempts you have made will determine your chances of killing Jad when he is reached.  
-You can make 4 dose potions from 3, 2, and 1 dose drops using the `+decant` command. Should you fail before the final wave, some of your potions will refunded.
+You can make 4 dose potions from 3, 2, and 1 dose drops using the `+decant` command. Should you fail before the final wave, some of your potions will be refunded.
 
 ### Requirements & Boosts
 
