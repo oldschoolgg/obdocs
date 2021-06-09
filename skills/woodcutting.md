@@ -1,18 +1,16 @@
 # Woodcutting
 
-
-
 You can train Woodcutting using `+chop [quantity] <logs>`, for example `+chop 50 willow`.
 
 The bot uses XP rates based off rune axe as standard; however, you can get one of the following boosts from owning one of these axes:
 
-* Dragon axe: +9% (level 61)
-* Infernal axe: +11% (level 61)
-* Gilded axe: +12% (level 41)
-* Crystal axe: +12% (level 61)
-* 3rd age axe: +12% (level 61)
+* Dragon axe: +9% \(level 61\)
+* Infernal axe: +11% \(level 61\)
+* Gilded axe: +12% \(level 41\)
+* Crystal axe: +12% \(level 61\)
+* 3rd age axe: +12% \(level 61\)
 
-#### Logs
+## Logs
 
 | **Log** | **Required level** |
 | :--- | :---: |

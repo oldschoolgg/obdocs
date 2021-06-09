@@ -8,7 +8,7 @@
 
 ## Bosses
 
-* [Boosts & Requirements](bosses/boosts.md)
+* [Boosts & Requirements](bosses/boosts-and-requirements.md)
 
 ## Skills
 

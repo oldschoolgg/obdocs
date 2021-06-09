@@ -1,8 +1,10 @@
 # Thieving
 
+## Thieving
+
 You can train thieving using the `+pickpocket` command. For example, you can `+pickpocket master farmer`. To start training Thieving, you can `+pickpocket man` or `woman`. You will obtain the standard loot from each monster you can pickpocket, all of which can be found on the [OSRS Thieving Wiki Page](https://oldschool.runescape.wiki/w/Thieving).
 
-#### Thievable NPCs
+### Thievable NPCs
 
 | **NPC Name** | **Required level** |
 | :--- | :---: |
@@ -28,6 +30,7 @@ You can train thieving using the `+pickpocket` command. For example, you can `+p
 | Elf | 85 |
 | TzHaar-Hur | 90 |
 
-# Boosts
+## Boosts
 
 Rogues Outfit - Obtained through Rogues' Den Minigame. When full outfit is equipped in skilling provides 100% chance to double all thieving loot.
+
