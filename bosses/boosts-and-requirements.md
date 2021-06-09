@@ -21,7 +21,7 @@ Image needs updating
 | ![](../.gitbook/assets/callisto.png)  |  |  |
 | ![](../.gitbook/assets/vetion.png)  |  |  |
 | ![](../.gitbook/assets/venenatis.png)  |  |  |
-| ![](../.gitbook/assets/kbd.png)  |  |  |
+| ![](../.gitbook/assets/kbd.png)[![](../.gitbook/assets/kbd.png)](https://oldschool.runescape.wiki/w/King_Black_Dragon)  |  |  |
 | ![](../.gitbook/assets/verac.png) ![](../.gitbook/assets/guthan.png)  |  |  |
 |  |  |  |
 |  |  |  |
