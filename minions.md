@@ -783,7 +783,7 @@ Order up! Help the gnomes prepare food and make deliveries in this minigame that
 | Barrows | N/A | N/A | 43 Prayer | Barrows Gloves (2%), Iban's Staff (5%), Rejuvenation pool+ (10%), Strange Old Lockpick (7%) |
 | Lizardman shaman | 30 | Karils Crossbow | 43 Prayer | Ring of the Gods (3%) OR Ring of the Gods (i) (5%) |
 | Zulrah | 75 | Armadyl chestplate, Armadyl chainskirt, Ahrim's robetop, and Ahrim's robeskirt | 43 Prayer | Barrows Gloves (3%), Ranger Boots (2%) OR Pegasian Boots (4%), Iban's Staff (2%) OR Harmonised Nightmare Staff (5%), Twisted Bow (5%), Ancestral (2% per piece)|
-| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer | Dragon Hunter Crossbow (30%), Bandos Godsword (10%), Dragon Warhammer (10%), or Dragon Claws (10%) |
+| Vorkath | 205 | Armadyl chestplate, Armadyl chainskirt | 43 Prayer | Dragon Hunter Crossbow (30%) OR Bandos Godsword (15%) OR Dragon Warhammer (15%) OR Dragon Claws (10%) |
 | Giant Mole | N/A | Full Dharok's set | 43 Prayer | Barrows Gloves (5%), Berserker Ring (5%) OR Berserker Ring (i) (7%) OR Twisted Bow (10%)|
 | Callisto | N/A | Full Verac's set | N/A |  Barrows Gloves (3%), Berserker Ring (3%) OR Berserker Ring (i) (5%) |
 | Venenatis | N/A | Full Verac's set | N/A | Barrows Gloves (3%) |
@@ -791,7 +791,7 @@ Order up! Help the gnomes prepare food and make deliveries in this minigame that
 | King Black Dragon | N/A | Anti-Dragon shield, Armadyl Crossbow OR Rune Crossbow OR Twisted Bow OR Dragon Hunter Crossbow, Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Armadyl Crossbow (6%) OR Dragon Hunter Crossbow (8%) OR Twisted Bow (10%) |
 | Chaos Elemental | N/A | Karil's leathertop or Black d'hide body and Karil's leatherskirt or Black d'hide chaps | N/A | Barrows Gloves (3%), Archers Ring (3%) OR Archers Ring (i) (5%) |
 | Corporeal Beast | N/A | Zamorakian spear | 43 Prayer | Dragon Warhammer (10%), Bandos Godsword (5%), Rejuvenation pool + (50%) |
-| Cerberus | N/A | Bandos chestplate or Torag's platebody or Dharok's platebody, Bandos tassets or Torag's platelegs or Dharok's platelegs, and Zamorakian spear | 43 Prayer | Bandos Tassets (5%), Bandos Chestplate (5%), Spectral Spirit Shield (10%) |
+| Cerberus* | N/A | Bandos chestplate or Torag's platebody or Dharok's platebody, Bandos tassets or Torag's platelegs or Dharok's platelegs, and Zamorakian spear | 43 Prayer, 91 Slayer | Bandos Tassets (5%), Bandos Chestplate (5%), Spectral Spirit Shield (10%) |
 | Commander Zilyana | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer, 70 Agility| Armadyl Crossbow (5%) OR Twisted Bow (10%), Ranger Boots (3%) OR Pegasian Boots (5%),  |
 | General Graardor | 75 | N/A | 43 Prayer | Bandos Godsword (5%) OR Dragon Warhammer (10%) |
 | Kree'Arra | 75 | Armadyl chestplate or Karil's leathertop and Armadyl chainskirt or Karil's leatherskirt | 43 Prayer | Armadyl Crossbow (5%) OR Twisted Bow (10%)|
@@ -804,6 +804,8 @@ Order up! Help the gnomes prepare food and make deliveries in this minigame that
 | The Nightmare | 10 | Melee Setup: 150 Slash Defence, 80 Crush Attack | 43 Prayer | N/A |
 
 For detailed information about any killable monster or boss, you can use the `+monster <monster>` command.
+
+\**temporarily unavailable until release of slayer*
 
 # Buyable Items
 
