@@ -7,7 +7,7 @@ Image needs updating
 |  ![](../.gitbook/assets/corp.png)  | ![](../.gitbook/assets/dwh.png) ![](../.gitbook/assets/bgs.png) ![](../.gitbook/assets/pool.png)  | Zamorakian Spear |
 | ![](../.gitbook/assets/kq.png)  |    ![](../.gitbook/assets/dwh.png) ![](../.gitbook/assets/pool.png)  |  |
 | ![](../.gitbook/assets/kril.png)  | ![](../.gitbook/assets/dwh.png)  |  |
-| ![](../.gitbook/assets/kree.png)  |  |  |
+| ![](../.gitbook/assets/kree.png)  | ![](../.gitbook/assets/acb.png)OR ![](../.gitbook/assets/tbow.png)  |  |
 | ![](../.gitbook/assets/zily.png)  |  |  |
 | ![](../.gitbook/assets/graador.png)  |  |  |
 | ![](../.gitbook/assets/lizardman_shaman.png)  |  |  |
@@ -23,13 +23,12 @@ Image needs updating
 | ![](../.gitbook/assets/venenatis.png)  |  |  |
 | ![](../.gitbook/assets/kbd.png)[![](../.gitbook/assets/kbd.png)](https://oldschool.runescape.wiki/w/King_Black_Dragon)  |  |  |
 | ![](../.gitbook/assets/verac.png) ![](../.gitbook/assets/guthan.png)  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| ![](../.gitbook/assets/chaos_elemental.png)  |  |  |
+| ![](../.gitbook/assets/chaos_fanatic.png)  |  |  |
+| ![](../.gitbook/assets/crazy_archaeologist.png)  |  |  |
+| ![](../.gitbook/assets/scorpia.png)  |  |  |
+| ![](../.gitbook/assets/sarachnis.png)  |  |  |
+| ![](../.gitbook/assets/nightmare.png)  |  |  |
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
