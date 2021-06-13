@@ -21,9 +21,15 @@ If you meet the requirements of a Diary, you can claim the reward item and the X
   * `+ad claim Falador`
 
 * **Use an XP lamp:**
+
   * `+lamp antique lamp 1, construction`
 
+* **Buy the achievement diary cape:**
+  * `+buy achievement diary cape`
+
 ## Diary Perks
+
+You get a 10% boost for having the achievement diary cape equipped.
 
 ### Ardougne Diary - Hard
 
