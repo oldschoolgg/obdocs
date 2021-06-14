@@ -46,11 +46,7 @@ You get a 10% boost for having the achievement diary cape equipped.
 * While worn, increased Agility experience from redeeming Agility tickets
 * 10% additional Agility experience earned from all obstacles in the Brimhaven Agility Arena
 
-### Kandarin Diary - Hard
-
-* 10% bonus Barbarian Assault points
-
-### Kandarin Diary - Elite
+### Karamja Diary - Elite
 
 * 10% chance of receiving 2 Agility arena tickets, instead of one, upon every successful pillar tag at the Brimhaven Agility Arena
 
@@ -58,5 +54,8 @@ You get a 10% boost for having the achievement diary cape equipped.
 
 * 2x Mort myre fungi collection
 
+### Kandarin Diary - Hard
+
+* 10% bonus Barbarian Assault points
 
 
