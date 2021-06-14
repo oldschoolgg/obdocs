@@ -30,7 +30,7 @@ You can sacrifice items, and their GP value will go towards you unlocking new mi
 
 You can sacrifice items using `+sacrifice [quantity] <item>`, for example`+sacrifice Bandos chestplate` or `+sacrifice 1000 gold ore`. You cannot sacrifice GP,  instead you should buy items off other players with your GP and sacrifice those.
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/image%20%286%29%20%281%29.png)
 
 ## Bank Backgrounds
 

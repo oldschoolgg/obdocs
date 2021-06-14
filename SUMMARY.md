@@ -62,4 +62,5 @@
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
 * [Achievement Diaries \(UNRELEASED\)](achievement-diaries-unreleased.md)
+* [Slayer \(UNRELEASED\)](slayer-unreleased.md)
 
