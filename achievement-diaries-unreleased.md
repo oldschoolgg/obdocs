@@ -4,26 +4,16 @@ You can complete Achievement Diaries if you have the requirements. Requirements 
 
 If you meet the requirements of a Diary, you can claim the reward item and the XP lamp.
 
-
-
 ## Commands
 
 * **Check your currently completed Diaries:**
-
   * `+achievementdiary` / `+ad`
-
 * **Check the requirements of a diary;**
-
   * `+ad Falador`
-
 * **Claim the rewards for a Diary:**
-
   * `+ad claim Falador`
-
 * **Use an XP lamp:**
-
   * `+lamp antique lamp 1, construction`
-
 * **Buy the achievement diary cape:**
   * `+buy achievement diary cape`
 
@@ -57,5 +47,4 @@ You get a 10% boost for having the achievement diary cape equipped.
 ### Kandarin Diary - Hard
 
 * 10% bonus Barbarian Assault points
-
 
