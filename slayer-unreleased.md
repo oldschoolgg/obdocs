@@ -17,7 +17,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 * **Skip your current task:**
 
-  * `+st --skip`
+  * `+st skip`
 
 * **Buy rewards/unlocks from the Slayer shop:**
 
