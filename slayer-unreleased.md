@@ -27,7 +27,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 * **Blocking tasks:**
 
   * Block current task: `+st --block`
-  * See block list: `+slayershop unlock malevolant masquerade`
+  * See block list: `+st list`
   * Unblock a task: `+st --unblock blue dragon`
 
 * **Getting a Slayer Helmet:**
