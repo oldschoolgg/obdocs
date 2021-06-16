@@ -13,7 +13,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 * **Automatically send your minion to kill your currently assigned task:**
 
-  * `+autoslay` / `+at`
+  * `+autoslay` / `+as`
 
 * **Skip your current task:**
 
@@ -41,5 +41,9 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
   * You can buy a cannon using `+buy dwarf multicannon`.
 
 * **Barrage your task:**
+
   * If you have sufficient Runes and the Magic level, you can barrage your tasks, to speed it up at the cost of runes. You can do this by adding `--barrage` to your message. E.g `+k abyssal demon --barrage .` You can also burst tasks using `--burst` instead.
+
+* **Default to always barrageing/cannoning**
+  * `+cbops add/remove always barrage/cannon`
 
