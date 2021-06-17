@@ -5,7 +5,7 @@
 * [Rules](rules.md)
 * [Gear](gear.md)
 * [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
-* [Achievement Diaries](achievement-diaries-unreleased.md)
+* [Achievement Diaries](achievement-diaries.md)
 
 ## Bosses
 
