@@ -9,7 +9,7 @@ description: List of achievements on the bot
 | Mining | JSpacer |  |
 | Firemaking | Wyatt | Mnwt |
 | Woodcutting | Coolbop | Mr Chop Chop |
-| Smithing | Jay |  |
+| Smithing | Jay | Coolbop |
 | Agility | Bowi | Hirwi |
 | Fishing | Airboat |  |
 | Cooking | Goldenmyre | Fishy |
