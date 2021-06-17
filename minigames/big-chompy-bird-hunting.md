@@ -7,7 +7,8 @@ You can do the chompy bird hunting minigame using `+chompyhunt`.
 * 10 QP
 * Ogre bow \(in range outfit\), `+buy ogre bow`
 * Ogre arrows \(in bank\)
-* Highly recommended: Ava's to save arrows.
+* Highly recommended: Wear an Ava's in range outfit to save arrows.
+* You get significant boosts for having completed the: Elite\(100%\), Medium\(50%\), or Easy\(25%\) tiers of the Western Provinces diary.
 
 ### Rewards
 
