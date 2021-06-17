@@ -1,4 +1,4 @@
-# Achievement Diaries \(UNRELEASED\)
+# Achievement Diaries
 
 You can complete Achievement Diaries if you have the requirements. Requirements include things like: having skill requirements, owning certain items, having certain items in your collection log, having Quest points, completed minigames, completed agility courses, and killing certain monsters.
 

@@ -5,6 +5,7 @@
 * [Rules](rules.md)
 * [Gear](gear.md)
 * [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
+* [Achievement Diaries](achievement-diaries-unreleased.md)
 
 ## Bosses
 
@@ -61,6 +62,6 @@
 
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
-* [Achievement Diaries \(UNRELEASED\)](achievement-diaries-unreleased.md)
 * [Slayer \(UNRELEASED\)](slayer-unreleased.md)
+* [Big Chompy Bird Hunting](big-chompy-bird-hunting.md)
 
