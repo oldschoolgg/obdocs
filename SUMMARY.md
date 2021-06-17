@@ -44,6 +44,7 @@
 
 ## Minigames
 
+* [Big Chompy Bird Hunting](minigames/big-chompy-bird-hunting.md)
 * [Blast Furnace](minigames/blast-furnace.md)
 * [Warriors Guild](minigames/warriors-guild.md)
 * [Fight Caves](minigames/fight-caves.md)
@@ -63,5 +64,4 @@
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
 * [Slayer \(UNRELEASED\)](slayer-unreleased.md)
-* [Big Chompy Bird Hunting](big-chompy-bird-hunting.md)
 
