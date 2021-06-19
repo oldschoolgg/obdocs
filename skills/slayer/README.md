@@ -52,6 +52,8 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
   * `+cbops add/remove always barrage/burst/cannon`
 
+  Note that there is no way to override the always on settings. If you want to do certain tasks in the catacombs for example you should disable always cannon and specify `+as ehp` when wanting to use a cannon. If you've saved `+as ehp` as your default, you can override this by using `+as default`.  
+
 * **Automatically slay your task with guided settings:**
 
   * `+as default/lowest/efficient/boss`
