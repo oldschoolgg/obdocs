@@ -14,14 +14,15 @@ Cannon boosts a number of bosses by a variable amount, the same applies for burs
 
 | **ITEM** | MONSTERS |
 | :--- | :--- |
+| Slayer Helmet | All monsters during a task, imbued works for all styles while unimbued only works for melee. Black mask works the same. |
+| Arclight | Greater demon, Black demon, Nechryael, Bloodveld, Hellhound, Abyssal Demon, Skotizo, Tortured Gorilla, Demonic Gorilla |
 | Dragon Hunter Crossbow | Drake, All dragons - This boost isn't listed with `+monster`, must be training ranged. |
 | Dragon Hunter Lance | Drake, All dragons - This boost isn't listed with `+monster`, must be training melee. |
-| Arclight | Greater demon, Black demon, Nechryael, Bloodveld, Hellhound, Abyssal Demon, Skotizo, Tortured Gorilla, Demonic Gorilla |
-| Saradomin Godsword | Greater demon, Black demon, Abyssal Demon |
-| Kodai Wand | Dust Devil, Smoke Devil, Ankou |
-| Staff of the Dead | Dust Devil\*, Smoke Devil\*, Ankou\* |
 | Dragonbone Necklace | Dagannoth |
+| Kodai Wand | Dust Devil, Smoke Devil, Ankou |
 | Leaf-bladed Battleaxe | Kurask, Turoth |
+| Saradomin Godsword | Greater demon, Black demon, Abyssal Demon |
+| Staff of the Dead | Dust Devil\*, Smoke Devil\*, Ankou\* |
 
 \* Better boost\(s\) available.
 
