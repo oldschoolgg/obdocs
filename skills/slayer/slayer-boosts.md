@@ -14,7 +14,7 @@ Cannon boosts a number of bosses by a variable amount, the same applies for burs
 
 | **ITEM** | MONSTERS |
 | :--- | :--- |
-| Slayer Helmet | All monsters during a task, imbued works for all styles while unimbued only works for melee. Black mask works the same. |
+| Slayer Helmet | All monsters during a task, imbued works for all styles while unimbued only works for melee. Black mask works the same. Note: Must be training the corresponding style for the boost to work. |
 | Arclight | Greater demon, Black demon, Nechryael, Bloodveld, Hellhound, Abyssal Demon, Skotizo, Tortured Gorilla, Demonic Gorilla |
 | Dragon Hunter Crossbow | Drake, All dragons - This boost isn't listed with `+monster`, must be training ranged. |
 | Dragon Hunter Lance | Drake, All dragons - This boost isn't listed with `+monster`, must be training melee. |
