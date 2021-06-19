@@ -13,7 +13,8 @@
 
 ## Skills
 
-* [Slayer \(NEW\)](skills/slayer.md)
+* [Slayer \(NEW\)](skills/slayer/README.md)
+  * [Slayer Boosts](skills/slayer/slayer-boosts.md)
 * [Fishing](skills/fishing/README.md)
   * [Fishing Training](skills/fishing/fishing-training.md)
 * [Magic \(Non-combat\)](skills/magic.md)
