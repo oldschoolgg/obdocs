@@ -11,3 +11,9 @@ A: Cannonballs are used at 16 per minute in single combat areas and 60 per minut
 
 
 
+### Konar specific
+
+Konar assigns tasks to a specific location just like in game, therefore you may not be able to kill your relevant task’s ‘boss’ counterparts or use a cannon/barrage.
+
+
+
