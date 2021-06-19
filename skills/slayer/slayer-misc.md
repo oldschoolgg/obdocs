@@ -13,7 +13,7 @@ A: Cannonballs are used at 16 per minute in single combat areas and 60 per minut
 A: Currently bugged.
 
 **Q: Which slayer master should I use?**  
-A: Depends on your goal; Konar for CL, Nieve for XP, Duradel for more "boss" tasks.
+A: Depends on your goal; Konar for CL or Duradel for XP/bossing.
 
 ### Konar specific
 
