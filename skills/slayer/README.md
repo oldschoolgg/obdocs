@@ -43,10 +43,12 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
   * If you own a cannon and cannonballs, the cannon can be used at some slayer tasks to speed it up, at the cost of cannonballs. You can do this by adding `--cannon` to your message. E.g `+k dagannoth --cannon`
   * You can buy a cannon using `+buy dwarf multicannon`.
+  * In single combat, 16 cannonballs are used per minute of task. In multi combat, 50 cannonballs are used per minute of task. Note: 60 cannonballs are used in multi until the updated value is merged.
 
 * **Barrage your task:**
 
   * If you have sufficient Runes and the Magic level, you can barrage your tasks, to speed it up at the cost of runes. You can do this by adding `--barrage` to your message. E.g `+k abyssal demon --barrage .` You can also burst tasks using `--burst` instead.
+  * Both barrage and burst uses 16 casts per minute of task. The rune costs are the same as in game. Any item that provides unlimited water runes work, but need to be equipped.
 
 * **Default to always barraging/bursting/cannoning**
 
