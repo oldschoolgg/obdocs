@@ -12,7 +12,8 @@ A: Cannonballs are used at 16 per minute in single combat areas and 60 per minut
 **Q: Why are my food stats strange? 0% less food because of offensive stats?**  
 A: Currently bugged.
 
-
+**Q: Which slayer master should I use?**  
+A: Depends on your goal; Konar for CL, Nieve for XP, Duradel for more "boss" tasks.
 
 ### Konar specific
 
