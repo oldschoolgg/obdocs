@@ -65,5 +65,5 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 This is based on using Duradel.
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
