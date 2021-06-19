@@ -13,6 +13,7 @@
 
 ## Skills
 
+* [Slayer \(NEW\)](skills/slayer.md)
 * [Fishing](skills/fishing/README.md)
   * [Fishing Training](skills/fishing/fishing-training.md)
 * [Magic \(Non-combat\)](skills/magic.md)
@@ -64,5 +65,4 @@
 
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
-* [Slayer \(UNRELEASED\)](slayer-unreleased.md)
 
