@@ -63,7 +63,11 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 ### Recommended block/skip list
 
-This is based on using Duradel.
+This is based on using Duradel at 50 slayer.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
+
+This is based on using Duradel after achieving 93 slayer. 
+
+![](../../.gitbook/assets/image%20%287%29.png)
 
