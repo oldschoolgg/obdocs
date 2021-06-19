@@ -17,12 +17,13 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 * **Skip your current task:**
 
-  * `+st skip`
+  * `+st skip` - Costs 30 slayer points
+  * Use `+st turael` to cancel your task and reset your streak.
 
 * **Buy rewards/unlocks from the Slayer shop:**
 
   * `+slayershop unlock malevolant masquerade`
-  * `+slayershop unlock red slayer helmet`
+  * `+sls unlock red slayer helmet`
 
 * **List Slayer shop unlocks:**
 
