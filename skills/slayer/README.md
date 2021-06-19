@@ -61,3 +61,9 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
   * **Efficient**: Use with `always cannon` for the most efficient tasks for Slayer XP.
   * **Boss**: Kills the boss variant or similar, \(e.g. Demonic gorillas for Black demons\)
 
+### Recommended block/skip list
+
+This is based on using Duradel.
+
+![](../../.gitbook/assets/image%20%285%29.png)
+

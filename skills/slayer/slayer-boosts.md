@@ -14,6 +14,8 @@ Cannon boosts a number of bosses by a variable amount, the same applies for burs
 
 | **ITEM** | MONSTERS |
 | :--- | :--- |
+| Dragon Hunter Crossbow | Drake, All dragons - This boost isn't listed with `+monster`, must be training ranged. |
+| Dragon Hunter Lance | Drake, All dragons - This boost isn't listed with `+monster`, must be training melee. |
 | Arclight | Greater demon, Black demon, Nechryael, Bloodveld, Hellhound, Abyssal Demon, Skotizo, Tortured Gorilla, Demonic Gorilla |
 | Saradomin Godsword | Greater demon, Black demon, Abyssal Demon |
 | Kodai Wand | Dust Devil, Smoke Devil, Ankou |
