@@ -24,11 +24,15 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
   * `+slayershop unlock malevolant masquerade`
   * `+slayershop unlock red slayer helmet`
 
+* **List Slayer shop unlocks:**
+
+  * `+slayershop unlock help`
+
 * **Blocking tasks:**
 
-  * Block current task: `+st --block`
+  * Block current task: `+st block`
   * See block list: `+st list`
-  * Unblock a task: `+st --unblock blue dragon`
+  * Unblock a task: `+st unblock blue dragon`
 
 * **Getting a Slayer Helmet:**
 
@@ -44,6 +48,16 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
   * If you have sufficient Runes and the Magic level, you can barrage your tasks, to speed it up at the cost of runes. You can do this by adding `--barrage` to your message. E.g `+k abyssal demon --barrage .` You can also burst tasks using `--burst` instead.
 
-* **Default to always barrageing/cannoning**
-  * `+cbops add/remove always barrage/cannon`
+* **Default to always barraging/bursting/cannoning**
+
+  * `+cbops add/remove always barrage/burst/cannon`
+
+* **Automatically slay your task with guided settings:**
+
+  * `+as default/lowest/efficient/boss`
+  * Optionally add `--save` to set your default
+  * **Default**: kills the monster you're assigned
+  * **Lowest**: kills the lowest combat level monster
+  * **Efficient**: Use with `always cannon` for the most efficient tasks for Slayer XP.
+  * **Boss**: Kills the boss variant or similar, \(e.g. Demonic gorillas for Black demons\)
 
