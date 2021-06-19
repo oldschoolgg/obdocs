@@ -26,18 +26,18 @@ The Brimhaven Agility Arena rewards the player with Agility tickets which can be
 
 ## Courses
 
-| Course | Required Level |
-| :--- | :--- |
-| Gnome Stronghold | 1 |
-| Draynor Village | 10 |
-| Al Kharid | 20 |
-| Varrock | 30 |
-| Penguin Agility | 30 |
-| Canifis | 40 |
-| Ape Atoll | 48 |
-| Falador | 50 |
-| Seers Village | 60 |
-| Pollnivneach | 70 |
-| Rellekka | 80 |
-| Ardougne | 90 |
+| Course | Required Level | XP Per Lap | Lap Time | Xp/Hr | Marks of Grace/Hr |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Gnome Stronghold | 1 | 88 | 34 | 9,320 | 0 |
+| Draynor Village | 10 | 120 | 43.2 | 10,000 | 12 |
+| Al Kharid | 20 | 180 | 64.8 | 10,000 | 8 |
+| Varrock | 30 | 238 | 66 | 13,000 | 12 |
+| Penguin Agility | 30 |  |  |  |  |
+| Canifis | 40 | 240 | 75 | 19,200 | 19 |
+| Ape Atoll | 48 |  |  |  |  |
+| Falador | 50 | 440 | 58.2 | 27,200 | 13 |
+| Seers Village | 60 | 570 | 44.4 | 46,200 | 12 |
+| Pollnivneach | 70 | 890 | 61.2 | 52,300 | 9 |
+| Rellekka | 80 | 780 | 51 | 55,000 | 14 |
+| Ardougne | 90 | 793 | 45.6 | 62,600 | 24 |
 
