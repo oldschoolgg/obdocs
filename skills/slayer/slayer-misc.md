@@ -13,7 +13,10 @@ A: Cannonballs are used at 16 per minute in single combat areas and 60 per minut
 
 ### Konar specific
 
-Konar assigns tasks to a specific location just like in game, therefore you may not be able to kill your relevant task’s ‘boss’ counterparts or use a cannon/barrage.
+Konar assigns tasks to specific locations, you can use any location that Konar can assign in game. For example Konar assigns black demons in both the catacombs and taverly dungeon, allowing you to use a cannon or not use a cannon to receive ancient shards/totem pieces. Konar does not however assign the area for demonic gorillas meaning these won't count towards a black demon task.
+
+_In simpler terms..._  
+Konar assigns tasks to specific locations, slightly different to in game. Therefore you may not be able to kill your relevant task’s ‘boss’ counterparts or use a cannon/barrage.
 
 
 
