@@ -14,6 +14,7 @@
 ## Skills
 
 * [Slayer \(NEW\)](skills/slayer/README.md)
+  * [Misc Info & FAQ](skills/slayer/slayer-misc.md)
   * [Slayer Boosts](skills/slayer/slayer-boosts.md)
 * [Fishing](skills/fishing/README.md)
   * [Fishing Training](skills/fishing/fishing-training.md)
