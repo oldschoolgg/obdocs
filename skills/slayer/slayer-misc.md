@@ -15,6 +15,14 @@ A: Currently bugged.
 **Q: Which slayer master should I use?**  
 A: Depends on your goal; Konar for CL or Duradel for XP/bossing.
 
+**Q: How do I imbue my slayer helm/black mask?**  
+A: `+sw imbue black mask` you can get soul wars points with the `+sw` command.
+
+**Q: How do I get an arclight?**  
+A: `+buy darklight` ; `+create arclight` - Requires 3 ancient shards.
+
+
+
 ### Konar specific
 
 Konar assigns tasks to specific locations, you can use any location that Konar can assign in game. For example Konar assigns black demons in both the catacombs and taverly dungeon, allowing you to use a cannon or not use a cannon to receive ancient shards/totem pieces. Konar does not however assign the area for demonic gorillas meaning these won't count towards a black demon task.
