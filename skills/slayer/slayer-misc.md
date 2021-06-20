@@ -6,6 +6,9 @@ description: For all the random stuff people keep asking
 
 ### FAQ
 
+**Q: What unlocks should I prioritise?**  
+A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****
+
 **Q: Why am I using so many cannonballs?**  
 A: Cannonballs are used at 16 per minute in single combat areas and 50 per minute in multi areas. This is intentional. XP works out to similar as in game.
 
@@ -18,13 +21,31 @@ A: Depends on your goal; Konar for CL or Duradel for XP/bossing.
 **Q: How do I imbue my slayer helm/black mask?**  
 A: `+sw imbue black mask` you can get soul wars points with the `+sw` command.
 
+**Q: Do I need to equip my black mask/slayer helm to get the boost?**  
+A: No.
+
 **Q: How do I get an arclight?**  
 A: `+buy darklight` ; `+create arclight` - Requires 3 ancient shards.
 
 **Q: How do I get a cannon?**  
 A: `+buy dwarf multicannon`
 
+### Best gear for slayer
 
+This can vary slightly depending on your task but in general this is the best gear.  
+**Melee:** Yes, bulwark is better than ely.
+
+![An imbued warrior ring is slightly better](../../.gitbook/assets/image%20%289%29.png)
+
+**Range:** Note that kodai wand ****will still provide infinite water runes when equipped in your range setup.
+
+![Black/God/3rd age vamb&apos;s would be better than bgloves](../../.gitbook/assets/image%20%288%29.png)
+
+It's recommended you create a gear preset for these setups after equipping them. I.E.  
+`+gearpresets new meleeslay melee`  
+`+gearpresets new rangeslay range`  
+Equip the preset with:  
+`+gearpresets equip meleeslay melee`
 
 ### Konar specific
 
