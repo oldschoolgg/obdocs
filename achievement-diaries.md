@@ -19,7 +19,7 @@ If you meet the requirements of a Diary, you can claim the reward item and the X
 
 ## Diary Perks
 
-You get a 10% boost for having the achievement diary cape equipped.
+You get a 10% boost to clue scrolls for having the achievement diary cape equipped.
 
 ### Ardougne Diary - Hard
 
