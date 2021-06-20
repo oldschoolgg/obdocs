@@ -7,7 +7,7 @@ description: For all the random stuff people keep asking
 ### FAQ
 
 **Q: Why am I using so many cannonballs?**  
-A: Cannonballs are used at 16 per minute in single combat areas and 60 per minute in multi areas. The multi value will likely go down to 50 soon. This is intentional. XP works out to similar as in game.
+A: Cannonballs are used at 16 per minute in single combat areas and 50 per minute in multi areas. This is intentional. XP works out to similar as in game.
 
 **Q: Why are my food stats strange? 0% less food because of offensive stats?**  
 A: Currently bugged.
