@@ -21,6 +21,9 @@ A: `+sw imbue black mask` you can get soul wars points with the `+sw` command.
 **Q: How do I get an arclight?**  
 A: `+buy darklight` ; `+create arclight` - Requires 3 ancient shards.
 
+**Q: How do I get a cannon?**  
+A: `+buy dwarf multicannon`
+
 
 
 ### Konar specific
