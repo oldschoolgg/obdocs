@@ -9,8 +9,8 @@ description: For all the random stuff people keep asking
 **Q: What unlocks should I prioritise?**  
 A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****
 
-**Q: Why am I using so many cannonballs?**  
-A: Cannonballs are used at 16 per minute in single combat areas and 50 per minute in multi areas. This is intentional. XP works out to similar as in game.
+**Q: How do I unlock/create a slayer helm?**  
+A: `+sls unlock slayer helmet` followed by `+create slayer helm` or `+create slayer helm (i)`. This isn't recommended as a black mask can be used anywhere.
 
 **Q: Why are my food stats strange? 0% less food because of offensive stats?**  
 A: Currently bugged.
@@ -22,13 +22,19 @@ A: Depends on your goal; Konar for CL or Duradel for XP/bossing.
 A: `+sw imbue black mask` you can get soul wars points with the `+sw` command.
 
 **Q: Do I need to equip my black mask/slayer helm to get the boost?**  
-A: No.
+A: No, but its recommended you equip it in your misc \(or any other\) setup for fightcaves.
 
 **Q: How do I get an arclight?**  
 A: `+buy darklight` ; `+create arclight` - Requires 3 ancient shards.
 
 **Q: How do I get a cannon?**  
 A: `+buy dwarf multicannon`
+
+**Q: Why am I using so many cannonballs?**  
+A: Cannonballs are used at 16 per minute in single combat areas and 50 per minute in multi areas. This is intentional. XP works out to similar as in game.
+
+**Q: How do I get a shield for wyverns?**  
+A: `+buy mind shield`
 
 ### Best gear for slayer
 
