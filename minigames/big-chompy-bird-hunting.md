@@ -18,7 +18,7 @@ You can do the chompy bird hunting minigame using `+chompyhunt`.
 
 You can try to buy it from other players, or...
 
-1. Kill Wolves for Wolf bones, craf them into Wolfbone arrowtips.
+1. Kill Wolves for Wolf bones, fletch them into Wolfbone arrowtips.
 2. Cut Achey trees, fletch them into Ogre arrow shafts.
 3. Fletch Flighted ogre arrows from Ogre arrow shafts and feathers.
 4. Fletch Ogre arrows from Wolfbone arrowtips and Flighted ogre arrows.
