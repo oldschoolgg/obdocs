@@ -2,7 +2,7 @@
 
 You will not receive totem pieces or ancient shards if you are using a cannon as cannons cannot be placed in the catacombs.
 
-You can check the boosts for a specific monster by using the `+monster <monster>` command.  
+You can check the boosts for a specific monster and by how much by using the `+monster <monster>` command.  
 The Elysian spirit shield will also reduce your food usage by 17.5%, this needs to be equipped to work.
 
 ### General boosts
@@ -19,10 +19,13 @@ Cannon boosts a number of bosses by a variable amount, the same applies for burs
 | Dragon Hunter Crossbow | Wyrm, Drake, All dragons - This boost isn't listed with `+monster`, must be training ranged. |
 | Dragon Hunter Lance | Wyrm, Drake, All dragons - This boost isn't listed with `+monster`, must be training melee. |
 | Dragonbone Necklace | Dagannoth |
-| Kodai Wand | Dust Devil, Smoke Devil, Ankou |
+| Kodai Wand | Dust Devil, Smoke Devil, Ankou, Greater Nechryael  |
 | Leaf-bladed Battleaxe | Kurask, Turoth |
 | Saradomin Godsword | Greater demon, Black demon, Abyssal Demon |
-| Staff of the Dead | Dust Devil\*, Smoke Devil\*, Ankou\* |
+| Inquisitor's Mace | Basilisk Knight |
+| Inquisitor's Hauberk | Basilisk Knight |
+| Inquisitor's Plateskirt | Basilisk Knight |
+| Staff of the Dead | Dust Devil\*, Smoke Devil\*, Ankou\*, Greater Nechryael\* |
 
 \* Better boost\(s\) available.
 
