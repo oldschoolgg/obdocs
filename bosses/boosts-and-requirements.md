@@ -48,26 +48,48 @@ Image needs updating
         <img src="../.gitbook/assets/kril_tsutsaroth.png" alt/>
       </td>
       <td style="text-align:center">
-        <img src="../.gitbook/assets/dwh.png" alt/>
+        <p>
+          <img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt/>OR
+          <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt/>OR
+          <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/800px-arclight_detail.png" alt/>
+        </p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/range-alts2.png" alt/>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../.gitbook/assets/kreearra.png" alt/>
       </td>
       <td style="text-align:center">
-        <img src="../.gitbook/assets/acb.png" alt/>OR
-        <img src="../.gitbook/assets/tbow.png" alt/>
+        <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>OR
+        <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/range-alts2.png" alt/>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../.gitbook/assets/commander_zilyana.png" alt/>
       </td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/140px-ranger_boots_detail.png" alt/>OR
+          <img src="../.gitbook/assets/170px-pegasian_boots_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>OR
+          <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/range-alts2.png" alt/>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
