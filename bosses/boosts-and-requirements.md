@@ -241,8 +241,7 @@
           <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>
           <br />
           <img src="../.gitbook/assets/range-alts3.png" alt/>
-          <br />(Trimmed &amp; gilded variants of black
-          <br />d&apos;hide work as well.)</p>
+        </p>
         <p></p>
       </td>
     </tr>
@@ -287,6 +286,111 @@
         <img src="../.gitbook/assets/100px-dharoks_platelegs_detail.png" alt/>
         <img src="../.gitbook/assets/130px-dharoks_greataxe_detail.png" alt/>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/250px-zulrah_-serpentine-.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/140px-ranger_boots_detail.png" alt/>OR
+          <img src="../.gitbook/assets/170px-pegasian_boots_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/120px-ibans_staff_detail.png" alt/>OR
+          <img src="../.gitbook/assets/150px-harmonised_nightmare_staff_detail.png"
+          alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/1024px-barrows_gloves_detail.png" alt/>
+          <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>
+          <img src="../.gitbook/assets/130px-ancestral_hat_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/150px-ancestral_robe_top_detail.png" alt/>
+          <img src="../.gitbook/assets/90px-ancestral_robe_bottom_detail.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/280px-vorkath (1).png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt/>OR
+          <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt/>
+          <br />OR
+          <img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/130px-dragon_hunter_lance_detail.png" alt/>OR
+          <img src="../.gitbook/assets/171px-dragon_hunter_crossbow_detail.png"
+          alt/>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt/>
+        <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail.png" alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/250px-the_nightmare (1).png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/150px-inquisitors_great_helm_detail.png"
+        alt/>
+        <img src="../.gitbook/assets/150px-inquisitors_hauberk_detail.png" alt/>
+        <img src="../.gitbook/assets/100px-inquisitors_plateskirt_detail.png"
+        alt/>
+        <img src="../.gitbook/assets/150px-inquisitors_mace_detail.png" alt/>
+      </td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/290px-kalphite_queen.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/170px-elder_maul_detail.png" alt/>
+        <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt/>
+        <img src="../.gitbook/assets/250px-rejuvenation_pool_built.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/120px-veracs_flail_detail (1).png" alt/>
+          <img src="../.gitbook/assets/120px-veracs_plateskirt_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/range-alts.png" alt/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/280px-dawn-1-1-.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/130px-saradomin_godsword_detail.png" alt/>OR
+          <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/150px-brittle_key_detail.png" alt/>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/1024px-abyssal_sire-1-.png" alt/>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
     </tr>
   </tbody>
 </table>
