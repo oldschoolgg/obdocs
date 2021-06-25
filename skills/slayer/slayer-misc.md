@@ -33,7 +33,7 @@ A: `+buy dwarf multicannon`
 **Q: Why am I using so many cannonballs?**  
 A: Cannonballs are used at 16 per minute in single combat areas and 50 per minute in multi areas. This is intentional. XP works out to similar as in game.
 
-**Q: How do I get a shield for wyverns?**  
+**Q: How do I get an elemental/mind shield for wyverns?**  
 A: `+buy mind shield`
 
 ### Best gear for slayer
