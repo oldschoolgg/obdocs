@@ -22,7 +22,7 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/150px-zamorakian_spear_detail (1).png" alt/>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">43 Prayer</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -42,7 +42,10 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/range-alts2.png" alt/>
       </td>
-      <td style="text-align:center">75 QP</td>
+      <td style="text-align:center">
+        <p>75 QP</p>
+        <p>43 Prayer</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -55,7 +58,10 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/range-alts2.png" alt/>
       </td>
-      <td style="text-align:center">75 QP</td>
+      <td style="text-align:center">
+        <p>75 QP</p>
+        <p>43 Prayer</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -74,7 +80,11 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/range-alts2.png" alt/>
       </td>
-      <td style="text-align:center">75 QP</td>
+      <td style="text-align:center">
+        <p>75 QP</p>
+        <p>43 Prayer</p>
+        <p>70 Agility</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -85,7 +95,10 @@
         <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt/>
       </td>
       <td style="text-align:center"></td>
-      <td style="text-align:center">75 QP</td>
+      <td style="text-align:center">
+        <p>75 QP</p>
+        <p>43 Prayer</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -107,7 +120,7 @@
           <img src="../.gitbook/assets/range-alts2.png" alt/>
         </p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">43 Prayer</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -131,7 +144,7 @@
           <img src="../.gitbook/assets/melee-alts2.png" alt/>
         </p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">43 Prayer</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -159,7 +172,7 @@
           alt/>
         </p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">43 Prayer</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -303,7 +316,7 @@
         <img src="../.gitbook/assets/100px-dharoks_platelegs_detail.png" alt/>
         <img src="../.gitbook/assets/130px-dharoks_greataxe_detail.png" alt/>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">43 Prayer</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -330,7 +343,10 @@
         </p>
       </td>
       <td style="text-align:center"></td>
-      <td style="text-align:center">75 QP</td>
+      <td style="text-align:center">
+        <p>75 QP</p>
+        <p>43 Prayer</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -353,7 +369,10 @@
         <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt/>
         <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail.png" alt/>
       </td>
-      <td style="text-align:center">205 QP</td>
+      <td style="text-align:center">
+        <p>205 QP</p>
+        <p>43 Prayer</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -367,8 +386,19 @@
         alt/>
         <img src="../.gitbook/assets/150px-inquisitors_mace_detail.png" alt/>
       </td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">150 slash defense and 80 crush attack in melee setup.</td>
+      <td style="text-align:center">43 Prayer</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/280px-sarachnis (1).png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt/>
+      </td>
+      <td style="text-align:center">177 ranged defense, 73 stab defense, and 65 crush attack in melee setup.</td>
+      <td
+      style="text-align:center">43 Prayer</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -388,7 +418,7 @@
           <img src="../.gitbook/assets/range-alts.png" alt/>
         </p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">43 Prayer</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -524,7 +554,7 @@
         <img src="../.gitbook/assets/250px-rejuvenation_pool_built.png" alt/>
       </td>
       <td style="text-align:center"></td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">43 Prayer</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -546,12 +576,19 @@
         <img src="../.gitbook/assets/170px-toxic_blowpipe_-empty-_detail.png"
         alt/>
       </td>
-      <td style="text-align:center">30 QP</td>
+      <td style="text-align:center">
+        <p>30 QP</p>
+        <p>43 Prayer</p>
+      </td>
     </tr>
   </tbody>
 </table>
 
+\(Please @eggaroonie\#7125 in \#wiki if you are able to confirm any of the "unconfirmed" boosts. Include screenshots.\)
+
 ### Global Boosts
+
+![](../.gitbook/assets/120px-elysian_spirit_shield_detail.png) Elysian Spirit Shield: reduces food usage by 17.6% when equipped in the gear setup being used.
 
 
 
