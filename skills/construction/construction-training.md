@@ -15,7 +15,7 @@
 Materials Needed:   
 94 Plank  
 2030 Oak plank  
-92220 Mahogany plank
+92,220 Mahogany plank
 
 ### Mahogany Homes
 

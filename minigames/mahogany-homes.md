@@ -9,7 +9,7 @@ Mahogany Homes is the construction minigame and it provides more xp per plank as
 | Builders supply crate | 25 | Provides construction materials when opened |
 | Amy's saw | 500 | Cosmetic saw |
 | Plank sack | 350 | Construction xp boost |
-| Hosidius blueprints | 2000 | PoH recolour |
+| Hosidius blueprints | 2,000 | PoH recolour |
 | Carpenter's helmet | 400 | 0.4% construction xp boost |
 | Carpenter's shirt | 800 | 0.8% construction xp boost |
 | Carpenter's trousers | 600 | 0.6% construction xp boost |

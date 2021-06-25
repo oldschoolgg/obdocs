@@ -8,12 +8,12 @@ To spend your honour points, you can `+BA buy` the items in the table below, `+B
 
 | **Item** | **Honour pount cost** |
 | :--- | :---: |
-| Fighter hat | 1100 |
-| Ranger hat | 1100 |
-| Healer hat | 1100 |
-| Runner hat | 1100 |
-| Fighter torso | 1500 |
-| Penance skirt | 1500 |
+| Fighter hat | 1,100 |
+| Ranger hat | 1,100 |
+| Healer hat | 1,100 |
+| Runner hat | 1,100 |
+| Fighter torso | 1,500 |
+| Penance skirt | 1,500 |
 | Runner boots | 400 |
 | Penance gloves | 600 |
 | Low gamble | 200 |
