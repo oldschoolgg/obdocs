@@ -588,23 +588,6 @@
         <p>43 Prayer</p>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../.gitbook/assets/1280px-basilisk_knight.png" alt/>
-      </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/150px-inquisitors_hauberk_detail.png" alt/>
-          <img src="../.gitbook/assets/100px-inquisitors_plateskirt_detail.png"
-          alt/>
-        </p>
-        <p>
-          <img src="../.gitbook/assets/150px-inquisitors_mace_detail.png" alt/>
-        </p>
-      </td>
-      <td style="text-align:center"></td>
-      <td style="text-align:center">120 QP</td>
-    </tr>
   </tbody>
 </table>
 
