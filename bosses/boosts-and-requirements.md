@@ -1,5 +1,7 @@
 # Boosts & Requirements
 
+
+
 <table>
   <thead>
     <tr>
@@ -257,8 +259,11 @@
       </td>
       <td style="text-align:center">
         <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>OR
-        <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>
-        <br />(DHL &amp; DHCB boost unconfirmed.)</td>
+        <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>OR
+        <img src="../.gitbook/assets/171px-dragon_hunter_crossbow_detail.png"
+        alt/>OR
+        <img src="../.gitbook/assets/130px-dragon_hunter_lance_detail.png" alt/>
+      </td>
       <td style="text-align:center">
         <p>
           <img src="../.gitbook/assets/150px-anti-dragon_shield_detail.png" alt/>
@@ -526,7 +531,19 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/800px-alchemical_hydra.png" alt/>
       </td>
-      <td style="text-align:center">(DHL, DHCB, &amp; T-Bow boosts unconfirmed.)</td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/1024px-barrows_gloves_detail.png" alt/>OR
+          <img src="../.gitbook/assets/130px-ferocious_gloves_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/130px-saradomin_godsword_detail.png" alt/>OR
+          <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt/>
+        </p>
+      </td>
       <td style="text-align:center">
         <img src="../.gitbook/assets/800px-antidote++-4-_detail.png" alt/>
       </td>
@@ -599,7 +616,7 @@
 
 ![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask \(i\): Gives a 15% boost while killing monsters on a slayer task.
 
-Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on the boosts that apply to slayer monsters.
+Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
 
 
 
