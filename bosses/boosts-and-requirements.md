@@ -574,6 +574,7 @@
         </p>
       </td>
       <td style="text-align:center">
+        <img src="../.gitbook/assets/120px-karils_crossbow_detail.png" alt/>OR
         <img src="../.gitbook/assets/120px-rune_crossbow_detail.png" alt/>OR
         <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>OR
         <img src="../.gitbook/assets/170px-toxic_blowpipe_-empty-_detail.png"
