@@ -608,7 +608,7 @@
   </tbody>
 </table>
 
-\(Please @eggaroonie\#7125 in \#wiki if you are able to confirm any of the "unconfirmed" boosts. Include screenshots.\)
+\(Please @eggaroonie\#7125 in \#wiki if you find any monsters not listed on the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page or here.
 
 ### Global Boosts
 
