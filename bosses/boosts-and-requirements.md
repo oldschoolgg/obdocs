@@ -616,6 +616,8 @@
 
 ![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask \(i\): Gives a 15% boost while killing monsters on a slayer task.
 
+Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on the boosts that apply to slayer monsters.
+
 
 
 ![](../.gitbook/assets/image%20%282%29.png)
