@@ -105,7 +105,8 @@
         <img src="../.gitbook/assets/200px-dagannoth_prime.png" alt/>
       </td>
       <td style="text-align:center">
-        <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt/>
+        <img src="../.gitbook/assets/100px-armadyl_chestplate_detail (1).png"
+        alt/>
         <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail.png" alt/>
         <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>
       </td>
@@ -262,6 +263,7 @@
         <p>
           <img src="../.gitbook/assets/150px-anti-dragon_shield_detail.png" alt/>
           <br />
+          <img src="../.gitbook/assets/120px-rune_crossbow_detail.png" alt/>OR
           <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>OR
           <img src="../.gitbook/assets/171px-dragon_hunter_crossbow_detail.png"
           alt/>OR
@@ -342,7 +344,16 @@
           <img src="../.gitbook/assets/90px-ancestral_robe_bottom_detail.png" alt/>
         </p>
       </td>
-      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/150px-ahrims_robetop_detail.png" alt/>
+          <img src="../.gitbook/assets/120px-ahrims_robeskirt_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt/>
+          <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt/>
+        </p>
+      </td>
       <td style="text-align:center">
         <p>75 QP</p>
         <p>43 Prayer</p>
@@ -366,7 +377,8 @@
         </p>
       </td>
       <td style="text-align:center">
-        <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt/>
+        <img src="../.gitbook/assets/100px-armadyl_chestplate_detail (1).png"
+        alt/>
         <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail.png" alt/>
       </td>
       <td style="text-align:center">
