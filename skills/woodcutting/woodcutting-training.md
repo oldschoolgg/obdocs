@@ -8,5 +8,11 @@
 35 - 65 Teak logs  
 65 - 99 Sulliuscep
 
+ 
+
+![](../../.gitbook/assets/woodcuttingxp.png)
+
+[Full Image](https://i.imgur.com/fVG81BQ.png)
+
 
 

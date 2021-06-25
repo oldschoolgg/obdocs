@@ -44,7 +44,8 @@
 * [Agility](skills/agility/README.md)
   * [Agility Alching](skills/agility/agility-alching.md)
   * [Monkey Backpacks](skills/agility/monkey-backpacks.md)
-* [Mining](skills/mining.md)
+* [Mining](skills/mining/README.md)
+  * [Mining Training](skills/mining/mining-training.md)
 * [Combat Skills](skills/combat-skills.md)
 
 ## Minigames

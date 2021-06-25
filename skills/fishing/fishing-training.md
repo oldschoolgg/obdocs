@@ -16,7 +16,11 @@ Aerial Fishing when at least 43 fishing/35 hunter, this is much better than doin
 
 Collection log slots from: Bass \(Big Bass\), Swordfish \(Big Swordfish\), Shark \(Big Shark\), Fishing Trawler \(Angler outfit\), Aerial Fishing \(3 Rods+Golden Tench+Fish Sack\).
 
+ 
 
+![](../../.gitbook/assets/fishingxp.png)
+
+[Full Image](https://i.imgur.com/0PUaA3J.png)
 
 
 
