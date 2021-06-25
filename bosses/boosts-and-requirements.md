@@ -6,6 +6,7 @@
       <th style="text-align:center">Monster</th>
       <th style="text-align:center">Boost(s)</th>
       <th style="text-align:center">Required items</th>
+      <th style="text-align:center">Required stats/QP</th>
     </tr>
   </thead>
   <tbody>
@@ -21,6 +22,7 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/150px-zamorakian_spear_detail (1).png" alt/>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -40,6 +42,7 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/range-alts2.png" alt/>
       </td>
+      <td style="text-align:center">75 QP</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -52,6 +55,7 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/range-alts2.png" alt/>
       </td>
+      <td style="text-align:center">75 QP</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -70,6 +74,7 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/range-alts2.png" alt/>
       </td>
+      <td style="text-align:center">75 QP</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -80,6 +85,7 @@
         <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt/>
       </td>
       <td style="text-align:center"></td>
+      <td style="text-align:center">75 QP</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -101,6 +107,7 @@
           <img src="../.gitbook/assets/range-alts2.png" alt/>
         </p>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -124,6 +131,7 @@
           <img src="../.gitbook/assets/melee-alts2.png" alt/>
         </p>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -151,6 +159,7 @@
           alt/>
         </p>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -166,6 +175,7 @@
         <img src="../.gitbook/assets/120px-veracs_plateskirt_detail.png" alt/>
         <img src="../.gitbook/assets/120px-veracs_flail_detail (1).png" alt/>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -180,6 +190,7 @@
         <img src="../.gitbook/assets/120px-veracs_plateskirt_detail.png" alt/>
         <img src="../.gitbook/assets/120px-veracs_flail_detail (1).png" alt/>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -194,6 +205,7 @@
         <img src="../.gitbook/assets/120px-veracs_plateskirt_detail.png" alt/>
         <img src="../.gitbook/assets/120px-veracs_flail_detail (1).png" alt/>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -204,6 +216,7 @@
         <img src="../.gitbook/assets/150px-harmonised_nightmare_staff_detail.png"
         alt/>
       </td>
+      <td style="text-align:center"></td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
@@ -222,6 +235,7 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/range-alts3.png" alt/>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -230,7 +244,7 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>OR
         <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt/>
-        <br />(DHL &amp; DHCB not yet confirmed)</td>
+        <br />(DHL &amp; DHCB boost unconfirmed.)</td>
       <td style="text-align:center">
         <p>
           <img src="../.gitbook/assets/150px-anti-dragon_shield_detail.png" alt/>
@@ -244,6 +258,7 @@
         </p>
         <p></p>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -254,6 +269,7 @@
         <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt/>
       </td>
       <td style="text-align:center"></td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -262,6 +278,7 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/125px-occult_necklace_detail.png" alt/>
       </td>
+      <td style="text-align:center"></td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
@@ -286,6 +303,7 @@
         <img src="../.gitbook/assets/100px-dharoks_platelegs_detail.png" alt/>
         <img src="../.gitbook/assets/130px-dharoks_greataxe_detail.png" alt/>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -312,6 +330,7 @@
         </p>
       </td>
       <td style="text-align:center"></td>
+      <td style="text-align:center">75 QP</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -334,6 +353,7 @@
         <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt/>
         <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail.png" alt/>
       </td>
+      <td style="text-align:center">205 QP</td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -347,6 +367,7 @@
         alt/>
         <img src="../.gitbook/assets/150px-inquisitors_mace_detail.png" alt/>
       </td>
+      <td style="text-align:center"></td>
       <td style="text-align:center"></td>
     </tr>
     <tr>
@@ -367,6 +388,7 @@
           <img src="../.gitbook/assets/range-alts.png" alt/>
         </p>
       </td>
+      <td style="text-align:center"></td>
     </tr>
     <tr>
       <td style="text-align:center">
@@ -384,16 +406,154 @@
       <td style="text-align:center">
         <img src="../.gitbook/assets/150px-brittle_key_detail.png" alt/>
       </td>
+      <td style="text-align:center">
+        <p>75 Slayer</p>
+        <p>(Must be on task.)</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../.gitbook/assets/1024px-abyssal_sire-1-.png" alt/>
       </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/800px-arclight_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt/>OR
+          <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt/>
+          <br />(Pool of Rejuvenation boost unconfirmed.)</p>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>85 Slayer</p>
+        <p>(Must be on task.)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/290px-kraken.png" alt/>
+      </td>
+      <td style="text-align:center">&#x200B;&#x200B;
+        <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mahgm23KyzkWDlt2oqz%2F-Md-RDiPGvr5AV1JNN-A%2F-Md-SXn_3jCCQWeYd2vd%2FTrident_of_the_seas_detail.png?alt=media&amp;token=c31ec29f-dea6-4ada-b6fe-3098c0b9845f"
+        alt/>OR &#x200B;
+        <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mahgm23KyzkWDlt2oqz%2F-Md-RDiPGvr5AV1JNN-A%2F-Md-SbGNUgR8mwHCUAnc%2F150px-Uncharged_toxic_trident_detail.png?alt=media&amp;token=090a98e0-60c2-42f0-ad38-5da02685d6e9"
+        alt/>OR &#x200B;
+        <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-Mahgm23KyzkWDlt2oqz%2F-Md-7UF2kcryqumjcOW7%2F-Md-Cn_Zm3Z_rySQMBaU%2F150px-Harmonised_nightmare_staff_detail.png?alt=media&amp;token=8991cb49-6d94-4327-b311-26b97930bdb2"
+        alt/>
+        <br />
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/trident_of_the_seas_detail.png" alt/>OR
+        <img src="../.gitbook/assets/150px-uncharged_toxic_trident_detail.png"
+        alt/>OR
+        <img src="../.gitbook/assets/150px-harmonised_nightmare_staff_detail.png"
+        alt/>
+      </td>
+      <td style="text-align:center">
+        <p>87 Slayer</p>
+        <p>(Must be on task.)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/1024px-cerberus (1).png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/120px-spectral_spirit_shield_detail.png"
+          alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/800px-arclight_detail.png" alt/>OR
+          <img src="../.gitbook/assets/150px-inquisitors_mace_detail.png" alt/>
+          <br />
+          <img src="../.gitbook/assets/melee-alts3 (1).png" alt/>
+        </p>
+        <p></p>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/150px-zamorakian_spear_detail.png" alt/>OR
+          <img src="../.gitbook/assets/150px-zamorakian_hasta_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/melee-alts.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <p>91 Slayer</p>
+        <p>(Must be on task.)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/800px-alchemical_hydra.png" alt/>
+      </td>
+      <td style="text-align:center">(DHL, DHCB, &amp; T-Bow boosts unconfirmed.)</td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/800px-antidote++-4-_detail.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>95 Slayer</p>
+        <p>(Must be on task.)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/250px-skotizo.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/800px-arclight_detail.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/140px-dark_totem_detail.png" alt/>
+        <br />(Consumed on use.)</td>
+      <td style="text-align:center"></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/verac_the_defiled.png" alt/>
+        <img src="../.gitbook/assets/guthan.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/1024px-barrows_gloves_detail.png" alt/>
+        <img src="../.gitbook/assets/120px-ibans_staff_detail.png" alt/>
+        <img src="../.gitbook/assets/120px-strange_old_lockpick_-full-_detail.png"
+        alt/>
+        <img src="../.gitbook/assets/250px-rejuvenation_pool_built.png" alt/>
+      </td>
       <td style="text-align:center"></td>
       <td style="text-align:center"></td>
     </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/lizardman_shaman.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/150px-ring_of_the_gods_detail.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>OR
+          <img src="../.gitbook/assets/170px-toxic_blowpipe_-empty-_detail.png"
+          alt/>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/120px-rune_crossbow_detail.png" alt/>OR
+        <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt/>OR
+        <img src="../.gitbook/assets/170px-toxic_blowpipe_-empty-_detail.png"
+        alt/>
+      </td>
+      <td style="text-align:center">30 QP</td>
+    </tr>
   </tbody>
 </table>
+
+### Global Boosts
+
+
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
