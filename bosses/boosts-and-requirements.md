@@ -344,16 +344,7 @@
           <img src="../.gitbook/assets/90px-ancestral_robe_bottom_detail.png" alt/>
         </p>
       </td>
-      <td style="text-align:center">
-        <p>
-          <img src="../.gitbook/assets/150px-ahrims_robetop_detail.png" alt/>
-          <img src="../.gitbook/assets/120px-ahrims_robeskirt_detail.png" alt/>
-        </p>
-        <p>
-          <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt/>
-          <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt/>
-        </p>
-      </td>
+      <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>75 QP</p>
         <p>43 Prayer</p>
@@ -597,6 +588,23 @@
         <p>43 Prayer</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/1280px-basilisk_knight.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/150px-inquisitors_hauberk_detail.png" alt/>
+          <img src="../.gitbook/assets/100px-inquisitors_plateskirt_detail.png"
+          alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/150px-inquisitors_mace_detail.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">120 QP</td>
+    </tr>
   </tbody>
 </table>
 
@@ -604,7 +612,9 @@
 
 ### Global Boosts
 
-![](../.gitbook/assets/120px-elysian_spirit_shield_detail.png) Elysian Spirit Shield: reduces food usage by 17.6% when equipped in the gear setup being used.
+![](../.gitbook/assets/120px-elysian_spirit_shield_detail.png) Elysian Spirit Shield: Reduces food usage by 17.6% when equipped in the gear setup being used.
+
+![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask/Slayer Helmet: Gives a 15% boost while training melee and on a slayer task. Imbuing the mask will provide the 15% boost when training range and mage as well.
 
 
 
