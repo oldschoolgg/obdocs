@@ -614,7 +614,7 @@
 
 ![](../.gitbook/assets/120px-elysian_spirit_shield_detail.png) Elysian Spirit Shield: Reduces food usage by 17.6% when equipped in the gear setup being used.
 
-![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask/Slayer Helmet: Gives a 15% boost while training melee and on a slayer task. Imbuing the mask will provide the 15% boost when training range and mage as well.
+![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask \(i\): Gives a 15% boost while killing monsters on a slayer task.
 
 
 
