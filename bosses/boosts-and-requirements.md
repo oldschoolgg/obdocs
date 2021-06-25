@@ -450,9 +450,12 @@
           <img src="../.gitbook/assets/800px-arclight_detail.png" alt/>
         </p>
         <p>
+          <img src="../.gitbook/assets/250px-rejuvenation_pool_built.png" alt/>
+        </p>
+        <p>
           <img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt/>OR
           <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt/>
-          <br />(Pool of Rejuvenation boost unconfirmed.)</p>
+        </p>
       </td>
       <td style="text-align:center"></td>
       <td style="text-align:center">
