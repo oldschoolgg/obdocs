@@ -10,7 +10,7 @@ description: For all the random stuff people keep asking
 A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****
 
 **Q: How do I unlock/create a slayer helm?**  
-A: `+sls unlock slayer helmet` followed by `+create slayer helm` or `+create slayer helm (i)`. This isn't recommended as a black mask can be used anywhere.
+A: `+sls unlock slayer helmet` followed by `+create slayer helmet` or `+create slayer helmet (i)`. This isn't recommended as a black mask can be used anywhere.
 
 **Q: Why are my food stats strange? 0% less food because of offensive stats?**  
 A: Currently bugged.
