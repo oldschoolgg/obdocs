@@ -17,6 +17,7 @@
   * [Misc Info & FAQ](skills/slayer/slayer-misc.md)
   * [Slayer Boosts](skills/slayer/slayer-boosts.md)
 * [Fishing](skills/fishing/README.md)
+  * [Aerial Fishing](skills/fishing/aerial-fishing.md)
   * [Fishing Training](skills/fishing/fishing-training.md)
 * [Magic \(Non-combat\)](skills/magic.md)
 * [Hunter](skills/hunter/README.md)
@@ -70,5 +71,4 @@
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
 * [Temple Trekking \(UNRELEASED\)](temple-trekking-unreleased.md)
-* [Aerial Fishing](aerial-fishing.md)
 

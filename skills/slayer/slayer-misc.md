@@ -12,11 +12,8 @@ A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a b
 **Q: How do I unlock/create a slayer helm?**  
 A: `+sls unlock slayer helmet` followed by `+create slayer helmet` or `+create slayer helmet (i)`. This isn't recommended as a black mask can be used anywhere.
 
-**Q: Why are my food stats strange? 0% less food because of offensive stats?**  
-A: Currently bugged.
-
 **Q: Which slayer master should I use?**  
-A: Depends on your goal; Konar for CL or Duradel for XP/bossing.
+A: Depends on your goal; Konar for CL/XP or Duradel for bossing. Konar is better XP due to being able to complete tasks in any of Konar's assignable locations rather than a specific location \(the way it works in OSRS\).
 
 **Q: How do I imbue my slayer helm/black mask?**  
 A: `+sw imbue black mask` you can get soul wars points with the `+sw` command.
