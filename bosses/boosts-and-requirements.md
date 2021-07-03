@@ -1,6 +1,6 @@
 # Boosts & Requirements
 
-
+You can check the boosts for a specific boss and by how much by using the `+monster NameOfBoss` command. Some boosts don't currently appear so it is advised you crosscheck against this chart.
 
 <table>
   <thead>
