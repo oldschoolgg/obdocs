@@ -52,19 +52,20 @@
 ## Minigames
 
 * [Big Chompy Bird Hunting](minigames/big-chompy-bird-hunting.md)
-* [Blast Furnace](minigames/blast-furnace.md)
-* [Warriors Guild](minigames/warriors-guild.md)
-* [Fight Caves](minigames/fight-caves.md)
-* [Hallowed Sepulchre](minigames/hallowed-sepulchre.md)
-* [Brimhaven Agility Arena](minigames/brimhaven-agility-arena.md)
-* [Gnome Restaurant](minigames/gnome-restaurant.md)
 * [Barbarian Assault](minigames/barbarian-assault.md)
-* [Mahogany Homes](minigames/mahogany-homes.md)
-* [Tithe Farm](minigames/tithe-farm.md)
-* [Pyramid Plunder](minigames/pyramid-plunder.md)
-* [Wintertodt](minigames/wintertodt.md)
+* [Blast Furnace](minigames/blast-furnace.md)
+* [Brimhaven Agility Arena](minigames/brimhaven-agility-arena.md)
 * [Chambers of Xeric \(Raids\)](minigames/cox-raids/README.md)
   * [Challenge Mode](minigames/cox-raids/challenge-mode.md)
+* [Fight Caves](minigames/fight-caves.md)
+* [Gnome Restaurant](minigames/gnome-restaurant.md)
+* [Hallowed Sepulchre](minigames/hallowed-sepulchre.md)
+* [Mahogany Homes](minigames/mahogany-homes.md)
+* [Pyramid Plunder](minigames/pyramid-plunder.md)
+* [Soul Wars](minigames/soul-wars.md)
+* [Tithe Farm](minigames/tithe-farm.md)
+* [Warriors Guild](minigames/warriors-guild.md)
+* [Wintertodt](minigames/wintertodt.md)
 
 ---
 
