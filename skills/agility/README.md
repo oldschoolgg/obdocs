@@ -1,6 +1,6 @@
 # Agility
 
-Agility is required to participate variety of activities.
+Agility is required to participate in a variety of activities.
 
 | Level | Activity | Bonus |
 | :--- | :--- | :--- |
