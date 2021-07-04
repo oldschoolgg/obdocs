@@ -542,6 +542,10 @@ You can check the boosts for a specific boss and by how much by using the `+mons
         <p>
           <img src="../.gitbook/assets/130px-saradomin_godsword_detail.png" alt/>OR
           <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt/>
+          <br />
+          <img src="../.gitbook/assets/130px-dragon_hunter_lance_detail.png" alt/>OR
+          <img src="../.gitbook/assets/171px-dragon_hunter_crossbow_detail.png"
+          alt/>
         </p>
       </td>
       <td style="text-align:center">
