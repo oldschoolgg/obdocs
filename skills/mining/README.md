@@ -4,25 +4,27 @@ You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`
 
 Some ores reward you with golden nuggets or unidentified minerals. You can use nuggets to buy the prospector outfit and minerals to buy the three mining gloves, this is done via the `+create` command.
 
-The bot uses XP rates based off rune pickaxe as standard; however, you can get one of the following boosts to mining output from owning one of these pickaxes:
+The bot uses XP rates based off rune pickaxe as standard; however, you can get one of the following boosts to mining output from owning these items:
 
-* Dragon pickaxe: +6% \(level 61\)
-* Infernal pickaxe: +10% \(level 61\)
-* Gilded pickaxe: +11% \(level 41\)
-* Crystal pickaxe: +11% \(level 71\)
-* 3rd age pickaxe: +11% \(level 61\)
+| Item | Requirement | Speed boost |
+| :--- | :--- | :--- |
+| Dragon pickaxe | 61 Mining | 6% |
+| Infernal pickaxe | 61 Mining | 10% |
+| Gilded pickaxe | 41 Mining | 11% |
+| 3rd age pickaxe | 61 Mining | 11% |
+| Crystal pickaxe | 71 Mining | 11% |
+| Mining gloves |  | 2% |
+| Superior mining gloves |  | 4% |
+| Expert mining gloves |  | 6% |
+| Amulet of glory |  | 50% \(on gem rocks **only**\) |
 
-You can also receive boosts to mining XP rates from:
-
-* Prospector's Outfit +2.5%
-  * Prospector Helmet +0.4%
-  * Prospector Jacket +0.8%
-  * Prospector Legs +0.6%
-  * Prospector Boots +0.2%
-* Mining Gloves
-  * Mining Gloves +2%
-  * Superior Mining Gloves +4%
-  * Expert Mining Gloves +6%
+| Item | XP boost | Golden nugget cost |
+| :--- | :--- | :--- |
+| Prospector helmet | 0.4% | 40 |
+| Prospector jacket | 0.8% | 60 |
+| Prospector legs | 0.6% | 50 |
+| Prospector boots | 0.2% | 30 |
+| **Complete set:** | **2.5%** | **180** |
 
 ## Ores
 
