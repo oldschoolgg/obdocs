@@ -4,6 +4,8 @@ description: List of achievements on the bot
 
 # Bot Firsts
 
+### First 99's/200m's
+
 | Skill | 99 | 200m |
 | :--- | :--- | :--- |
 | Mining | JSpacer |  |
@@ -27,7 +29,8 @@ description: List of achievements on the bot
 | Defence | RickSanchez |  |
 | Attack | Googleit |  |
 | Hitpoints | Tiz |  |
-| Slayer |  |  |
+| Slayer | Wood |  |
 
-
+First to 2277 total: Wood  
+First ironman to 2277 total: Paah
 
