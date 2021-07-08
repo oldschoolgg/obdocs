@@ -39,3 +39,7 @@ Rewards are same as in game. The treks themselves drop nails from nail beasts an
 `+create ivandis/blisterwood flail`  
 Requires a silver sickle \(`+craft silver sickle`\) and an emerald for the ivandis, or the ivandis and a ruby for the blisterwood.
 
+#### Rewards per hour
+
+![Rewards per hour](../.gitbook/assets/image%20%2811%29.png)
+
