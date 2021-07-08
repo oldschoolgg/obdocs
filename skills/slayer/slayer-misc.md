@@ -6,6 +6,9 @@ description: For all the random stuff people keep asking
 
 ### FAQ
 
+**Q: How do I use an unsired / Chewed bones?**  
+A: `+offer unsired` / `+offer chewed bones`
+
 **Q: What unlocks should I prioritise?**  
 A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****
 
