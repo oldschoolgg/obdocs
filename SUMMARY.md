@@ -64,6 +64,7 @@
 * [Mahogany Homes](minigames/mahogany-homes.md)
 * [Pyramid Plunder](minigames/pyramid-plunder.md)
 * [Soul Wars](minigames/soul-wars.md)
+* [Temple Trekking](minigames/temple-trekking-unreleased.md)
 * [Tithe Farm](minigames/tithe-farm.md)
 * [Warriors Guild](minigames/warriors-guild.md)
 * [Wintertodt](minigames/wintertodt.md)
@@ -72,6 +73,5 @@
 
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
-* [Temple Trekking \(UNRELEASED\)](temple-trekking-unreleased.md)
 * [Content to be added](content-to-be-added.md)
 

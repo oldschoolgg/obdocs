@@ -1,4 +1,4 @@
-# Temple Trekking \(UNRELEASED\)
+# Temple Trekking
 
 You can do temple trekking by using `+trek easy/medium/hard`
 
