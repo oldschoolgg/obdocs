@@ -74,4 +74,5 @@
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
 * [Content to be added](content-to-be-added.md)
+* [Giant mole](giant-mole.md)
 
