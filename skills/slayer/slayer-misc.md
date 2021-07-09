@@ -61,9 +61,10 @@ The 95% threshold for magic attack is 168.15.
 It is also reccomended to equip a Black Mask \(i\) / Slayer Helmet \(i\) and a Saradomin Godsword in your Misc. setup for Jad tasks, as well as a staff of water \(or any other staff that gives water runes\) in your skilling setup. \(if you don't have a Kodai\)
 
 It's recommended you create a gear preset for these setups after equipping them. I.E.  
-`+gearpresets new meleeslay melee`  
-`+gearpresets new rangeslay range`  
-Equip the preset with:  
+`+gearpresets new meleeslay melee  
++gearpresets new rangeslay range  
++gearpresets new mageslay mage`  
+Equip the presets with:  
 `+gearpresets equip meleeslay melee`
 
 ### Konar specific
