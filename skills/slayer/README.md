@@ -22,7 +22,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 * **Buy rewards/unlocks from the Slayer shop:**
 
-  * `+slayershop unlock malevolant masquerade`
+  * `+slayershop unlock malevolent masquerade`
   * `+sls unlock red slayer helmet`
 
 * **List Slayer shop unlocks:**
