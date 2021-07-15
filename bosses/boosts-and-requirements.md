@@ -2,6 +2,199 @@
 
 You can check the boosts for a specific boss and by how much by using the `+monster NameOfBoss` command. Some boosts don't currently appear so it is advised you crosscheck against this chart.
 
+#### General bosses
+
+{% tabs %}
+{% tab title="Corp" %}
+\*\*\*\*
+{% endtab %}
+
+{% tab title="Zammy" %}
+
+{% endtab %}
+
+{% tab title="Arma" %}
+
+{% endtab %}
+
+{% tab title="Sara" %}
+
+{% endtab %}
+
+{% tab title="Bandos" %}
+
+{% endtab %}
+
+{% tab title="Prime" %}
+
+{% endtab %}
+
+{% tab title="Rex" %}
+
+{% endtab %}
+
+{% tab title="Supreme" %}
+
+{% endtab %}
+
+{% tab title="Zulrah" %}
+
+{% endtab %}
+
+{% tab title="Mole" %}
+
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Nightmare" %}
+
+{% endtab %}
+
+{% tab title="Vorkath" %}
+
+{% endtab %}
+
+{% tab title="KQ" %}
+
+{% endtab %}
+
+{% tab title="Sarachnis" %}
+
+{% endtab %}
+
+{% tab title="Shamans" %}
+**Requirements**  
+30 quest points  
+Karil's crossbow OR Rune crossbow OR Armadyl crossbow OR Toxic blowpipe OR Toxic blowpipe \(empty\)
+
+**Boosts**  
+3% for Ring of the gods, \(8% for Armadyl crossbow OR 10% for Toxic blowpipe \(empty\) OR 15% for Toxic blowpipe\)
+{% endtab %}
+
+{% tab title="Barrows" %}
+
+{% endtab %}
+
+{% tab title="Skotizo" %}
+
+{% endtab %}
+{% endtabs %}
+
+#### Slayer bosses
+
+{% tabs %}
+{% tab title="Grotesque Guardians" %}
+**Requirements**  
+75 Slayer  
+Brittle key
+
+**Boosts**  
+3% for Armadyl crossbow OR 5% for Toxic blowpipe  
+6% for Saradomin godsword OR 10% for Dragon claws  
+10% for Scythe of vitur OR 10% for Scythe of vitur \(uncharged\)
+
+Charged blowpipe and Scythe of vitur are currently unobtainable on OSB.
+{% endtab %}
+
+{% tab title="Abyssal Sire" %}
+**Requirements**  
+85 Slayer
+
+**Boosts**  
+10% for Arclight  
+5% for Bandos godsword OR 10% for Dragon warhammer  
+10% for Rejuvenation pool \(or higher\)
+{% endtab %}
+
+{% tab title="Kraken" %}
+**Requirements**  
+87 Slayer  
+Trident of the seas OR Trident of the seas \(full\) OR Uncharged trident OR Uncharged toxic trident OR Trident of the swamp OR Sanguinesti staff OR Harmonised nightmare staff
+
+**Boosts**  
+8% for Trident of the seas \(full\) OR 5% for Trident of the seas OR 5% for Uncharged trident OR 10% for Trident of the swamp OR 10% for Uncharged toxic trident OR 12% for Sanguinesti staff OR 15% for Harmonised nightmare staff
+
+Staves cannot currently be manually charged and Sanguinesti staff is currently unobtainable.
+{% endtab %}
+
+{% tab title="Cerberus " %}
+**Requirements**  
+91 Slayer  
+Torag's platebody OR Dharok's platebody OR Bandos chestplate  
+Torag's platelegs OR Dharok's platelegs OR Bandos tassets  
+Zamorakian spear OR Zamorakian hasta
+
+**Boosts**  
+10% for Spectral spirit shield  
+5% for Bandos chestplate OR 8% for Inquisitor's hauberk  
+5% for Bandos tassets OR 8% for Inquisitor's plateskirt  
+8% for Arclight OR 10% for Abyssal whip OR 11% for Abyssal tentacle OR 13% for Abyssal bludgeon OR 15% for Inquisitor's mace
+{% endtab %}
+
+{% tab title="Thermy" %}
+**Requirements**  
+93 Slayer
+
+**Boosts**  
+3% for Dragon dagger OR 8% for Dragon claws  
+5% for Trident of the seas OR 5% for Uncharged trident OR 6% for Trident of the swamp OR 6% for Uncharged toxic trident OR 8% for Harmonised nightmare staff  
+5% for Occult necklace  
+2% for Ancestral robe bottom  
+3% for Ancestral robe top
+{% endtab %}
+
+{% tab title="Alchemical Hydra" %}
+**Requirements**  
+95 Slayer  
+1 Antidote++ \(4\) per 6 kills \(approx.\)
+
+**Boosts**  
+10% for Twisted bow  
+3% for Barrows gloves OR 6% for Ferocious gloves  
+8% for Saradomin godsword OR 10% for Dragon claws  
+15% for Dragon hunter crossbow OR 15% for Dragon hunter lance
+
+_Must be training range/melee for DHCB/DHL boost._
+{% endtab %}
+{% endtabs %}
+
+#### Wilderness bosses & Demi bosses
+
+{% tabs %}
+{% tab title="Callisto" %}
+\*\*\*\*
+{% endtab %}
+
+{% tab title="Vet\'ion" %}
+
+{% endtab %}
+
+{% tab title="Venenatis" %}
+
+{% endtab %}
+
+{% tab title="Scorpia" %}
+
+{% endtab %}
+
+{% tab title="Chaos ele" %}
+
+{% endtab %}
+
+{% tab title="KBD" %}
+
+{% endtab %}
+
+{% tab title="Fanatic" %}
+
+{% endtab %}
+
+{% tab title="Crazy arch" %}
+
+{% endtab %}
+{% endtabs %}
+
 <table>
   <thead>
     <tr>
@@ -612,99 +805,6 @@ You can check the boosts for a specific boss and by how much by using the `+mons
   </tbody>
 </table>
 
-**Slayer Bosses**
-
-{% tabs %}
-{% tab title="Grotesque Guardians" %}
-**Requirements**  
-75 Slayer  
-Brittle key
-
-**Boosts**  
-3% for Armadyl crossbow OR 5% for Toxic blowpipe  
-6% for Saradomin godsword OR 10% for Dragon claws  
-10% for Scythe of vitur OR 10% for Scythe of vitur \(uncharged\)
-
-Charged blowpipe and Scythe of vitur are currently unobtainable on OSB.
-{% endtab %}
-
-{% tab title="Abyssal Sire" %}
-**Requirements**  
-85 Slayer
-
-**Boosts**  
-10% for Arclight  
-5% for Bandos godsword OR 10% for Dragon warhammer  
-10% for Rejuvenation pool \(or higher\)
-{% endtab %}
-
-{% tab title="Kraken" %}
-**Requirements**  
-87 Slayer  
-Trident of the seas OR Trident of the seas \(full\) OR Uncharged trident OR Uncharged toxic trident OR Trident of the swamp OR Sanguinesti staff OR Harmonised nightmare staff
-
-**Boosts**  
-8% for Trident of the seas \(full\) OR 5% for Trident of the seas OR 5% for Uncharged trident OR 10% for Trident of the swamp OR 10% for Uncharged toxic trident OR 12% for Sanguinesti staff OR 15% for Harmonised nightmare staff
-
-Staves cannot currently be manually charged and Sanguinesti staff is currently unobtainable.
-{% endtab %}
-
-{% tab title="Cerberus " %}
-**Requirements**  
-91 Slayer  
-Torag's platebody OR Dharok's platebody OR Bandos chestplate  
-Torag's platelegs OR Dharok's platelegs OR Bandos tassets  
-Zamorakian spear OR Zamorakian hasta
-
-**Boosts**  
-10% for Spectral spirit shield  
-5% for Bandos chestplate OR 8% for Inquisitor's hauberk  
-5% for Bandos tassets OR 8% for Inquisitor's plateskirt  
-8% for Arclight OR 10% for Abyssal whip OR 11% for Abyssal tentacle OR 13% for Abyssal bludgeon OR 15% for Inquisitor's mace
-{% endtab %}
-
-{% tab title="Thermy" %}
-**Requirements**  
-93 Slayer
-
-**Boosts**  
-3% for Dragon dagger OR 8% for Dragon claws  
-5% for Trident of the seas OR 5% for Uncharged trident OR 6% for Trident of the swamp OR 6% for Uncharged toxic trident OR 8% for Harmonised nightmare staff  
-5% for Occult necklace  
-2% for Ancestral robe bottom  
-3% for Ancestral robe top
-{% endtab %}
-
-{% tab title="Alchemical Hydra" %}
-**Requirements**  
-95 Slayer  
-1 Antidote++ \(4\) per 6 kills \(approx.\)
-
-**Boosts**  
-10% for Twisted bow  
-3% for Barrows gloves OR 6% for Ferocious gloves  
-8% for Saradomin godsword OR 10% for Dragon claws  
-15% for Dragon hunter crossbow OR 15% for Dragon hunter lance
-
-_Must be training range/melee for DHCB/DHL boost._
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="Shamans" %}
-**Requirements**  
-30 quest points  
-Karil's crossbow OR Rune crossbow OR Armadyl crossbow OR Toxic blowpipe OR Toxic blowpipe \(empty\)
-
-**Boosts**  
-3% for Ring of the gods, \(8% for Armadyl crossbow OR 10% for Toxic blowpipe \(empty\) OR 15% for Toxic blowpipe\)
-{% endtab %}
-
-{% tab title="Barrows" %}
-
-{% endtab %}
-{% endtabs %}
-
 \(Please @eggaroonie\#7125 in \#wiki if you find any monsters not listed on the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page or here. Include a screenshot.\)
 
 ### Global Boosts
@@ -715,7 +815,7 @@ Karil's crossbow OR Rune crossbow OR Armadyl crossbow OR Toxic blowpipe OR Toxic
 
 Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
 
-
+Original boost table for reference
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
