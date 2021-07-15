@@ -1,66 +1,155 @@
+---
+description: All boosts and Requirements for bosses.
+---
+
 # Boosts & Requirements
 
 You can check the boosts for a specific boss and by how much by using the `+monster NameOfBoss` command. Some boosts don't currently appear so it is advised you crosscheck against this chart.
+
+### Global Boosts
+
+![](../.gitbook/assets/120px-elysian_spirit_shield_detail.png) Elysian Spirit Shield: Reduces food usage by 17.6% when equipped in the gear setup being used.
+
+![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask \(i\): Gives a 15% boost while killing monsters on a slayer task.
+
+Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
 
 #### General bosses
 
 {% tabs %}
 {% tab title="Corp" %}
-\*\*\*\*
+**Requirements**  
+Zamorakian spear
+
+**Boosts**  
+10% for Dragon warhammer  
+5% for Bandos godsword  
+50% for Rejuvenation pool \(or higher\)
 {% endtab %}
 
 {% tab title="Zammy" %}
+**Requirements**  
+75 Quest points  
+****Karil's leathertop OR Armadyl chestplate  
+Karil's leatherskirt OR Armadyl chainskirt
 
+**Boosts**  
+5% for Bandos godsword OR 10% for Dragon warhammer OR 3% for Dragon claws  
+9% for Arclight
 {% endtab %}
 
 {% tab title="Arma" %}
+**Requirements**  
+75 Quest points  
+Karil's leathertop OR Armadyl chestplate  
+Karil's leatherskirt OR Armadyl chainskirt
 
+**Boosts**  
+5% for Armadyl crossbow OR 10% for Twisted bow
 {% endtab %}
 
 {% tab title="Sara" %}
+**Requirements**  
+75 Quest points  
+70 Agility  
+Karil's leathertop OR Armadyl chestplate  
+Karil's leatherskirt OR Armadyl chainskirt
 
+**Boosts**  
+3% for Ranger boots OR 5% for Pegasian boots  
+5% for Armadyl crossbow OR 10% for Twisted bow
 {% endtab %}
 
 {% tab title="Bandos" %}
+**Requirements**  
+75 Quest points
 
+**Boosts**  
+5% for Bandos godsword OR 10% for Dragon warhammer
 {% endtab %}
 
 {% tab title="Prime" %}
+**Requirements**  
+Full guthan's  
+Armadyl chestplate OR Karil's leathertop  
+Armadyl chainskirt OR Karil's leatherskirt
 
+**Boosts**  
+2% for Armadyl chestplate  
+2% for Armadyl chainskirt  
+6% for Twisted bow
 {% endtab %}
 
 {% tab title="Rex" %}
+**Requirements**  
+Full guthan's  
+Bandos chestplate OR Torag's platebody  
+Bandos tassets OR Torag's platelegs
 
+**Boosts**  
+3% for Iban's staff OR 5% for Harmonised nightmare staff  
+5% for Occult necklace
 {% endtab %}
 
 {% tab title="Supreme" %}
+**Requirements**  
+Full guthan's  
+Bandos chestplate OR Torag's platebody  
+Bandos tassets OR Torag's platelegs
 
+**Boosts**  
+2% for Bandos chestplate  
+2% for Bandos tassets  
+4% for Saradomin godsword OR 6% for Dragon claws
 {% endtab %}
 
 {% tab title="Zulrah" %}
+**Requirements**  
+75 Quest points
 
+**Boosts**  
+2% for Ranger boots OR 4% for Pegasian boots  
+2% for Iban's staff OR 5% for Harmonised nightmare staff  
+3% for Barrows gloves  
+5% for Twisted bow  
+2% for Ancestral hat  
+2% for Ancestral robe top  
+2% for Ancestral robe bottom
 {% endtab %}
 
 {% tab title="Mole" %}
+**Requirements**  
+Full Dharok's
 
+**Boosts**  
+5% for Barrows gloves  
+5% for Berserker ring OR 7% for Berserker ring \(i\) OR 10% for Twisted bow
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="Nightmare" %}
+**Requirements**
 
+**Boosts**
 {% endtab %}
 
 {% tab title="Vorkath" %}
+**Requirements**
 
+**Boosts**
 {% endtab %}
 
 {% tab title="KQ" %}
+**Requirements**
 
+**Boosts**
 {% endtab %}
 
 {% tab title="Sarachnis" %}
+**Requirements**
 
+**Boosts**
 {% endtab %}
 
 {% tab title="Shamans" %}
@@ -73,17 +162,31 @@ Karil's crossbow OR Rune crossbow OR Armadyl crossbow OR Toxic blowpipe OR Toxic
 {% endtab %}
 
 {% tab title="Barrows" %}
+**Requirements**
 
+**Boosts**
 {% endtab %}
 
 {% tab title="Skotizo" %}
+**Requirements**
 
+**Boosts**
 {% endtab %}
 {% endtabs %}
 
 #### Slayer bosses
 
 {% tabs %}
+{% tab title="Abyssal Sire" %}
+**Requirements**  
+85 Slayer
+
+**Boosts**  
+10% for Arclight  
+5% for Bandos godsword OR 10% for Dragon warhammer  
+10% for Rejuvenation pool \(or higher\)
+{% endtab %}
+
 {% tab title="Grotesque Guardians" %}
 **Requirements**  
 75 Slayer  
@@ -95,16 +198,6 @@ Brittle key
 10% for Scythe of vitur OR 10% for Scythe of vitur \(uncharged\)
 
 Charged blowpipe and Scythe of vitur are currently unobtainable on OSB.
-{% endtab %}
-
-{% tab title="Abyssal Sire" %}
-**Requirements**  
-85 Slayer
-
-**Boosts**  
-10% for Arclight  
-5% for Bandos godsword OR 10% for Dragon warhammer  
-10% for Rejuvenation pool \(or higher\)
 {% endtab %}
 
 {% tab title="Kraken" %}
@@ -163,19 +256,19 @@ _Must be training range/melee for DHCB/DHL boost._
 
 {% tabs %}
 {% tab title="Callisto" %}
-\*\*\*\*
+**Requirements**
 {% endtab %}
 
 {% tab title="Vet\'ion" %}
-
+**Requirements**
 {% endtab %}
 
 {% tab title="Venenatis" %}
-
+**Requirements**
 {% endtab %}
 
 {% tab title="Scorpia" %}
-
+**Requirements**
 {% endtab %}
 
 {% tab title="Chaos ele" %}
@@ -194,6 +287,8 @@ _Must be training range/melee for DHCB/DHL boost._
 
 {% endtab %}
 {% endtabs %}
+
+\(Please drop a message in \#wiki if you find any monsters not listed on the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page or here. Include a screenshot.\)
 
 <table>
   <thead>
@@ -804,16 +899,6 @@ _Must be training range/melee for DHCB/DHL boost._
     </tr>
   </tbody>
 </table>
-
-\(Please @eggaroonie\#7125 in \#wiki if you find any monsters not listed on the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page or here. Include a screenshot.\)
-
-### Global Boosts
-
-![](../.gitbook/assets/120px-elysian_spirit_shield_detail.png) Elysian Spirit Shield: Reduces food usage by 17.6% when equipped in the gear setup being used.
-
-![](../.gitbook/assets/1024px-black_mask_detail.png)Black Mask \(i\): Gives a 15% boost while killing monsters on a slayer task.
-
-Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
 
 Original boost table for reference
 
