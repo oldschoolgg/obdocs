@@ -7,7 +7,7 @@ Herring 5-20 \(requires fishing bait\)
 OPTIONAL: Fishing Trawler until Angler \(equip set for 2.5% xp boost\)  
 Trout 20-30 \(requires feathers\)  
 Salmon 30-58 \(requires feathers\)  
-OPTIONAL: Aerial Fishing \(reqs minimum 35 hunter\) until Barb Rod \(equip for 5% catch boost\)  
+OPTIONAL: Aerial Fishing \(reqs minimum 35 hunter\) until Pearl barbarian rod \(equip for 5% catch boost\)  
 Barb Fishing 58-99 \(requires feathers\)
 
 ### Additional Information:
