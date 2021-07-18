@@ -65,6 +65,7 @@
 * [Pyramid Plunder](minigames/pyramid-plunder.md)
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
+* [Tempoross](minigames/tempoross.md)
 * [Tithe Farm](minigames/tithe-farm.md)
 * [Warriors Guild](minigames/warriors-guild.md)
 * [Wintertodt](minigames/wintertodt.md)
