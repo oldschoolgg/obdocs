@@ -10,10 +10,6 @@ Base 80 Combat stats and 70 Prayer. 55 Farming and 78 Herblore are also required
 
 It is highly recommended that you have the best possible Melee, Range and Mage gear you can acquire and to equip them in their respective setups.  You can still participate with less than the best gear but you will be more likely to receive less points than somebody with max gear as well as making your times slower the worse your gear is.  
 
-Below is a current image of what the best in slot gear is for every slot,  not including gear received from the raids, IE Ancestral/Twisted Bow or DHCB.  It would also be beneficial to you to have a BGS or DWH in your bank as that is a hidden benefit that helps to improve your raid times.
-
-![](../../.gitbook/assets/image.png)
-
 Make sure to have your stamina potions, saradomin brews and super restores ready as you will need them.  When you are first starting out you will be using 7 saradomin brews, 4 super restores and 1 stamina potion per mass, these numbers will be decreasing as your KC gets higher, excluding the stamina potion. For solos you will start out using the same amount of brews and restores but will now also be using 2 stamina's per raid.
 
 **Finding a Raid Team**
