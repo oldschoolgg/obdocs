@@ -57,6 +57,7 @@
 * [Blast Furnace](minigames/blast-furnace.md)
 * [Brimhaven Agility Arena](minigames/brimhaven-agility-arena.md)
 * [Chambers of Xeric \(Raids\)](minigames/cox-raids/README.md)
+  * [Gear Setups](minigames/cox-raids/gear-setups.md)
   * [Challenge Mode](minigames/cox-raids/challenge-mode.md)
 * [Fight Caves](minigames/fight-caves.md)
 * [Gnome Restaurant](minigames/gnome-restaurant.md)
