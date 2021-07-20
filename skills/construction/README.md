@@ -1,6 +1,6 @@
 # Construction
 
-Construction in the bot has three distinct parts: **Training**, **Mahogany Homes**, and your **Player-owned House**. Standard training requires planks, which can be made from normal, oak, teak, and mahogany logs using the `+sawmill <logs>` command, Mahogany Homes requires planks and steel bars, and building things in your PoH requires planks as well as various mob drops or buyables.
+Construction in the bot has three distinct parts: **Training**, **Mahogany Homes**, and your **Player-owned House**. Standard training requires planks, which can be made from normal, oak, teak, and mahogany logs using the `+sawmill <logs>` command. Mahogany Homes requires planks and steel bars, and building things in your PoH requires planks as well as various mob drops or buyables.
 
 You can also `+offer` curved bones and long bones you get from PvM for construction xp after level 30 construction. Fighting the Wintertodt also provides some construction xp.
 

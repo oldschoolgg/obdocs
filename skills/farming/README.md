@@ -1,6 +1,6 @@
 # Farming
 
-Farming in the bot works like farming ingame, where you will send your minion off on plating and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of patches you have available will increase with the number of quest points you have and your farming level.
+Farming in the bot works like farming ingame, where you will send your minion off on planting and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of patches you have available will increase with the number of quest points you have and your farming level.
 
 To plant crops, you can use the `+plant <name>` or `+farm <name>` commands. When a crop is fully grown, you can either use the `+harvest <name>` command, which will leave your patches empty, or the `+plant` or `+farm` commands which will plant whatever new crop you specify.
 

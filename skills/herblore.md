@@ -47,7 +47,7 @@ All potions in OSRS are available to be made in the bot, however ingredients may
 | Super restore | Snapdragon potion \(unf\) | Red spiders' eggs | 63 |
 | Super defence | Cadantine potion \(unf\) | White berries | 66 |
 | Antifire potion | Lantadyme potion \(unf\) | Dragon scale dust | 69 |
-| Ranging potion | Dwarf weed potion \(unf\) | Wine of zamorak | 72 |
+| Ranging potion | Dwarf weed potion \(unf\) | Wine of Zamorak | 72 |
 | Magic potion | Lantadyme potion \(unf\) | Potato cactus | 76 |
 | Zamorak Brew | Torstol potion \(unf\) | Jangerberries | 78 |
 | Saradomin Brew | Toadflax potion \(unf\) | Crushed nest | 81 |

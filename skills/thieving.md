@@ -15,7 +15,7 @@ You can also train thieving via the Rouges Den or Pyramid Plunder.
 **Pyramid Plunder** - 5% for Pharaoh's sceptre, remove 7.5% time penalty for full graceful.   
 **Rogues Den** - 40% time reduction for 80 agility, 50% faster with stamina potions \(1 per 4 laps\)
 
-Rogues Outfit - Obtained through Rogues' Den Minigame. When full outfit is equipped in skilling provides 100% chance to double all thieving loot.
+Rogues Outfit - Obtained through Rogues' Den Minigame. When the full outfit is equipped in skilling, it provides a 100% chance to double all thieving loot.
 
 ### Thievable NPCs
 
@@ -32,7 +32,7 @@ Rogues Outfit - Obtained through Rogues' Den Minigame. When full outfit is equip
 | Guard | 40 |
 | Fremennik citizen | 45 |
 | Desert bandit | 53 |
-| Knight of ardougne | 55 |
+| Knight of Ardougne | 55 |
 | Pollnivian bandit | 55 |
 | Yanille watchman | 65 |
 | Menaphite thug | 65 |
