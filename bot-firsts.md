@@ -20,7 +20,7 @@ description: List of achievements on the bot
 | Runecrafting | Wood |  |
 | Fletching | Coolbop | Sp Chlenged |
 | Thieving | Rs Olm | Fishy |
-| Farming | RickSanchez |  |
+| Farming | RickSanchez | RickSanchez |
 | Herblore | Fishy |  |
 | Construction | Fishy | Fishy |
 | Hunter | Tiz | Tiz |
