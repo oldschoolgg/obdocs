@@ -2,16 +2,23 @@
 
 ## Fastest Route to 99:
 
-Note: for early levels, only send short trips, as you only need ~20-50 successful catches to move onto the next creature. 
+**Passive XP + seeds**   
+`+birdhouse` / `+bh`   
+**Optimal route for EHP hunter & fishing**   
+`+aerialfish / +aerial` \(from 35 hunter and 45 fishing\)
 
-Polar Kebbits 1-7  
-Feldip Weasels 7-15  
-Ruby Harvests 15-29  
-Swamp Lizards 29-47  
-Orange Salamanders 47-60  
-Red Salamanders 60-67  
-Black Salamanders 67-73 \(risks misc gear top/bottom, uses brews\)  
-Black Chinchompas 73-99 \(risks misc gear top/bottom, uses brews\)  
+**Optimal route for active hunter XP**  
+_Numbers may not be accurate if you're unlucky with RNG_  
+`+hunt 23 polar kebbit` \(to 7+\)  
+`+hunt feldip weasel` \(to 16+\)  
+`+hunt ruby harvest` \(to 25+\) \(hunt 20 more if needed\)  
+`+hunt 200 sapphire glacialis` \(to 29+\)  
+`+hunt swamp lizard` \(to 43\)  
+`+hunt spotted kebbit` \(to 57\)  
+`+hunt dark kebbit` \(to 60\)  
+`+hunt red salamander` \(to 67\)  
+`+hunt black salamander` \(to 73\)  
+`+hunt black chinchompa` \(to 99\)  
 
 
 ### Additional Information:
