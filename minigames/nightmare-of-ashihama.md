@@ -3,7 +3,7 @@
 ### Overview
 
 You can kill The Nightmare to receive the inquisitor's armor set, the inquisitor's mace, the nightmare staff, and the 3 orbs that can be combined with the nightmare staff. \(harmonised orb, eldritch orb, & volatile orb\)  
-The Nightmare can be soloed by using +nightmare solo, or massed by using +nightmare mass. \(Masses require multiple players to join.\)  
+The Nightmare can be soloed by using `+nightmare solo`, or massed by using `+nightmare mass`. \(Masses require multiple players to join.\)  
   
 While killing The Nightmare, your minion has a chance to die. This chance is affected by your kc and gear. Your chance of death has a maximum of 90%, and a minimum of 2%.  
   
