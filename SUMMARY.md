@@ -67,6 +67,7 @@
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Tempoross](minigames/tempoross.md)
+* [The Nightmare](minigames/nightmare-of-ashihama.md)
 * [Tithe Farm](minigames/tithe-farm.md)
 * [Warriors Guild](minigames/warriors-guild.md)
 * [Wintertodt](minigames/wintertodt.md)
