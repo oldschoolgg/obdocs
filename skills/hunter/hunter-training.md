@@ -2,6 +2,8 @@
 
 ## Fastest Route to 99:
 
+Full graceful provides a 5% boost to many creatures.
+
 **Passive XP + seeds**   
 `+birdhouse` / `+bh`   
 **Optimal route for EHP hunter & fishing**   
