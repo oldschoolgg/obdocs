@@ -6,7 +6,7 @@ Full graceful provides a 5% boost to many creatures.
 
 **Passive XP + seeds**   
 `+birdhouse` / `+bh`   
-You can craft birdhouses and clockwork with the `+craft` command.  
+You can craft birdhouses and clockwork with the `+craft` command. You need at least 4 birdhouses for a trip.  
 **Optimal route for EHP hunter & fishing**   
 `+aerialfish / +aerial` \(from 35 hunter and 45 fishing\)
 
