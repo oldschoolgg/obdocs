@@ -3,7 +3,8 @@
 ## Fastest route to 99:
 
 Shrimp 1-5  
-Herring 5-20 \(requires fishing bait\)  
+Sardine 5-10 \(requires fishing bait\)  
+Herring 10-20 \(requires fishing bait\)  
 OPTIONAL: Fishing Trawler until Angler \(equip set for 2.5% xp boost\)  
 Trout 20-30 \(requires feathers\)  
 Salmon 30-58 \(requires feathers\)  
