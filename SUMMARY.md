@@ -9,7 +9,9 @@
 
 ## Bosses
 
-* [Boosts & Requirements](bosses/boosts-and-requirements.md)
+* [Boosts & Requirements](bosses/boosts-and-requirements/README.md)
+  * [The Nightmare](bosses/boosts-and-requirements/nightmare-of-ashihama.md)
+  * [Giant mole](bosses/boosts-and-requirements/giant-mole.md)
 
 ## Skills
 
@@ -67,7 +69,6 @@
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Tempoross](minigames/tempoross.md)
-* [The Nightmare](minigames/nightmare-of-ashihama.md)
 * [Tithe Farm](minigames/tithe-farm.md)
 * [Warriors Guild](minigames/warriors-guild.md)
 * [Wintertodt](minigames/wintertodt.md)
@@ -77,5 +78,4 @@
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
 * [Content to be added](content-to-be-added.md)
-* [Giant mole](giant-mole.md)
 
