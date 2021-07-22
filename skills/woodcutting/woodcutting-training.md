@@ -8,7 +8,7 @@
 35 - 65 Teak logs  
 65 - 99 Sulliuscep
 
- 
+If going for pet chop Teak logs to 99 and beyond.
 
 ![](../../.gitbook/assets/woodcuttingxp.png)
 
