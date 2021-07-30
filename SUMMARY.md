@@ -10,7 +10,11 @@
 ## Bosses
 
 * [Boosts & Requirements](bosses/boosts-and-requirements.md)
+* [Chambers of Xeric \(Raids\)](bosses/cox-raids/README.md)
+  * [Gear Setups](bosses/cox-raids/cox-gear-setups.md)
+  * [Challenge Mode](bosses/cox-raids/challenge-mode.md)
 * [The Nightmare](bosses/nightmare-of-ashihama.md)
+* [Fight Caves](bosses/fight-caves.md)
 * [Giant mole](bosses/giant-mole.md)
 
 ## Skills
@@ -58,10 +62,6 @@
 * [Barbarian Assault](minigames/barbarian-assault.md)
 * [Blast Furnace](minigames/blast-furnace.md)
 * [Brimhaven Agility Arena](minigames/brimhaven-agility-arena.md)
-* [Chambers of Xeric \(Raids\)](minigames/cox-raids/README.md)
-  * [Gear Setups](minigames/cox-raids/cox-gear-setups.md)
-  * [Challenge Mode](minigames/cox-raids/challenge-mode.md)
-* [Fight Caves](minigames/fight-caves.md)
 * [Gnome Restaurant](minigames/gnome-restaurant.md)
 * [Hallowed Sepulchre](minigames/hallowed-sepulchre.md)
 * [Mahogany Homes](minigames/mahogany-homes.md)
