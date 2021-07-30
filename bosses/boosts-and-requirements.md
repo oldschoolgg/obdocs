@@ -129,9 +129,11 @@ Full Dharok's
 
 {% tabs %}
 {% tab title="Nightmare" %}
-**Requirements**
+**Requirements**  
+Food & Melee gear.
 
-**Boosts**
+**Boosts**  
+See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) for boosts.
 {% endtab %}
 
 {% tab title="Vorkath" %}

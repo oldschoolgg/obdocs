@@ -9,9 +9,9 @@
 
 ## Bosses
 
-* [Boosts & Requirements](bosses/boosts-and-requirements/README.md)
-  * [The Nightmare](bosses/boosts-and-requirements/nightmare-of-ashihama.md)
-  * [Giant mole](bosses/boosts-and-requirements/giant-mole.md)
+* [Boosts & Requirements](bosses/boosts-and-requirements.md)
+* [The Nightmare](bosses/nightmare-of-ashihama.md)
+* [Giant mole](bosses/giant-mole.md)
 
 ## Skills
 
