@@ -11,6 +11,18 @@ You can create Runecrafting pouches using +create, they require different crafti
 | Large Pouch | 20 | 50 | 30 |
 | Giant Pouch | 30 | 75 | 40 |
 
+**Optimal route to 99 -** Requires 170,382 pure essence  
++rc 17 air  
++rc 56 mind  
++rc 97 water  
++rc 176 earth  
++rc 338 fire  
++rc 4368 body  
++rc astral \(to 77\)  
+Unlock Kourend & Kebos medium diary for essence mining buff.  
++darkaltar blood \(to 90\)  
++darkaltar soul \(to whatever, this is best xp/hr!
+
 #### Runes
 
 | **Rune** | **Required level** |
