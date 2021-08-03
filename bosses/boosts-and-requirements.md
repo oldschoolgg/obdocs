@@ -14,116 +14,171 @@ You can check the boosts for a specific boss and by how much by using the `+mons
 
 Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
 
-#### General bosses
+#### God Wars Dungeon
 
 {% tabs %}
-{% tab title="Corp" %}
+{% tab title="General Graardor" %}
 **Requirements**  
-Zamorakian spear
-
+43 Prayer  
+70 Strength  
+75 Quest Points  
+  
 **Boosts**  
-10% for Dragon warhammer  
-5% for Bandos godsword  
-50% for Rejuvenation pool \(or higher\)
+5% for Bandos Godsword OR 10% for Dragon Warhammer
 {% endtab %}
 
-{% tab title="Zammy" %}
+{% tab title="Commander Zilyana" %}
 **Requirements**  
-75 Quest points  
-****Karil's leathertop OR Armadyl chestplate  
-Karil's leatherskirt OR Armadyl chainskirt
-
+43 Prayer  
+70 Agility  
+75 Quest Points  
+Karil's Leathertop OR Armadyl Chestplate  
+Karil's Leatherskirt OR Armadyl Chainskirt  
+  
 **Boosts**  
-5% for Bandos godsword OR 10% for Dragon warhammer OR 3% for Dragon claws  
+3% for Ranger Boots OR 5% for Pegasian Boots  
+3% for Armadyl Crossbow OR 10% for Twisted Bow
+{% endtab %}
+
+{% tab title="Kree\'arra" %}
+**Requirements**  
+43 Prayer  
+70 Ranged  
+75 Quest Points  
+Karil's Leathertop OR Armadyl Chestplate  
+Karil's Leatherskirt OR Armadyl Chainskirt  
+  
+**Boosts**  
+5% for Armadyl Crossbow OR 10% for Twisted Bow
+{% endtab %}
+
+{% tab title="K\'ril Tsutsaroth" %}
+**Requirements**  
+43 Prayer  
+70 Hitpoints  
+75 Quest Points  
+Karil's Leathertop OR Armadyl Chestplate  
+Karil's Leatherskirt OR Armadyl Chainskirt  
+  
+**Boosts**  
+3% for Dragon Claws OR 5% for Bandos Godsword OR 10% for Dragon Warhammer  
 9% for Arclight
 {% endtab %}
+{% endtabs %}
 
-{% tab title="Arma" %}
+#### Dagannoth Kings
+
+{% tabs %}
+{% tab title="Dagannoth Rex" %}
 **Requirements**  
-75 Quest points  
-Karil's leathertop OR Armadyl chestplate  
-Karil's leatherskirt OR Armadyl chainskirt
+43 Prayer  
+****Full Guthan's  
+Bandos Chestplate OR Torag's Platebody  
+Bandos Tassets OR Torag's Platelegs
 
 **Boosts**  
-5% for Armadyl crossbow OR 10% for Twisted bow
+3% for Iban's Staff OR 5% for Harmonised Nightmare Staff  
+5% for Occult Necklace
 {% endtab %}
 
-{% tab title="Sara" %}
+{% tab title="Dagannoth Prime" %}
 **Requirements**  
-75 Quest points  
-70 Agility  
-Karil's leathertop OR Armadyl chestplate  
-Karil's leatherskirt OR Armadyl chainskirt
+43 Prayer  
+****Full Guthan's  
+Armadyl Chestplate OR Karil's Leathertop  
+Armadyl Chainskirt OR Karil's Leatherskirt
 
 **Boosts**  
-3% for Ranger boots OR 5% for Pegasian boots  
-5% for Armadyl crossbow OR 10% for Twisted bow
+2% for Armadyl Chestplate  
+2% for Armadyl Chainskirt  
+6% for Twisted Bow
 {% endtab %}
 
-{% tab title="Bandos" %}
+{% tab title="Dagannoth Supreme" %}
 **Requirements**  
-75 Quest points
+43 Prayer  
+****Full Guthan's  
+Bandos Chestplate OR Torag's Platebody  
+Bandos Tassets OR Torag's Platelegs
 
 **Boosts**  
-5% for Bandos godsword OR 10% for Dragon warhammer
+2% for Bandos Chestplate  
+2% for Bandos Tassets  
+4% for Saradomin Godsword OR 6% for Dragon Claws
+{% endtab %}
+{% endtabs %}
+
+#### Wilderness Bosses
+
+{% tabs %}
+{% tab title="Callisto" %}
+**Requirements**  
+Full Verac's  
+  
+**Boosts**  
+3% for Berserker Ring OR 5% for Berserker Ring \(i\)  
+3% for Barrows Gloves  
+25% for Viggora's Chainmace
 {% endtab %}
 
-{% tab title="Prime" %}
+{% tab title="Vet\'ion" %}
 **Requirements**  
-Full guthan's  
-Armadyl chestplate OR Karil's leathertop  
-Armadyl chainskirt OR Karil's leatherskirt
-
+Full Verac's  
+  
 **Boosts**  
-2% for Armadyl chestplate  
-2% for Armadyl chainskirt  
-6% for Twisted bow
+3% for Dragon Warhammer  
+25% for Viggora's Chainmace
 {% endtab %}
 
-{% tab title="Rex" %}
+{% tab title="Venenatis" %}
 **Requirements**  
-Full guthan's  
-Bandos chestplate OR Torag's platebody  
-Bandos tassets OR Torag's platelegs
-
+Full Verac's  
+  
 **Boosts**  
-3% for Iban's staff OR 5% for Harmonised nightmare staff  
-5% for Occult necklace
+3% for Barrows Gloves  
+25% for Craw's Bow
 {% endtab %}
 
-{% tab title="Supreme" %}
+{% tab title="Chaos Elemental" %}
 **Requirements**  
-Full guthan's  
-Bandos chestplate OR Torag's platebody  
-Bandos tassets OR Torag's platelegs
-
+Black D'hide Body OR Karil's Leathertop  
+Black D'hide Chaps OR Karil's Leatherskirt  
+  
 **Boosts**  
-2% for Bandos chestplate  
-2% for Bandos tassets  
-4% for Saradomin godsword OR 6% for Dragon claws
+3% for Barrows Gloves  
+3% for Archers Ring OR 5% for Archers Ring \(i\)  
+25% for Craw's Bow
+{% endtab %}
+{% endtabs %}
+
+#### Wilderness Demi-bosses
+
+{% tabs %}
+{% tab title="Scorpia" %}
+**Requirements**  
+None  
+  
+**Boosts**  
+10% for Occult Necklace  
+10% for Harmonised Nightmare Staff
 {% endtab %}
 
-{% tab title="Zulrah" %}
-**Requirements**  
-75 Quest points
-
+{% tab title="Chaos Fanatic" %}
+**Requrements**  
+None  
+  
 **Boosts**  
-2% for Ranger boots OR 4% for Pegasian boots  
-2% for Iban's staff OR 5% for Harmonised nightmare staff  
-3% for Barrows gloves  
-5% for Twisted bow  
-2% for Ancestral hat  
-2% for Ancestral robe top  
-2% for Ancestral robe bottom
+3% for Karil's Leathertop  
+3% for Karil's Leatherskirt  
+25% for Craw's Bow
 {% endtab %}
 
-{% tab title="Mole" %}
+{% tab title="Crazy Archeologist" %}
 **Requirements**  
-Full Dharok's
-
+None  
+  
 **Boosts**  
-5% for Barrows gloves  
-5% for Berserker ring OR 7% for Berserker ring \(i\) OR 10% for Twisted bow
+10% for Occult Necklace
 {% endtab %}
 {% endtabs %}
 
@@ -173,6 +228,19 @@ Karil's crossbow OR Rune crossbow OR Armadyl crossbow OR Toxic blowpipe OR Toxic
 **Requirements**
 
 **Boosts**
+{% endtab %}
+
+{% tab title="King Black Dragon" %}
+Requirements  
+Anti-Dragon Shield  
+Armadyl Crossbow OR Rune Crossbow OR Twisted Bow OR Dragon Hunter Crossbow  
+Black D'hide Body OR Karil's Leathertop  
+Black D'hide Chaps OR Karil's Leatherskirt  
+  
+Boosts  
+6% for Armadyl Crossbow OR 10% for Twisted Bow  
+15% for Dragon Hunter Lance \(when training melee\)  
+15% for Dragon Hunter Crossbow \(when training range\)
 {% endtab %}
 {% endtabs %}
 
@@ -251,42 +319,6 @@ Zamorakian spear OR Zamorakian hasta
 15% for Dragon hunter crossbow OR 15% for Dragon hunter lance
 
 _Must be training range/melee for DHCB/DHL boost._
-{% endtab %}
-{% endtabs %}
-
-#### Wilderness bosses & Demi bosses
-
-{% tabs %}
-{% tab title="Callisto" %}
-**Requirements**
-{% endtab %}
-
-{% tab title="Vet\'ion" %}
-**Requirements**
-{% endtab %}
-
-{% tab title="Venenatis" %}
-**Requirements**
-{% endtab %}
-
-{% tab title="Scorpia" %}
-**Requirements**
-{% endtab %}
-
-{% tab title="Chaos ele" %}
-
-{% endtab %}
-
-{% tab title="KBD" %}
-
-{% endtab %}
-
-{% tab title="Fanatic" %}
-
-{% endtab %}
-
-{% tab title="Crazy arch" %}
-
 {% endtab %}
 {% endtabs %}
 
