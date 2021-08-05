@@ -19,6 +19,7 @@ description: Hugely beneficial boosts!
 **80 Con - Rejuvenation pool and higher:**  
 50% boost to Corp  
 10% boost to Kalphite Queen  
+10% boost to Abyssal Sire  
 10% boost to Barrows  
   
 This will likely be extended in the future and include the jewellery box.

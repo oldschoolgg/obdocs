@@ -7,7 +7,7 @@
 +light 101 Willow logs  
 +light 751 Teak logs  
 Wintertodt to 99 \(will require 4 pieces of --warm clothing and some food\)  
-I recommend getting at least 30 Construction and Woodcutting before starting Wintertodt to maximize the xp you get in those skills as well.
+It's a good idea to get at least 30 Construction and Woodcutting before starting Wintertodt to maximize the xp you get in those skills as well.
 
 ### Additional Information:
 
