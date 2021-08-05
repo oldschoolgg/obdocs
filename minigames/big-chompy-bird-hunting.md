@@ -13,6 +13,7 @@ You can do the chompy bird hunting minigame using `+chompyhunt`.
 ### Rewards
 
 * Chompy Hats; buy them with `+buy` after you unlock them.
+  * e.g. `+buy chompy bird hat (ogre bowman)`
 
 ### Getting Ogre Arrows
 
