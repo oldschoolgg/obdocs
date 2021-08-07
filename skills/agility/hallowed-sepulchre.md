@@ -4,7 +4,7 @@ You can now challenge the Hallowed Sepulchre and unlock the Dark Graceful outfit
 
 Items from the sepulchre shop can speed up your performance, as well as the Strange Old Lockpick and the Ring of Endurance, both of which are obtainable from the sepulchre itself and provide respective boosts of 1% and 4%.
 
-With all available boosts, it is possible to get 92,119 xp/hr while doing floor 5.
+With all available boosts, it is possible to get 91473 xp/hr while doing floor 5.
 
 | **Floor** | **Agility level required** |
 | :--- | :---: |
