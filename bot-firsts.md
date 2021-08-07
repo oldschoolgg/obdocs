@@ -8,7 +8,7 @@ description: List of achievements on the bot
 
 | Skill | 99 | 200m |
 | :--- | :--- | :--- |
-| Mining | JSpacer |  |
+| Mining | JSpacer |  000000653 |
 | Firemaking | Wyatt | Mnwt |
 | Woodcutting | Coolbop | Mr Chop Chop |
 | Smithing | Jay | Coolbop |
@@ -25,9 +25,10 @@ description: List of achievements on the bot
 | Construction | Fishy | Fishy |
 | Hunter | Tiz | Tiz |
 | Magic | Doom |  |
-| Ranged | Sp Chlenged |  |
+| Ranged | Sp Chlenged | sp chlenged |
 | Defence | RickSanchez |  |
 | Attack | Googleit |  |
+| Strength | Exanimum | Im Z |
 | Hitpoints | Tiz |  |
 | Slayer | Wood |  |
 
