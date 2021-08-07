@@ -9,29 +9,29 @@ description: List of achievements on the bot
 | Skill | 99 | 200m |
 | :--- | :--- | :--- |
 | Mining | JSpacer |  000000653 |
-| Firemaking | Wyatt | Mnwt |
-| Woodcutting | Coolbop | Mr Chop Chop |
-| Smithing | Jay | Coolbop |
+| Firemaking | wyatt | mnwt |
+| Woodcutting | coolbop | Mr Chop Chop |
+| Smithing | Jay | coolbop |
 | Agility | Bowi | Hirwi |
 | Fishing | Airboat |  |
 | Cooking | Goldenmyre | Fishy |
 | Crafting | Jay | Fishy |
-| Prayer | Nanneke | Doom |
-| Runecrafting | Wood |  |
-| Fletching | Coolbop | Sp Chlenged |
+| Prayer | nanneke | Doom |
+| Runecrafting | wood |  |
+| Fletching | coolbop | sp chlenged |
 | Thieving | Rs Olm | Fishy |
-| Farming | RickSanchez | RickSanchez |
+| Farming | RickTurpentine | RickTurpentine |
 | Herblore | Fishy |  |
 | Construction | Fishy | Fishy |
 | Hunter | Tiz | Tiz |
-| Magic | Doom |  |
-| Ranged | Sp Chlenged | sp chlenged |
-| Defence | RickSanchez |  |
+| Magic | Doom | CoffeeJello64 |
+| Ranged | sp chlenged | sp chlenged |
+| Defence | RickTurpentine |  |
 | Attack | Googleit |  |
 | Strength | Exanimum | Im Z |
 | Hitpoints | Tiz |  |
-| Slayer | Wood |  |
+| Slayer | wood |  |
 
-First to 2277 total: Wood  
+First to 2277 total: wood  
 First ironman to 2277 total: Paah
 
