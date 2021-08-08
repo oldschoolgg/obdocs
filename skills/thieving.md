@@ -13,7 +13,7 @@ You can also train thieving via the Rouges Den or Pyramid Plunder.
 ### Boosts
 
 **Pyramid Plunder** - 5% for Pharaoh's sceptre, remove 7.5% time penalty for full graceful.   
-**Rogues Den** - 40% time reduction for 80 agility, 50% faster with stamina potions \(1 per 4 laps\)
+**Rogues Den** - 40% time reduction for 80 thieving, 50% faster with stamina potions \(1 per 4 laps\)
 
 Rogues Outfit - Obtained through Rogues' Den Minigame. When the full outfit is equipped in skilling, it provides a 100% chance to double all thieving loot.
 
