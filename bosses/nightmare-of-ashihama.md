@@ -16,6 +16,10 @@ There is also a boost applied for having the inquisitor's armor set and the inqu
 Slash defense is also considered when killing The Nightmare, and affects food use.  
 Having an Elysian Spirit Shield equipped in your melee setup will also reduce food usage by 17.5%
 
+#### Note For Masses:
+
+When in masses, it is best to equip an Elder Maul, as your chance at getting MVP is directly correlated with the crush attack stat of your weapon. This MVP chance is more beneficial than the 0.5% speed bonus applied by having an Inquisitor's Mace equipped.
+
 ### Gear Setups
 
 ![BIS setup if you don&apos;t have any inquisitor&apos;s pieces.](../.gitbook/assets/nightmarenoinquis.png)
