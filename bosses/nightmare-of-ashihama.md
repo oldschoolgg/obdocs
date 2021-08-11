@@ -20,6 +20,12 @@ Having an Elysian Spirit Shield equipped in your melee setup will also reduce fo
 
 When in masses, it is best to equip an Elder Maul, as your chance at getting MVP is directly correlated with the crush attack stat of your weapon. This MVP chance is more beneficial than the 0.5% speed bonus applied by having an Inquisitor's Mace equipped.
 
+#### Additional Note:
+
+Currently, The Nightmare looks at your **slash attack** when calculating your food usage. This means that for the purposes of decreasing food use, it is best to equip a godsword instead of a dragon warhammer/elysian spirit shield. You could also equip a godsword instead of using an inquisitor's mace/elysian spirit shield to save food, however this does slightly increase kill times.  
+  
+This is probably not intended however, and is likely to be changed to crush attack in future updates.
+
 ### Gear Setups
 
 ![BIS setup if you don&apos;t have any inquisitor&apos;s pieces.](../.gitbook/assets/nightmarenoinquis.png)
