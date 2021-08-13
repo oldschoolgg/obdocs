@@ -37,7 +37,7 @@ Karil's Leatherskirt OR Armadyl Chainskirt
   
 **Boosts**  
 3% for Ranger Boots OR 5% for Pegasian Boots  
-3% for Armadyl Crossbow OR 10% for Twisted Bow
+3% for Armadyl Crossbow OR 7% for Bow of Faerdhinen \(c\) OR 10% for Twisted Bow
 {% endtab %}
 
 {% tab title="Kree\'arra" %}
@@ -49,7 +49,7 @@ Karil's Leathertop OR Armadyl Chestplate
 Karil's Leatherskirt OR Armadyl Chainskirt  
   
 **Boosts**  
-5% for Armadyl Crossbow OR 10% for Twisted Bow
+5% for Armadyl Crossbow OR 7% for Bow of Faerdhinen \(c\) OR 10% for Twisted Bow
 {% endtab %}
 
 {% tab title="K\'ril Tsutsaroth" %}
@@ -62,7 +62,7 @@ Karil's Leatherskirt OR Armadyl Chainskirt
   
 **Boosts**  
 3% for Dragon Claws OR 5% for Bandos Godsword OR 10% for Dragon Warhammer  
-9% for Arclight
+9% for Arclight OR 10% for Twisted Bow
 {% endtab %}
 {% endtabs %}
 
