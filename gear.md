@@ -4,7 +4,7 @@ description: This page goes over how your gear functions on the bot.
 
 # Gear
 
-Your minion has 5 gear setups \(Melee, Mage, Range, Skilling, and Misc\) in which you can equip your gear into depending on what activity you want to do on the bot. Below is a list of the commands that deal with equip and unequipping gear on your minion. Lets say you just finished questing and bought yourself a pair of barrows gloves and you would like to equip those in your range setup, you would type `+equip range barrows gloves`. Now lets say you already had a pair of mithril gloves equipped in your range setup and you wanted to equip the barrows gloves instead now, you do not need to unequip the other gloves first, the equip command will take the other pair off for you and equip the new item. Further below we will talk about `+gearpresets` a way for you to save a setup you like for later for easy equipping.  
+Your minion has 6 gear setups \(Melee, Mage, Range, Skilling, Misc, and Wildy\) in which you can equip your gear into depending on what activity you want to do on the bot. Below is a list of the commands that deal with equip and unequipping gear on your minion. Lets say you just finished questing and bought yourself a pair of barrows gloves and you would like to equip those in your range setup, you would type `+equip range barrows gloves`. Now lets say you already had a pair of mithril gloves equipped in your range setup and you wanted to equip the barrows gloves instead now, you do not need to unequip the other gloves first, the equip command will take the other pair off for you and equip the new item. Further below we will talk about `+gearpresets` a way for you to save a setup you like for later for easy equipping.  
   
 
 
@@ -40,7 +40,7 @@ Your minion has 5 gear setups \(Melee, Mage, Range, Skilling, and Misc\) in whic
       <td style="text-align:left">Shows your equipped gear.</td>
       <td style="text-align:left">
         <p>+gear melee</p>
-        <p>+gear misc</p>
+        <p>+gear --all</p>
       </td>
     </tr>
     <tr>
@@ -90,4 +90,8 @@ Now that you have equipped the gear you like you probably would like to save tha
 * Clue
 * Angler
 * Prospector
+
+### Wildy Setup
+
+The wilderness setup is currently only used at revenants. **All** of the items equipped in this setup can be **permanently lost** if you are killed while doing activities that use this setup.
 
