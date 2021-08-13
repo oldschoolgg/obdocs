@@ -30,7 +30,9 @@ Next, decide what you want to do. Skilling? PVM? Questing? Have a look around th
 
 You can sacrifice items, and their GP value will go towards you unlocking new minion icons. You will automatically receive the icon immediately after sacrificing enough GP. You can see a leaderboard of who has sacrificed the most using `+lb sacrifice`.
 
-You can sacrifice items using `+sacrifice [quantity] <item>`, for example`+sacrifice Bandos chestplate` or `+sacrifice 1000 gold ore`. You cannot sacrifice GP,  instead you should buy items off other players with your GP and sacrifice those.
+You can sacrifice items using `+sacrifice [quantity] <item>`, for example`+sacrifice Bandos chestplate` or `+sacrifice 1000 gold ore`. You cannot sacrifice GP,  instead you should buy items off other players with your GP and sacrifice those.  
+  
+You receive a 15 second bonus to your maximum trip length for every 2.5b gp you sacrifice. This scales up to a 1 minute increase when you've sacrificed a total of 10b gp. This scaling is halved for ironmen, only requiring 5b gp to get the 1 minute increase.
 
 ![](.gitbook/assets/image%20%286%29%20%281%29%20%281%29.png)
 
