@@ -13,24 +13,16 @@ Having less than a certain % of the maximum melee strength will also give a pena
 If you are using a weapon that has less crush attack than a Zamorakian Hasta \(75\), there is a 5% penalty to time.  
 There is also a boost applied for having the inquisitor's armor set and the inquisitor's mace equipped in your melee setup. Each piece provides a 2% boost in solos, and a 0.5% boost in masses. If you have all 4 pieces equipped \(mace, hauberk, greathelm, and plateskirt\), an extra boost of 2% for solos, and 1% for masses is applied. This totals to a 10% boost for full inquisitor's in solos, and a 3% boost in masses.  
   
-Slash defense is also considered when killing The Nightmare, and affects food use.  
-Having an Elysian Spirit Shield equipped in your melee setup will also reduce food usage by 17.5%
+Slash defense and crush attack are also considered when killing The Nightmare, and affect food use.  
+Having an Elysian Spirit Shield equipped in your melee setup will also reduce food usage by 17.5%, however this is outweighed by the food reduction of using an elder maul or a dragon defender.
 
-#### Note For Masses:
 
-When in masses, it is best to equip an Elder Maul, as your chance at getting MVP is directly correlated with the crush attack stat of your weapon. This MVP chance is more beneficial than the 0.5% speed bonus applied by having an Inquisitor's Mace equipped.
-
-#### Additional Note:
-
-Currently, The Nightmare looks at your **slash attack** when calculating your food usage. This means that for the purposes of decreasing food use, it is best to equip a godsword instead of a dragon warhammer/elysian spirit shield. You could also equip a godsword instead of using an inquisitor's mace/elysian spirit shield to save food, however this does slightly increase kill times.  
-  
-This is probably not intended however, and is likely to be changed to crush attack in future updates.
 
 ### Gear Setups
 
-![BIS setup if you don&apos;t have any inquisitor&apos;s pieces.](../.gitbook/assets/nightmarenoinquis.png)
+![BIS setup with no inquisitor&apos;s pieces.](../.gitbook/assets/nightmarenoinquis%20%281%29.png)
 
-![BIS setup with full inquisitor&apos;s.](../.gitbook/assets/nightmareinquis.png)
+![BIS setup with full inquisitor&apos;s.](../.gitbook/assets/nightmareinquis%20%281%29.png)
 
 
 
