@@ -22,7 +22,7 @@ Having an Elysian Spirit Shield equipped in your melee setup will also reduce fo
 
 ![BIS setup with no inquisitor&apos;s pieces.](../.gitbook/assets/nightmarenoinquis%20%281%29.png)
 
-![BIS setup with full inquisitor&apos;s.](../.gitbook/assets/nightmareinquis%20%281%29.png)
+![BIS setup with full inquisitor&apos;s.](../.gitbook/assets/nightmareinquis%20%282%29.png)
 
 
 
