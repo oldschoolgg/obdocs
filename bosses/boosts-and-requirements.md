@@ -221,9 +221,14 @@ Karil's crossbow OR Rune crossbow OR Armadyl crossbow OR Toxic blowpipe OR Toxic
 {% endtab %}
 
 {% tab title="Barrows" %}
-**Requirements**
+**Requirements**  
+43 Prayer
 
-**Boosts**
+**Boosts**  
+2% for Barrows Gloves  
+5% for Iban's Staff  
+7% for Strange Old Lockpick  
+10% for POH Pool \(Rejuvenation +\)
 {% endtab %}
 
 {% tab title="Skotizo" %}
