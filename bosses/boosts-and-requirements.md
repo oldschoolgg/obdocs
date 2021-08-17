@@ -182,7 +182,7 @@ None
 {% endtab %}
 {% endtabs %}
 
-### Note: Item boosts for wilderness bosses MUST be equipped in order to work.
+### Note: Item boosts for wilderness bosses must be EQUIPPED in order to work.
 
 {% tabs %}
 {% tab title="Nightmare" %}
