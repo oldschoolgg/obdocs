@@ -6,11 +6,11 @@ Read around on this wiki!
 
 **Where can I report bugs?**
 
-You can either make a github issue in the bot repo: [oldschoolgg/oldschoolbot](https://github.com/oldschoolgg/oldschoolbot) OR join the [support server](http://support.oldschool.gg/) and post the bug in the help/support channel.
+You can make a bug report on the bot's [github page](https://github.com/oldschoolgg/oldschoolbot/issues/new?assignees=&labels=&template=bug.md). Before making a bug report, you should consider asking about your issue in the \#help-and-support channel of the bot's [support server](https://discord.com/invite/ob).
 
 **Where can I make suggestions for the bot?**
 
-Suggestions can be made via the GitHub page for this bot and can be accessed through this link: [https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=feature.md](https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=feature.md) . Fill in the title of your suggestion and edit the description to explain your suggestion. Please search the issues before making a suggestion to ensure that it has not been suggested before.
+Suggestions can be made through the bot's [github page](https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=feature.md%20). Before making a suggestion, you should search the [repo](https://github.com/oldschoolgg/oldschoolbot/issues) to see if similar suggestions have already been made.
 
 **How do I sell items to someone?**
 
@@ -72,7 +72,7 @@ The pets from `+daily` are separate to pets your minion pets, and are only shown
 
 **Do I need to equip items to receive the boosts they provide?**
 
-Skilling boosts _only_ work when equipped in your skilling gear setup, while bossing/PVM boosts currently work either when equipped or when in your bank.
+Skilling boosts _only_ work when equipped in your skilling gear setup, while most bossing/PVM boosts currently work either when equipped or when in your bank.
 
 **Why does my boost to skilling not show up when I have my boost item equipped?**
 
