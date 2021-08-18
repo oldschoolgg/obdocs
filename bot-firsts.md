@@ -21,7 +21,7 @@ description: List of achievements on the bot
 | Fletching | coolbop | sp chlenged |
 | Thieving | Rs Olm | Fishy |
 | Farming | RickTurpentine | RickTurpentine |
-| Herblore | Fishy |  |
+| Herblore | Fishy | Doom |
 | Construction | Fishy | Fishy |
 | Hunter | Tiz | Tiz |
 | Magic | Doom | CoffeeJello64 |
