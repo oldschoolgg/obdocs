@@ -19,12 +19,12 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 {% tabs %}
 {% tab title="General Graardor" %}
 **Requirements**  
-43 Prayer  
-70 Strength  
-75 Quest Points  
+![](../.gitbook/assets/prayer_icon.png)43 Prayer  
+![](../.gitbook/assets/strength_icon.png)70 Strength  
+![](../.gitbook/assets/1024px-quests.png)75 Quest Points  
   
 **Boosts**  
-5% for Bandos Godsword OR 10% for Dragon Warhammer
+5% for![](../.gitbook/assets/130px-bandos_godsword_detail.png)Bandos Godsword OR 10% for![](../.gitbook/assets/120px-dragon_warhammer_detail.png)Dragon Warhammer
 {% endtab %}
 
 {% tab title="Commander Zilyana" %}
