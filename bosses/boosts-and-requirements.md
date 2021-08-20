@@ -331,6 +331,8 @@ _Must be training range/melee for DHCB/DHL boost._
 
 \(Please drop a message in \#wiki if you find any monsters not listed on the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page or here. Include a screenshot.\)
 
+#### Note: Only use the chart below if you cannot find info on a given monster above. The information on the     chart below may not be 100% accurate.
+
 <table>
   <thead>
     <tr>
