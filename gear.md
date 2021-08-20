@@ -72,7 +72,9 @@ Your minion has 6 gear setups \(Melee, Mage, Range, Skilling, Misc, and Wildy\) 
 
 ### Gear Presets
 
-Now that you have equipped the gear you like you probably would like to save that setup for later before you equip something up in that setup. This can done through the `+gearpresets` commands listed before. Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup.
+Now that you have equipped the gear you like you probably would like to save that setup for later before you equip something up in that setup. This can done through the `+gearpresets` commands listed before. Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup.  
+  
+By default, you are restricted to having 3 gear presets. However, this is increased to 7 if you are a patron or a github supporter.
 
 | Command | What it does | Example |
 | :--- | :--- | :--- |

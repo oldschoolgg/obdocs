@@ -42,9 +42,10 @@ Individual gear bonuses \(e.g. ranged attack, slash defence, etc.\) cap at 95% o
 
 #### Melee
 
-![](../../.gitbook/assets/bismeleeslayer.png)
+![](../../.gitbook/assets/bismeleeslayer%20%281%29.png)
 
-Currently, only your **slash attack** is taken into account. The 95% threshold for slash attack is 172.9.
+Currently, only your **slash attack** is taken into account. The 95% threshold for slash attack is 172.9.  
+If you do Jad tasks, it is best to equip a Saradomin Godsword. Otherwise, any godsword can be used, as they all have the same stats.
 
 #### Range
 
@@ -58,9 +59,9 @@ The 95% threshold for ranged attack is 230.85.
 
 The 95% threshold for magic attack is 168.15.
 
-It is also reccomended to equip a Black Mask \(i\) / Slayer Helmet \(i\) and a Saradomin Godsword in your Misc. setup for Jad tasks, as well as a staff of water \(or any other staff that gives water runes\) in your skilling setup. \(if you don't have a Kodai\)
+It is also reccomended to equip a staff that provides water runes in your misc setup. \(If you don't have a kodai wand.\)
 
-You can also create gear presets for these setups after equipping them. I.E.  
+You can also create a gear preset for these setups after equipping them. I.E.  
 `+gearpresets new meleeslay melee  
 +gearpresets new rangeslay range  
 +gearpresets new mageslay mage`  
