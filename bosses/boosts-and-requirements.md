@@ -29,40 +29,40 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 {% tab title="Commander Zilyana" %}
 **Requirements**  
-43 Prayer  
-70 Agility  
-75 Quest Points  
-Karil's Leathertop OR Armadyl Chestplate  
-Karil's Leatherskirt OR Armadyl Chainskirt  
+![](../.gitbook/assets/prayer_icon.png)43 Prayer  
+![](../.gitbook/assets/agility_icon.png)70 Agility  
+![](../.gitbook/assets/1024px-quests.png)75 Quest Points  
+![](../.gitbook/assets/120px-karils_leathertop_detail.png)Karil's Leathertop OR![](../.gitbook/assets/100px-armadyl_chestplate_detail.png)Armadyl Chestplate  
+![](../.gitbook/assets/120px-karils_leatherskirt_detail.png)Karil's Leatherskirt OR![](../.gitbook/assets/75px-armadyl_chainskirt_detail%20%281%29.png)Armadyl Chainskirt  
   
 **Boosts**  
-3% for Ranger Boots OR 5% for Pegasian Boots  
-3% for Armadyl Crossbow OR 7% for Bow of Faerdhinen \(c\) OR 10% for Twisted Bow
+3% for![](../.gitbook/assets/ranger-boots.png)Ranger Boots OR 5% for![](../.gitbook/assets/170px-pegasian_boots_detail.png)Pegasian Boots  
+3% for![](../.gitbook/assets/150px-armadyl_crossbow_detail.png)Armadyl Crossbow OR 7% for![](../.gitbook/assets/bow_of_faerdhinen.png)Bow of Faerdhinen \(c\) OR 10% for![](../.gitbook/assets/150px-twisted_bow_detail.png)Twisted Bow
 {% endtab %}
 
 {% tab title="Kree\'arra" %}
 **Requirements**  
-43 Prayer  
-70 Ranged  
-75 Quest Points  
-Karil's Leathertop OR Armadyl Chestplate  
-Karil's Leatherskirt OR Armadyl Chainskirt  
+![](../.gitbook/assets/prayer_icon.png)43 Prayer  
+![](../.gitbook/assets/ranged_icon.png)70 Ranged  
+![](../.gitbook/assets/1024px-quests.png)75 Quest Points  
+![](../.gitbook/assets/120px-karils_leathertop_detail.png)Karil's Leathertop OR![](../.gitbook/assets/100px-armadyl_chestplate_detail.png)Armadyl Chestplate  
+![](../.gitbook/assets/120px-karils_leatherskirt_detail.png)Karil's Leatherskirt OR![](../.gitbook/assets/75px-armadyl_chainskirt_detail%20%281%29.png)Armadyl Chainskirt  
   
 **Boosts**  
-5% for Armadyl Crossbow OR 7% for Bow of Faerdhinen \(c\) OR 10% for Twisted Bow
+5% for![](../.gitbook/assets/150px-armadyl_crossbow_detail.png)Armadyl Crossbow OR 7% for![](../.gitbook/assets/bow_of_faerdhinen.png)Bow of Faerdhinen \(c\) OR 10% for![](../.gitbook/assets/150px-twisted_bow_detail.png)Twisted Bow
 {% endtab %}
 
 {% tab title="K\'ril Tsutsaroth" %}
 **Requirements**  
-43 Prayer  
-70 Hitpoints  
-75 Quest Points  
-Karil's Leathertop OR Armadyl Chestplate  
-Karil's Leatherskirt OR Armadyl Chainskirt  
+![](../.gitbook/assets/prayer_icon.png)43 Prayer  
+![](../.gitbook/assets/hitpoints_icon.png)70 Hitpoints  
+![](../.gitbook/assets/1024px-quests.png)75 Quest Points  
+![](../.gitbook/assets/120px-karils_leathertop_detail.png)Karil's Leathertop OR![](../.gitbook/assets/100px-armadyl_chestplate_detail.png)Armadyl Chestplate  
+![](../.gitbook/assets/120px-karils_leatherskirt_detail.png)Karil's Leatherskirt OR![](../.gitbook/assets/75px-armadyl_chainskirt_detail%20%281%29.png)Armadyl Chainskirt  
   
 **Boosts**  
-3% for Dragon Claws OR 5% for Bandos Godsword OR 10% for Dragon Warhammer  
-9% for Arclight OR 10% for Twisted Bow
+3% for![](../.gitbook/assets/150px-dragon_claws_detail.png)Dragon Claws OR 5% for![](../.gitbook/assets/130px-bandos_godsword_detail.png)Bandos Godsword OR 10% for![](../.gitbook/assets/120px-dragon_warhammer_detail.png)Dragon Warhammer  
+9% for![](../.gitbook/assets/800px-arclight_detail.png)Arclight OR 10% for![](../.gitbook/assets/150px-twisted_bow_detail.png)Twisted Bow
 {% endtab %}
 {% endtabs %}
 
