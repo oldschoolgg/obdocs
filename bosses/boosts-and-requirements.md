@@ -2,7 +2,7 @@
 description: All boosts and Requirements for bosses.
 ---
 
-# Boosts & Requirements
+# Boosts & Requirements \(WIP\)
 
 You can check the boosts/requirements for a specific boss and by how much by using`+monster [name]`Some boosts don't currently appear so it is advised you crosscheck against this chart.
 
@@ -61,8 +61,8 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 ![](../.gitbook/assets/120px-karils_leatherskirt_detail.png)Karil's Leatherskirt OR![](../.gitbook/assets/75px-armadyl_chainskirt_detail%20%281%29.png)Armadyl Chainskirt  
   
 **Boosts**  
-3% for![](../.gitbook/assets/150px-dragon_claws_detail.png)Dragon Claws OR 5% for![](../.gitbook/assets/130px-bandos_godsword_detail.png)Bandos Godsword OR 10% for![](../.gitbook/assets/120px-dragon_warhammer_detail.png)Dragon Warhammer  
-9% for![](../.gitbook/assets/800px-arclight_detail.png)Arclight OR 10% for![](../.gitbook/assets/150px-twisted_bow_detail.png)Twisted Bow
+9% for![](../.gitbook/assets/800px-arclight_detail.png)Arclight OR 10% for![](../.gitbook/assets/150px-twisted_bow_detail.png)Twisted Bow  
+3% for![](../.gitbook/assets/150px-dragon_claws_detail.png)Dragon Claws OR 5% for![](../.gitbook/assets/130px-bandos_godsword_detail.png)Bandos Godsword OR 10% for![](../.gitbook/assets/120px-dragon_warhammer_detail.png)Dragon Warhammer
 {% endtab %}
 {% endtabs %}
 
@@ -332,6 +332,154 @@ _Must be training range/melee for DHCB/DHL boost._
 \(Please drop a message in \#wiki if you find any monsters not listed on the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page or here. Include a screenshot.\)
 
 #### Note: Only use the chart below if you cannot find info on a given monster above. The information on the     chart below may not be 100% accurate.
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Monster</th>
+      <th style="text-align:left">Boosts/Requirements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/commander_zilyana.png" alt/>
+        </p>
+        <p>Commander Zilyana</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>Requirements</b>
+          <br />
+          <img src="../.gitbook/assets/prayer_icon.png" alt/>43 Prayer
+          <br />
+          <img src="../.gitbook/assets/agility_icon.png" alt/>70 Agility
+          <br />
+          <img src="../.gitbook/assets/1024px-quests.png" alt/>75 Quest Points
+          <br />
+          <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt/>Karil&apos;s Leathertop OR
+          <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png"
+          alt/>Armadyl Chestplate
+          <br />
+          <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt/>Karil&apos;s Leatherskirt OR
+          <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png"
+          alt/>Armadyl Chainskirt
+          <br />
+          <br /><b>Boosts</b>
+          <br />3% for
+          <img src="../.gitbook/assets/ranger-boots.png" alt/>Ranger Boots OR 5% for
+          <img src="../.gitbook/assets/170px-pegasian_boots_detail.png"
+          alt/>Pegasian Boots
+          <br />3% for
+          <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png"
+          alt/>Armadyl Crossbow OR 7% for
+          <img src="../.gitbook/assets/bow_of_faerdhinen.png"
+          alt/>Bow of Faerdhinen (c) OR 10% for
+          <img src="../.gitbook/assets/150px-twisted_bow_detail.png"
+          alt/>Twisted Bow</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/general_graardor.png" alt/>
+        </p>
+        <p>General Graardor</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>Requirements<br /></b>
+          <img src="../.gitbook/assets/prayer_icon.png"
+          alt/>43 Prayer
+          <br />
+          <img src="../.gitbook/assets/strength_icon.png" alt/>70 Strength
+          <br />
+          <img src="../.gitbook/assets/1024px-quests.png" alt/>75 Quest Points
+          <br />
+          <br /><b>Boosts</b>
+          <br />5% for
+          <img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt/>Bandos Godsword OR 10% for
+          <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png"
+          alt/>Dragon Warhammer</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/kril.png" alt/>
+        </p>
+        <p>K&apos;ril Tsutsaroth</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p><b>Requirements</b>
+          <br />
+          <img src="../.gitbook/assets/prayer_icon.png" alt/>43 Prayer
+          <br />
+          <img src="../.gitbook/assets/hitpoints_icon.png" alt/>70 Hitpoints
+          <br />
+          <img src="../.gitbook/assets/1024px-quests.png" alt/>75 Quest Points
+          <br />
+          <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt/>Karil&apos;s Leathertop OR
+          <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png"
+          alt/>Armadyl Chestplate
+          <br />
+          <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt/>Karil&apos;s Leatherskirt OR
+          <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png"
+          alt/>Armadyl Chainskirt
+          <br />
+          <br /><b>Boosts<br /></b>9% for
+          <img src="../.gitbook/assets/800px-arclight_detail.png"
+          alt/>Arclight OR 10% for
+          <img src="../.gitbook/assets/150px-twisted_bow_detail.png"
+          alt/>Twisted Bow
+          <br />3% for
+          <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt/>Dragon Claws OR 5% for
+          <img src="../.gitbook/assets/130px-bandos_godsword_detail.png"
+          alt/>Bandos Godsword OR 10% for
+          <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png"
+          alt/>Dragon Warhammer</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/kreearra.png" alt/>
+        </p>
+        <p>Kree&apos;arra</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p><b>Requirements</b>
+          <br />
+          <img src="../.gitbook/assets/prayer_icon.png" alt/>43 Prayer
+          <br />
+          <img src="../.gitbook/assets/ranged_icon.png" alt/>70 Ranged
+          <br />
+          <img src="../.gitbook/assets/1024px-quests.png" alt/>75 Quest Points
+          <br />
+          <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt/>Karil&apos;s Leathertop OR
+          <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png"
+          alt/>Armadyl Chestplate
+          <br />
+          <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt/>Karil&apos;s Leatherskirt OR
+          <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png"
+          alt/>Armadyl Chainskirt
+          <br />
+          <br /><b>Boosts</b>
+          <br />5% for
+          <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png"
+          alt/>Armadyl Crossbow OR 7% for
+          <img src="../.gitbook/assets/bow_of_faerdhinen.png"
+          alt/>Bow of Faerdhinen (c) OR 10% for
+          <img src="../.gitbook/assets/150px-twisted_bow_detail.png"
+          alt/>Twisted Bow</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <table>
   <thead>

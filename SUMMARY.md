@@ -9,7 +9,7 @@
 
 ## Bosses
 
-* [Boosts & Requirements](bosses/boosts-and-requirements.md)
+* [Boosts & Requirements \(WIP\)](bosses/boosts-and-requirements.md)
 * [Chambers of Xeric \(Raids\)](bosses/cox-raids/README.md)
   * [Gear Setups](bosses/cox-raids/cox-gear-setups.md)
   * [Challenge Mode](bosses/cox-raids/challenge-mode.md)
