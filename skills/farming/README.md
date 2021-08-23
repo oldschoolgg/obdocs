@@ -6,6 +6,8 @@ To plant crops, you can use the `+plant <name>` or `+farm <name>` commands. When
 
 Some crops can be protected when planted using the `--pay` flag on the end of your farming command. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `+create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
 
+You can view the patches you currently have things planted in, as well as the time remaining before they are done growing, by using `+checkpatches`
+
 You can set crop payment and compost to apply automatically using the `+defaultfarming tier compost/supercompost/ultracompost` and `+defaultfarming pay enable/disable` commands.
 
 You can make supercompost from watermelons using the `+compostbin watermelon` command. Otherwise supercompost can be obtained from drops by wilderness bosses.
