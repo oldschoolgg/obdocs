@@ -26,7 +26,7 @@ description: List of achievements on the bot
 | Hunter | Tiz | Tiz |
 | Magic | Doom | CoffeeJello64 |
 | Ranged | sp chlenged | sp chlenged |
-| Defence | RickTurpentine |  |
+| Defence | RickTurpentine | BIRDIE |
 | Attack | Googleit |  |
 | Strength | Exanimum | Im Z |
 | Hitpoints | Tiz |  |
