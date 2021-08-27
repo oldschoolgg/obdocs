@@ -4,8 +4,9 @@
 * [FAQ](faq.md)
 * [Rules](rules.md)
 * [Gear](gear.md)
-* [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
+* [Beginner Guide](beginner-guide.md)
 * [Achievement Diaries](achievement-diaries.md)
+* [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
 
 ## Bosses
 
