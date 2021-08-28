@@ -6,3 +6,5 @@ Visit the OSRS wiki for a reference of each Impling: [https://oldschool.runescap
 
 You can only get Crystal implings in the following activities: Gauntlet, Zalcano, Killing Dark beasts or Priff elves, or pickpocketing priff elves.
 
+You can view the unofficial Implings CL using `+cl implings`. This is filled out from Implings caught anywhere.
+
