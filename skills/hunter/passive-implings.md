@@ -8,5 +8,5 @@ A list of each impling, as well as their level requirements, can be found [here]
 
 Crystal implings are only available when doing activities within Prifddinas. This includes the Gauntlet, Zalcano, Killing Dark Beasts, or pickpocketing Prifddinas Elves.
 
-You can view the collection log for implings by doing `+cl implings`.
+You can view the collection log for implings with `+cl implings`.
 
