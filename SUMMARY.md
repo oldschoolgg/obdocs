@@ -29,6 +29,7 @@
 * [Magic \(Non-combat\)](skills/magic.md)
 * [Hunter](skills/hunter/README.md)
   * [Hunter Training](skills/hunter/hunter-training.md)
+  * [Passive Implings](skills/hunter/passive-implings.md)
 * [Construction](skills/construction/README.md)
   * [Construction Training](skills/construction/construction-training.md)
   * [Player-owned Houses](skills/construction/player-owned-houses.md)
@@ -79,5 +80,4 @@
 * [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
 * [Content to be added](content-to-be-added.md)
-* [Passive Implings \(WIP\)](passive-implings-wip.md)
 
