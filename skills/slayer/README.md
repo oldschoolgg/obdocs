@@ -1,4 +1,4 @@
-# Slayer \(NEW\)
+# Slayer
 
 Slayer is a skill where you're assigned to kill a certain amount of a certain monster - called a 'task', you keep completing lots of tasks to unlock more knowledge on slaying monsters, and gain points which can be used to unlock rewards.
 
