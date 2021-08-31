@@ -30,7 +30,7 @@
 * [Magic \(Non-combat\)](skills/magic.md)
 * [Hunter](skills/hunter/README.md)
   * [Hunter Training](skills/hunter/hunter-training.md)
-  * [Passive Implings \(WiP\)](skills/hunter/passive-implings.md)
+  * [Passive Implings](skills/hunter/passive-implings.md)
 * [Construction](skills/construction/README.md)
   * [Construction Training](skills/construction/construction-training.md)
   * [Mahogany Homes](skills/construction/mahogany-homes.md)

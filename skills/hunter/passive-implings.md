@@ -1,6 +1,4 @@
-# Passive Implings \(WiP\)
-
-## This feature is not implemented yet on OSB.
+# Passive Implings
 
 As your minion is on a trip, it will catch any implings it sees, provided it has the hunter level to catch them with a net.
 
