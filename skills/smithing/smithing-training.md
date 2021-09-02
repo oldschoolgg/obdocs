@@ -15,5 +15,5 @@ Materials Needed:
 572 bronze bar  
 1070 iron bar  
 102 steel bar  
-231268 gold ore and 1 goldsmith gauntlets \(for [Blast Furnace](https://app.gitbook.com/@oldschool-gg/s/old-school-bot/~/drafts/-Mic5xlcxbHnUT2Okv4I/skills/smithing/blast-furnace)\)
+231268 gold ore and 1 goldsmith gauntlets \(for [Blast Furnace](https://wiki.oldschool.gg/skills/smithing/blast-furnace)\)
 
