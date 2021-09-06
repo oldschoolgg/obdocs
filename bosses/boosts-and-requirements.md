@@ -285,7 +285,8 @@ Charged blowpipe and Scythe of vitur are currently unobtainable on OSB.
 Trident of the seas OR Trident of the seas \(full\) OR Uncharged trident OR Uncharged toxic trident OR Trident of the swamp OR Sanguinesti staff OR Harmonised nightmare staff
 
 **Boosts**  
-8% for Trident of the seas \(full\) OR 5% for Trident of the seas OR 5% for Uncharged trident OR 10% for Trident of the swamp OR 10% for Uncharged toxic trident OR 12% for Sanguinesti staff OR 15% for Harmonised nightmare staff
+8% for Trident of the seas \(full\) OR 5% for Trident of the seas OR 5% for Uncharged trident OR 10% for Trident of the swamp OR 10% for Uncharged toxic trident OR 12% for Sanguinesti staff OR 15% for Harmonised nightmare staff  
+3% for Imbued Heart
 
 Staves cannot currently be manually charged and Sanguinesti staff is currently unobtainable.
 {% endtab %}
@@ -313,7 +314,8 @@ Zamorakian spear OR Zamorakian hasta
 5% for Trident of the seas OR 5% for Uncharged trident OR 6% for Trident of the swamp OR 6% for Uncharged toxic trident OR 8% for Harmonised nightmare staff  
 5% for Occult necklace  
 2% for Ancestral robe bottom  
-3% for Ancestral robe top
+3% for Ancestral robe top  
+3% for Imbued Heart
 {% endtab %}
 
 {% tab title="Alchemical Hydra" %}
