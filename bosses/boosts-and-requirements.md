@@ -552,11 +552,13 @@ _Must be training range/melee for DHCB/DHL boost._
           <img src="../.gitbook/assets/150px-ancestral_robe_top_detail.png" alt/>
           <img src="../.gitbook/assets/90px-ancestral_robe_bottom_detail.png" alt/>
         </p>
+        <p>imbued heart</p>
       </td>
       <td style="text-align:center"></td>
       <td style="text-align:center">
         <p>75 QP</p>
         <p>43 Prayer</p>
+        <p></p>
       </td>
     </tr>
     <tr>
