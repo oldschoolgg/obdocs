@@ -4,6 +4,8 @@ description: All boosts and Requirements for bosses.
 
 # Boosts & Requirements \(WIP\)
 
+### Note: This page is not finished. It may be missing boosts, especially if they were added recently. Try searching for an item's name in \#news if you believe there may be a boost associated with it that isn't shown here.
+
 You can check the boosts/requirements for a specific boss and by how much by using`+monster [name]`Some boosts don't currently appear so it is advised you crosscheck against this chart.
 
 ### Global Boosts
