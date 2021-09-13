@@ -29,5 +29,7 @@ These costs can be reduced with:
 
 ### Shop
 
-`+vm buy` 
+You can buy everything you can buy in OSRS with this command:
+
+`+vm shop [itemname]`
 
