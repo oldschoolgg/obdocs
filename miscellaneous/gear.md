@@ -8,7 +8,7 @@ Your minion has 6 gear setups \(Melee, Mage, Range, Skilling, Misc, and Wildy\) 
   
 
 
-![](.gitbook/assets/osbot.png)
+![](../.gitbook/assets/osbot.png)
 
 <table>
   <thead>

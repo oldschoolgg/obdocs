@@ -2,9 +2,9 @@
 description: List of achievements on the bot
 ---
 
-# Bot Firsts
+# Hall of Fame
 
-### First 99's/200m's
+### First Players to 99 and 200m
 
 | Skill | 99 | 200m |
 | :--- | :--- | :--- |
@@ -32,6 +32,10 @@ description: List of achievements on the bot
 | Hitpoints | Tiz |  |
 | Slayer | wood |  |
 
-First to 2277 total: wood  
-First ironman to 2277 total: Paah
+### **Other Achievements**
+
+| Description | Person |
+| :--- | :--- |
+| First to Max | Wood |
+| First Ironman to Max | Paah |
 

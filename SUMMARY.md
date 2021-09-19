@@ -3,10 +3,14 @@
 * [Welcome to the Old School Bot Wiki!](README.md)
 * [FAQ](faq.md)
 * [Rules](rules.md)
-* [Gear](gear.md)
-* [Beginner Guide](beginner-guide.md)
-* [Achievement Diaries](achievement-diaries.md)
 * [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
+
+## Miscellaneous
+
+* [Hall of Fame](miscellaneous/bot-firsts.md)
+* [Achievement Diaries](miscellaneous/achievement-diaries.md)
+* [Beginner Guide](miscellaneous/beginner-guide.md)
+* [Gear](miscellaneous/gear.md)
 
 ## Bosses
 
@@ -85,7 +89,6 @@
 
 ---
 
-* [Bot Firsts](bot-firsts.md)
 * [Ironman-mode](ironman-mode.md)
 * [Content to be added](content-to-be-added.md)
 
