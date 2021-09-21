@@ -75,6 +75,7 @@
   * [Monkey Backpacks](skills/agility/monkey-backpacks.md)
 * [Mining](skills/mining/README.md)
   * [Mining Training](skills/mining/mining-training.md)
+  * [Volcanic Mine](skills/mining/volcanic-mine.md)
 * [Combat Skills](skills/combat-skills.md)
 
 ## Minigames
@@ -85,7 +86,6 @@
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Warriors Guild](minigames/warriors-guild.md)
-* [Volcanic Mine](minigames/volcanic-mine.md)
 
 ---
 

@@ -19,7 +19,7 @@ These costs can be reduced with:
 
 * 1 less brew for 80+ HP
 * 1 less brew for having an ely equipped
-* 1 less prayer pot for 90+ prayer OR 80+ prayer + dragontooth necklace
+* 1 less prayer pot for 90+ prayer OR 80+ prayer + dragonbone necklace
 
 ### Boosts
 
