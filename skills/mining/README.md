@@ -9,9 +9,7 @@ The bot uses XP rates based off rune pickaxe as standard; however, you can get o
 | Item | Requirement | Speed boost |
 | :--- | :--- | :--- |
 | Dragon pickaxe | 61 Mining | 6% |
-| Infernal pickaxe | 61 Mining | 10% |
-| Gilded pickaxe | 41 Mining | 11% |
-| 3rd age pickaxe | 61 Mining | 11% |
+| Infernal pickaxe | 61 Mining | 6% |
 | Crystal pickaxe | 71 Mining | 11% |
 | Mining gloves |  | 2% |
 | Superior mining gloves |  | 4% |
