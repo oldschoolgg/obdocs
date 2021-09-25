@@ -28,7 +28,22 @@ The following items can be purchased using the `+buy` command using hallowed mar
 | Hallowed hammer | 100 | 3% |
 | Hallowed ring | 250 | N/A |
 | Dark dye | 300 | N/A |
-| Dark acorn | 3000 | N/A |
+| Dark acorn | 3,000 | N/A |
 
 The dark graceful set can be made using the `+buy dark graceful` piece command with the base graceful item and a dark dye in your bank. If you have obtained a Giant Squirrel agility pet, you can `+buy dark squirrel` if you have the pet and the dark acorn in your bank to transmogrify the pet.
+
+#### Strange Old Lockpick
+
+The strange old lockpick provides boosts to several places in the bot; namely Barrows and Hallowed Sepulchre, as it has a purpose in those locations in game. However, unlike its in game counterpart, the strange old lockpick is **untradeable** in the bot, and has **infinite charges**. Because of this, its drop rate is significantly lower than in game, increasing its rarity.
+
+| Floor | Drop Rate |
+| :--- | :--- |
+| Floor 1 | 1/2,000 |
+| Floor 2 | 1/1,500 |
+| Floor 3 | 1/1,100 |
+| Floor 4 | 1/800 |
+| Floor 5 | 1/600 |
+
+These rates are calculated **by chest**, not by floor. The number of chests on each floor can be found [here](https://oldschool.runescape.wiki/w/Coffin_%28Hallowed_Sepulchre%29#Locations), on the OSRS wiki.  
+This means that while doing the Hallowed Sepulchre at 92+ agility, you will have an approximately 1/150 chance of receiving a strange old lockpick each lap.
 
