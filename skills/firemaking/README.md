@@ -20,5 +20,5 @@ You can boost firemaking xp by 2.5% if you have the full pyromancer outfit equip
 | Magic | 75 | 303.8 | 412,709 |
 | Redwood | 90 | 350 | 475,472 |
 
-You can also train Firemaking via the Wintertodt minigame.
+You can also train Firemaking via the [Wintertodt ](wintertodt.md)minigame.
 

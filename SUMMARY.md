@@ -11,6 +11,7 @@
 * [Achievement Diaries](miscellaneous/achievement-diaries.md)
 * [Beginner Guide](miscellaneous/beginner-guide.md)
 * [Gear](miscellaneous/gear.md)
+* [Crack The Clue](miscellaneous/crack-the-clue.md)
 
 ## Bosses
 
