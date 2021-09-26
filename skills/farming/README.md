@@ -77,3 +77,78 @@ The full [Farming commands breakdown](https://github.com/oldschoolgg/obdocs/blob
 | Celastrus | 0 | 1 | 85 Farming |
 | Redwood | 0 | 1 | 85 Farming |
 
+## Optimal Farming route to 99
+
+`+cp (For checking farm times)` 
+
+`+defaultfarming tier ultracompost` 
+
+`+defaultfarming pay enable` 
+
+`+farm Potato (1-2 times until 5)` 
+
+`+farm Onion (1-2 times until 7)` 
+
+`+farm Cabbage (1-2 times until 12)` 
+
+`+farm Tomato (1-3 times until 15)  (+harvest allotment (last tomato trip before 15)) (Farm tree seeds, Hardwood seeds, fruit tree seeds and Special seeds until 99) (Tree seeds)` 
+
+`+farm Oak (Until 30)` 
+
+`+farm Willow (Until 45)` 
+
+`+farm Maple (Until 60)` 
+
+`+farm Yew (Until 75)` 
+
+`+farm Magic (Repeat until 99) (Hardwood seeds)` 
+
+`+farm Teak (35 until 55)` 
+
+`+farm Mahogany (Repeat until 99) (Fruit tree seeds)` 
+
+`+farm Pineapple (51 until 57)` 
+
+`+farm Papaya (Until 68)` 
+
+`+farm Palm tree (Until 81)` 
+
+`+farm Dragonfruit (Repeat until 99) (Special seeds)` 
+
+`+farm Calquat (72 repeat until 99)` 
+
+`+farm Spirit (83 repeat until 99)` 
+
+`+farm Celastrus (85 repeat until 99)` 
+
+`+farm Redwood (90 repeat until 99`
+
+**Materials Needed:**
+
+Seeds vary depending on how active one farms, these numbers are just a guideline \(The less active farming, the better xp/hour, but require more slower growing seeds\) 
+
+* 100 Potato seed
+* 100 Onion seed
+* 100 Cabbage seed
+* 100 Tomato seed
+* 100 Acorn
+* 100 Willow seed
+* 100 Maple seed
+* 100 Yew seed
+* 800-1000 Magic seed
+* 25 Teak seed
+* 50-100 Mahogany seed
+* 100 Pineapple seed
+* 100 Papaya tree seed
+* 100 Palm tree seed 
+* 200-300 Dragonfruit tree seed
+* 100-150 Calquat tree seed
+* 100-200 Spirit seed
+* 120-200 Celastrus seed
+* 20-30 Redwood tree seed
+* 2000-3000 Ultracompost
+* 1000-1500 Potato cactus
+* 2000-3000 Yannillian hops
+* 200-400 Limpwurt root
+* 20000-30000 Coconut
+
