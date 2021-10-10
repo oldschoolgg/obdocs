@@ -11,7 +11,7 @@ This list shows the reference setups, as well as some alternative setups that ca
 ## Melee
 
 Your melee gear score is based on your highest melee attack bonus, (slash attack, crush attack, stab attack) your melee strength, your defensive stats, and your prayer bonus.\
-If you are below 50% of the reference strength bonus, (73) your gear score is halved.
+If you are below 50% of the reference strength bonus, (75) your gear score is halved.
 
 ### Reference Setup
 
