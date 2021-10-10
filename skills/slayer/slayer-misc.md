@@ -42,7 +42,7 @@ Individual gear bonuses (e.g. ranged attack, slash defence, etc.) cap at 95% of 
 
 #### Melee
 
-![](<../../.gitbook/assets/bismeleeslayer (1).png>)
+![](<../../.gitbook/assets/bismeleeslayer (2).png>)
 
 Currently, only your **slash attack **is taken into account. The 95% threshold for slash attack is 172.9.\
 If you do Jad tasks, it is best to equip a Saradomin Godsword. Otherwise, any godsword can be used, as they all have the same stats.
