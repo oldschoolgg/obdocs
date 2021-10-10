@@ -6,11 +6,11 @@ Read around on this wiki!
 
 **Where can I report bugs?**
 
-You can make a bug report on the bot's [github page](https://github.com/oldschoolgg/oldschoolbot/issues/new?assignees=&labels=&template=bug.md). Before making a bug report, you should consider asking about your issue in the \#help-and-support channel of the bot's [support server](https://discord.com/invite/ob).
+You can make a bug report on the bot's [github page](https://github.com/oldschoolgg/oldschoolbot/issues/new?assignees=\&labels=\&template=bug.md). Before making a bug report, you should consider asking about your issue in the #help-and-support channel of the bot's [support server](https://discord.com/invite/ob).
 
 **Where can I make suggestions for the bot?**
 
-Suggestions can be made through the bot's [github page](https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request&template=feature.md%20). Before making a suggestion, you should search the [repo](https://github.com/oldschoolgg/oldschoolbot/issues) to see if similar suggestions have already been made.
+Suggestions can be made through the bot's [github page](https://github.com/oldschoolgg/oldschoolbot/issues/new?labels=feature+request\&template=feature.md). Before making a suggestion, you should search the [repo](https://github.com/oldschoolgg/oldschoolbot/issues) to see if similar suggestions have already been made.
 
 **How do I sell items to someone?**
 
@@ -100,7 +100,7 @@ The various gloves require quest points and gp to buy. Barrows gloves require 17
 
 **How do I get Runecrafting pouches?**
 
-There are 4 pouches, and the bot does it a bit differently to ingame. To obtain them, you first need the Crafting level required for each tier \(1, 10, 20, 30\), and then a little bit of leather, and simply `+create medium pouch`.
+There are 4 pouches, and the bot does it a bit differently to ingame. To obtain them, you first need the Crafting level required for each tier (1, 10, 20, 30), and then a little bit of leather, and simply `+create medium pouch`.
 
 **Can I pay a fee to have the bot make my Dragonfire Ward/Shield or Spectral/Arcane/Elysian/Blessed Spirit Shield for me?**
 
@@ -120,7 +120,7 @@ This usually means you answered the question late, the incorrect message can be 
 
 **Why is the bot not responding to any commands?**
 
-First, mention the bot \(like this: `@Old School Bot`\), and it will tell you what prefix it is set to use for your server. If it still doesn't respond, It could have to do with permissions the bot has. If you're not sure how to fix this, you can ask in the [support server](https://discord.gg/ob).
+First, mention the bot (like this: `@Old School Bot`), and it will tell you what prefix it is set to use for your server. If it still doesn't respond, It could have to do with permissions the bot has. If you're not sure how to fix this, you can ask in the [support server](https://discord.gg/ob).
 
 **How do I create a Barrows set, or deconstruct a Barrows set into the items?**
 
@@ -128,5 +128,4 @@ Here's an example: `+create Dharoks armour set` to turn items into a set, or `+c
 
 **The bot says it needs permission to ‘Manage messages’ in order to use a command. How do I do this?**
 
-Server settings &gt; Roles &gt; Old School Bot \(The auto assigned one\) &gt; Turn `Manage Messages` on.
-
+Server settings > Roles > Old School Bot (The auto assigned one) > Turn `Manage Messages` on.

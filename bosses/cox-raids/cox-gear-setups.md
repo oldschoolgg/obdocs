@@ -2,36 +2,35 @@
 
 ## Overview
 
-Your gear score \(shown by doing `+raid gear`\) is calculated by comparing your current gear's stats to a reference setup. Therefore, in order to reach a 100% gear score, you must have all of the relevant stats equal or exceed the stats of these reference setups. Depending on the setup, certain stats are ignored. \(e.g range attack in your melee setup\)  
-  
-Currently, each setup looks at **all** of your strength bonuses \(melee, mage dmg, & range\), however these stats are completely ignored if they are less than or equal to 0, meaning that this only really applies to the ranged setup.  
-  
+Your gear score (shown by doing `+raid gear`) is calculated by comparing your current gear's stats to a reference setup. Therefore, in order to reach a 100% gear score, you must have all of the relevant stats equal or exceed the stats of these reference setups. Depending on the setup, certain stats are ignored. (e.g range attack in your melee setup)\
+\
+Currently, each setup looks at **all** of your strength bonuses (melee, mage dmg, & range), however these stats are completely ignored if they are less than or equal to 0, meaning that this only really applies to the ranged setup.\
+\
 This list shows the reference setups, as well as some alternative setups that can be used instead.
 
 ## Melee
 
-Your melee gear score is based on your highest melee attack bonus, \(slash attack, crush attack, stab attack\) your melee strength, your defensive stats, and your prayer bonus.  
-If you are below 50% of the reference strength bonus, \(73\) your gear score is halved.
+Your melee gear score is based on your highest melee attack bonus, (slash attack, crush attack, stab attack) your melee strength, your defensive stats, and your prayer bonus.\
+If you are below 50% of the reference strength bonus, (73) your gear score is halved.
 
 ### Reference Setup
 
-![](../../.gitbook/assets/coxmeleereference.png)
+![](<../../.gitbook/assets/coxmeleereference (1).png>)
 
 ### Alternative Setups
 
-![](../../.gitbook/assets/coxmeleemaul.png)
+![](<../../.gitbook/assets/coxmeleemaul (1).png>)
 
-Barrows gloves and primordial boots can be replaced with just ferocious gloves.  
-The elder maul is required in order to reach 100% gear score without inquisitor's armor.
+An Elder Maul is required to reach 100% without full Inquisitor's Armor & Mace
 
-![](../../.gitbook/assets/coxmeleegs.png)
+![](<../../.gitbook/assets/coxmeleegs (1).png>)
 
-This setup will give a gear score of 99.7%, as it has slightly less slash attack compared to the reference setup's crush attack.
+This setup will give a gear score of 99.2%, as it has slightly less slash attack compared to the reference setup's crush attack.
 
 ## Range
 
-Your range gear score is based on your range attack bonus, your defensive bonuses, your ranged and melee strength, and your prayer bonus.  
-If you are below 50% of the reference gear's range strength \(43.5\), your gear score is halved.
+Your range gear score is based on your range attack bonus, your defensive bonuses, your ranged and melee strength, and your prayer bonus.\
+If you are below 50% of the reference gear's range strength (43.5), your gear score is halved.
 
 ### Reference Setup
 
@@ -45,20 +44,19 @@ Although the twisted bow is equipped in the reference setup, you are not actuall
 
 ## Mage
 
-Your mage gear score is based on your magic attack, your defensive bonuses, your magic dmg, and prayer bonus.  
-If you are below 50% of the reference gear's magic damage, \(19%\) your gear score is halved.
+Your mage gear score is based on your magic attack, your defensive bonuses, your magic dmg, and prayer bonus.\
+If you are below 50% of the reference gear's magic damage, (19%) your gear score is halved.
 
 ### Reference Setup
 
 ![](../../.gitbook/assets/coxmagereference.png)
 
-Due to this setup having the maximum magic damage, as well as close to the maximum magic attack, it is difficult to find alternative setups that would still give 100% gear score, and impossible to obtain 100% gear score without ancestral robes.  
-  
-The harmonised nightmare staff can be replaced with a kodai wand, a staff of the dead, or any other nightmare staff. \(kodai &gt; SOTD &gt; NM staves\) While these replacements make no difference if you are in max gear, they can increase your score if you lack some of the other items, like ancestral.
+Due to this setup having the maximum magic damage, as well as close to the maximum magic attack, it is difficult to find alternative setups that would still give 100% gear score, and impossible to obtain 100% gear score without ancestral robes.\
+\
+The harmonised nightmare staff can be replaced with a kodai wand, a staff of the dead, or any other nightmare staff. (kodai > SOTD > NM staves) While these replacements make no difference if you are in max gear, they can increase your score if you lack some of the other items, like ancestral.
 
 ### Alternative Setup
 
 ![](../../.gitbook/assets/coxmageahrims.png)
 
 This setup requires no rewards from the Chambers of Xeric, and provides a gear score of 97.3%
-

@@ -6,22 +6,22 @@ description: Hugely beneficial boosts!
 
 ## Commands
 
-`+poh` - Generate POH image  
-`+poh build` - Generates POH image in build mode  
-`+poh items` - Full list of buildable items  
-`+poh build NameOfItem` - Builds a specific item  
-`+poh destroy NameOfItem` - Destroys a specific item  
-`+poh mountitem` - Mount an item if you've built the item mount \(This is currently disabled\)  
-`+poh wallkit` - Currently bugged, type anything after to see available wallkits \(currently only default and Hosidius\) 
+`+poh` - Generate POH image\
+`+poh build` - Generates POH image in build mode\
+`+poh items` - Full list of buildable items\
+`+poh build NameOfItem` - Builds a specific item\
+`+poh destroy NameOfItem` - Destroys a specific item\
+`+poh mountitem` - Mount an item if you've built the item mount (This is currently disabled)\
+`+poh wallkit` - Currently bugged, type anything after to see available wallkits (currently only default and Hosidius) 
 
 ## Boosts
 
-**80 Con - Rejuvenation pool and higher:**  
-50% boost to Corp  
-10% boost to Kalphite Queen  
-10% boost to Abyssal Sire  
-10% boost to Barrows  
-  
+**80 Con - Rejuvenation pool and higher:**\
+50% boost to Corp\
+10% boost to Kalphite Queen\
+10% boost to Abyssal Sire\
+10% boost to Barrows\
+\
 This will likely be extended in the future and include the jewellery box.
 
 ## General
@@ -35,4 +35,3 @@ If you have 99 construction, you can `+PoH build item mount` and then `+PoH moun
 If you have the Hosidius blueprints from the mahogany homes minigame, you can modify the wallkit for your house using the `+PoH wallkit Hosidius` command. This will permanently unlock this wallkit for your PoH. Note that applying the Hosidius kit will consume your blueprint. 
 
 More kits may be added in the future.
-
