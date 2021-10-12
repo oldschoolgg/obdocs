@@ -25,7 +25,7 @@ An Elder Maul is required to reach 100% without full Inquisitor's Armor & Mace
 
 ![](<../../.gitbook/assets/coxmeleegs (1).png>)
 
-This setup will give a gear score of 99.2%, as it has slightly less slash attack compared to the reference setup's crush attack.
+This setup will give a gear score of 99.7%, as it has slightly less slash attack compared to the reference setup's crush attack.
 
 ## Range
 
