@@ -15,12 +15,13 @@
 
 ## Bosses
 
-* [Boosts & Requirements \(WIP\)](bosses/boosts-and-requirements.md)
-* [Chambers of Xeric \(Raids\)](bosses/cox-raids/README.md)
+* [Boosts & Requirements (WIP)](bosses/boosts-and-requirements.md)
+* [Chambers of Xeric (Raids)](bosses/cox-raids/README.md)
   * [Gear Setups](bosses/cox-raids/cox-gear-setups.md)
   * [Challenge Mode](bosses/cox-raids/challenge-mode.md)
 * [The Nightmare](bosses/nightmare-of-ashihama.md)
 * [Fight Caves](bosses/fight-caves.md)
+* [Inferno](bosses/inferno.md)
 * [Giant mole](bosses/giant-mole.md)
 
 ## Skills
@@ -32,7 +33,7 @@
   * [Fishing Training](skills/fishing/fishing-training.md)
   * [Tempoross](skills/fishing/tempoross.md)
   * [Aerial Fishing](skills/fishing/aerial-fishing.md)
-* [Magic \(Non-combat\)](skills/magic.md)
+* [Magic (Non-combat)](skills/magic.md)
 * [Hunter](skills/hunter/README.md)
   * [Hunter Training](skills/hunter/hunter-training.md)
   * [Passive Implings](skills/hunter/passive-implings.md)
@@ -88,8 +89,7 @@
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Warriors Guild](minigames/warriors-guild.md)
 
----
+***
 
 * [Ironman-mode](ironman-mode.md)
 * [Content to be added](content-to-be-added.md)
-
