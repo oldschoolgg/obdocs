@@ -124,7 +124,7 @@ First, mention the bot (like this: `@Old School Bot`), and it will tell you what
 
 **How do I create a Barrows set, or deconstruct a Barrows set into the items?**
 
-Here's an example: `+create Dharoks armour set` to turn items into a set, or `+create Dharoks` to turn the set back into the items.
+Here's an example: `+create dharoks armour set` to turn items into a set, or `+unpack dharoks armour set` to turn the set back into the items.
 
 **The bot says it needs permission to ‘Manage messages’ in order to use a command. How do I do this?**
 
