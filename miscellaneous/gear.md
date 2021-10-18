@@ -4,21 +4,25 @@ description: This page goes over how your gear functions on the bot.
 
 # Gear
 
+## Overview
+
 Your minion has 6 gear setups (Melee, Mage, Range, Skilling, Misc, and Wildy) in which you can equip your gear into depending on what activity you want to do on the bot. Below is a list of the commands that deal with equip and unequipping gear on your minion. Lets say you just finished questing and bought yourself a pair of barrows gloves and you would like to equip those in your range setup, you would type `+equip range barrows gloves`. Now lets say you already had a pair of mithril gloves equipped in your range setup and you wanted to equip the barrows gloves instead now, you do not need to unequip the other gloves first, the equip command will take the other pair off for you and equip the new item. Further below we will talk about `+gearpresets` a way for you to save a setup you like for later for easy equipping.\
 \
 
 
 ![](../.gitbook/assets/osbot.png)
 
-| Command     | What it does                                                                                                                                                      | Example                                                                                                |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| +autoequip  | Automatically equips the BIS gear you have in your bank, for a particular attack style, to one of your gear setups. (note will not pull from other equipped gear) | +autoequip melee attack crush +autoequip mage attack magic                                             |
-| +equip      | Equips an item to one of your gear setups.                                                                                                                        | <p>+equip skilling graceful hood </p><p>+equip melee bandos boots</p><p> +equip mage staff of fire</p> |
-| +gear       | Shows your equipped gear.                                                                                                                                         | <p>+gear melee</p><p> +gear --all</p>                                                                  |
-| +unequip    | Unequips items from one of your gear setups.                                                                                                                      | <p>+unequip range Twisted bow</p><p> +unequip melee Abyssal whip</p>                                   |
-| +unequipall | Unequips everything from one of your gear setups. (melee/range/range/skilling/misc)                                                                               | +unequipall melee                                                                                      |
-| +equippet   | Equips a pet, like dropping it on the floor ingame.                                                                                                               | +equippet smolcano                                                                                     |
-| +unequippet | Unequips your pet.                                                                                                                                                | +unequippet                                                                                            |
+### Commands
+
+| Command         | What it does                                                                                                                                                      | Example                                                                                                |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| +autoequip/+aep | Automatically equips the BIS gear you have in your bank, for a particular attack style, to one of your gear setups. (note will not pull from other equipped gear) | +autoequip melee attack crush +autoequip mage attack magic                                             |
+| +equip          | Equips an item to one of your gear setups.                                                                                                                        | <p>+equip skilling graceful hood </p><p>+equip melee bandos boots</p><p> +equip mage staff of fire</p> |
+| +gear           | Shows your equipped gear.                                                                                                                                         | <p>+gear melee</p><p> +gear --all</p>                                                                  |
+| +unequip        | Unequips items from one of your gear setups.                                                                                                                      | <p>+unequip range Twisted bow</p><p> +unequip melee Abyssal whip</p>                                   |
+| +unequipall     | Unequips everything from one of your gear setups. (melee/range/range/skilling/misc)                                                                               | +unequipall melee                                                                                      |
+| +equippet/+ep   | Equips a pet, like dropping it on the floor ingame.                                                                                                               | +equippet smolcano                                                                                     |
+| +unequippet     | Unequips your pet.                                                                                                                                                | +unequippet                                                                                            |
 
 ### Gear Presets
 
@@ -28,7 +32,7 @@ By default, you are restricted to having 3 gear presets. However, this is increa
 
 | Command                              | What it does                                          | Example                       |
 | ------------------------------------ | ----------------------------------------------------- | ----------------------------- |
-| +gearpresets                         | Shows you your presets you have made.                 | +gearpresets                  |
+| +gearpresets/+gps                    | Shows you your presets you have made.                 | +gearpresets                  |
 | +gearpresets new  \<name> \<setup>   | copy your \<setup> gear into a preset called \<name>. | +gearpresets new corp melee   |
 | +gearpresets delete  \<name>         | delete your setup called \<name>.                     | +gearpresets delete corp      |
 | +gearpresets equip  \<name> \<setup> | equip your \<name> setup to your \<setup> outfit.     | +gearpresets equip corp melee |
@@ -42,6 +46,12 @@ By default, you are restricted to having 3 gear presets. However, this is increa
 * Clue
 * Angler
 * Prospector
+
+### BIS Gear
+
+![](../.gitbook/assets/slayerbis.png)
+
+This gear is the best food reduction equipment in the game. This will save the highest amount of food possible at almost every boss, with notable exceptions being KQ and [Nightmare](https://wiki.oldschool.gg/bosses/nightmare-of-ashihama).
 
 ### Wildy Setup
 
