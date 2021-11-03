@@ -2,6 +2,8 @@
 
 You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.
 
+See [Mining Training](mining-training.md) and [Volcanic Mine](volcanic-mine.md)
+
 Some ores reward you with golden nuggets or unidentified minerals. You can use nuggets to buy the prospector outfit and minerals to buy the three mining gloves, this is done via the `+buy` command.
 
 The bot uses XP rates based off rune pickaxe as standard; however, you can get one of the following boosts to mining output from owning these items:
