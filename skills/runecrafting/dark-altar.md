@@ -11,11 +11,11 @@ You also receive some mining and crafting XP.
 * 77 Runecrafting for Bloods
 * 90 Runecrafting for Souls
 * 73 Agility highly recommended
+* 100% Arceuus favour
 
 ### Boosts
 
 * 10% additional runes for Kourend Elite diary.
 * 20% faster essence mining for Kourend Medium diary.
-* -20% penalty if you have no Graceful equipped.
-* -35% penalty if you have less than 73 Agility.
-
+* \-20% penalty if you have no Graceful equipped.
+* \-35% penalty if you have less than 73 Agility.
