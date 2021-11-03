@@ -31,6 +31,10 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 * 50% more fish at Fishing Trawler
 * 4% faster Farming trips
 
+## Karamja Diary - Hard
+
+* 3.5x faster hide tanning
+
 ### Karamja Diary - Medium
 
 * While worn, increased Agility experience from redeeming Agility tickets
@@ -47,4 +51,3 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 ### Kandarin Diary - Hard
 
 * 10% bonus Barbarian Assault points
-
