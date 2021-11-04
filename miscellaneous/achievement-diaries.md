@@ -17,6 +17,22 @@ If you meet the requirements of a Diary, you can claim the reward item and the X
 * **Buy the achievement diary cape:**
   * `+buy achievement diary cape`
 
+``
+
+## Places with Diary requirements
+
+
+
+* You need 75% Hosidius for chopping redwoods.
+* You need 100% Arceuus for the Dark Altar (blood/soul RCing)
+* You need 65% to farm Grapes, and use the Farming guild.
+* You need 100% Piscarillius to fish Anglerfish
+* You need 100% Shayzien to kill Lizardman shamans
+* You need 100% Arceuus to build the Dark/Occult Altar in your PoH
+* You need 100% Hosidius to use the Tithe Farm
+
+
+
 ## Diary Perks
 
 You get a 10% boost to clue scrolls for having the achievement diary cape equipped.
