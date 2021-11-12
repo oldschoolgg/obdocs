@@ -2,11 +2,11 @@
 
 ## Summary
 
-The Inferno is a very high level PVM activity. It has high gear requirements, consumes large amounts of expensive supplies, and attempts can take upwards of 2 hours.    
+The Inferno is a very high level PVM activity. It has high gear requirements, consumes large amounts of expensive supplies, and attempts can take upwards of 2 hours.   &#x20;
 
 Similar to the Fight Caves, you are not guaranteed to complete The Inferno. Your success chance scales on your gear, number of attempts, and number of Zuk fights.
 
-At the end of The Inferno, you are rewarded with an [Infernal Cape](https://oldschool.runescape.wiki/w/Infernal_cape). This is the best in slot melee cape in most situations. You also have a chance at getting the Inferno's pet, [Jal-nib-rek](https://oldschool.runescape.wiki/w/Jal-nib-rek) upon completion, and when gambling Infernal Capes.
+At the end of The Inferno, you are rewarded with an [Infernal Cape](https://oldschool.runescape.wiki/w/Infernal\_cape). This is the best in slot melee cape in most situations. You also have a chance at getting the Inferno's pet, [Jal-nib-rek](https://oldschool.runescape.wiki/w/Jal-nib-rek) upon completion, and when gambling Infernal Capes.
 
 Infernal capes can be gambled by doing `+capegamble infernal`
 
@@ -16,23 +16,23 @@ You can begin an Inferno attempt by doing `+inferno start`. You can also do `+in
 
 ### Requirements
 
-You must have sacrificed 1 Fire Cape. (`+sacrifice 1 fire cape`)       
+You must have sacrificed 1 Fire Cape. (`+sacrifice 1 fire cape`)      &#x20;
 
-92 Defence, 94 Magic, 92 Hitpoints, 92 Ranged, and 77 Prayer                  
+92 Defence, 94 Magic, 92 Hitpoints, 92 Ranged, and 77 Prayer                 &#x20;
 
-8 Saradomin Brews, 12 Super Restores, 1 Stamina Potion, and 1 Ranging Potion per attempt      
+8 Saradomin Brews, 12 Super Restores, 1 Stamina Potion, and 1 Ranging Potion per attempt     &#x20;
 
-Rune Pouch (`+sls buy rune pouch`)      
+Rune Pouch (`+sls buy rune pouch`)     &#x20;
 
-\>100 Magic Attack      
+\>100 Magic Attack     &#x20;
 
-\>150 Ranged Attack     
+\>150 Ranged Attack    &#x20;
 
-Toxic Blowpipe with Adamant Darts or better (`+fletch toxic blowpipe (empty)` to create,                     `+bp add [qty] [zulrah's scales/dart name]` to fill) (uses 300 darts/hour)   
+Toxic Blowpipe with Adamant Darts or better (`+fletch toxic blowpipe (empty)` to create, `+bp add [qty] [zulrah's scales/dart name]` to fill) (uses 300 darts/hour)  &#x20;
 
-Twisted Bow or Armadyl Crossbow with ammo based on the weapon you're using (arrows for             Twisted Bow, bolts for ACB) (uses 150 ammo/hour)                             
+Twisted Bow or Armadyl Crossbow with ammo based on the weapon you're using (arrows for Twisted Bow, bolts for ACB) (uses 150 ammo/hour)                            &#x20;
 
-Runes for Ice Barrage + Blood Barrage (200 casts of blood barrage/hour and 100 casts of ice                                   barrage/hour. Rune costs are reduced by having a Kodai Wand equipped in your mage setup.)                                                                                       
+Runes for Ice Barrage + Blood Barrage (200 casts of blood barrage/hour and 100 casts of ice                                   barrage/hour. Rune costs are reduced by having a Kodai Wand equipped in your mage setup.)                                                                                      &#x20;
 
 ### Boosts
 
@@ -44,25 +44,25 @@ Boosts that are listed as negative (e.g. -4.5% for Adamant Darts/-4% for Ring of
 
 #### Speed
 
-Higher tier darts (-Adamant: -4.5%, Rune: -5.4%, Amethyst: -6.3%, Dragon: -7.2%)    
+Higher tier darts (-Adamant: -4.5%, Rune: -5.4%, Amethyst: -6.3%, Dragon: -7.2%)   &#x20;
 
-Twisted Bow: (-7.5%) (ACB increases time by 4.5%)                  
+Twisted Bow: (-7.5%) (ACB increases time by 4.5%)                 &#x20;
 
-Unlocking Rigour and/or Augury (unlocked with `+use dexterous/arcane prayer scroll`, -4% for each)                                                                                  
+Unlocking Rigour and/or Augury (unlocked with `+use dexterous/arcane prayer scroll`, -4% for each)                                                                                 &#x20;
 
-Being on task with an imbued slayer helm/black mask (requires a Tzhaar task and 1 Inferno KC, -9%)               
+Being on task with an imbued slayer helm/black mask (requires a Tzhaar task and 1 Inferno KC, -9%)              &#x20;
 
-Equipping an Armadyl Chestplate & Chainskirt in your range setup (-3%)       
+Equipping an Armadyl Chestplate & Chainskirt in your range setup (-3%)      &#x20;
 
-Equipping Ancestral Robe Top & Bottom in your mage setup (-4%)                       
+Equipping Ancestral Robe Top & Bottom in your mage setup (-4%)                      &#x20;
 
 #### Death Chance
 
-Equipping an Elysian Spirit Shield in either range or mage (-5%)      
+Equipping an Elysian Spirit Shield in either range or mage (-5%)     &#x20;
 
-Equipping a Ring of Suffering (i) in either range or mage (-4%)                     
+Equipping a Ring of Suffering (i) in either range or mage (-4%)                    &#x20;
 
-                                                                                                                                                                                   Equipping a Twisted Bow in your range setup (instead of an ACB) (1.5% from Tbow VS 7.5% with ACB)
+&#x20;                                                                                                                                                                                  Equipping a Twisted Bow in your range setup (instead of an ACB) (1.5% from Tbow VS 7.5% with ACB)
 
 The number of attempts you've done, and the number of times you've fought Zuk greatly affect speed and death chance.
 
@@ -86,7 +86,7 @@ Using this gear, along with dragon darts in your blowpipe, will give the maximum
 
 
 
-                                                                                      
+&#x20;                                                                                    &#x20;
 
 
 
