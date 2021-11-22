@@ -12,6 +12,7 @@
 * [Beginner Guide](miscellaneous/beginner-guide.md)
 * [Gear](miscellaneous/gear.md)
 * [Crack The Clue](miscellaneous/crack-the-clue.md)
+* [Collecting](miscellaneous/collecting.md)
 
 ## Bosses
 

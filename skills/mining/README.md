@@ -4,8 +4,6 @@ You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`
 
 See [Mining Training](mining-training.md) and [Volcanic Mine](volcanic-mine.md)
 
-Some ores reward you with golden nuggets or unidentified minerals. You can use nuggets to buy the prospector outfit and minerals to buy the three mining gloves, this is done via the `+buy` command.
-
 The bot uses XP rates based off rune pickaxe as standard; however, you can get one of the following boosts to mining output from owning these items:
 
 | Item                   | Requirement | Speed boost                 |
@@ -25,6 +23,18 @@ The bot uses XP rates based off rune pickaxe as standard; however, you can get o
 | Prospector legs   | 0.6%     | 50                 |
 | Prospector boots  | 0.2%     | 30                 |
 | **Complete set:** | **2.5%** | **180**            |
+
+## Golden Nuggets & Unidentified Minerals
+
+Some [ores](./#ores) reward you with golden nuggets or unidentified minerals. You can use nuggets to buy the prospector outfit and minerals to buy the three mining gloves, this is done via the `+buy` command.
+
+The amount of golden nuggets or unidentified minerals rewarded is based in the total trip time. The amount received is a randomly selected number between 0 and the total trip time divided by 4, floored/rounded down.
+
+$$
+⌊\frac{tripTime}{4}⌋=maxAmount
+$$
+
+For example, a trip of 30 minutes will award between 0 and 7 golden nuggets or unidentified minerals.
 
 ## Ores
 
