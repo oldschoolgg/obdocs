@@ -35,4 +35,4 @@ Dark fishing bait and Raw Karambwanji aren't sold by the bot and can be obtained
 * **Monkfish** requires **100** Quest Points to fish.
 * **Anglerfish** requires **40** Quest Points to fish.
 
-It's possible to get the Angler's Outfit from [Fishing Trawler](../../minigames/fishing-trawler.md) as well as Aerial fishing. The full outfit provides a 2.5% boost to fishing exp. gained.
+It's possible to get the Angler's Outfit from [Fishing Trawler](fishing-trawler.md) as well as Aerial fishing. The full outfit provides a 2.5% boost to fishing exp. gained.
