@@ -25,3 +25,5 @@ The bot uses XP rates based off rune axe as standard; however, you can get one o
 | Sulliusceps      |         65         |     127    |   100,536   |
 | Magic            |         75         |     250    |    29,227   |
 | Redwood          |         90         |     380    |    65,860   |
+
+_**Note:** Chopping Redwood trees requires 75% Hosidius Favour._
