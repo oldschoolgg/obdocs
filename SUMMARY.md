@@ -91,6 +91,7 @@
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Warriors Guild](minigames/warriors-guild.md)
+* [Zalcano](minigames/zalcano.md)
 
 ***
 
