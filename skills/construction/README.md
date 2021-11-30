@@ -12,7 +12,7 @@ Wearing full Graceful gives a 10% boost to trip time.
 
 Having unlocked the Woodcutting Guild gives a 10% boost to trip time.
 
-Unlocking the Woodcutting Guild requires 50QP, 60 Woodcutting and 75% Shayzien favour.&#x20;
+Unlocking the Woodcutting Guild requires 50QP, 60 Woodcutting and 75% Hosidius favour.&#x20;
 
 Creating planks costs a varying amount of coins, dependent on the type of plank created.
 
