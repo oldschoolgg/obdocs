@@ -24,7 +24,7 @@ There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. As an exam
 
 The Skilling setup is where you equip skilling-related stuff, for example: Graceful or the Prospector outfit.
 
-You also have a cosmetic pet slot, shared across all gear setups. It allows you to equip a pet, like its following your minion around. You can equip a pet using the `+equippet` command. For example, to equip the Commander Zilyana pet, you would use `+equippet pet zilyana`. You need to use the exact item name as it is ingame.
+You also have a cosmetic pet slot, shared across all gear setups. It allows you to equip a pet, like its following your minion around. You can equip a pet using the `+m equippet` command. For example, to equip the Commander Zilyana pet, you would use `+m equippet pet zilyana`. You need to use the exact item name as it is ingame.
 
 **Can I stop my minion from going on a trip I started by accident?**
 
