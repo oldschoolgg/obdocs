@@ -2,26 +2,36 @@
 
 Zalcano is a skilling based boss. You can start a trip with `+zalcano`.
 
-#### Requirements/Boosts:
-
-* 70 Smithing & Mining
-* 150+ quest points
-* 15% time penalty for not having graceful equipped.
-* Higher KC and Smithing/Mining levels provide higher speed boosts.
-* Food usage will decrease with KC.
-
 Zalcano is a solo only activity, however your minion theoretically kills it with other minions.
 
-#### Rewards
+### Requirements
+* Level 70 in the following skills:
+  - Smithing
+  - Mining
+  - Farming
+  - Agility
+  - Woodcutting
+  - Herblore
+  - Construction
+  - Hunter
+* 150+ quest points
 
-Runecrafting, Smithing and Mining XP.
+### Boosts
+* 15% time penalty for not having graceful equipped.
+* Higher KC provides a speed boost (up to 16.67%).
+* Higher Smithing/Mining levels provide speed boosts (up to 5% combined).
+* Food usage will decrease with KC.
 
-Crystal tool seed, used to make crystal tools which provide the highest boosts.
+### Rewards
 
-Zalcano also drops crystal shards and various resources such as runes, ores and bars.
+* Runecrafting, Smithing and Mining XP.
 
-The crystal tool seed can be turned into either an axe, pickaxe or harpoon i.e. `+create crystal pickaxe`.
+* 2-3 crystal shards per kill and various resources such as runes, gems, ores and bars.
 
-Finally Zalcano has a pet (Smolcano) and drops a dragon pickaxe ornament kit (Zalcano shard).
+* Crystal tool seed, used to make crystal tools which provide the highest boosts.
+  - Use `+create crystal pickaxe/axe/harpoon` (requires 76 Crafting & Smithing + 120 crystal shards)
 
-See the OSRS wiki [Zalcano Page](https://oldschool.runescape.wiki/w/Zalcano) for further details.
+* Finally, Zalcano has a pet (Smolcano) and drops a dragon pickaxe ornament kit (Zalcano shard).
+  - Use `+create dragon pickaxe (or)`
+
+* See the OSRS wiki [Zalcano Page](https://oldschool.runescape.wiki/w/Zalcano) for further details.
