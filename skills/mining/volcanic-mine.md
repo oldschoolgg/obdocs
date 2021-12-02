@@ -39,18 +39,19 @@ You can buy everything you can buy in OSRS with the `+vm shop` command:
 
 E.g. `+vm shop 1000 gold ore`
 
-|          Item          | Point Cost |
-| :--------------------: | :--------: |
-|        Iron ore        |     30     |
-|       Silver ore       |     55     |
-|          Coal          |     60     |
-|        Gold ore        |     150    |
-|       Mithril ore      |     150    |
-|     Adamantite ore     |     300    |
-|       Runite ore       |     855    |
-|      Volcanic ash      |     40     |
-|         Calcite        |     70     |
-|      Pyrophosphite     |     70     |
-| Volcanic mine teleport |     200    |
-|  Large water container |   10,000   |
-|    Ash covered tome    |   40,000   |
+|                        |                |
+| :--------------------: | :------------: |
+|        **Item**        | **Point Cost** |
+|        Iron ore        |       30       |
+|       Silver ore       |       55       |
+|          Coal          |       60       |
+|        Gold ore        |       150      |
+|       Mithril ore      |       150      |
+|     Adamantite ore     |       300      |
+|       Runite ore       |       855      |
+|      Volcanic ash      |       40       |
+|         Calcite        |       70       |
+|      Pyrophosphite     |       70       |
+| Volcanic mine teleport |       200      |
+|  Large water container |     10,000     |
+|    Ash covered tome    |     40,000     |
