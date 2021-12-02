@@ -8,27 +8,26 @@ To spend your honour points, you can `+BA buy` the items in the table below, `+B
 
 **Barbarian Assault Shop**
 
-| **Item** | **Honour pount cost** |
-| :--- | :---: |
-| Fighter hat | 1,100 |
-| Ranger hat | 1,100 |
-| Healer hat | 1,100 |
-| Runner hat | 1,100 |
-| Fighter torso | 1,500 |
-| Penance skirt | 1,500 |
-| Runner boots | 400 |
-| Penance gloves | 600 |
-| Low gamble | 200 |
-| Medium gamble | 400 |
-| High gamble | 500 |
-
+| **Item**       | **Honour point cost** |
+| -------------- | :-------------------: |
+| Fighter hat    |         1,100         |
+| Ranger hat     |         1,100         |
+| Healer hat     |         1,100         |
+| Runner hat     |         1,100         |
+| Fighter torso  |         1,500         |
+| Penance skirt  |         1,500         |
+| Runner boots   |          400          |
+| Penance gloves |          600          |
+| Low gamble     |          200          |
+| Medium gamble  |          400          |
+| High gamble    |          500          |
 
 **Barbarian Assault Levels**
 
-| **Level** | **Honour pount cost** |
-| :--- | :---: |
-| Level 1 | 0 |
-| Level 2 | 800 |
-| Level 3 | 1,200 |
-| Level 4 | 1,600 |
-| Level 5 | 2,000 |
+| **Level** | **Honour point cost** |
+| --------- | :-------------------: |
+| Level 1   |           0           |
+| Level 2   |          800          |
+| Level 3   |         1,200         |
+| Level 4   |         1,600         |
+| Level 5   |         2,000         |
