@@ -90,6 +90,7 @@
 * [Castle Wars](minigames/castle-wars.md)
 * [Gauntlet](minigames/gauntlet.md)
 * [Gnome Restaurant](minigames/gnome-restaurant.md)
+* [Rogues Den](minigames/rogues-den.md)
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Warriors Guild](minigames/warriors-guild.md)
