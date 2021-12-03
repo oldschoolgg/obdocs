@@ -87,6 +87,7 @@
 
 * [Big Chompy Bird Hunting](minigames/big-chompy-bird-hunting.md)
 * [Barbarian Assault](minigames/barbarian-assault.md)
+* [Gauntlet](minigames/gauntlet.md)
 * [Gnome Restaurant](minigames/gnome-restaurant.md)
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
