@@ -2,7 +2,7 @@
 
 Slayer is a skill where you're assigned to kill a certain amount of a certain monster - called a 'task', you keep completing lots of tasks to unlock more knowledge on slaying monsters, and gain points which can be used to unlock rewards.
 
-So, in very simple terms to train slayer, all you need to do is: **Get a task** (`+slayertask`) then **Kill that monster **(`+k monster`).
+So, in very simple terms to train slayer, all you need to do is: **Get a task** (`+slayertask`) then **Kill that monster** (`+k monster`).
 
 ## Commands
 
@@ -44,7 +44,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 *   **Getting a Slayer Helmet:**
 
     * Firstly, unlock the Slayer helmet using `+sls unlock slayer helmet`
-    * With a black mask and 55 Crafting, buy the required items from the bot, and then `+create slayer helmet` 
+    * With a black mask and 55 Crafting, buy the required items from the bot, and then `+create slayer helmet`&#x20;
 
 
 *   **Use a Cannon in your task**
@@ -56,7 +56,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 *   **Barrage your task:**
 
-    * If you have sufficient Runes and the Magic level, you can barrage your tasks, to speed it up at the cost of runes. You can do this by adding `--barrage` to your message. E.g `+k abyssal demon --barrage . `You can also burst tasks using `--burst` instead.
+    * If you have sufficient Runes and the Magic level, you can barrage your tasks, to speed it up at the cost of runes. You can do this by adding `--barrage` to your message. E.g `+k abyssal demon --barrage .` You can also burst tasks using `--burst` instead.
     * Both barrage and burst uses 16 casts per minute of task. The rune costs are the same as in game. Any item that provides unlimited water runes works, but needs to be equipped.
 
 
@@ -83,6 +83,6 @@ This is based on using Duradel at 50 slayer.
 
 ![](<../../.gitbook/assets/image (5).png>)
 
-This is based on using Duradel after achieving 93 slayer. 
+This is based on using Duradel after achieving 93 slayer.&#x20;
 
 ![](<../../.gitbook/assets/image (7).png>)

@@ -10,7 +10,7 @@ description: For all the random stuff people keep asking
 ****A: `+offer unsired` / `+offer chewed bones`
 
 **Q: What unlocks should I prioritise?**\
-****A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask.** **
+****A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****&#x20;
 
 **Q: How do I unlock/create a slayer helm?**\
 A: `+sls unlock slayer helmet` followed by `+create slayer helmet` or `+create slayer helmet (i)`. This isn't recommended as a black mask can be used anywhere.
@@ -38,13 +38,13 @@ A: `+buy mind shield`
 
 ### Best gear for slayer
 
-Individual gear bonuses (e.g. ranged attack, slash defence, etc.) cap at 95% of their maximum in game value. These values can be found on the [OSRS Wiki](https://oldschool.runescape.wiki/w/Armour/Highest_bonuses). Due to attack values generally having easier to reach max values, this means it is best to prioritize reaching this 95% threshold, and then focus on maximizing defence afterwards.
+Individual gear bonuses (e.g. ranged attack, slash defence, etc.) cap at 95% of their maximum in game value. These values can be found on the [OSRS Wiki](https://oldschool.runescape.wiki/w/Armour/Highest\_bonuses). Due to attack values generally having easier to reach max values, this means it is best to prioritize reaching this 95% threshold, and then focus on maximizing defence afterwards.
 
 #### Melee
 
 ![](<../../.gitbook/assets/bismeleeslayer (2).png>)
 
-Currently, only your **slash attack **is taken into account. The 95% threshold for slash attack is 172.9.\
+Currently, only your **slash attack** is taken into account. The 95% threshold for slash attack is 172.9.\
 If you do Jad tasks, it is best to equip a Saradomin Godsword. Otherwise, any godsword can be used, as they all have the same stats.
 
 #### Range

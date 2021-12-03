@@ -29,7 +29,7 @@ You can do temple trekking by using `+trek easy/medium/hard`
 * Graceful: -15% penalty if not equipped
 * 1% faster trip time per 25 treks completed, maxes out at 10% (250KC)
 * Morytania Hard Diary: 15%
-* Ivandis Flail: 10% **OR **Blisterwood Flail 15%
+* Ivandis Flail: 10% **OR** Blisterwood Flail 15%
 * Salve amulet (e) 5% **OR** Salve amulet (ei) 5%
 
 ### **Ivandis/Blisterwood Flail**
