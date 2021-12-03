@@ -4,7 +4,7 @@ Pest control is a minigame in which you can acquire commendation points to spend
 
 To start a game, use: `+pc start quantity` (quantity is optional).
 
-Your minion will automatically use the highest boat it can.
+Your minion will automatically use the highest boat it can, and always uses Melee.
 
 ### Requirements
 
@@ -17,11 +17,10 @@ Your minion will automatically use the highest boat it can.
 
 ### Boosts
 
-* Items must be equipped in the Melee setup for boosts to apply
-  * 12% boost for Abyssal Whip/Tentacle
-  * 6% boost for Fire Cape/Infernal Cape
-  * 5% boost for Amulet of Fury/Torture
-  * 4% boost for Barrows/Ferocious Gloves
+* 12% boost for Abyssal Whip/Tentacle
+* 6% boost for Fire Cape/Infernal Cape
+* 5% boost for Amulet of Fury/Torture
+* 4% boost for Barrows/Ferocious Gloves
 
 ### Rewards (Equipment)
 
