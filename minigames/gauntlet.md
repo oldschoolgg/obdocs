@@ -1,8 +1,6 @@
 # Gauntlet
 
-The Gauntlet is a solo minigame. To begin a trip into the Gauntlet, use `+gauntlet normal/corrupted quantity` (quantity is optional).
-
-There are quite a few requirements to attempt the Gauntlet, but the rewards are well worth the work to get there.
+The Gauntlet is a solo minigame which has some substantial requirements. To begin a trip into the Gauntlet, use `+gauntlet normal/corrupted quantity` (quantity is optional).
 
 When you start at both the normal and corrupted gauntlets, your chance of death within the minigame will be quite high. This can be reduced through minion learning (down to 6%).
 
@@ -31,11 +29,13 @@ When you start at both the normal and corrupted gauntlets, your chance of death 
 
 * Crystal shards along with runes, gems, arrows, and rune alchables.
 * Crystal weapon seeds and crystal armour seeds (currently cannot be made into weapons/armours).
-* Enhanced crystal weapon seed which can be made into the Bow of Faerdhinen or Blade of Saeldor.
-  * `+create blade of saeldor/bow of faerdhinen (inactive)` for the base version (requires 82 Crafting & Smithing + 100 crystal shards).
-  * `+create blade of saeldor/bow of faerdhinen (c)` for the charged version (requires an additional 1,000 crystal shards).
-  * Currently, only the charged Bow of Faerdhinen provides boosts.
-* The Youngllef pet which can be obtained from either version of the Gauntlet.
+* Enhanced crystal weapon seed which can be made into the Bow of Faerdhinen or Blade of Saeldor. This requires 82 Crafting & Smithing.
+  * Currently, only the Bow of Faerdhinen (c) provides boosts at Sara, Arma, CoX, & Zulrah.
+
+`+create blade of saeldor/bow of faerdhinen (inactive)` - Requires 100 shards&#x20;
+
+`+create blade of saeldor/bow of faerdhinen (c)` - Requires 1000 shards
+
 * See the OSRS wiki [Gauntlet Page](https://oldschool.runescape.wiki/w/The\_Gauntlet) for specific drop rates.
 
 ### Trading in Crystal Seeds
