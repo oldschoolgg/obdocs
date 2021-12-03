@@ -1,10 +1,10 @@
 # Chambers of Xeric (Raids)
 
-Welcome to **The Chambers of Xeric**. _ _
+Welcome to **The Chambers of Xeric**. __&#x20;
 
 The raids are tough but can give you some highly sought after and valuable rewards, such as the Twisted Bow or even the Metamorphic Dust.
 
-**Requirements **
+**Requirements**&#x20;
 
 Base 80 Combat stats and 70 Prayer. 55 Farming and 78 Herblore are also required if you intend to do solos, if you only intend to mass for your kills, as long as a member of your party meets those requirements you will not need to have them.
 
@@ -14,19 +14,25 @@ Make sure to have your stamina potions, saradomin brews and super restores ready
 
 **Finding a Raid Team**
 
-Within the discord you will find dedicated channels where you can talk, do normal raids or do cm raids.  For chatting, asking for help with your gear score you can talk in `#raids-general-anim`, for challenge mode raids, solo or mass its recommended that you use `#raids-mass-cm`_** **_and for regular raids its recommended that you use `#raids-mass-regular. `Please keep in mind that these are just recommendations, you are not restricted to these channels in order to participate in raiding, it is only recommended as finding a group would be much easier. &#x20;
+Within the discord you will find dedicated channels where you can talk, do normal raids or do cm raids.  For chatting, asking for help with your gear score you can talk in `#raids-general`, for challenge mode raids, solo or mass its recommended that you use `#raids-mass-cm` _****_ and for regular raids its recommended that you use `#raids-mass-regular.` Please keep in mind that these are just recommendations, you are not restricted to these channels in order to participate in raiding, it is only recommended as finding a group would be much easier. &#x20;
 
 **Getting Started**
 
-There are a few things that need to be prefaced before you get started.  To view your KC, unique's, points per unique and how many total points you've gotten you will be using the command `+raid.  `From there you can either solo a raid which will require you to be at least 50 kc or you can mass a raid which you can do at 1 kc.  For this you will be doing `+raid solo` for normal's,  and to mass a raid you will be doing `+raid mass` for normal's.  In order to start a mass your team must have at least 2 people and will automatically start at 15, among the members of that mass at least one person must have 55 farming and 78 herblore or the mass will not start. &#x20;
+There are a few things that need to be prefaced before you get started.  To view your KC, unique's, points per unique and how many total points you've gotten you will be using the command `+raid.`  From there you can either solo a raid which will require you to be at least 50 kc or you can mass a raid which you can do at 1 kc.  For this you will be doing `+raid solo` for normal's,  and to mass a raid you will be doing `+raid mass` for normal's.  In order to start a mass your team must have at least 2 people and will automatically start at 15, among the members of that mass at least one person must have 55 farming and 78 herblore or the mass will not start. &#x20;
 
 **Scaling**
 
-You will find that raids will get significantly faster based on how many KC your team has as a whole, the amount of members in the raid, and the gear scores of each member in your raid, 15 members being the best for points and by that logic purples and 9 being the best for speed and more raids
+You will find that raids will get significantly faster based on how many KC your team has as a whole, the amount of members in the raid, and the gear scores of each member in your raid.
 
 **Boosts**
 
-There are certain items that give a hidden boost to speed that do not need to be equipped and will work from your bank, Twisted Bow gives a 10% Boost or Dragon Hunter Crossbow gives a 5% boost if you don't have a Tbow.  Dragon Warhammer gives a 5% boost or BGS gives a 2.5% boost if you do not have a DWH. &#x20;
+There are certain items that give a hidden boost to speed that do not need to be equipped and will work from your bank.
+
+Ranged Weapons: Twisted Bow (9%), OR Bow of Faerdhinen (7%), OR Dragon Hunter Crossbow (5%)
+
+Dragon Hunter Lance (4%)
+
+Dragon Warhammer (4%), OR Bandos Godsword (2.5%)
 
 **Loot**
 
