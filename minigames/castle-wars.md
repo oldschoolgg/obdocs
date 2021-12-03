@@ -1,6 +1,6 @@
 # Castle Wars
 
-Castle wars is played entirely solo. To start a game, use `+castlewars` or `+cw`
+Castle wars is played entirely solo. To start a game, use `+castlewars play` or `+cw play`
 
 There are no requirements to play Castle Wars.
 
