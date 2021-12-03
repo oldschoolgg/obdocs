@@ -6,16 +6,14 @@ You can train thieving using the `+pickpocket` command. For example, you can `+p
 
 ### Alternatives
 
-You can also train thieving via the Rouges Den or Pyramid Plunder.\
+You can also train thieving via Pyramid Plunder or obtain the Rogues outfit for double loot when pickpocketing any NPC.\
 `+plunder` See the [Pyramid Plunder](https://wiki.oldschool.gg/minigames/pyramid-plunder) page for details.\
-`+rd` See the Rogues Den page for details.
+`+rd` See the [Rogues Den](https://wiki.oldschool.gg/minigames/rogues-den) page for details.
 
 ### Boosts
 
 **Pyramid Plunder** - 5% for Pharaoh's sceptre, remove 7.5% time penalty for full graceful. \
-**Rogues Den** - 40% time reduction for 80 thieving, 50% faster with stamina potions (1 per 4 laps)
-
-Rogues Outfit - Obtained through Rogues' Den Minigame. When the full outfit is equipped in skilling, it provides a 100% chance to double all thieving loot.
+**Rogues Outfit** - Obtained through [Rogues' Den Minigame](https://wiki.oldschool.gg/minigames/rogues-den). When the full outfit is equipped in skilling, it provides a 100% chance to double all thieving loot.
 
 ### Thievable NPCs
 
