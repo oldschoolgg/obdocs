@@ -202,8 +202,8 @@ Every item on this page can be purchase with the following command:&#x20;
 | Red boots              |  100,000  | N/A                    |
 | Yellow hat             |  100,000  | N/A                    |
 | Yellow gloves          |  100,000  | N/A                    |
-| Yellow robe bottoms    |  100,000  | N/A                    |
 | Yellow robe top        |  100,000  | N/A                    |
+| Yellow robe bottom     |  100,000  | N/A                    |
 | Yellow boots           |  100,000  | N/A                    |
 | Teal hat               |  100,000  | N/A                    |
 | Teal gloves            |  100,000  | N/A                    |
