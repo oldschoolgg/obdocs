@@ -13,6 +13,7 @@
 * [Gear](miscellaneous/gear.md)
 * [Crack The Clue](miscellaneous/crack-the-clue.md)
 * [Collecting](miscellaneous/collecting.md)
+* [Buyables](miscellaneous/buyables.md)
 
 ## Bosses
 
