@@ -31,6 +31,7 @@ Dark fishing bait and Raw Karambwanji aren't sold by the bot and can be obtained
 | Raw Anglerfish    |         82         |     120    |    23,040   |
 | Raw Dark crab     |         85         |     130    |    40,000   |
 
+* **Barbarian Fishing** can be done with `+fish barbarian`.
 * **Karambwanji** (not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.
 * **Monkfish** requires **100** Quest Points to fish.
 * **Anglerfish** requires **40** Quest Points to fish.
