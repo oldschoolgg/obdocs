@@ -34,7 +34,8 @@ description: List of achievements on the bot
 
 ### **Other Achievements**
 
-| Description          | Person |
-| -------------------- | ------ |
-| First to Max         | Wood   |
-| First Ironman to Max | Paah   |
+| Description          | Person       |
+| -------------------- | ------------ |
+| First to Max         | Wood         |
+| First Ironman to Max | Paah         |
+| First Infernal Cape  | Criiiiiiiiip |
