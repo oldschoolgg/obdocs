@@ -17,7 +17,7 @@ description: List of achievements on the bot
 | Cooking      | Goldenmyre     | Fishy          |
 | Crafting     | Jay            | Fishy          |
 | Prayer       | nanneke        | Doom           |
-| Runecrafting | wood           |                |
+| Runecrafting | wood           | Rhastae        |
 | Fletching    | coolbop        | sp chlenged    |
 | Thieving     | Rs Olm         | Fishy          |
 | Farming      | RickTurpentine | RickTurpentine |
