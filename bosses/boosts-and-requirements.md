@@ -350,7 +350,7 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 {% tab title="Cerberus " %}
 **Requirements**
 
-![](../.gitbook/assets/20px-Slayer\_icon.png) 95 Slayer
+![](../.gitbook/assets/20px-Slayer\_icon.png) 91 Slayer
 
 ![](../.gitbook/assets/prayer\_icon.png) 43 Prayer
 
