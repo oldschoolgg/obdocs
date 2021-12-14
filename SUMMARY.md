@@ -62,6 +62,7 @@
   * [Herblore Training](skills/herblore/herblore-training.md)
 * [Hunter](skills/hunter/README.md)
   * [Hunter Training](skills/hunter/hunter-training.md)
+  * [Herbiboar](skills/hunter/herbiboar.md)
   * [Passive Implings](skills/hunter/passive-implings.md)
 * [Magic (Non-combat)](skills/magic/README.md)
   * [Mage Training Arena](skills/magic/mage-training-arena.md)
