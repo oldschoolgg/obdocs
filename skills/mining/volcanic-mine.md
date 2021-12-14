@@ -12,14 +12,14 @@ You can do the Volcanic Mine using: `+vm [qty]`
 
 ### Costs
 
-* 3 brews per game
-* 1 prayer pot per game
+* 3 Saradomin Brews per game
+* 1 Prayer potion per game
 
 These costs can be reduced with:
 
-* 1 less brew for 80+ HP
-* 1 less brew for having an ely equipped in skilling setup
-* 1 less prayer pot for 90+ prayer OR 80+ prayer + dragonbone necklace
+* 1 less Saradomin brew for 80+ Hitpoints
+* 1 less Saradomin brew for having an Elysian Spirit Shield equipped in skilling setup
+* 1 less Prayer potion for 90 Prayer **OR** 80 Prayer + Dragonbone necklace
 
 ### Boosts&#x20;
 
@@ -29,7 +29,7 @@ Boosts must be equipped in the skilling setup.
 * 50% more points & XP for 71+ mining and [crystal pickaxe](../../minigames/zalcano.md)
 * 2.5% XP for full prospector
 
-If you have all the boosts you should get the following message upon starting a trip. Supply usage can vary depending on trip length/patron tier.
+If you have all the boosts you should get the following message upon starting a trip. Supply usage can vary depending on your maximum trip length.
 
 ![](<../../.gitbook/assets/image (14).png>)
 
