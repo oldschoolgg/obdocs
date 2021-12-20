@@ -14,7 +14,7 @@
 * [Crack The Clue](miscellaneous/crack-the-clue.md)
 * [Collecting](miscellaneous/collecting.md)
 * [Buyables](miscellaneous/buyables.md)
-* [Kourend Favour] (miscellaneous/kourend-favour.md)
+* [Kourend Favour](miscellaneous/kourend-favour.md)
 
 ## Bosses
 
