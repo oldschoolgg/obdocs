@@ -8,6 +8,10 @@ You can obtain favour using the following commands, `+kourendfavour <house>`, `+
 
 `+kf arceuus`, `+kf arceuu`, `+kf arceu`, `+kf arce`
 
+### Costs
+
+* 2x Stamina potion(4)  (optional)
+
 ### Boosts
 
 * -50% boost if NOT using 2x Stamina potion(4) `+kf arceuus --ns`
@@ -113,6 +117,7 @@ You can obtain favour using the following commands, `+kourendfavour <house>`, `+
 ### Costs
 
 * 2x Prayer potion(4)
+* 2x Stamina potion(4)  (optional)
 
 ### Boosts
 
