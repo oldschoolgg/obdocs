@@ -47,9 +47,13 @@ Although the salve amulet (e) can be [imbued](soul-wars.md#imbueables), the imbu
 
 ### Rewards
 
-`+trekshop` or `+ts`, `easy/medium/hard`, optionally `quantity,` `pure essence/XP/bow strings/etc` \
-Rewards are same as in game. The treks themselves drop nails from nail beasts and remains from shades, as well as lumberjack outfit. It's possible to get dupes of lumberjack after you get the full set.
+To buy rewards with your tokens, use the `+trekshop/+ts` command.
+
+* E.g. `+ts easy bow string`
+* E.g. `+ts 5 hard herbs`
+
+Rewards are same as in game. The treks themselves drop nails from nail beasts and remains from shades, as well as [Lumberjack outfit](https://wiki.oldschool.gg/skills/woodcutting#lumberjack-outfit). It's possible to get dupes of lumberjack after you get the full set.
 
 #### Rewards per hour
 
-![Rewards per hour](<../.gitbook/assets/image (11).png>)
+![Rewards per hour](<../.gitbook/assets/image (13).png>)

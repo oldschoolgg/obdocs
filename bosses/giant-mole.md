@@ -1,9 +1,8 @@
-# Giant mole
+# Giant Mole
 
 You can turn in mole parts with the `+wyson` command.
 
-`+wyson 239 mole claw`  
-`+wyson 491 mole skin`
+![](<../.gitbook/assets/Mole claw.png>)  `+wyson (quantity) mole claw`\
+![](<../.gitbook/assets/Mole skin.png>) `+wyson (quantity) mole skin`
 
-See [https://wiki.oldschool.gg/bosses/boosts-and-requirements](https://wiki.oldschool.gg/bosses/boosts-and-requirements) for gear.
-
+See [Boosts & Requirements page](https://wiki.oldschool.gg/bosses/boosts-and-requirements) for gear.

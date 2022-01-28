@@ -1,4 +1,24 @@
 # Pyramid Plunder
 
-You can challenge the thieving minigame Pyramid Plunder for good, high level thieving xp and a chance to obtain the Pharaoh's sceptre. The sceptre provides a boost to your time spent in this minigame, and it is highly recommended that you wait until at least level 71 thieving, though you only need a base thieving level of 21. Outside of the sceptre, the pyramid also drops small trinkets which can be sold to the bot for gp. Be sure to have graceful equipped in one of your [gear setups](https://wiki.oldschool.gg/gear) or you'll be subject to a 7.5% time penalty.
+You can challenge the thieving minigame Pyramid Plunder for good, high level thieving xp and a chance to obtain the Pharaoh's sceptre.
+
+To start a trip of Pyramid Plunder, simply type:
+
+* `+plunder`
+
+### Requirements
+
+* 21 Thieving (71 recommended)
+
+### Boosts
+
+* 5% for Pharaoh's sceptre
+* Up to 10% for minion learning
+* 7.5% time penalty if full graceful not equipped
+
+### Rewards
+
+* Pharaoh's sceptre (does not lose charges)
+* Various trinkets that sell to the bot for around the same price as in-game.
+  * _Golden / Stone / Pottery / Ivory_
 

@@ -2,13 +2,9 @@
 
 Herbiboar is a hunter activity where you can gain decent hunter xp and a handful of herbs.
 
-To start Herbiboar, simply type:
+To start Herbiboar, use: `+hunt herbi` or `+hunt (quantity) herbi`
 
-* `+hunt herbi` or `+hunt (quantity) herbi`
-
-3x Stamina Potion (4) will be consumed automatically if you have them banked.
-
-To avoid consuming them, use the `--ns` filter.
+3x Stamina Potion (4) will be consumed automatically if you have them banked. To avoid consuming them, use the `--ns` filter.
 
 * `+hunt herbi --ns`
 
@@ -26,7 +22,7 @@ To avoid consuming them, use the `--ns` filter.
 
 ### Loot Table
 
-* You will receive 1-3 herbs (2-4 if using Magic Secateurs) of a specific type per catch.
+* You will receive 1-3 herbs (2-4 if using Magic Secateurs) per catch.
 
 ![](../../.gitbook/assets/Herbi\_loot\_table.png)
 

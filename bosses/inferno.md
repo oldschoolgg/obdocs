@@ -10,9 +10,11 @@ At the end of The Inferno, you are rewarded with an [Infernal Cape](https://olds
 
 Infernal capes can be gambled by doing `+capegamble infernal`
 
+Tokkul can be spent at the [Tokkul shop](https://wiki.oldschool.gg/bosses/fight-caves/tokkul-shop).
+
 ### Commands
 
-You can begin an Inferno attempt by doing `+inferno start`. You can also do `+inferno` to view information on your previous attempts/KCs.
+You can begin an Inferno attempt by doing `+inferno start`. You can also do `+inferno/+i` to view information on your previous attempts/KCs.
 
 ### Requirements
 
@@ -28,7 +30,11 @@ Rune Pouch (`+sls buy rune pouch`)     &#x20;
 
 \>150 Ranged Attack    &#x20;
 
-Toxic Blowpipe with Adamant Darts or better (`+fletch toxic blowpipe (empty)` to create, `+bp add [qty] [zulrah's scales/dart name]` to fill) (uses 300 darts/hour)  &#x20;
+Toxic Blowpipe with Adamant Darts or better (uses 300 darts/hour)  &#x20;
+
+* `+fletch toxic blowpipe (empty)` - to create blowpipe
+* `+m bp add [qty] [zulrah's scales/dart name]` - to load scales or darts
+* `+m bp uncharge` - to unload scales and darts
 
 Twisted Bow or Armadyl Crossbow with ammo based on the weapon you're using (arrows for Twisted Bow, bolts for ACB) (uses 150 ammo/hour)                            &#x20;
 
@@ -60,9 +66,10 @@ Equipping Ancestral Robe Top & Bottom in your mage setup (-4%)                  
 
 Equipping an Elysian Spirit Shield in either range or mage (-5%)     &#x20;
 
-Equipping a Ring of Suffering (i) in either range or mage (-4%)                    &#x20;
+Equipping a Ring of Suffering (i) in either range or mage (-4%)
 
-&#x20;                                                                                                                                                                                  Equipping a Twisted Bow in your range setup (instead of an ACB) (1.5% from Tbow VS 7.5% with ACB)
+Equipping a Justiciar Faceguard in range (-5%)                     \
+&#x20;                                                                                                                                                                  Equipping a Twisted Bow in your range setup (instead of an ACB) (1.5% from Tbow VS 7.5% with ACB)
 
 The number of attempts you've done, and the number of times you've fought Zuk greatly affect speed and death chance.
 
@@ -71,22 +78,4 @@ The number of attempts you've done, and the number of times you've fought Zuk gr
 ![](../.gitbook/assets/infernobis.png)
 
 Using this gear, along with dragon darts in your blowpipe, will give the maximum bonus for Inferno.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&#x20;                                                                                    &#x20;
-
-
 

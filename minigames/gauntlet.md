@@ -1,8 +1,8 @@
 # Gauntlet
 
-The Gauntlet is a solo minigame which has some substantial requirements. To begin a trip into the Gauntlet, use `+gauntlet normal/corrupted quantity` (quantity is optional).
+The Gauntlet is a solo minigame which has some substantial requirements. When you start at both the normal and corrupted gauntlets, your chance of death within the minigame will be quite high. This can be reduced through minion learning (down to 6%).
 
-When you start at both the normal and corrupted gauntlets, your chance of death within the minigame will be quite high. This can be reduced through minion learning (down to 6%).
+To begin a trip, use `+gauntlet normal/corrupted quantity` (quantity is optional).
 
 ### Requirements
 
@@ -14,6 +14,8 @@ When you start at both the normal and corrupted gauntlets, your chance of death 
   * Farming
   * Agility
   * Woodcutting
+  * Fishing
+  * Cooking
   * Herblore
   * Construction
   * Hunter
@@ -27,16 +29,28 @@ When you start at both the normal and corrupted gauntlets, your chance of death 
 
 ### Rewards
 
-* Crystal shards along with runes, gems, arrows, and rune alchables.
-* Crystal weapon seeds and crystal armour seeds (currently cannot be made into weapons/armours).
-* Enhanced crystal weapon seed which can be made into the Bow of Faerdhinen or Blade of Saeldor. This requires 82 Crafting & Smithing.
-  * Currently, only the Bow of Faerdhinen (c) provides boosts at Sara, Arma, CoX, & Zulrah.
+The standard rewards from gauntlet can be obtained here such as Crystal shards alongside runes, gems, arrows, and rune/dragon alchables. The unique rewards include:
 
-`+create blade of saeldor/bow of faerdhinen (inactive)` - Requires 100 shards&#x20;
+#### Crystal weapon seeds
 
-`+create blade of saeldor/bow of faerdhinen (c)` - Requires 1000 shards
+The only thing these can be made into is a Crystal halberd for ToB.
 
-* See the OSRS wiki [Gauntlet Page](https://oldschool.runescape.wiki/w/The\_Gauntlet) for specific drop rates.
+* `+create crystal halberd`
+
+#### Crystal armour seeds
+
+Currently have no use except trading in for crystal shards.
+
+#### Enhanced crystal weapon seeds
+
+You need 82 crafting and smithing to create both the inactive and charged versions of the blade/bow. The charged bow provides boosts to bosses such as Sara, Arma, Zulrah, and CoX. The charged blade is used at ToB. Charged versions can be reverted back to inactive versions and inactive weapons can be reverted back to seeds (costs 250 crystal shards for the latter).
+
+* `+create blade of saeldor (inactive)` - Requires 100 shards&#x20;
+* `+create bow of faerdhinen (inactive)` - Requires 100 shards&#x20;
+* `+create blade of saeldor (c)` - Requires 1000 shards
+* `+create bow of faerdhinen (c)` - Requires 2000 shards
+
+**Note:** The _charged_ blade/bow are untradeable while the _inactive_ versions are tradeable.
 
 ### Trading in Crystal Seeds
 

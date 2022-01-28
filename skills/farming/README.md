@@ -4,9 +4,11 @@ Farming in the bot works like farming ingame, where you will send your minion of
 
 To plant crops, you can use the `+plant <name>` or `+farm <name>` commands. When a crop is fully grown, you can either use the `+harvest <name>` command, which will leave your patches empty, or the `+plant` or `+farm` commands which will plant whatever new crop you specify.
 
+Alternatively, you can use `+m af/autofarm` to automatically plant the highest level seed in each patch you currently have access to.
+
 Some crops can be protected when planted using the `--pay` flag on the end of your farming command. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming\_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `+create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
 
-You can view the patches you currently have things planted in, as well as the time remaining before they are done growing, by using `+checkpatches`
+You can view the patches you currently have things planted in, as well as the time remaining before they are done growing, by using `+checkpatches/+cp`
 
 You can set crop payment and compost to apply automatically using the `+defaultfarming tier compost/supercompost/ultracompost` and `+defaultfarming pay enable/disable` commands.
 
@@ -41,15 +43,15 @@ Compost is buyable from the game shop using the `+buy` command, and is automatic
 
 The speed of your farming trips and the xp you gain from farming activities can both be boosted, as well as the quantity of items harvested. The following items provide boosts to the farming skill:
 
-* Farmers Strawhat = +0.4% to XP
-* Farmers Jacket/Shirt = +0.8% to XP
-* Farmers Boro Trousers + +0.6% to XP
-* Farmers Boots = +0.2% to XP
-* Full Farmers Outfit = +0.4% to XP on top of item bonuses
-* Magic Secateurs = +10% to harvest quantity
-* Farming Cape = +5% to harvest quantity
-* Full Graceful Outfit = +10% to trip speed
-* Ring of Endurance = +10% to trip speed
+* Farmers Strawhat - 0.4% to XP
+* Farmers Jacket/Shirt - 0.8% to XP
+* Farmers Boro Trousers - 0.6% to XP
+* Farmers Boots - 0.2% to XP
+* Full Farmers Outfit - 0.4% to XP on top of item bonuses
+* Magic Secateurs - 10% to harvest quantity
+* Farming Cape - 5% to harvest quantity
+* Full Graceful Outfit - 10% to trip speed
+* Ring of Endurance - 10% to trip speed (must be [charged](https://wiki.oldschool.gg/skills/agility/hallowed-sepulchre#ring-of-endurance) & equipped)
 
 The full [Farming commands breakdown](../../farming.md) gives an overview of all the commands introduced with the Farming skill.
 

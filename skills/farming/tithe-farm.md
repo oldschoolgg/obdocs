@@ -1,20 +1,39 @@
 # Tithe Farm
 
-The command to get points is `+tithefarm`
+The [Tithe Farm](https://oldschool.runescape.wiki/w/Tithe\_Farm) is a Farming minigame where you earn points which can be used to purchase the Farmers outfit, supercompost, and other collection log slots. Your minion will start out quite inefficient at the minigame and progressively become more experienced.
 
-The [Tithe Farm](https://oldschool.runescape.wiki/w/Tithe_Farm) is a Farming minigame where you earn points which can be used to purchase the Farmers outfit and grape seeds, and is unlocked with 34 Farming. Your minion will go out and actively participate in this minigame getting you points and farming xp, with the time taken decreasing with your minigame kc and a flat 10% time reduction from the graceful set.
+The start the minigame, use `+tithefarm`
 
-Below you will see the Tithe Farm shop, this tells you exactly what you can buy and for how much allowing you to accurately calculate how many games you will need to do.  In order to buy an item from the shop you will need to do the command `+tfs Farmers strawhat`, for example.
+### Requirements
 
-**Tithe Farm Shop**
+* 34 Farming (minimum)
+  * 54 Farming for bologano fruit
+  * 74 Farming for logavano fruit
+* 100% Hosidius favour
 
-| **Item name** | **Point cost** |
-| :--- | :---: |
-| Farmers strawhat | 75 |
-| Farmers jacket/shirt | 150 |
-| Farmers boro trousers | 125 |
-| Farmers boots | 50 |
-| Grape seed | 2 |
-| Supercompost | 5 |
-| Bologa's Blessing \(x10\) | 1 |
+### Boosts
 
+* 10% boost for full graceful _(must be equipped)_
+* 2.5% boost for full farmers outfit _(does not need to be equipped)_
+* Up to 25% boost for minion learning
+
+### Tithe Farm Shop
+
+To purchase an item from this shop, use the `+tfs` command.
+
+**E.g.** `+tfs farmers strawhat`
+
+| **Item name**           | **Point cost** |
+| ----------------------- | :------------: |
+| Farmers strawhat        |       75       |
+| Farmers jacket/shirt    |       150      |
+| Farmers boro trousers   |       125      |
+| Farmers boots           |       50       |
+| Seed box**\***          |       250      |
+| Gricoller's can**\***   |       200      |
+| Herb sack**\***         |       250      |
+| Grape seed              |        2       |
+| Supercompost            |        5       |
+| Bologa's Blessing (x10) |        1       |
+
+**\*** - These items do not have a purpose in the bot (yet), and are simply for collection log slots.

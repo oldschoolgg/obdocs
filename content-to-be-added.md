@@ -11,9 +11,10 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 If you feel you're well placed to contribute to a specific subject (perhaps you've done a lot of a particular activity and feel you could create some documentation) then please feel free to help out. If you have any questions you can ask in the wiki channel in the bot's official discord server.
 
 * Hespori Information
-* Favour page
 * Woodcutting Guild boost information
 * Questing information and unlocks
-* Phosani's Nightmare
-* Buyables
 * Createables
+* Drift Net fishing page
+* Update Bank Backgrounds
+* Reverting items page
+* Boosts to RC page

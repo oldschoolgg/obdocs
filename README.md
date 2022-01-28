@@ -16,27 +16,36 @@ If you're looking for the BSO Wiki, you can find it [here](https://bso-wiki.olds
 
 Minions are a feature in Old School Bot that let you simulate playing a virtual RuneScape account in Discord. You control a minion, who you send out to do various tasks, like killing monsters for loot, completing clue scrolls, and training skills. With the loot they get, you can craft items, sell them, and trade to other real players.
 
-You can also read the [FAQ](faq.md) for answers to common questions.
+You can also read the [FAQ](getting-started/faq.md) for answers to common questions.
 
 Minions are entirely virtual, and not in any way tradeable for real GP or real money. It's simulating the real game for fun. We strictly do not allow any bot users to break any of the official OSRS rules. Read the rules here: Old School Bot Rules
 
 ## Getting Started
 
-To get started, firstly read the [rules](rules.md), then get yourself a minion by typing `+minion buy`, or `+m buy` for short. If your Discord account is 6 months old or older, your minion will be free. If it is between 1 and 6 months old, your minion will cost 20m. If your account is less than one month old, you are currently unable to purchase a minion as a precaution against alt accounts and bots (unless you become a patron which bypasses this restriction). To get your starting gp, you can use the `+daily`'command every 12 hours to get a trivia question you can answer for gp and special Diango items.
+To get started, firstly read the [rules](getting-started/rules.md), then get yourself a minion by typing `+minion buy`, or `+m buy` for short. If your Discord account is 6 months old or older, your minion will be free. If it is between 1 and 6 months old, your minion will cost 20m. If your account is less than one month old, you are currently unable to purchase a minion as a precaution against alt accounts and bots (unless you become a patron which bypasses this restriction). To get your starting gp, you can use the `+daily`'command every 12 hours to get a trivia question you can answer for gp and special Diango items.
 
 Next, decide what you want to do. Skilling? PVM? Questing? Have a look around the rest of the wiki to see what you can do, and how - and just do whatever you want to do!
 
 ## Minion Icons
 
-You can sacrifice items, and their GP value will go towards you unlocking new minion icons. You will automatically receive the icon immediately after sacrificing enough GP. You can see a leaderboard of who has sacrificed the most using `+lb sacrifice`.
+You can sacrifice items, and their GP value will go towards you unlocking new minion icons. You will automatically receive the icon immediately after sacrificing enough GP.
 
-You can sacrifice items using `+sacrifice [quantity] <item>`, for example `+sacrifice Bandos chestplate` or `+sacrifice 1000 gold ore`. You cannot sacrifice GP,  instead you should buy items off other players with your GP and sacrifice those.\
-\
+You can sacrifice items by using: `+sacrifice [quantity] <item>` (quantity is optional)
+
+* E.g. `+sacrifice Bandos chestplate`
+* E.g. `+sacrifice 1000 gold ore`
+
+Or you can sacrifice GP directly by using: `+sacrificegp [quantity]`
+
+* E.g. `+sacrificegp 100m`
+
 You receive a 15 second bonus to your maximum trip length for every 2.5b gp you sacrifice. This scales up to a 1 minute increase when you've sacrificed a total of 10b gp. This scaling is halved for ironmen, only requiring 5b gp to get the 1 minute increase.
+
+You can see a leaderboard of who has sacrificed the most using `+lb sacrifice`.
 
 Tier 3 patrons or above receive 3 times the bonus to their trip length from sacrifice value. For example, a tier 3 patron with 2.5b sacrificed will receive a 45 second bonus and with 10b sacrificed will receive a 3 minute bonus.
 
-![](<.gitbook/assets/image (6) (1) (1).png>)
+![](<.gitbook/assets/image (5).png>)
 
 ## Bank Backgrounds
 

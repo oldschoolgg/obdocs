@@ -4,9 +4,9 @@ Requirements: 35 Hunter, 43 fishing.
 
 You can start aerial fishing with either `+aerial` or `+aerialfish`
 
-You can purchase buyables via `+aerial buy name_of_item`
+You can purchase buyables via `+aerial buy (item)`
 
-**Aerial Fishing Buyables**
+### Aerial Fishing Buyables
 
 | **Item**              | **Molch pearl cost** |
 | --------------------- | :------------------: |

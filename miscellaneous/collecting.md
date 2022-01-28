@@ -2,7 +2,7 @@
 
 Certain items can be collected using the `+collect [tripAmount, itemName]` command. Every item has a minimum amount to be collected per trip, which is listed under the requirements in the table below. For example, if you want to collect 240 snape grass - which is collected in bundles of 120 - you would use `+collect 2 snape grass`.
 
-| Items              | Requirements                                                                                                                      |
+|                    |                                                                                                                                   |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Items**          | **Requirements**                                                                                                                  |
 | Blue Dragon Scales | <p>1 Water-, 1 Law- and 3 Air Runes per 26 scales.</p><p>70 Agility, 37 Magic</p>                                                 |

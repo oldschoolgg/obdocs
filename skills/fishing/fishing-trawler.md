@@ -4,7 +4,7 @@ Your minion can partake in the fishing trawler mini game using `+fishingtrawler`
 
 ### Boosts
 
-* \+0.2% trip time boost per KC, maxes out at +10% (50KC)
+* \+0.2% trip time boost per KC, maxes out at +10% (50kc)
 * \+50% amount of fish received for [Elite Ardougne Diary](../../miscellaneous/achievement-diaries.md#ardougne-diary-elite)
 
 ### Rewards

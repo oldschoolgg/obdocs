@@ -81,8 +81,8 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 This is based on using Duradel at 50 slayer.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 This is based on using Duradel after achieving 93 slayer.&#x20;
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (8).png>)

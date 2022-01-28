@@ -31,7 +31,7 @@ Boosts must be equipped in the skilling setup.
 
 If you have all the boosts you should get the following message upon starting a trip. Supply usage can vary depending on your maximum trip length.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 ### Volcanic Mine Shop
 

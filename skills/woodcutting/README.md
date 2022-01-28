@@ -8,7 +8,17 @@ The bot uses XP rates based off rune axe as standard; however, you can get one o
 * Infernal axe: +9% (level 61)
 * Crystal axe: +12% (level 61)
 
-## Logs
+### Lumberjack Outfit
+
+You can obtain the Lumberjack outfit through the [Temple Trekking](https://wiki.oldschool.gg/minigames/temple-trekking) minigame. When equipped in the skilling setup, it provides the following boosts to woodcutting XP:
+
+* 0.4% - Lumberjack hat
+* 0.8% - Lumberjack top
+* 0.6% - Lumberjack legs
+* 0.2% - Lumberjack boots
+* 2.5% - Full outfit equipped in skilling setup
+
+### Logs
 
 | **Log**          | **Required level** | Experience | XP/Hr. @ 99 |
 | ---------------- | :----------------: | :--------: | :---------: |

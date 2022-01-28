@@ -17,29 +17,29 @@ You can also train thieving via Pyramid Plunder or obtain the Rogues outfit for 
 
 ### Thievable NPCs
 
-| **NPC Name**               | **Required level** |
-| -------------------------- | :----------------: |
-| Man/Woman                  |          1         |
-| Farmer                     |         10         |
-| Female H.A.M. member       |         15         |
-| Male H.A.M. member         |         20         |
-| Warrior woman              |         25         |
-| Rogue                      |         32         |
-| Cave goblin                |         36         |
-| Master farmer              |         38         |
-| Guard                      |         40         |
-| Fremennik citizen          |         45         |
-| Bearded Pollnivnian bandit |         45         |
-| Desert bandit              |         53         |
-| Knight of Ardougne         |         55         |
-| Pollnivnian bandit         |         55         |
-| Yanille watchman           |         65         |
-| Menaphite thug             |         65         |
-| Paladin                    |         70         |
-| Gnome                      |         75         |
-| Hero                       |         80         |
-| Vyre                       |         82         |
-| Elf                        |         85         |
-| TzHaar-Hur                 |         90         |
+| **NPC Name**               | **Required level** | **Experience** | **XP/Hr. @ 99** |
+| -------------------------- | :----------------: | :------------: | :-------------: |
+| Man/Woman                  |          1         |        8       |      18,300     |
+| Farmer                     |         10         |      14.5      |      33,100     |
+| Female H.A.M. member       |         15         |      18.5      |      44,400     |
+| Male H.A.M. member         |         20         |      22.5      |      54,000     |
+| Warrior woman              |         25         |       26       |      64,800     |
+| Rogue                      |         32         |      35.5      |      81,200     |
+| Cave goblin                |         36         |       40       |      91,500     |
+| Master farmer              |         38         |       43       |      98,300     |
+| Guard                      |         40         |      46.8      |     107,000     |
+| Fremennik citizen          |         45         |       65       |     148,700     |
+| Bearded Pollnivnian bandit |         45         |       65       |     156,100     |
+| Desert bandit              |         53         |      79.5      |     181,800     |
+| Knight of Ardougne         |         55         |      84.3      |     192,900     |
+| Pollnivnian bandit         |         55         |      84.3      |     202,400     |
+| Yanille watchman           |         65         |      137.5     |     104,500     |
+| Menaphite thug             |         65         |      137.5     |     330,223     |
+| Paladin                    |         70         |      151.7     |     101,700     |
+| Gnome                      |         75         |      198.5     |      90,600     |
+| Hero                       |         80         |       275      |      80,800     |
+| Vyre                       |         82         |      306.9     |     155,700     |
+| Elf                        |         85         |       353      |     103,800     |
+| TzHaar-Hur                 |         90         |      103.4     |     131,000     |
 
 ##

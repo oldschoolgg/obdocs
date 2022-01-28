@@ -1,34 +1,41 @@
 # Table of contents
 
 * [Welcome to the Old School Bot Wiki!](README.md)
-* [FAQ](faq.md)
-* [Rules](rules.md)
+
+## Getting Started
+
+* [FAQ](getting-started/faq.md)
+* [Rules](getting-started/rules.md)
 * [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
-
-## Miscellaneous
-
-* [Hall of Fame](miscellaneous/bot-firsts.md)
-* [Achievement Diaries](miscellaneous/achievement-diaries.md)
-* [Beginner Guide](miscellaneous/beginner-guide.md)
-* [Gear](miscellaneous/gear.md)
-* [Crack The Clue](miscellaneous/crack-the-clue.md)
-* [Collecting](miscellaneous/collecting.md)
-* [Buyables](miscellaneous/buyables.md)
+* [Beginner Guide](getting-started/beginner-guide.md)
+* [Ironman Mode](getting-started/ironman-mode.md)
+* [Gear](getting-started/gear.md)
+* [Combat Training](getting-started/combat-skills.md)
+* [Bank Filters](getting-started/bank-filters.md)
 
 ## Bosses
 
 * [Boosts & Requirements](bosses/boosts-and-requirements.md)
-* [Chambers of Xeric (Raids)](bosses/cox-raids/README.md)
-  * [Gear Setups](bosses/cox-raids/cox-gear-setups.md)
-  * [Challenge Mode](bosses/cox-raids/challenge-mode.md)
-* [The Nightmare](bosses/nightmare-of-ashihama.md)
-* [Fight Caves](bosses/fight-caves.md)
+* [The Nightmare](bosses/nightmare-of-ashihama/README.md)
+  * [Phosani's Nightmare](bosses/nightmare-of-ashihama/phosanis-nightmare.md)
+* [Fight Caves](bosses/fight-caves/README.md)
+  * [Tokkul Shop](bosses/fight-caves/tokkul-shop.md)
 * [Inferno](bosses/inferno.md)
-* [Giant mole](bosses/giant-mole.md)
+* [Zulrah](bosses/zulrah.md)
+* [Giant Mole](bosses/giant-mole.md)
+* [Revenants](bosses/revenants.md)
+
+## Raids
+
+* [Chambers of Xeric (CoX)](raids/cox-raids/README.md)
+  * [Gear Setups](raids/cox-raids/cox-gear-setups.md)
+  * [Challenge Mode](raids/cox-raids/challenge-mode.md)
+* [Theatre of Blood (ToB)](raids/theatre-of-blood/README.md)
+  * [TOB - Hard Mode](raids/theatre-of-blood/tob-hard-mode.md)
+  * [ToB - Theory](raids/theatre-of-blood/tob-theory.md)
 
 ## Skills
 
-* [Combat Skills](skills/combat-skills.md)
 * [Agility](skills/agility/README.md)
   * [Agility Training](skills/agility/agility-training.md)
   * [Agility Alching](skills/agility/agility-alching.md)
@@ -66,6 +73,7 @@
   * [Passive Implings](skills/hunter/passive-implings.md)
 * [Magic (Non-combat)](skills/magic/README.md)
   * [Mage Training Arena](skills/magic/mage-training-arena.md)
+  * [Fountain of Rune](skills/magic/fountain-of-rune.md)
 * [Mining](skills/mining/README.md)
   * [Mining Training](skills/mining/mining-training.md)
   * [Volcanic Mine](skills/mining/volcanic-mine.md)
@@ -99,7 +107,17 @@
 * [Warriors Guild](minigames/warriors-guild.md)
 * [Zalcano](minigames/zalcano.md)
 
+## Miscellaneous
+
+* [Hall of Fame](miscellaneous/bot-firsts.md)
+* [Achievement Diaries](miscellaneous/achievement-diaries.md)
+* [Kourend Favour](miscellaneous/kourend-favour.md)
+* [Tears of Guthix](miscellaneous/tears-of-guthix.md)
+* [God Capes](miscellaneous/god-capes.md)
+* [Collecting](miscellaneous/collecting.md)
+* [Buyables](miscellaneous/buyables.md)
+* [Crack The Clue](miscellaneous/crack-the-clue.md)
+
 ***
 
-* [Ironman-mode](ironman-mode.md)
 * [Content to be added](content-to-be-added.md)

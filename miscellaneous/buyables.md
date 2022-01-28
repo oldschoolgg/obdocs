@@ -139,6 +139,11 @@ Every item on this page can be purchase with the following command:&#x20;
 | Xeric's sentinel       | 1,000,000 | Completed 1,000 CoX CMs     |
 | Xeric's general        | 1,500,000 | Completed 1,500 CoX CMs     |
 | Xeric's champion       | 2,000,000 | Completed 2,000 CoX CMs     |
+| Sinhaza shroud tier 1  |  100,000  | Completed 100 ToBs          |
+| Sinhaza shroud tier 2  |  500,000  | Completed 500 ToBs          |
+| Sinhaza shroud tier 3  |  500,000  | Completed 1,000 ToBs        |
+| Sinhaza shroud tier 4  |  500,000  | Completed 1,500 ToBs        |
+| Sinhaza shroud tier 5  |  500,000  | Completed 2,000 ToBs        |
 
 
 {% endtab %}
@@ -147,6 +152,7 @@ Every item on this page can be purchase with the following command:&#x20;
 |                             |                                                                                                     |
 | --------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Item Name**               | **Price**                                                                                           |
+| Raw Shark                   | 40x Minnow                                                                                          |
 | Hallowed crystal shard      | 1x Hallowed mark                                                                                    |
 | Hallowed token              | 10x Hallowed mark                                                                                   |
 | Hallowed grapple            | 100x Hallowed mark                                                                                  |
@@ -243,5 +249,6 @@ Every item on this page can be purchase with the following command:&#x20;
 | Gin                | 1,000,000 | N/A                        |
 | Ogre bow           |  200,000  | N/A                        |
 | Sandworms          |    500    | N/A                        |
+| Granite body       |   95,000  | 10kc at Barbarian Assault  |
 {% endtab %}
 {% endtabs %}

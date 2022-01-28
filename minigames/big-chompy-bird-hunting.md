@@ -12,7 +12,7 @@ You can do the chompy bird hunting minigame using `+chompyhunt`.
 
 ### Getting Ogre Arrows
 
-You can try to buy it from other players, or...
+You can try to buy them from other players, or...
 
 1. Kill Wolves for Wolf bones, fletch them into Wolfbone arrowtips.
 2. Cut Achey trees, fletch them into Ogre arrow shafts.

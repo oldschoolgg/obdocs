@@ -1,14 +1,85 @@
 # Magic (Non-combat)
 
-To start off the magic skill, you need to quest to get initial levels. If you had quest point progression before the magic skill, you may already have the starter levels out of the way. All spells require the same levels they require in OSRS. Bolt and jewelry enchanting have variable level requirements depending on what type of object you're trying to enchant, and you can see all of your different options and the levels at which they become unlocked using the `+enchant --items` command. You can also `+cast` a variety of utility spells like teleports, alchemy, and lunar spells like tan leather, stringing and charging jewelry, and plank make. All spells require runes, but you can cut down on the rune cost by equipping an [elemental stave](https://oldschool.runescape.wiki/w/Elemental\_staves) in your skilling setup, which will provide infinite elemental runes depending on the type of staff you equip.
+You can train your magic level through various non-combat spells in the bot. This includes casting lunar spells, teleport spells, and enchanting jewellery and bolts. All casting and enchanting spells require the same levels and runes as they do in OSRS.&#x20;
 
-With the Magic skill, the Fountain of Rune is open for limited use in charging your amulets of glory using the `+chargeglories (quantity)` command. Your minion will do full inventories of 26 glories, and will have a small chance of being PK'd and losing your full inventory. If you have all the stats required for the wilderness elite diary, including the 96 magic requirement, you will have a 3x boost when charging glories. It is **not** recommended to charge amulets of glory without the wilderness elite diary. Charging amulets of glory in this way provides a small chance to give you an amulet of eternal glory, which will never run out of charges.
+**Note:** Equipping an [elemental staff](https://oldschool.runescape.wiki/w/Elemental\_staves) in your _skilling setup_ will cut down on rune costs.
 
+### Casting
 
+There are numerous useful casting spells that can be used to train magic. All cast spells require 50qp except for teleports and bones to bananas.
 
-You can also alch while training Agility:
+To use any of the following spells, use the `+cast` command.
 
-{% content-ref url="../agility/agility-alching.md" %}
-[agility-alching.md](../agility/agility-alching.md)
-{% endcontent-ref %}
+* E.g. `+cast 100 camelot teleport`
+
+|                               |                     |                            |
+| ----------------------------- | :-----------------: | -------------------------- |
+| **Spell**                     | **Levels Required** | **Notes**                  |
+| Bones to bananas              |       15 Magic      | Converts 25 bones/cast     |
+| Varrock teleport              |       25 Magic      | -                          |
+| Lumbridge teleport            |       31 Magic      | -                          |
+| Falador teleport              |       37 Magic      | -                          |
+| Camelot teleport              |       45 Magic      | -                          |
+| Spin flax                     | 76 Magic + 10 Craft | Spins 5 flax/cast          |
+| Tan green dragon leather      |       78 Magic      | Tans 5 green d'hide/cast   |
+| Tan blue dragon leather       |       78 Magic      | Tans 5 blue d'hide/cast    |
+| Tan red dragon leather        |       78 Magic      | Tans 5 red d'hide/cast     |
+| Tan black dragon leather      |       78 Magic      | Tans 5 black d'hide/cast   |
+| String gold                   |  80 Magic + 8 Craft | Strings 1 item/cast        |
+| String sapphire               | 80 Magic + 24 Craft | Strings 1 item/cast        |
+| String emerald                | 80 Magic + 31 Craft | Strings 1 item/cast        |
+| String ruby                   | 80 Magic + 50 Craft | Strings 1 item/cast        |
+| String diamond                | 80 Magic + 70 Craft | Strings 1 item/cast        |
+| String dragonstone            | 80 Magic + 80 Craft | Strings 1 item/cast        |
+| String onyx                   | 80 Magic + 90 Craft | Strings 1 item/cast        |
+| Plank make logs               |       86 Magic      | Costs 70gp/plank           |
+| Plank make oak                |       86 Magic      | Costs 175gp/plank          |
+| Plank make teak               |       86 Magic      | Costs 350gp/plank          |
+| Plank make mahogany           |       86 Magic      | Costs 1050gp/plank         |
+| Recharge glory                |       89 Magic      | Recharges 25 items/cast    |
+| Recharge combat bracelet      |       89 Magic      | Recharges 25 items/cast    |
+| Recharge skills necklace      |       89 Magic      | Recharges 25 items/cast    |
+| Superglass make giant seaweed | 77 Magic + 61 Craft | Makes 29 molten glass/cast |
+| Superglass make seaweed       | 77 Magic + 61 Craft | Makes 17 molten glass/cast |
+| Superglass make soda ash      | 77 Magic + 61 Craft | Makes 17 molten glass/cast |
+
+### Enchanting
+
+Much like casting, enchanting jewellery or bolts is another viable method to train magic. You can enchant all the same jewellery as OSRS, however, most enchanted jewellery has no use at this stage. Use `+enchant --items` to view all enchantable items.
+
+**Note:** 10 bolts are enchanted per cast.
+
+To enchant any jewellery or bolts, use the `+enchant` command.
+
+* E.g. `+enchant 100 emerald ring / +enchant 5 onyx bolts`
+
+|               |                    |                          |                     |
+| ------------- | ------------------ | :----------------------: | :-----------------: |
+| **Jewellery** | **Level Required** |         **Bolts**        | **Levels Required** |
+| Opal          | 7                  |        Opal bolts        |          4          |
+| Sapphire      | 7                  |      Sapphire bolts      |          7          |
+| Jade          | 27                 |        Pearl bolts       |          24         |
+| Emerald       | 27                 |       Emerald bolts      |          27         |
+| Topaz         | 49                 |        Topaz bolts       |          29         |
+| Ruby          | 49                 |        Ruby bolts        |          49         |
+| Diamond       | 57                 |       Diamond bolts      |          57         |
+| Dragonstone   | 68                 |     Dragonstone bolts    |          68         |
+| Onyx          | 87                 |        Onyx bolts        |          87         |
+| Zenyte        | 93                 |     **Dragon Bolts**     |                     |
+|               |                    |     Opal dragon bolts    |          4          |
+|               |                    |   Sapphire dragon bolts  |          7          |
+|               |                    |     Jade dragon bolts    |          14         |
+|               |                    |    Pearl dragon bolts    |          24         |
+|               |                    |   Emerald dragon bolts   |          27         |
+|               |                    |    Topas dragon bolts    |          49         |
+|               |                    |     Ruby dragon bolts    |          49         |
+|               |                    |   Diamond dragon bolts   |          57         |
+|               |                    | Dragonstone dragon bolts |          68         |
+|               |                    |     Onyx dragon bolts    |          87         |
+
+* To view what each piece of jewellery turns into, visit the [OSRS Enchanting Spells](https://oldschool.runescape.wiki/w/Enchantment\_spells#Enchanted\_gold\_and\_silver\_jewellery) wiki page.
+
+### Agility Alching
+
+Another non-combat method is to cast high alchemy when running laps of agility. This can be especially handy to ironmen or if you want to maximise your time spent while training agility. You can read more about this method on the [Agility Alching](https://wiki.oldschool.gg/skills/agility/agility-alching) page.
 

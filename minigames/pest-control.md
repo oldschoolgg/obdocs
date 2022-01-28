@@ -4,8 +4,6 @@ Pest control is a minigame in which you can acquire commendation points to spend
 
 To start a game, use: `+pc start quantity` (quantity is optional).
 
-Your minion will automatically use the highest boat it can, and always uses Melee.
-
 ### Requirements
 
 * Combat Level 40 (Novice Boat)
@@ -15,12 +13,16 @@ Your minion will automatically use the highest boat it can, and always uses Mele
 * Combat Level 100 (Veteran Boat)
   * 5 points per game
 
-### Boosts
+**Note:** Your minion will automatically use the highest boat it can.
 
-* 12% boost for Abyssal Whip/Tentacle
-* 6% boost for Fire Cape/Infernal Cape
-* 5% boost for Amulet of Fury/Torture
-* 4% boost for Barrows/Ferocious Gloves
+### Boosts&#x20;
+
+These items must be equipped in your melee gear setup for the boosts to apply.
+
+* 12% boost for Abyssal whip/tentacle OR 5% for Dragon claws
+* 6% boost for Fire cape/Infernal cape
+* 5% boost for Amulet of fury/torture
+* 4% boost for Barrows/Ferocious gloves
 
 ### Rewards (Equipment)
 
@@ -46,6 +48,6 @@ Your minion will automatically use the highest boat it can, and always uses Mele
 ### Rewards (XP)
 
 * You can also spend your points on XP, exactly the same as in OSRS. However, you do not receive the extra XP when buying bulk amounts.
-* E.g. `+pc xp attack 10`
+* E.g. `+pc xp attack 100`
 
 ![](../.gitbook/assets/Pest\_control\_XP\_rates.png)
