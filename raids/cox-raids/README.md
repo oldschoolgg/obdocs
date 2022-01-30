@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/cox.jpg
-coverY: 0
+coverY: 21.65841584158416
 ---
 
 # Chambers of Xeric (CoX)
