@@ -22,7 +22,7 @@ These quantities scale based off KC, Challenge Mode and Mass/Solo, excluding the
 
 ### Finding a Raid Team
 
-In the [support discord server](htp://invite.oldschool.gg) you will find dedicated channels for Chambers of Xeric.
+In the [support discord server](http://invite.oldschool.gg) you will find dedicated channels for Chambers of Xeric.
 
 For chatting, asking for help with your gear score you can talk in [`#raids-general`](https://discord.com/channels/342983479501389826/835879359805653002).
 
