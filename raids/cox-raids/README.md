@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/cox.jpg
+coverY: 0
+---
+
 # Chambers of Xeric (CoX)
 
 ### Requirements
