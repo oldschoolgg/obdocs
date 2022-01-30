@@ -1,37 +1,57 @@
 # Chambers of Xeric (CoX)
 
-Welcome to **The Chambers of Xeric**. __&#x20;
+### Requirements
 
-The raids are tough but can give you some highly sought after and valuable rewards, such as the Twisted Bow or even the Metamorphic Dust.
+* 80+ Attack/Strength/Defence/Ranged/Magic
+* 70+ Prayer
+* Saradomin Brew(4), Super Restore (4), Stamina Potion(4)
+* In a mass, atleast one user needs 55 Farming and 78 Herblore. (If solo, you need these too)
 
-### **Requirements**&#x20;
+It is highly recommended that you have the best possible Melee, Range and Mage gear you can and to equip them in their respective setups.  You can still participate with less than the 'best-in-slot' gear but you will receive less points, increase raid time and increase death chance.
 
-Base 80 Combat stats and 70 Prayer. 55 Farming and 78 Herblore are also required if you intend to do solos, if you only intend to mass for your kills, as long as a member of your party meets those requirements you will not need to have them.
+### Potion Usage
 
-It is highly recommended that you have the best possible Melee, Range and Mage gear you can acquire and to equip them in their respective setups.  You can still participate with less than the best gear but you will be more likely to receive less points than somebody with max gear as well as making your times slower the worse your gear is. &#x20;
+When you are first starting out you will be using 7x Saradomin Brew(4), 4x Super Restore(4) and 1x Stamina Potion(4) per mass.
 
-Make sure to have your stamina potions, saradomin brews and super restores ready as you will need them.  When you are first starting out you will be using 7 saradomin brews, 4 super restores and 1 stamina potion per mass, these numbers will be decreasing as your KC gets higher, excluding the stamina potion. For solos you will start out using the same amount of brews and restores but will now also be using 2 stamina's per raid.
+These quantities scale based off KC, Challenge Mode and Mass/Solo, excluding the stamina potion. In Solos you will use one extra Stamina Potion(4).
 
 ### Finding a Raid Team
 
-Within the discord you will find dedicated channels where you can talk, do normal raids or do cm raids.  For chatting, asking for help with your gear score you can talk in `#raids-general`, for challenge mode raids, solo or mass its recommended that you use `#raids-mass-cm` _****_ and for regular raids its recommended that you use `#raids-mass-regular.` Please keep in mind that these are just recommendations, you are not restricted to these channels in order to participate in raiding, it is only recommended as finding a group would be much easier. &#x20;
+In the [support discord server](htp://invite.oldschool.gg) you will find dedicated channels for Chambers of Xeric.
+
+For chatting, asking for help with your gear score you can talk in [`#raids-general`](https://discord.com/channels/342983479501389826/835879359805653002).
+
+For Challenge Mode chambers, solo or mass, it's recommended that you use [`#raids-mass-cm`](https://discord.com/channels/342983479501389826/835879528513142794).
+
+For regular chambers it's recommended that you use [`#raids-mass-regular`.](https://discord.com/channels/342983479501389826/835879317418278963)
+
+Please keep in mind that these are just recommendations, you are not restricted to these channels in order to participate in raiding, it is only recommended as finding a group would be much easier.  You can raid in your own discord servers if you would like to.
 
 ### Getting Started
 
-There are a few things that need to be prefaced before you get started.  To view your KC, unique's, points per unique and how many total points you've gotten you will be using the command `+raid.`  From there you can either solo a raid which will require you to be at least 50 kc or you can mass a raid which you can do at 1 kc.  For this you will be doing `+raid solo` for normal's,  and to mass a raid you will be doing `+raid mass` for normal's.  In order to start a mass your team must have at least 2 people and will automatically start at 15, among the members of that mass at least one person must have 55 farming and 78 herblore or the mass will not start. &#x20;
+There are a few things that need to be prefaced before you get started.\
+You can view current stats about your minion and it's raiding abilities with the `+raid` command.&#x20;
 
-### Scaling
+Starting a Chambers of Xeric raid also uses this command, for masses use `+raid mass`, and solos `+raid solo`.
 
-You will find that raids will get significantly faster based on how many KC your team has as a whole, the amount of members in the raid, and the gear scores of each member in your raid.
+Solo Chambers of Xeric requires 50 KC, so the first 50 must be done within a mass raid, a mass requires minimum of 2 users and has a maximum capacity of 15.
+
+Remember that one user will need 55 Farming and 78 Herblore for the mass!
+
+See [here](cox-gear-setups.md) for recommended gear setups for the Chambers of Xeric.
 
 ### Boosts
 
 There are certain items that give a hidden boost to speed that do not need to be equipped and will work from your bank. Only your best item from each of the 4 categories will be applied.
 
-* **Ranged Weapons**: Twisted bow (8%), OR Bow of faerdhinen (6%), OR Dragon hunter crossbow (5%)
-* **Melee Weapons:** Dragon hunter lance (3%), OR Abyssal tentacle (2%)**\***
-* **Mage Weapons:** Sanguinesti staff (6%)**\*\***
-* **Other:** Dragon warhammer (3%), OR Bandos godsword (2.5%)
+Specific items will give a hidden speed boost to your raids, they **DO NOT** need to be equipped and the affect will apply from your bank.
+
+The item with the highest boost that you currently own from each line will be applied.
+
+* Twisted bow (8%), **OR** Bow of Faerdhinen (6%), **OR** Dragon Hunter Crossbow (5%)
+* Dragon Hunter Lance (3%), **OR** Abyssal tentacle (2%)**\***
+* Sanguinesti Staff (6%)**\*\***
+* Dragon Warhammer (3%), **OR** Bandos Godsword (2.5%)
 
 **\*** - Requires at least 200 charges for boost to apply.
 
@@ -39,7 +59,16 @@ There are certain items that give a hidden boost to speed that do not need to be
 
 ### Loot
 
-You get all the same items you do as in game.  Ranging from Dark Relics to Torn prayer scrolls to every unique offered including each variation of pet that would normally only be obtainable through using a Metamorphic dust on your Olmlet to change its form.  These unique pets are only obtainable from Challenge Mode raids after you have received the Metamorphic Dust.  If someone in your raid gets a purple (unique, valuable reward), the loot message will be spoilered and will be signified that a valuable drop has been received with a purple square in front of the spoiler message and announced in the `#notifications` channel (not including prayer scrolls).  It is possible to die in your raid and will decrease your points and by effect decreasing your chance to receive a drop slightly, deaths being marked by a skull, the more skulls, the more deaths
+All the same loot as from Old School RuneScape are available on Old School Bot.&#x20;
 
-Disclaimer: At early KC's you are very likely to have sub 1k points and 2 or more deaths as your minion is not very experienced at raids and does not know what to do.
+Unique Chambers of Xeric (regular) loot can be viewed [here](https://oldschool.runescape.wiki/w/Chambers\_of\_Xeric#Unique\_drop\_table)
+
+See below for unique Chambers of Xeric (Challenge Mode) loot.
+
+* Metamorphic dust - 1/400
+* Twisted ancestral colour kit - 1/75
+
+Note: You can receive the Challenge Mode 'Dusted' metamorphic pets too, you just need 1x Metamorphic dust in your collection log and then they are dropped at a 1/50 rate from challenge mode Chambers of Xeric raids. (You **DO NOT** need an Olmlet!)
+
+If you or another user of your raid gets a unique, you will see a purple square next to the spoiler and the loot (excluding prayer scrolls) is recorded in the [#notifications](https://discord.com/channels/342983479501389826/469523207691436042) channel in the [discord support server](http://invite.oldschool.gg).
 
