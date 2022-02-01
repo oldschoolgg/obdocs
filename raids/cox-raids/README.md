@@ -47,8 +47,6 @@ See [here](cox-gear-setups.md) for recommended gear setups for the Chambers of X
 
 ### Boosts
 
-There are certain items that give a hidden boost to speed that do not need to be equipped and will work from your bank. Only your best item from each of the 4 categories will be applied.
-
 Specific items will give a hidden speed boost to your raids, they **DO NOT** need to be equipped and the affect will apply from your bank.
 
 The item with the highest boost that you currently own from each line will be applied.
