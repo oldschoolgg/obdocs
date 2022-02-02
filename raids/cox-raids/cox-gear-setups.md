@@ -19,9 +19,11 @@ If you are below 50% of the reference strength bonus, (75) your gear score is ha
 
 ### Alternative Setups
 
-![](<../../.gitbook/assets/coxmeleemaul (1).png>)
+![](https://media.discordapp.net/attachments/847902471271874580/938138879985352744/osbot-8.png)
 
-An Elder Maul is required to reach 100% without full Inquisitor's Armor & Mace
+![](https://media.discordapp.net/attachments/847902471271874580/938138182782947348/osbot-7.png)
+
+An alternative way to get 100% with an Elder Maul although you still require either a Inquisitor's Hauberk or Plateskirt.
 
 ![](<../../.gitbook/assets/coxmeleegs (1).png>)
 
