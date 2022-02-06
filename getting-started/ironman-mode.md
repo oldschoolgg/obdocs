@@ -28,33 +28,6 @@ Any leaderboard can be filtered to only show ironmen. This is done by adding `--
 * E.g. `+lb sacrifice --im`
 * E.g. `+drystreak corp, elysian sigil --im` (T3 patrons only)
 
-### Ironman Masses
+### Ironman Discord Server
 
-Ironmen can join masses just like any normal account would. This applies to:
-
-* CoX
-* ToB
-* Nightmare
-* Any minigame
-
-### Ironman Prices
-
-Some buyable items within the bot have an altered price for ironmen accounts. They are as follows:
-
-|                      |                   |                  |
-| -------------------- | :---------------: | :--------------: |
-| **Item Name**        | **Ironman Price** | **Normal Price** |
-| Feather              |         2         |        50        |
-| Fishing bait         |         3         |        20        |
-| Vial                 |         2         |        30        |
-| Vial of water        |         3         |        60        |
-| Eye of Newt          |         3         |        300       |
-| Broad arrows         |         60        |        250       |
-| Broad arrowheads     |         55        |        225       |
-| Broad arrowhead pack |       5,500       |      22,500      |
-| Dwarf multicannon    |      750,000      |    10,000,000    |
-| Cannon barrels       |      200,625      |     2,500,000    |
-| Cannon base          |      200,625      |     2,500,000    |
-| Cannon furnace       |      200,625      |     2,500,000    |
-| Cannon stand         |      200,625      |     2,500,000    |
-
+If you would like to join a discord server for Old School Bot ironmen please [click here](https://discord.gg/gGmd9znG3Y).
