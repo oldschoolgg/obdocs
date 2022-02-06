@@ -62,6 +62,14 @@ The item with the highest boost that you currently own from each line will be ap
 
 **\*\*** - Requires at least 150 charges for boost to apply.
 
+### Challenge Mode
+
+#### Requirements
+
+* 200 regular Chambers of Xeric kill count
+* Twisted bow **or** Dragon hunter crossbow **(masses)**
+* Twisted bow **(solos)**
+
 ### Loot
 
 All the same loot as from Old School RuneScape are available on Old School Bot.&#x20;

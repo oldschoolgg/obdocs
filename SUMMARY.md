@@ -29,7 +29,6 @@
 
 * [Chambers of Xeric (CoX)](raids/cox-raids/README.md)
   * [Gear Setups](raids/cox-raids/cox-gear-setups.md)
-  * [Challenge Mode](raids/cox-raids/challenge-mode.md)
 * [Theatre of Blood (ToB)](raids/theatre-of-blood/README.md)
   * [TOB - Hard Mode](raids/theatre-of-blood/tob-hard-mode.md)
   * [ToB - Theory](raids/theatre-of-blood/tob-theory.md)
