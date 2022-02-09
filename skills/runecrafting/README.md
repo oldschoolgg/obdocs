@@ -2,6 +2,19 @@
 
 You can train Runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.
 
+### Boosts
+
+There are several boosts available which apply to all runes except blood and soul runes. You can view the boosts for blood and soul runes on the [Dark Altar page](https://wiki.oldschool.gg/skills/runecrafting/dark-altar).
+
+* 5% for 60+ Agility **OR** 10% for 90+ Agility
+* 10% for Graceful (equipped in any setup)
+* 1% for Ring of endurance (both versions work and it can be equipped or in bank)
+* 3% for Runecrafting cape
+
+**Note:** You can also use the `--ns` filter to send your minion runecrafting without using stamina potions. However, you will runecraft 3x slower than usual.
+
+### Pouches
+
 You can create Runecrafting pouches using `+create`, they require different crafting levels based on the tier, as well as leather. Similarly to in-game, higher tier pouches also require higher Runecrafting levels to use. These boost the amount of essence you can carry in 1 inventory, increasing XP/Hr.
 
 | **Pouch**    | **Crafting lvl. Required** | **Rc'ing Lvl Required** | **Leather Required** |
