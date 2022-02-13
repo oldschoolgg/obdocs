@@ -59,7 +59,7 @@ The highest attack boost you can obtain is 25%. The maximum style bonuses are li
 
 ## Boosts
 
-* 35% boost for equipping a charged wildy weapon (**can be equipped in any setup**)
+* 35% boost for equipping a charged wildy weapon (**must be equipped in wildy setup**)
 
 ## Uniques
 
@@ -80,7 +80,7 @@ These weapons can be charged which will provide boosts at revs themselves and ma
 
 #### **Ancient Items** ![](<../.gitbook/assets/Ancient emblem.png>) ![](<../.gitbook/assets/Ancient totem.png>) ![](<../.gitbook/assets/Ancient statuette.png>) ![](<../.gitbook/assets/Ancient medallion.png>) ![](<../.gitbook/assets/Ancient effigy.png>) ![](<../.gitbook/assets/Ancient relic.png>)
 
-You can sell the ancient items for the same value as in OSRS. Use the `+revs sell` command.
+You can sell the ancient items for the same value as in OSRS. Use the `+revs sell` command. This can't be done if your minion is busy.
 
 * E.g. `+revs sell ancient relic`
 
