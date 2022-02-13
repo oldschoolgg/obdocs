@@ -1,6 +1,6 @@
 # Fountain of Rune
 
-You can use the Fountain of Rune to charge Rings of wealth and Amulets of glory. Be aware that there is a small chance of getting pked (approx. 1/9) which will result in a loss of an invent of wealths/glories per death.
+You can use the Fountain of Rune to charge Rings of wealth and Amulets of glory. Be aware that there is a small chance of getting pked (approximately 1/9 chance) which will result in a loss of an invent of wealths/glories per death. You will not lose any gear in any setup from this.
 
 To charge at the Fountain of Rune, use the following command:
 
@@ -11,13 +11,14 @@ To charge at the Fountain of Rune, use the following command:
 
 ### Charging Wealths
 
-* Ring of wealth (5) are required for making the Ornate jewellery box in your PoH.
+* Ring of wealth (5) are required to make the Ornate jewellery box in your POH.
 * This is currently the only method to obtain charged Rings of wealth.
 
 ### Charging Glories
 
-* Amulet of glory (6) are only used in the [Gnome Restaurant](https://wiki.oldschool.gg/minigames/gnome-restaurant) minigame.
-* There are currently no other methods to remove the charges from your glory.
+* Amulet of glory(6) are only used in the [Gnome Restaurant](https://wiki.oldschool.gg/minigames/gnome-restaurant) minigame.
+* Gnome Restaurant is currently the only way to remove charges from a glory.
+* If you want to create Amulet of glory(4), use the `+cast` command. However, these are not used in Gnome restaurant and are only used to create the Ornate jewelley box in your POH.
 
 ### Amulet of Eternal Glory
 
@@ -25,7 +26,7 @@ To charge at the Fountain of Rune, use the following command:
 * Possessing the stats for the Wilderness elite diary provides a 3x speed boost.
   * It is **not recommended** to charge glories unless you have this unlocked.
 * Currently, the only use of the Eternal glory is at the [Gnome Restaurant](https://wiki.oldschool.gg/minigames/gnome-restaurant) minigame.
-* There are approximately 3 Amulets of eternal glory in the game (Jan 7th 2022).
+* There are approximately 5 Amulets of eternal glory in the game (Feb 13th 2022).
 
 
 
