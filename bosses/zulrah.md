@@ -40,10 +40,11 @@ Currently have no use. They CANNOT be added to serp helm (yet).
 
 ### Reverting
 
-It is possible to revert the following items into _20,000 zulrah scales_ using the `+revert` command.
+It is possible to revert the following items into _20,000 zulrah scales_ using the `/create` command.\
+`/create item: Revert tanzanite fang quantity: 1`
 
-* `+revert tanzanite fang`
-* `+revert toxic blowpipe (empty)`
-* `+revert magic fang`
-* `+revert serpentine visage`
-* `+revert serpentine helm (uncharged)`
+* `tanzanite fang`
+* `toxic blowpipe (empty)`
+* `magic fang`
+* `serpentine visage`
+* `serpentine helm (uncharged)`
