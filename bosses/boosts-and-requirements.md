@@ -386,11 +386,9 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 3% for ![](../.gitbook/assets/150px-Armadyl\_crossbow\_detail.png) Armadyl Crossbow **OR** 5% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic Blowpipe
 
-6% for ![](../.gitbook/assets/Saradomin\_godsword.png) Saradomin Godsword **OR** 10% for ![](../.gitbook/assets/Saradomin\_godsword.png) Dragon Claws
+6% for ![](../.gitbook/assets/Saradomin\_godsword.png) Saradomin Godsword **OR** 10% for ![](../.gitbook/assets/150px-Dragon\_claws\_detail.png) Dragon Claws
 
 10% for ![](../.gitbook/assets/Scythe\_of\_vitur.png) Scythe of Vitur **OR** 10% for ![](../.gitbook/assets/Scythe\_of\_vitur\_\(uncharged\).png) Scythe of Vitur (uncharged)
-
-_**Note**: The Scythe of Vitur is currently unobtainable on OSB._
 {% endtab %}
 
 {% tab title="Kraken" %}
@@ -408,7 +406,7 @@ _**Note**: The Scythe of Vitur is currently unobtainable on OSB._
 
 3% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued Heart
 
-_**Note**: Tridents cannot currently be manually charged and the Sanguinesti staff is currently unobtainable._
+_**Note**: Tridents cannot currently be manually charged._
 {% endtab %}
 
 {% tab title="Thermonuclear Smokedevil" %}
