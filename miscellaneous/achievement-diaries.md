@@ -7,11 +7,11 @@ If you meet the requirements of a Diary, you can claim the reward item and the X
 ## Commands
 
 * **Check your currently completed Diaries:**
-  * `+achievementdiary` / `+ad`
+  * `/minion achievementdiary`
 * **Check the requirements of a diary:**
-  * `+ad Falador`
+  * `/minion achievementdiary diary:Falador`
 * **Claim the rewards for a Diary:**
-  * `+ad claim Falador`
+  * `/minion achievementdiary claim:True diary:Falador`
 * **Use an XP lamp:**
   * `+lamp (quantity) antique lamp 1/2/3/4`
 * **Buy the achievement diary cape:**
