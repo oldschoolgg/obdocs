@@ -2,7 +2,7 @@
 
 The Gauntlet is a solo minigame which has some substantial requirements. When you start at both the normal and corrupted gauntlets, your chance of death within the minigame will be quite high. This can be reduced through minion learning (down to 6%).
 
-To begin a trip, use `+gauntlet normal/corrupted quantity` (quantity is optional).
+To begin a trip, use `/minigames gauntlet start`` `**`corrupted:`**`true` (the corrupted option may be left off if doing normal gauntlet).
 
 ### Requirements
 
@@ -35,7 +35,7 @@ The standard rewards from gauntlet can be obtained here such as Crystal shards a
 
 The only thing these can be made into is a Crystal halberd for ToB.
 
-* `+create crystal halberd`
+* `/create`` `**`item:`**`crystal halberd`
 
 #### Crystal armour seeds
 
@@ -45,10 +45,10 @@ Currently have no use except trading in for crystal shards.
 
 You need 82 crafting and smithing to create both the inactive and charged versions of the blade/bow. The charged bow provides boosts to bosses such as Sara, Arma, Zulrah, and CoX. The charged blade is used at ToB. Charged versions can be reverted back to inactive versions and inactive weapons can be reverted back to seeds (costs 250 crystal shards for the latter).
 
-* `+create blade of saeldor (inactive)` - Requires 100 shards&#x20;
-* `+create bow of faerdhinen (inactive)` - Requires 100 shards&#x20;
-* `+create blade of saeldor (c)` - Requires 1000 shards
-* `+create bow of faerdhinen (c)` - Requires 2000 shards
+* `/create`` `**`item:`**`blade of saeldor (inactive)` - Requires 100 shards&#x20;
+* `/create`` `**`item:`**`bow of faerdhinen (inactive)` - Requires 100 shards&#x20;
+* `/create`` `**`item:`**`blade of saeldor (c)` - Requires 1000 shards
+* `/create`` `**`item:`**`bow of faerdhinen (c)` - Requires 2000 shards
 
 **Note:** The _charged_ blade/bow are untradeable while the _inactive_ versions are tradeable.
 

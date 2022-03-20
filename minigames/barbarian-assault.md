@@ -2,10 +2,9 @@
 
 Challenge waves of penance monsters with a teammate to unlock the rewards from Barbarian Assault. BA in the bot works a bit differently than BA in OSRS as it was modified to be easier to find teams and earn points. There are no defined roles or role-specific honour levels, there aren't even specific waves. At random, one member of the team will be selected as the Fighter, and that member's melee strength bonus will provide an overall boost to your time spent per wave.
 
-To start a trip of BA, use one of the following commands:
+To start a trip of BA, use the following command:
 
-* `+ba start` - starts a mass
-* `+ba start solo` - starts a solo trip (-10% penalty to speed)
+* &#x20;`/minigames barb_assault start`
 
 ### Boosts
 
@@ -23,9 +22,9 @@ Your melee gear will provide a boost up to 12.5%. This boost is based on your mi
 
 ### **Honour Level**
 
-To spend your honour points to increase your honour level, use the below command.
+To spend your honour points to increase your honour level, use the following command:
 
-* `+ba level`
+* `/minigames barb_assault level`
 
 | **Level** | **Honour Point Cost** | **Honour Level Boost** |
 | --------- | :-------------------: | :--------------------: |

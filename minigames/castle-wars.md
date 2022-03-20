@@ -2,7 +2,7 @@
 
 Castle wars is played entirely solo. There are no requirements to play Castle Wars.
 
-To start a game, use `+castlewars play` or `+cw play`
+To start a game, use `/minigames castle_wars start`
 
 You will receive 1-3 tickets per game played.
 
@@ -12,9 +12,9 @@ You can buy all the same rewards in OSRS with the `+buy` command.
 
 E.g. `+buy red decorative body`
 
-It is possible to revert your reward items back into tickets with the `+revert` command.
+It is possible to revert your reward items back into tickets with the `/create` command.
 
-E.g. `+revert red decorative body`
+E.g. `/create`` `**`item:`**`revert red decorative body`
 
 |                            |                  |
 | -------------------------- | :--------------: |

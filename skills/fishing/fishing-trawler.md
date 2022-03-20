@@ -1,6 +1,6 @@
 # Fishing Trawler
 
-Your minion can partake in the fishing trawler mini game using `+fishingtrawler` or `+trawler`.&#x20;
+Your minion can partake in the fishing trawler mini game using `/minigames fishing_trawler start`&#x20;
 
 ### Boosts
 

@@ -2,7 +2,7 @@
 
 Pest control is a minigame in which you can acquire commendation points to spend on XP and the void knight armour.
 
-To start a game, use: `+pc start quantity` (quantity is optional).
+To start a game, use: `/minigames pest_control start`
 
 ### Requirements
 
@@ -26,8 +26,8 @@ These items must be equipped in your melee gear setup for the boosts to apply.
 
 ### Rewards (Equipment)
 
-* You can spend your Commendation Points with the `+pc buy` command.
-* E.g. `+pc buy void knight robe`
+* You can spend your Commendation Points with the following command.
+* E.g. `/minigames pest_control buy`` `**`name:`**`void knight robe`
 
 |                    |                |
 | ------------------ | :------------: |
@@ -48,6 +48,6 @@ These items must be equipped in your melee gear setup for the boosts to apply.
 ### Rewards (XP)
 
 * You can also spend your points on XP, exactly the same as in OSRS. However, you do not receive the extra XP when buying bulk amounts.
-* E.g. `+pc xp attack 100`
+* E.g. `/minigames pest_control xp`` `**`skill:`**`attack`` `**`amount:`**`100`
 
 ![](../.gitbook/assets/Pest\_control\_XP\_rates.png)

@@ -1,6 +1,6 @@
 # Rogues Den
 
-Complete laps of the maze using `+rd` for a chance to obtain pieces of the Rogues Outfit.&#x20;
+Complete laps of the maze using `/minigames rogues_den start` for a chance to obtain pieces of the Rogues Outfit.&#x20;
 
 It works a bit differently to in game, after your trip returns you'll receive loot with an equal chance at any of the 5 outfit pieces.
 

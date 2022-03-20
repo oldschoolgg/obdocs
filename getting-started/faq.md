@@ -82,13 +82,13 @@ Certain boosts will be displayed at the start of your minion's trip while others
 
 You get most items exactly the same as you get them in the real game, all monsters drop the same things as ingame.
 
-If it is a quest reward or thing you usually buy from a shop, you can get it by using `+buy`. Graceful can be obtained with 260 marks of grace and using the `+create graceful` command. If the item, like the graceful outfit, requires other items to be obtained, it will most often be obtained using the `+create` command. For example, to create an odium ward you would use the command `+create odium ward` which would consume the three odium shards in your bank and return a fully formed odium ward.
+If it is a quest reward or thing you usually buy from a shop, you can get it by using `+buy`. Graceful can be obtained with 260 marks of grace and using the `/create`` `**`item:`**`graceful` command. If the item, like the graceful outfit, requires other items to be obtained, it will most often be obtained using the `/create` command. For example, to create an odium ward you would use the command `/create`` `**`item:`**`odium ward` which would consume the three odium shards in your bank and return a fully formed odium ward.
 
 Note that not all items are currently obtainable via either of these two methods.
 
 **How do I create a godsword?**
 
-Example: `+create Bandos godsword` - note it requires you have the required Smithing level. You can pay another player to make it for you in the [support server.](https://www.discord.gg/ob), if you wish.
+Example: `/create`` `**`item:`**`Bandos godsword` - note it requires you have the required Smithing level. You can pay another player to make it for you in the [support server.](https://www.discord.gg/ob), if you wish.
 
 **Can I charge my items from Zulrah?**
 
@@ -100,7 +100,7 @@ The various gloves require quest points and gp to buy. Barrows gloves require 17
 
 **How do I get Runecrafting pouches?**
 
-There are 4 pouches, and the bot does it a bit differently to ingame. To obtain them, you first need the Crafting level required for each tier (1, 10, 20, 30), and then a little bit of leather, and simply `+create medium pouch`.
+There are 4 pouches, and the bot does it a bit differently to ingame. To obtain them, you first need the Crafting level required for each tier (1, 10, 20, 30), and then a little bit of leather, and simply `/create`` `**`item:`**`medium pouch`.
 
 **Can I pay a fee to have the bot make my Dragonfire Ward/Shield or Spectral/Arcane/Elysian/Blessed Spirit Shield for me?**
 
@@ -124,7 +124,7 @@ First, mention the bot (like this: `@Old School Bot`), and it will tell you what
 
 **How do I create a Barrows set, or deconstruct a Barrows set into the items?**
 
-Here's an example: `+create dharoks armour set` to turn items into a set, or `+unpack dharoks armour set` to turn the set back into the items.
+Here's an example: `/create`` `**`item:`**`dharoks armour set` to turn items into a set, or `/create`` `**`item:`**`unpack dharoks armour set` to turn the set back into the items.
 
 **The bot says it needs permission to ‘Manage messages’ in order to use a command. How do I do this?**
 

@@ -2,7 +2,7 @@
 
 Mahogany Homes is the construction minigame and it provides more xp per plank as well as some rewards which will improve your construction experience.&#x20;
 
-To start a contract, use the `+mh build` command.
+To start a contract, use the `/minigames mahogany_homes start` command.
 
 Your minion will automatically complete the highest level contract.
 
@@ -29,9 +29,9 @@ All contracts use a random amount of steel bars and planks, scaled to the amount
 
 ### **Mahogany Homes Buyables**
 
-You can buy the following items with the `+mh buy` command.
+You can buy the following items with the `/minigames mahogany_homes buy` command.
 
-E.g. `+mh buy builders supply crate`
+E.g. `/minigames mahogany_homes buy`` `**`name:`**`builders supply crate`
 
 * The full carpenter's outfit provides a 2.5% boost to construction XP.
 

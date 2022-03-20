@@ -4,7 +4,7 @@ You can challenge the thieving minigame Pyramid Plunder for good, high level thi
 
 To start a trip of Pyramid Plunder, simply type:
 
-* `+plunder`
+* `/minigames pyramid_plunder start`
 
 ### Requirements
 

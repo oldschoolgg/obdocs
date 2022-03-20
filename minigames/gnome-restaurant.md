@@ -2,7 +2,7 @@
 
 Gnome Restaurant is a solo minigame in which you can gain some fancy collectibles by delivering presents around the map. It's a fairly slow minigame, so, it is recommended that you have some of the boosts which will make things much smoother.
 
-To start the minigame, use `+gnomerestaurant`
+To start the minigame, use `/minigames gnome_restaurant start`
 
 ### Requirements
 

@@ -8,7 +8,7 @@ Upon completion of a single mage arena trip, you will receive all 3 regular god 
 
 To send your minion on a trip to collect the regular god capes use the following command:
 
-* `+magearena`
+* `/minigames mage_arena start`
 
 ### Requirements
 
@@ -24,7 +24,7 @@ The second installment is not as easy as the first and can take multiple attempt
 
 To send your minion on a trip to collect the imbued god capes use the following command:
 
-* `+ma2`
+* `/minigames mage_arena_2 start`
 
 ### Requirements
 

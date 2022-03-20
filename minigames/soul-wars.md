@@ -4,16 +4,15 @@ Soul wars is primarily played to gain zeal points in order to imbue items such a
 
 You can start a game of Soul wars by typing:
 
-* `+sw solo`  - starts a solo game
-* `+sw mass` - starts a mass
+* `/minigames soul_wars start`
 
-**Note:** To check how many points you have, just type: `+sw`
+**Note:** To check how many points you have, type: `/minigames soul_wars tokens`
 
 ### Buyables
 
-To buy the following items, use the `+sw buy` command. The pet is obtainable from Spoils of war.
+To buy the following items, use the command below. The pet is obtainable from Spoils of war.
 
-* E.g. `+sw buy red soul cape`
+* E.g. `/minigames soul_wars buy`` `**`name:`**`red soul cape`
 
 | **Item**       | **Zeal tokens** |
 | -------------- | --------------- |
@@ -24,9 +23,9 @@ To buy the following items, use the `+sw buy` command. The pet is obtainable fro
 
 ### Imbueables
 
-To imbue the following items, use the `+sw imbue` command.
+To imbue the following items, use the command below.
 
-* E.g. `+sw imbue hydra slayer helmet`
+* E.g. `/minigames soul_wars imbue`` `**`name:`**`hydra slayer helmet`
 
 | **Item**                | **Zeal Tokens** |
 | ----------------------- | --------------- |

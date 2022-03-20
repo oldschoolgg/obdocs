@@ -67,16 +67,16 @@ The highest attack boost you can obtain is 25%. The maximum style bonuses are li
 
 Bracelets of ethereum can be charged (requires 2000 ether) but offers no benefit in the bot at this stage. You can also turn bracelets into ether which yields 250 ether per bracelet.
 
-* `+create bracelet of ethereum`
-* `+create revenant ether`
+* `/create`` `**`item:`**`bracelet of ethereum`
+* `/create`` `**`item:`**`revenant ether`
 
 #### **Wildy Weapons** ![](<../.gitbook/assets/Viggora's chainmace.png>) **** ![](<../.gitbook/assets/Craw's bow.png>) ![](<../.gitbook/assets/Thammaron's sceptre.png>)
 
 These weapons can be charged which will provide boosts at revs themselves and many other wildy bosses. It costs 7000 ether to charge a wildy weapon. To check the boosts which these items give, please visit the [Boosts & Requirements page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)
 
-* `+create viggora's chainmace`
-* `+create craw's bow`
-* `+create thammaron's sceptre`
+* `/create`` `**`item:`**`viggora's chainmace`
+* `/create`` `**`item:`**`craw's bow`
+* `/create`` `**`item:`**`thammaron's sceptre`
 
 #### **Ancient Items** ![](<../.gitbook/assets/Ancient emblem.png>) ![](<../.gitbook/assets/Ancient totem.png>) ![](<../.gitbook/assets/Ancient statuette.png>) ![](<../.gitbook/assets/Ancient medallion.png>) ![](<../.gitbook/assets/Ancient effigy.png>) ![](<../.gitbook/assets/Ancient relic.png>)
 
