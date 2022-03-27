@@ -16,14 +16,15 @@
 ## Bosses
 
 * [Boosts & Requirements](bosses/boosts-and-requirements.md)
-* [The Nightmare](bosses/nightmare-of-ashihama/README.md)
-  * [Phosani's Nightmare](bosses/nightmare-of-ashihama/phosanis-nightmare.md)
 * [Fight Caves](bosses/fight-caves/README.md)
   * [Tokkul Shop](bosses/fight-caves/tokkul-shop.md)
-* [Inferno](bosses/inferno.md)
-* [Zulrah](bosses/zulrah.md)
 * [Giant Mole](bosses/giant-mole.md)
+* [Inferno](bosses/inferno.md)
+* [Nex](bosses/nex.md)
+* [The Nightmare](bosses/nightmare-of-ashihama/README.md)
+  * [Phosani's Nightmare](bosses/nightmare-of-ashihama/phosanis-nightmare.md)
 * [Revenants](bosses/revenants.md)
+* [Zulrah](bosses/zulrah.md)
 
 ## Raids
 
