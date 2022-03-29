@@ -11,7 +11,7 @@ To start a round of Tears of Guthix, type `/minigames tears_of_guthix start`&#x2
 * 20 Crafting
 * 20 Mining
 
-**Additional ironmen requirements:**
+**Ironmen also require ONE of the following:**
 
 * 49 Smithing (Ironman only)
 * 36 Thieving (Ironman only)
