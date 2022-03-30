@@ -32,11 +32,11 @@ This setup will give a gear score of 99.7%, as it has slightly less slash attack
 ## Range
 
 Your range gear score is based on your range attack bonus, your defensive bonuses, your ranged and melee strength, and your prayer bonus.\
-If you are below 50% of the reference gear's range strength (43.5), your gear score is halved.
+If you are below 50% of the reference gear's range strength (44.5), your gear score is halved.
 
 ### Reference Setup
 
-![](../../.gitbook/assets/coxrangereference.png)
+![](<../../.gitbook/assets/coxrange (1).png>)
 
 ### Alternative Setup
 
