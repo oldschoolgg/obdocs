@@ -655,7 +655,7 @@ None\
 
 16% for ![](../.gitbook/assets/Salve\_amulet\(i\).png) Salve Amulet (i) **OR** 20% for ![](../.gitbook/assets/Salve\_amulet\(ei\).png) Salve Amulet (ei)
 
-8% for ![](../.gitbook/assets/150px-Dragon\_claws\_detail.png) Dragon Claws **OR** 13% for![](../.gitbook/assets/130px-Bandos\_godsword\_detail.png)Bandos Godsword **OR** 13% for![](<../.gitbook/assets/120px-Dragon\_warhammer\_detail (1).png>)Dragon Warhammer
+8% for ![](../.gitbook/assets/150px-Dragon\_claws\_detail.png) Dragon Claws **OR** 13% for![](../.gitbook/assets/130px-Bandos\_godsword\_detail.png)Bandos Godsword **OR** 13% for![](<../.gitbook/assets/120px-Dragon\_warhammer\_detail (1).png>)Dragon Warhammer **OR 18%** for ![](../.gitbook/assets/zcb.png) Zaryte Crossbow
 {% endtab %}
 
 {% tab title="Zulrah" %}
