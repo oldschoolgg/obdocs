@@ -36,7 +36,7 @@ If you are below 50% of the reference gear's range strength (44.5), your gear sc
 
 ### Reference Setup
 
-![](<../../.gitbook/assets/coxrange (1).png>)
+![](<../../.gitbook/assets/coxrange (1) (1).png>)
 
 ### Alternative Setup
 

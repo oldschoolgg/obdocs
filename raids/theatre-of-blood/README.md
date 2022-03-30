@@ -30,11 +30,11 @@ You can see your KC, attempts and death chances using `+tob`
 
 This is the best-in-slot gear you can wear - only needed until you reach 95.3% boost score.
 
-![TOB BiS Melee Gear](<../../.gitbook/assets/osbot (3) (1).png>)
+![ToB Best-in-slot Melee Gear](../../.gitbook/assets/torvatob.png)
 
-![TOB BiS Range Gear](<../../.gitbook/assets/osbot (2).png>)
+![ToB Best-in-slot Range Gear](../../.gitbook/assets/tobrange.png)
 
-![TOB BiS Mage Gear](<../../.gitbook/assets/osbot (3).png>)
+![ToB Best-in-slot Mage Gear](<../../.gitbook/assets/osbot (3).png>)
 
 ## Boosts
 
