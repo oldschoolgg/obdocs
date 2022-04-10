@@ -11,7 +11,7 @@ To become an Ironman, use either of the following:
 
 The obvious difference between permanent and non-permanent is that you can de-iron if you are not permanent. However, you CANNOT de-iron if you already have a main account.
 
-The sacrifice cost for trip length extensions is halved for ironmen, giving the maximum 1 minute increase with only 5b sacrificed.
+The sacrifice cost for trip length extensions is halved for ironmen, giving the maximum 1 minute increase with only 5b sacrificed. For more info on sacrificing items, please [visit here](https://wiki.oldschool.gg/#minion-icons).
 
 ### Permanent Ironman Perks
 

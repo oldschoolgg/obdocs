@@ -32,12 +32,12 @@ You can sacrifice items, and their GP value will go towards you unlocking new mi
 
 You can sacrifice items by using: `+sacrifice [quantity] <item>` (quantity is optional)
 
-* E.g. `+sacrifice Bandos chestplate`
+* E.g. `+sacrifice bandos chestplate`
 * E.g. `+sacrifice 1000 gold ore`
 
-Or you can sacrifice GP directly by using: `+sacrificegp [quantity]`
+Or you can sacrifice GP directly by using: `+sacrifice [quantity] coins`
 
-* E.g. `+sacrificegp 100m`
+* E.g. `+sacrifice 100m coins`
 
 You receive a 15 second bonus to your maximum trip length for every 2.5b gp you sacrifice. This scales up to a 1 minute increase when you've sacrificed a total of 10b gp. This scaling is halved for ironmen, only requiring 5b gp to get the 1 minute increase.
 
