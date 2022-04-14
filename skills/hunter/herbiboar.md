@@ -2,7 +2,9 @@
 
 Herbiboar is a hunter activity where you can gain decent hunter xp and a handful of herbs.
 
-To start Herbiboar, use: `+hunt herbi` or `+hunt (quantity) herbi`
+To start Herbiboar, use:
+
+* `+hunt herbi` or `+hunt (quantity) herbi`
 
 3x Stamina Potion (4) will be consumed automatically if you have them banked. To avoid consuming them, use the `--ns` filter.
 

@@ -2,42 +2,123 @@
 
 ## Overview
 
-From copper longtails to black chinchompas, use the hunter skill to track, trap, and catch a variety of critters. Though they're animals, they aren't stupid, and it will take some time to learn the most efficient ways to `+hunt` them, with a 10% maximum boost after 50 hours at a given creature. For a full list of creatures, you can use the `+hunt --creatures` command. Each creature also has a `+lb creatures` so you can see how you stack up against your fellow players. For example, to see the top black chinchompa hunters in OSB, you can `+lb creatures black chinchompa`. Make sure to have a set of graceful equipped in your skilling setup, as it provides boosts for certain creatures. Stamina potion \(4\)s will aid you in hunting the Herbiboar as well, and if you ever lack the level requirement for a creature, you can use the `--potion` flag to use hunter potion \(4\)s to boost if you have them.
+From copper longtails to black chinchompas, use the hunter skill to track, trap, and catch a variety of critters. Though they're animals, they aren't stupid, and it will take some time to learn the most efficient ways to hunt them. For a full list of creatures, you can use the `+hunt --creatures` command.
 
-### Wilderness
+To start any hunter trip, use `+hunt [quantity] [creature]` - (quantity is optional)
 
-A warning, black chin and black salamander hunting is dangerous! These wilderness creatures will put you in the path of virtual PKers, who may attack you, causing you to lose potions, catch chances, or even your minion's gear! A failed PK attempt will see you lose some saradomin brews and super restores, as well as lose some of your maximum catch chances. If the PKer kills you, you will lose some of the creatures you were catching, pots, as well as the body and leg slot items in your misc gear setup. While those two items are risked, their defensive stats also help you escape PKers, so it may be worth the risk.
+* `+hunt black chinchompa`
+* `+hunt 50 sabre-toothed kebbit`
+* `+hunt 100 red chinchompa --potion`
 
-Beyond the standard `+hunt` command, there are two additional forms of hunter: aerial fishing and birdhouses. Aerial fishing gives both fishing and hunter experience, as well as a rare chance at molch pears that you can use to purchase various skilling items. Rates improve with higher hunter and fishing levels as new `+aerialfish` targets are unlocked. Birdhouses are a passive way to earn hunter xp, and also provide bird nests which are useful for training herblore. Birdhouse runs need birdhouses, which can be crafted, and seeds to use as bait. To do a birdhouse run, use the `+birdhouse run` command followed by the type of birdhouse you want to use \(e.g. maple birdhouse\). To check the status of your birdhouses you can use the `+birdhouse check` command.
+**Note:** `--potion` allows the use of hunter potions on your trip. See Boosts for more info.
 
-**Creatable hunter gear**
+Each creature also has a leaderboard so you can see how you stack up against your fellow players. For example, to see the top black chinchompa hunters in OSB, you can `+lb creatures black chinchompa`.
 
-You can create hunter gear with the `+create` command - i.e. `+create woodland camouflage gear`  
-This serves no purpose other than to fill `+cl hunter gear` and be used as warm clothing.
+## Boosts
 
-| Set name |
-| :--- |
-| Polar camouflage gear |
-| Woodland camouflage gear |
-| Jungle camouflage gear |
-| Desert camouflage gear |
-| Larupia hunter gear |
-| Graahk hunter gear |
-| Kyatt hunter gear |
-| Spotted cape |
-| Spottier cape |
-| Gloves of silence |
+These boosts apply to all hunter creatures, except birdhouses, herbiboar, and passive implings.
 
-**Aerial Fishing Buyables**
+* 5% for full graceful equipped in _skilling setup_
+* Up to 10% for creature hunting experience (1 hour of hunting = 1%)
+  * Up to 20% if the creature is hunted via [Tracking techniques](https://oldschool.runescape.wiki/w/Tracking)
+* Hunter potions provide a +2 level boost during your trip
+  * This allows you to catch creatures above your current level and use an extra trap if the boost brings your level to the next 20-level threshold (20, 40, 60, 80).
+  * They are created with 1 Avantoe potion (unf) & 1 Kebbit teeth dust.
+  * The potions _must_ be 4-dose, so use `+decant hunter potion` before starting.
 
-| **Item** | **Molch pearl cost** |
-| :--- | :---: |
-| Angler hat | 100 |
-| Angler top | 100 |
-| Angler waders | 100 |
-| Angler boots | 100 |
-| Pearl fishing rod | 100 |
-| Pearl fly fishing rod | 120 |
-| Pearl barbarian rod | 150 |
-| Fish sack | 1000 |
+## Wilderness Hunting
 
+A warning, black chin and black salamander hunting is dangerous! These wilderness creatures will put you in the path of virtual PKers, who may attack you, causing you to lose potions, catch chances, or even your minion's gear! Please read this entire section if you plan on hunting black chins or salamanders.
+
+There are 3 options that can happen while wildy hunting, these being:
+
+1. A normal trip. No PKers encountered
+   * You will receive regular xp rates and creatures caught. No items lost.
+2. You encounter a PKer but you're NOT Pked.
+   * You will lose a random number of potions, 10% of the creatures, and 10% of the xp.
+3. You encounter a PKer and you're Pked.
+   * You will lose all potions, 50% of the creatures, and 20% of the xp.
+   * You will also **lose the top and bottom** in your wildy gear setup.
+
+**NOTE:** You **need** 10x Saradomin brew(4) and 5x Super restore(4) for wildy hunting.
+
+**NOTE:** You **can** encounter PKers multiple times in 1 trip resulting in further losses to xp and creatures caught.
+
+### Peak PK Times
+
+Each day, there are low, medium, and high activity times for PKers. These determine the virtual PK activity while on your trip, while also influencing your chance to encounter a PKer. These times slots last for roughly 2 hours each but are in a random order. They also change every day.
+
+### Wildy Gear Score
+
+The top and bottom in your _wildy setup_ will give you a score which influences your minion chance of dying. All other gear in your wildy setup does NOT influence this score. This score is calculated against the theoretical maximum defence bonuses. I.e. Justiciar top and bottom is 100% gear score. Black d'hide top and bottom will give you a 29% gear score. However, in order to start wildy hunting, your top and bottom gear slots must add up to ALL the following minimum defensive stats. These are:
+
+* 48 Defensive Stab
+* 58 Defensive Slash
+* 71 Defensive Crush
+* 68 Defensive Mage
+* 76 Defensive Ranged
+
+### Chance Of Encountering A PKer
+
+Every minute of your wildy hunting trip, your minion is rolled against the chance of encountering a PKer. This doesn't mean you automatically die, rather you just encounter the PKer with a chance to survive (hence the need for brews and restores). This chance in influenced by which creature you are hunting and which PK time is active (see above).
+
+The base chance of encountering a PKer while wildy hunting is as follows:
+
+* Black chinchompa: 1/100
+* Black salamander: 1/200
+
+This is further influenced by the PK activity at the time of your trip.
+
+* Low activity time: 80
+* Medium activity time: -20
+* High activity time: -80
+
+For example, if you hunt black chins at a high activity time, your chance of running into a PKer is:
+
+* Black chin base chance (1/100) + high activity time (-80) = 1/20 chance every minute of your trip to encounter a PKer.
+
+### Chance Of Death
+
+If your minion is successful in encountering a PKer, you have a chance of death resulting in the loss of the top and bottom in your wildy setup. This chance is influenced by 3 things; the base chance of dying, your creature hunting experience, and your gear score.
+
+* Base chance of death: 1/20
+* Creature hunting experience: 1-200 (200 being 20k total of a specific creature caught)
+* Gear score: 1-100
+
+For example, if you encounter a PKer, while having over 20k total of a creature caught, and wearing black d'hide top and bottom, you death chance is as follows:
+
+* Base death chance (1/20) + creature hunting experience (200) + gear score (29%) = 1/249 chance of dying if a PKer is encountered.
+
+## Creatable Hunter Gear
+
+You can create hunter gear with the `/create` command. This serves no purpose other than to fill `+cl skilling` slots and be used as warm clothing.
+
+E.g. `/create item: polar camouflage gear quantity: 1`
+
+| **Set name**             | **Required Materials**                |
+| ------------------------ | ------------------------------------- |
+| Polar camouflage gear    | 4x Polar kebbit fur                   |
+| Woodland camouflage gear | 4x Common kebbit fur                  |
+| Jungle camouflage gear   | 4x Feldip weasel fur                  |
+| Desert camouflage gear   | 4x Desert devil fur                   |
+| Larupia hunter gear      | 1x Larupia fur + 2x Tatty larupia fur |
+| Graahk hunter gear       | 1x Graahk fur + 2x Tatty graahk fur   |
+| Kyatt hunter gear        | 1x Kyatt fur + 2x Tatty kyatt fur     |
+| Spotted cape             | 2x Spotted kebbit fur                 |
+| Spottier cape            | 2x Dashing kebbit fur                 |
+| Gloves of silence        | 2x Dark kebbit fur                    |
+
+## Other Hunter Activities
+
+Among regular hunting methods, there are many other activities that can help level hunter or involve the hunter skill. These are:
+
+* [Aerial fishing](https://wiki.oldschool.gg/skills/fishing/aerial-fishing)
+  * Requires 35 hunter + 43 fishing
+* Drift net fishing
+  * (Page coming soon)
+* [Herbiboar](https://wiki.oldschool.gg/skills/hunter/herbiboar)
+  * Requires 80 hunter + 31 herblore
+* [Birdhouses](https://wiki.oldschool.gg/skills/hunter/birdhouses)
+  * Requires 5 hunter + 5 crafting + 3qp for the lowest level birdhouses
+* [Passive Implings](https://wiki.oldschool.gg/skills/hunter/passive-implings)
+  * Doesn't actually give xp, but is dependent on your current hunter level.

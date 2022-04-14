@@ -70,6 +70,7 @@
 * [Hunter](skills/hunter/README.md)
   * [Hunter Training](skills/hunter/hunter-training.md)
   * [Herbiboar](skills/hunter/herbiboar.md)
+  * [Birdhouses](skills/hunter/birdhouses.md)
   * [Passive Implings](skills/hunter/passive-implings.md)
 * [Magic (Non-combat)](skills/magic/README.md)
   * [Mage Training Arena](skills/magic/mage-training-arena.md)

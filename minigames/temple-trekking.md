@@ -1,6 +1,6 @@
 # Temple Trekking
 
-You can do temple trekking by using `+trek easy/medium/hard`
+You can do temple trekking by using `/minigames temple_trek start` and then choosing a difficulty.
 
 ### Requirements
 
@@ -34,23 +34,22 @@ You can do temple trekking by using `+trek easy/medium/hard`
 
 ### **Ivandis/Blisterwood Flail**
 
-`+create ivandis/blisterwood flail`\
+`/create item: Ivandis Flail` or `/create item: Blisterwood Flail`\
 Requires a silver sickle (`+craft silver sickle`) and an emerald for the ivandis, or the ivandis and a ruby for the blisterwood.
 
 ### Salve Amulet (e)
 
 First buy the salve amulet for 200,000GP using `+buy salve amulet`.\
 Then [collect](../miscellaneous/collecting.md) Tarn's diary using `+collect tarn's diary`.\
-Finally create the salve amulet (e) using `+create salve amulet(e)`.
+Finally create the salve amulet (e) using `/create item: Salve amulet (e)`
 
 Although the salve amulet (e) can be [imbued](soul-wars.md#imbueables), the imbued salve amulet (ei) still only provides the same 5% bonus as the unimbued version.
 
 ### Rewards
 
-To buy rewards with your tokens, use the `+trekshop/+ts` command.
+To buy rewards with your tokens, use `/minigames temple_trek buy`
 
-* E.g. `+ts easy bow string`
-* E.g. `+ts 5 hard herbs`
+* E.g. `/minigames temple_trek buy reward: Experience difficulty: Hard`
 
 Rewards are same as in game. The treks themselves drop nails from nail beasts and remains from shades, as well as [Lumberjack outfit](https://wiki.oldschool.gg/skills/woodcutting#lumberjack-outfit). It's possible to get dupes of lumberjack after you get the full set.
 
