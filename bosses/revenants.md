@@ -20,7 +20,7 @@ You can check which items are potentially at risk and which items you will keep 
 
 **Note:** If you do revs while _skulled_ and get _smited_, you will lose your entire wildy setup.
 
-### **Smite Chance** ![](../.gitbook/assets/Smite.png)****
+### **Smite Chance** <img src="../.gitbook/assets/Smite.png" alt="" data-size="line">****
 
 You have a 1/300 chance to be smited while on a trip. However, if you do not have 5x prayer potion(4), which _you will warned about before embarking_, you have a 1/20 chance to be smited.
 

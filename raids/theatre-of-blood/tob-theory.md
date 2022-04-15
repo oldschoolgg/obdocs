@@ -8,7 +8,7 @@ description: In-depth info and strategy.
 
 This only applies to normal TOB. See [tob-hard-mode.md](tob-hard-mode.md "mention") for hard mode.
 
-There are two scores that are important. You gear score ![](https://cdn.discordapp.com/emojis/835314891950129202.webp?size=56\&quality=lossless)and your boost score ![](https://cdn.discordapp.com/emojis/802136963956080650.webp?size=56\&quality=lossless). Your boost score increases with your gear score, KC and any item boosts from the bank. Your gear score serves only to raise your boost score.
+There are two scores that are important. You gear score <img src="https://cdn.discordapp.com/emojis/835314891950129202.webp?size=56&#x26;quality=lossless" alt="" data-size="line">and your boost score <img src="https://cdn.discordapp.com/emojis/802136963956080650.webp?size=56&#x26;quality=lossless" alt="" data-size="line">. Your boost score increases with your gear score, KC and any item boosts from the bank. Your gear score serves only to raise your boost score.
 
 The exception to this is that you cannot go below 80% total gear score or 75% in a specific setup otherwise you will face huge penalties.
 
