@@ -13,9 +13,9 @@ The start the minigame, use `+tithefarm`
 
 ### Boosts
 
-* 10% boost for full graceful _(must be equipped)_
-* 2.5% boost for full farmers outfit _(does not need to be equipped)_
-* Up to 25% boost for minion learning
+* 10% speed boost for full graceful _(must be equipped)_
+* 2.5% bonus xp for full farmers outfit _(does not need to be equipped (this is calculated on the return trip message))_
+* Up to 25% speed boost for minion learning
 
 ### Tithe Farm Shop
 
