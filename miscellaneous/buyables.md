@@ -4,7 +4,7 @@ There are various useful items you can buy from the bot, not all are purchased w
 
 Every item on this page can be purchase with the following command:&#x20;
 
-`+buy quantity itemName` - Quantity is optional
+`/buy quantity itemName` - Quantity is optional
 
 Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP sink on the bot, if your minion is an Ironman you will get the same prices as on Oldschool RuneScape for _most_ items, these can be viewed [here](../getting-started/ironman-mode.md#ironman-prices)
 

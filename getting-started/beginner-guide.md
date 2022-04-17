@@ -6,19 +6,19 @@ This guide is meant for players just starting with OSB. It does not include opti
 
 ### Part 1: Pre-PvM
 
-Do [agility](https://wiki.oldschool.gg/skills/agility) until you have full graceful. (Can be obtained by using `/create`` `**`item:`**`graceful`, and costs 260 marks of grace. You can do agility by using the `+laps [course name]` command. After getting full graceful, you can do the [Hallowed Sepulchre](https://wiki.oldschool.gg/skills/agility/hallowed-sepulchre) in order to get a Strange Old Lockpick. This item will be extremely useful later, and is worth getting now.\
+Do [agility](https://wiki.oldschool.gg/skills/agility) until you have full graceful. (Can be obtained by using `/create`` `**`item:`**`graceful`, and costs 260 marks of grace. You can do agility by using the /`laps [course name]` command. After getting full graceful, you can do the [Hallowed Sepulchre](https://wiki.oldschool.gg/skills/agility/hallowed-sepulchre) in order to get a Strange Old Lockpick. This item will be extremely useful later, and is worth getting now.\
 \
-Once you have full graceful, you should quest to at least **175 QP**. You can quest with the `+q` command. Since you will already have the maximum bonus for questing, there is little reason to not quest all the way to 284 QP right now, so consider doing that.\
-After getting at least 175 QP, purchase at least 1 set of barrows gloves. (Ideally 3 sets.)\
+Once you have full graceful, you should quest to at least **205 QP**. You can quest with the `+q` command. Since you will already have the maximum bonus for questing, there is little reason to not quest all the way to 284 QP right now, so consider doing that.\
+After getting at least 175 QP, purchase at least 1 set of barrows gloves. (Ideally 3 sets.) With 205 QP you can access all bosses that the bot has to offer.\
 \
 If your minion is an ironman, you should do a small amount of fishing/cooking for some early game food. You won't need to get that much, as you should unlock better food sources fairly soon.\
 Main accounts should purchase food from other players using the #grand-exchange channel for now.
 
 ### Part 2: Early Upgrades
 
-Equip the best slash attack gear you have in your melee setup. This can be done by doing `+autoequip melee attack slash`. Kill baby dragons (black/blue) with `/k`` `**`name:`**`baby blue dragon`until you have the bones for 43 prayer. Then use `+offer dragon` to train the skill to 43.\
+Equip the best slash attack gear you have in your melee setup. This can be done by doing /`autoequip melee attack slash`. Kill baby dragons (black/blue) with `/k`` `**`name:`**`baby blue dragon`until you have the bones for 43 prayer. Then use /`offer dragon` to train the skill to 43.\
 \
-Once you have 43 prayer, do `+m train mage` to begin gaining magic xp while doing combat, and then start doing barrows. Barrows is a useful early game boss as it doesn't require food, and has extremely useful uniques. You can do as much, or as little as you want, although ironmen should consider completing the barrows log here, or at least obtaining all useful items. Train magic until you are at least level 55, and then feel free to change to any other attack style.\
+Once you have 43 prayer, do /`m train mage` to begin gaining magic xp while doing combat, and then start doing barrows. Barrows is a useful early game boss as it doesn't require food, and has extremely useful uniques. You can do as much, or as little as you want, although ironmen should consider completing the barrows log here, or at least obtaining all useful items. Train magic until you are at least level 55, and then feel free to change to any other attack style.\
 If you are a main account, you can sell duplicate items in #grand-exchange for some early gp. Spend this gp on potatoes with cheese, as well as a Bandos Godsword, and other gear upgrades.
 
 #### Post-Barrows Gear

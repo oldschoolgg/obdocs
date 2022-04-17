@@ -6,8 +6,8 @@ You can play as an ironman, however, this will reset your entire account, to a f
 
 To become an Ironman, use either of the following:
 
-* `+m ironman`
-* `+m ironman --permanent`
+* `/m ironman`
+* `/m ironman --permanent`
 
 The obvious difference between permanent and non-permanent is that you can de-iron if you are not permanent. However, you CANNOT de-iron if you already have a main account.
 
@@ -18,15 +18,15 @@ The sacrifice cost for trip length extensions is halved for ironmen, giving the 
 Being a _permanent ironman_ provides some perks such as:
 
 * Shared patron perks between main and ironman accounts
-* Ironman armour (use: `+m ironman --armor`)
+* Ironman armour (use: /`m ironman --armor`)
 
 ### Ironman Leaderboards
 
 Any leaderboard can be filtered to only show ironmen. This is done by adding `--im` at the end of any `+lb` command.
 
-* E.g. `+lb kc vorkath --im`
-* E.g. `+lb sacrifice --im`
-* E.g. `+drystreak corp, elysian sigil --im` (T3 patrons only)
+* E.g. /`lb kc vorkath --im`
+* E.g. /`lb sacrifice --im`
+* E.g. /`drystreak corp, elysian sigil --im` (T3 patrons only)
 
 ### Ironman Discord Server
 

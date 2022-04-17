@@ -1,6 +1,6 @@
 # Runecrafting
 
-You can train Runecrafting using `+rc [quantity] <rune>`, for example `+rc 50 law`.
+You can train Runecrafting using  /`rc [quantity] <rune>`, for example  /`rc 50 law`.
 
 ### Boosts
 
@@ -13,7 +13,7 @@ There are several boosts available which apply to all runes except blood and sou
 
 ### Pouches
 
-You can create Runecrafting pouches using `+create`, they require different crafting levels based on the tier, as well as leather. Similarly to in-game, higher tier pouches also require higher Runecrafting levels to use. These boost the amount of essence you can carry in 1 inventory, increasing XP/Hr.
+You can create Runecrafting pouches using  /`create`, they require different crafting levels based on the tier, as well as leather. Similarly to in-game, higher tier pouches also require higher Runecrafting levels to use. These boost the amount of essence you can carry in 1 inventory, increasing XP/Hr.
 
 | **Pouch**    | **Crafting lvl. Required** | **Rc'ing Lvl Required** | **Leather Required** |
 | ------------ | -------------------------- | ----------------------- | -------------------- |

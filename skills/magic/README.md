@@ -8,9 +8,9 @@ You can train your magic level through various non-combat spells in the bot. Thi
 
 There are numerous useful casting spells that can be used to train magic. All cast spells require 50qp except for teleports and bones to bananas.
 
-To use any of the following spells, use the `+cast` command.
+To use any of the following spells, use the /`cast` command.
 
-* E.g. `+cast 100 camelot teleport`
+* E.g. /`cast 100 camelot teleport`
 
 |                               |                     |                            |
 | ----------------------------- | :-----------------: | -------------------------- |
@@ -45,13 +45,13 @@ To use any of the following spells, use the `+cast` command.
 
 ### Enchanting
 
-Much like casting, enchanting jewellery or bolts is another viable method to train magic. You can enchant all the same jewellery as OSRS, however, most enchanted jewellery has no use at this stage. Use `+enchant --items` to view all enchantable items.
+Much like casting, enchanting jewellery or bolts is another viable method to train magic. You can enchant all the same jewellery as OSRS, however, most enchanted jewellery has no use at this stage. Use /`enchant --items` to view all enchantable items.
 
 **Note:** 10 bolts are enchanted per cast.
 
 To enchant any jewellery or bolts, use the `+enchant` command.
 
-* E.g. `+enchant 100 emerald ring / +enchant 5 onyx bolts`
+* E.g.  /`enchant 100 emerald ring or /enchant 5 onyx bolts`
 
 |               |                    |                          |                     |
 | ------------- | ------------------ | :----------------------: | :-----------------: |

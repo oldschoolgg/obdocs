@@ -12,15 +12,15 @@ description: >-
   * Defeat one of each [God Wars Dungeon Boss](broken-reference) and then use `/create` to create a Frozen Key
 * Level 90 Ranged, Level 90 Defence, Level 74 Prayer
 * Good range gear in range setup. Including a weapon (Armadyl Crossbow, Dragon Crossbow, Zaryte Crossbow, Twisted Bow) and ammo (Dragon/rune arrows, or Ruby Dragon Bolts (e)).&#x20;
-* Supplies: `8x Saradomin Brew, 5x Super Restore, 2x Ranging Potions, 1x Sanfew Serum, 200x ammo` regardless of trip length/quantity.
+* Supplies: `8x Saradomin Brew, 5x Super Restore, 2x Ranging Potions, 1x Sanfew Serum, 600x ammo` regardless of trip length/quantity.
 
 ### Boosts & BIS
 
 * Rune arrows are negative/slower than dragon arrows.
-* Zaryte Crossbow is the best in weapon slot.
+* Zaryte Crossbow is the best in slot weapon.
 * Zaryte vambraces are BIS in gloves slot.
 * Rigour (Dexterous Prayer Scroll used) gives a boost.
-* If using an ely or spectral, your maximum trip length will be longer! This is a new mechanic not really used elsewhere. It means you can kill extra nex's per trip, because they let you sustain for longer. Note: The time is applied per user, e.g. maybe +3 mins per user in the team, for the maximum increase, everyone in the team needs one.
+* If using an Elysian or Spectral, your maximum trip length will be longer! This is a new mechanic not currently used elsewhere. It means you can kill more nex per trip, because they let you sustain for longer. Note: The time is applied per user, e.g. maybe +3 mins per user in the team, for the maximum increase, everyone in the team needs one.
 * Spectral has best mage defence bonus in the shield slot.
 * Ely reduces death chance by 30%.
 * You get faster at killing Nex based on your Offence Boost % (gear) and your KC.\
@@ -28,7 +28,7 @@ description: >-
 
 #### BIS Gear
 
-Zaryte Crossbow + Ely, Armadyl Crossbow + Ely, Armadyl Crossbow + Spectral, Twisted Bow (Best to worst)
+Zaryte Crossbow + Elysian, Armadyl Crossbow + Ely, Armadyl Crossbow + Spectral, Twisted Bow (Best to worst)
 
 ![BIS Gear](../.gitbook/assets/nexbis)
 

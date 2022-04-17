@@ -2,17 +2,17 @@
 
 ## Overview
 
-From copper longtails to black chinchompas, use the hunter skill to track, trap, and catch a variety of critters. Though they're animals, they aren't stupid, and it will take some time to learn the most efficient ways to hunt them. For a full list of creatures, you can use the `+hunt --creatures` command.
+From copper longtails to black chinchompas, use the hunter skill to track, trap, and catch a variety of critters. Though they're animals, they aren't stupid, and it will take some time to learn the most efficient ways to hunt them. For a full list of creatures, you can use the /`hunt --creatures` command.
 
-To start any hunter trip, use `+hunt [quantity] [creature]` - (quantity is optional)
+To start any hunter trip, use /`hunt [quantity] [creature]` - (quantity is optional)
 
-* `+hunt black chinchompa`
-* `+hunt 50 sabre-toothed kebbit`
-* `+hunt 100 red chinchompa --potion`
+* `/hunt black chinchompa`
+* `/hunt 50 sabre-toothed kebbit`
+* `/hunt 100 red chinchompa --potion`
 
 **Note:** `--potion` allows the use of hunter potions on your trip. See Boosts for more info.
 
-Each creature also has a leaderboard so you can see how you stack up against your fellow players. For example, to see the top black chinchompa hunters in OSB, you can `+lb creatures black chinchompa`.
+Each creature also has a leaderboard so you can see how you stack up against your fellow players. For example, to see the top black chinchompa hunters in OSB, you can /`lb creatures black chinchompa`.
 
 ## Boosts
 
@@ -91,7 +91,7 @@ For example, if you encounter a PKer, while having over 20k total of a creature 
 
 ## Creatable Hunter Gear
 
-You can create hunter gear with the `/create` command. This serves no purpose other than to fill `+cl skilling` slots and be used as warm clothing.
+You can create hunter gear with the `/create` command. This serves no purpose other than to fill /`cl skilling` slots and be used as warm clothing.
 
 E.g. `/create item: polar camouflage gear quantity: 1`
 

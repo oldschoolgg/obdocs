@@ -3,7 +3,9 @@
 You will not receive totem pieces or ancient shards if you are using a cannon as cannons cannot be placed in the catacombs.
 
 You can check the boosts for a specific monster and by how much by using the `+monster <monster>` command.\
-The Elysian spirit shield will also reduce your food usage by 17.5%, this needs to be equipped to work.
+The Elysian spirit shield will also reduce your food usage by 17.5%, this needs to be equipped to work.  Having a full Justiciar set equipped in your melee will further increase your food reduction by 6.5% on any Melee tasks
+
+
 
 ### General boosts
 

@@ -2,10 +2,10 @@
 
 Revenants are some high risk, high reward content that allows you to collect some handy wildy weapons and many high tier resources. Revs uses the gear in your wildy setup, which means, you CAN lose pieces of gear from this setup. Please read this entire page before embarking.
 
-To start a trip, use the `+revs (style) (name)` command.
+To start a trip, use the /`revs (style) (name)` command.
 
-* E.g. `+revs range imp`
-* E.g. `+revs mage dragon --skull`
+* E.g. /`revs range imp`
+* E.g. /`revs mage dragon --skull`
 
 **Note:** You can add `--skull` at the end of your cmd to fight the revs skulled. This removes the lower value items from the unique table but you risk more of your equipped items.
 
@@ -15,8 +15,8 @@ Like aforementioned, you will use the wildy setup for killing revs. You CAN lose
 
 You can check which items are potentially at risk and which items you will keep if killed. Use:
 
-* `+revs --skull` - show items you will keep if skulled
-* `+revs --smited` - show items you will keep if smited
+* `/revs --skull` - show items you will keep if skulled
+* `/revs --smited` - show items you will keep if smited
 
 **Note:** If you do revs while _skulled_ and get _smited_, you will lose your entire wildy setup.
 
@@ -82,7 +82,7 @@ These weapons can be charged which will provide boosts at revs themselves and ma
 
 You can sell the ancient items for the same value as in OSRS. Use the `+revs sell` command. This can't be done if your minion is busy.
 
-* E.g. `+revs sell ancient relic`
+* E.g. /`revs sell ancient relic`
 
 |                   |              |
 | ----------------- | :----------: |

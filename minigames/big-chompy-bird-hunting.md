@@ -1,11 +1,11 @@
 # Big Chompy Bird Hunting
 
-You can do the chompy bird hunting minigame using `+chompyhunt`.
+You can do the chompy bird hunting minigame using  /`chompyhunt`.
 
 ### Requirements
 
 * 10 QP
-* Ogre bow (in range outfit), `+buy ogre bow`
+* Ogre bow (in range outfit),  /`buy ogre bow`
 * Ogre arrows (in bank)
 * Highly recommended: Wear an Ava's in range outfit to save arrows.
 * You get significant boosts for having completed the: Elite(100%), Medium(50%), or Easy(25%) tiers of the Western Provinces diary.
@@ -21,8 +21,8 @@ You can try to buy them from other players, or...
 
 ### Rewards
 
-* Chompy Hats; Claim with `+ch claim` or buy them with `+buy` after you have unlocked them.
-  * E.g. `+buy chompy bird hat (ogre bowman)`
+* Chompy Hats; Claim with  /`ch claim` or buy them with  /`buy` after you have unlocked them.
+  * E.g.  /`buy chompy bird hat (ogre bowman)`
 * The following table is a list of all the purchasable chompy hats:
 
 |                                             |           |                        |

@@ -13,9 +13,9 @@ If you meet the requirements of a Diary, you can claim the reward item and the X
 * **Claim the rewards for a Diary:**
   * `/minion achievementdiary claim:True diary:Falador`
 * **Use an XP lamp:**
-  * `+lamp (quantity) antique lamp 1/2/3/4`
+  * `/lamp (quantity) antique lamp 1/2/3/4`
 * **Buy the achievement diary cape:**
-  * `+buy achievement diary cape`
+  * `/buy achievement diary cape`
 
 ## Diary Perks
 
@@ -71,3 +71,10 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 
 * **Elite**
   * 3x speed boost to charging glories at the Fountain of Rune
+
+### Kourend Diary
+
+* **Medium**
+  * 20% boost to Gathering speed of Dense Essence Blocks
+* **Elite**
+  * 10% Additional runes granted during the crafting process of Blood runes

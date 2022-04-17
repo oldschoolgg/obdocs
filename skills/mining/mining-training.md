@@ -13,5 +13,3 @@ It's recommended to get the prospector's outfit by mining gold if you plan on do
 You can create a crystal pickaxe with `+create crystal pickaxe`. You can obtain a crystal tool seed from [Zalcano](../../minigames/zalcano.md).
 
 ![\*boosts from pickaxes are out of date](../../.gitbook/assets/miningxp.png)
-
-[Full Image](https://i.imgur.com/b3HNdSi.png)

@@ -29,7 +29,7 @@ description: List of achievements on the bot
 | Defence      | RickTurpentine | BIRDIE         |
 | Attack       | Googleit       | Googleit       |
 | Strength     | Exanimum       | Im Z           |
-| Hitpoints    | Tiz            |                |
+| Hitpoints    | Tiz            | Doom           |
 | Slayer       | wood           |                |
 
 ### **Other Achievements**

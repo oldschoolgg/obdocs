@@ -32,7 +32,7 @@ With all available boosts, it is possible to achieve upwards of 90K xp/hr while 
 
 The following items can be purchased using the `+buy` command using hallowed marks.
 
-* E.g. `+buy hallowed symbol`
+* E.g. /`buy hallowed symbol`
 
 | **Item**               | **Hallowed marks required** |
 | ---------------------- | :-------------------------: |

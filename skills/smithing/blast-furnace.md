@@ -6,7 +6,7 @@ description: >-
 
 # Blast Furnace
 
-The Blast Furnace can be used by typing `+blastfurnace [barName]` or `+bf [barName]`. The Blast Furnace will cost you 216,000 gp/hr to use if you are a main or 72,000 gp/hr if you are an ironman. &#x20;
+The Blast Furnace can be used by typing  /`blastfurnace [barName]` or  /`bf [barName]`. The Blast Furnace will cost you 216,000 gp/hr to use if you are a main or 72,000 gp/hr if you are an ironman. &#x20;
 
 ### Requirements
 

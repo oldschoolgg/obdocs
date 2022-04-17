@@ -4,15 +4,15 @@ Birdhouses are a great way to collect birds nests and various seeds and rings. I
 
 To start your birdhouses, or to collect and replace your birdhouses, use:
 
-* `+birdhouse [log type]` / `+bh [log type]`
+* `/birdhouse [log type]` or /`bh [log type]`
 
 To check to see if your birdhouses are ready, use:
 
-* `+birdhouse check` / `+bh check`
+* `/birdhouse check` or  /`bh check`
 
 To collect your birdhouses without replacing them, use:
 
-* `+birdhouse collect` / `+bh collect`
+* `/birdhouse collect` or /`bh collect`
 
 ## Boosts
 
@@ -26,7 +26,7 @@ These are the minimum requirements to make the lowest level birdhouse. See the t
 * Level 5 Crafting
 * 3 Quest points
 * 4x Clockworks
-  * Made with 4x Steel bars - `+craft 4 clockwork`
+  * Made with 4x Steel bars - /`craft 4 clockwork`
   * You will always reuse the same clockworks so you should only ever need 4.
 * 4x logs
   * These can be any tier logs provided you have the appropriate levels.
@@ -91,7 +91,7 @@ Weirdly, if you don't receive any clues from the initial roll, you have a 1/1000
 
 These can be sacrificed at the shrine where you have a chance at receiving pieces of the Evil chicken outfit. Each piece is 1/300 chance, and there is no set order in which you receive the pieces of the oufit.
 
-To offer the eggs, use `+offer [colour] bird egg`
+To offer the eggs, use /`offer [colour] bird egg`
 
 **NOTE:** You will receive 100 prayer xp per egg offered.
 

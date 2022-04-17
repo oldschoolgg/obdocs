@@ -1,14 +1,14 @@
 # Bank Filters
 
-There are a multitude of bank filters you can use to easily identify or search items in your bank. You can start by typing the `+b` command to display your bank. It is also possible to view the different pages of your bank with `+b X` (X being any page number).
+There are a multitude of bank filters you can use to easily identify or search items in your bank. You can start by typing the /`b` command to display your bank. It is also possible to view the different pages of your bank with /`b X` (X being any page number).
 
 ### Searching Your Bank
 
 There are 2 ways to search your bank for items.
 
-* `+b [full item name]`
+* `/b [full item name]`
   * This command only returns results when the full item name is entered.
-* `+bs [partial/full item name]`
+* `/bs [partial/full item name]`
   * This command will return anything that contains the term searched.
 
 ### Universal Filters
@@ -30,7 +30,7 @@ The following bank filters can be used with either of the bank search commands t
 
 The following command is an example of a bank search for the term "rune" with many filters.&#x20;
 
-* E.g. `+bs rune --full --wide --sort=name --names`
+* E.g. /`bs rune --full --wide --sort=name --names`
 
 ![](../.gitbook/assets/rune\_search.png)
 
@@ -61,7 +61,7 @@ The following bank filters can be used with either of the bank search commands t
 
 The collection log filters can be used with either of the bank search commands to display the items from specific collection logs. Not all collection logs are available for bank searching. Universal filters can also be applied to these searches.
 
-* E.g. +`b --cerberus`
+* E.g. /`b --cerberus`
 
 ![](../.gitbook/assets/cerberus\_bank.png)
 
@@ -85,7 +85,7 @@ The collection log filters can be used with either of the bank search commands t
 
 Here you can find other filters and bank related commands. Universal filters can also be applied to these searches.
 
-* `+b --filter="clues [tier]"` - displays all clue items from a specific tier
+* `/b --filter="clues [tier]"` - displays all clue items from a specific tier
   * Tiers can be: _easy / medium / hard / elite / master / shared / all_
 * `--smallbank` - removes the extra space when displaying your bank background&#x20;
   * ONLY applies to players with custom bank backgrounds

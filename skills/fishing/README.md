@@ -1,10 +1,10 @@
 # Fishing
 
-You can train Fishing using `+fish [quantity] <fish>`, for example `+fish 100 lobster`.
+You can train Fishing using /`fish [quantity] <fish>`, for example /`fish 100 lobster`.
 
-Fishing bait is buyable with `+buy fishing bait`.
+Fishing bait is buyable with /`buy fishing bait`.
 
-Dark fishing bait and Raw Karambwanji aren't sold by the bot and can be obtained by buying from other players or obtaining them yourself.
+Dark fishing bait and Raw Karambwanji aren't sold by the bot and can only be obtained by buying from other players or obtaining them yourself.
 
 ### Angler Outfit
 
@@ -42,8 +42,8 @@ It's possible to get the Angler's outfit from [Fishing Trawler](fishing-trawler.
 | Minnows           |         82         |      26.1      |   52,357  | 55,098                         |
 | Raw Dark crab     |         85         |       130      |   40,000  | 41,600                         |
 
-* **Barbarian Fishing** can be done with `+fish barbarian`.
+* **Barbarian Fishing** can be done with /`fish barbarian`.
 * **Karambwanji** (not to be mistaken for **Karambwan**) requires **15** Quest Points to fish.
 * **Monkfish** requires **100** Quest Points to fish.
 * **Anglerfish** requires **40** Quest Points to fish.
-* **Minnows** requires **full (spirit) angler outfit** to fish. To **trade** minnows, use `+buy raw shark`
+* **Minnows** requires **full angler outfit** to fish. To **trade** minnows, use /`buy raw shark`

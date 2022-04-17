@@ -12,6 +12,7 @@
 * [Gear](getting-started/gear.md)
 * [Combat Training](getting-started/combat-skills.md)
 * [Bank Filters](getting-started/bank-filters.md)
+* [Bank Background](getting-started/bank-background.md)
 
 ## Bosses
 

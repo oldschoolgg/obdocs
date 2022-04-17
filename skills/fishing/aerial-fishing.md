@@ -2,9 +2,9 @@
 
 Requirements: 35 Hunter, 43 fishing.
 
-You can start aerial fishing with either `+aerial` or `+aerialfish`
+You can start aerial fishing with either /`aerial` or /`aerialfish`
 
-You can purchase buyables via `+aerialfish buy (item)`
+You can purchase buyables via /`aerialfish buy (item)`
 
 ### Aerial Fishing Buyables
 

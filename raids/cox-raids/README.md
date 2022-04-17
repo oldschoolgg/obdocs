@@ -37,9 +37,9 @@ Please keep in mind that these are just recommendations, you are not restricted 
 ### Getting Started
 
 There are a few things that need to be prefaced before you get started.\
-You can view current stats about your minion and it's raiding abilities with the `+raid` command.&#x20;
+You can view current stats about your minion and it's raiding abilities with the /`raid` command.&#x20;
 
-Starting a Chambers of Xeric raid also uses this command, for masses use `+raid mass`, and solos `+raid solo`.
+Starting a Chambers of Xeric raid also uses this command, for masses use /`raid mass`, and solos /`raid solo`.
 
 Solo Chambers of Xeric requires 50 KC, so the first 50 must be done within a mass raid, a mass requires minimum of 2 users and has a maximum capacity of 15.
 

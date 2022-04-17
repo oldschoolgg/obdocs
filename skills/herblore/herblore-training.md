@@ -2,15 +2,15 @@
 
 ### Fastest route to 99:
 
-\+mix 64 attack potion\
-\+mix 237 strength potion\
-\+mix 228 defence potion\
-\+mix prayer potion until 63\
-\+mix 900 super restore\
-\+mix super defence until 72\
-\+mix ranging potion until 76\
-\+mix magic potion until 81\
-\+mix saradomin brew repeat until 99\
+/mix 64 attack potion\
+/mix 237 strength potion\
+/mix 228 defence potion\
+/mix prayer potion until 63\
+/mix 900 super restore\
+/mix super defence until 72\
+/mix ranging potion until 76\
+/mix magic potion until 81\
+/mix saradomin brew repeat until 99\
 \
 Materials Needed:\
 64 guam potion(unf) and 64 eye of newt\

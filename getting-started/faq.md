@@ -14,29 +14,29 @@ Suggestions can be made through the bot's [github page](https://github.com/oldsc
 
 **How do I sell items to someone?**
 
-You can sell items to other players using the `+sellto` command, which is used like this: `+sellto @person [totalprice] [quantity] [item]`. For example, if you wanted to sell 3 bandos chestplates for a _combined total_ of 50m: `+sellto @Magnaboy 50m 3 Bandos chestplate`.
+You can sell items to other players using the /`sellto` command, which is used like this: /`sellto @person [totalprice] [quantity] [item]`. For example, if you wanted to sell 3 bandos chestplates for a _combined total_ of 50m: `+sellto @Magnaboy 50m 3 Bandos chestplate`.
 
 After using the command, both users will have to confirm the sale.
 
 **How do I equip gear on my minion?**
 
-There are 5 different setups; Melee, Range, Mage, Skilling, and Misc. As an example, here's how you can equip a BCP to your melee setup: `+equip melee Bandos Chestplate`. If you're doing a boss that needs Melee gear, the bot will check your Melee setup. It's done like this so you don't have to spend a long time equipping and unequipping stuff, you can just have your best stuff in each setup at all times.
+There are 8 different setups; Melee, Range, Mage, Skilling, Misc, Wildy. Fashion and Other (Please not that the other setup is locked to T3 patron or Higher) As an example, here's how you can equip a BCP to your melee setup: /`equip melee Bandos Chestplate`. If you're doing a boss that needs Melee gear, the bot will check your Melee setup. It's done like this so you don't have to spend a long time equipping and unequipping stuff, you can just have your best stuff in each setup at all times.
 
 The Skilling setup is where you equip skilling-related stuff, for example: Graceful or the Prospector outfit.
 
-You also have a cosmetic pet slot, shared across all gear setups. It allows you to equip a pet, like its following your minion around. You can equip a pet using the `+m equippet` command. For example, to equip the Commander Zilyana pet, you would use `+m equippet pet zilyana`. You need to use the exact item name as it is ingame.
+You also have a cosmetic pet slot, shared across all gear setups. It allows you to equip a pet, like its following your minion around. You can equip a pet using the /`m equippet` command. For example, to equip the Commander Zilyana pet, you would use /`m equippet pet zilyana`. You need to use the exact item name as it is ingame.
 
 **Can I stop my minion from going on a trip I started by accident?**
 
-Yes. Using the `+m cancel` command you can tell your minion to drop everything and return at once. However, it takes the command literally and you will not receive any loot or xp, nor will you get any items you would have expended during the trip returned. For example, if you accidentally sent your minion off to smith 10 bronze daggers, using the cancel command would return your minion to idle status, but you would not have returned any bronze daggers, any smithing xp, or any of the 10 bronze bars initially allocated to your minion's trip.
+Yes. Using the `+m cancel` command you can tell your minion to drop everything and return at once. However, it takes the command literally and you will not receive any loot or xp, nor will you get any items you would have expended during the trip returned. For example, if you accidentally sent your minion off to smith 10 bronze daggers, using the cancel command would return your minion to idle status, but you would not have returned any bronze daggers, any smithing xp, or any of the 10 bronze bars initially allocated to your minion's trip.  Please note you can also not cancel any Massing trips such as Nightmare/Nex/Raids or Minigames, you can also not cancel Inferno/Jad.
 
 **Why do prices in minions differ?**
 
-The price depends on your account age. If your discord account is over 6 months old, you get it for free. Less than 6 months, and it costs 20m. You can get this initial 20m from asking friends, or by using `+daily` every day for a while.
+The price depends on your account age. If your discord account is over 6 months old, you get it for free. Less than 6 months, and it costs 20m. You can get this initial 20m from asking friends, or by using /`daily` every day for a while.
 
 **How do I get money for a minion?**
 
-There are two options: `+daily`and `+dice`.
+There are two options: /daily and or /dice.
 
 **Why can't I use minion commands?**
 
@@ -52,7 +52,7 @@ NO. You will be permanently banned from the bot on all accounts. However, you ma
 
 **I can't tell which items are which in my bank, how do I see what they are?**
 
-You can use `+bank --text` or `+bank --text --full` to see the names of your items.
+You can use /`bank --text` or /`bank --text --full` to see the names of your items.
 
 **How do I sell all my bank, or an entire page, at once?**
 
@@ -64,11 +64,11 @@ It is currently not possible to trade someone items for items, however you can u
 
 **How do I search for specific items in my bank?**
 
-You can use `+bank --search=name` to search for items in your bank, for example, to see all dragon items in your bank, you could do: `+b --search=dragon`. If searching for an item with spaces, surround the item with double quotes `"`. For example: `+b --search="golden nugget"`.
+You can use /`bs "name"` to search for items in your bank, for example, to see all dragon items in your bank, you could do: /`bs dragon`. If searching for an item with spaces, surround the item with double quotes `"`. For example: /`bs="golden nugget"`. &#x20;
 
-**I got a pet from +daily but it doesn't show in my bank or collection log?**
+**I got a pet from /daily but it doesn't show in my bank or collection log?**
 
-The pets from `+daily` are separate to pets your minion pets, and are only shown in `+mypets`. You have 2 separate groups of pets, `+mypets` and then you have the real item pets in your `+bank` that you have gotten from killing stuff and training skills.
+The pets from /`daily` are separate to pets your minion pets, and are only shown in /`mypets`. You have 2 separate groups of pets, /`mypets` and then you have the real item pets in your `+bank` that you have gotten from killing stuff and training skills.
 
 **Do I need to equip items to receive the boosts they provide?**
 
@@ -129,3 +129,7 @@ Here's an example: `/create`` `**`item:`**`dharoks armour set` to turn items int
 **The bot says it needs permission to ‘Manage messages’ in order to use a command. How do I do this?**
 
 Server settings > Roles > Old School Bot (The auto assigned one) > Turn `Manage Messages` on.
+
+**How do I change my Bank Background?**
+
+In order to change your bank background you will need to do `/minion bankbg name: default` as an example to see a list of potential bank backgrounds and how to obtain them head to [bank-background.md](bank-background.md "mention")

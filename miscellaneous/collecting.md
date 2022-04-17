@@ -1,6 +1,6 @@
 # Collecting
 
-Certain items can be collected using the `+collect [tripAmount, itemName]` command. Every item has a minimum amount to be collected per trip, which is listed under the requirements in the table below. For example, if you want to collect 240 snape grass - which is collected in bundles of 120 - you would use `+collect 2 snape grass`.
+Certain items can be collected using the  /`collect [tripAmount, itemName]` command. Every item has a minimum amount to be collected per trip, which is listed under the requirements in the table below. For example, if you want to collect 240 snape grass - which is collected in bundles of 120 - you would use  /`collect 2 snape grass`.
 
 |                    |                                                                                                                                  |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -14,3 +14,6 @@ Certain items can be collected using the `+collect [tripAmount, itemName]` comma
 | Bucket of sand     | <p>1 Law Rune and 750 coins per 30 buckets.</p><p>30QP</p>                                                                       |
 | Tarn's diary       | <p>2 Prayer potion(4) per 1 diary.</p><p>100QP, 40 Slayer, 60 Attack, 60 Strength, </p><p>60 Ranged, 60 Defence and 60 magic</p> |
 
+### Boosts
+
+* 2x Collection Rate of Mort myre fungus with Morytania Hard diary
