@@ -132,4 +132,8 @@ Server settings > Roles > Old School Bot (The auto assigned one) > Turn `Manage 
 
 **How do I change my Bank Background?**
 
-In order to change your bank background you will need to do `/minion bankbg name: default` as an example to see a list of potential bank backgrounds and how to obtain them head to [bank-background.md](bank-background.md "mention")
+In order to change your bank background you will need to do `/minion bankbg name: default` as an example to see a list of potential bank backgrounds and how to obtain them head to [Bank background](bank-background.md).
+
+**How do I revert items?**
+
+In order to revert items you will start by doing /create item: revert and searching for or typing in the item you are looking to revert.  For a list of all those items that you can revert make sure you go to our page for [Reverting Items](reverting-items.md)

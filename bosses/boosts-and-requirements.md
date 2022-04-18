@@ -4,7 +4,7 @@ description: All boosts and Requirements for bosses.
 
 # Boosts & Requirements
 
-You can check the boosts/requirements for a specific boss and by how much by using /`monster [name]`. Some boosts don't currently appear so it is advised you crosscheck against this chart.
+You can check the boosts/requirements for a specific boss and by how much by using `/monster [name]`. Some boosts don't currently appear so it is advised you crosscheck against this chart.
 
 ### Global Boosts
 

@@ -8,23 +8,23 @@ Similar to the Fight Caves, you are not guaranteed to complete The Inferno. Your
 
 At the end of The Inferno, you are rewarded with an [Infernal Cape](https://oldschool.runescape.wiki/w/Infernal\_cape). This is the best in slot melee cape in most situations. You also have a chance at getting the Inferno's pet, [Jal-nib-rek](https://oldschool.runescape.wiki/w/Jal-nib-rek) upon completion, and when gambling Infernal Capes.
 
-Infernal capes can be gambled by doing /`capegamble infernal`
+Infernal capes can be gambled by doing `/capegamble infernal`
 
 Tokkul can be spent at the [Tokkul shop](https://wiki.oldschool.gg/bosses/fight-caves/tokkul-shop).
 
 ### Commands
 
-You can begin an Inferno attempt by doing /`inferno start`. You can also do /`infernoor /i` to view information on your previous attempts/KCs.
+You can begin an Inferno attempt by doing `/inferno start`. You can also do `/inferno or /i` to view information on your previous attempts/KCs.
 
 ### Requirements
 
-You must have sacrificed 1 Fire Cape in order to access the Inferno. "/`sacrifice 1 fire cape"`     &#x20;
+You must have sacrificed 1 Fire Cape in order to access the Inferno. "`/sacrifice 1 fire cape"`     &#x20;
 
 92 Defence, 94 Magic, 92 Hitpoints, 92 Ranged, and 77 Prayer                 &#x20;
 
 8 Saradomin Brews, 12 Super Restores, 1 Stamina Potion, and 1 Ranging Potion per attempt     &#x20;
 
-Rune Pouch "/`sls buy rune pouch"`   &#x20;
+Rune Pouch "`/sls buy rune pouch"`   &#x20;
 
 \>100 Magic Attack     &#x20;
 

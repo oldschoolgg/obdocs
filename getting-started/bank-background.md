@@ -1,3 +1,7 @@
+---
+description: Overview of how to change your bank background and what is required to do so.
+---
+
 # Bank Background
 
 ### Bank Backgrounds
@@ -8,9 +12,13 @@ In order to change your bank background one of the first things you will need to
 
 * Default&#x20;
 * Bandos (Requires completion of Bandos/Armadyl/Saradomin and Zamorak CLs + 1 of each Godsword + 100m)
-* Corporeal Beast (Requires 1 of Each item in the Corporeal Beast Collection Log + 3 Spirit shields and 3 Holy Elixirs to have 4 of each)
-* Casket (Requires in your collection log, 1x Heavy Casket, 1x Large Spade, 1x Clueless Scroll, 1x Scroll Sack)
-* Nightmare (Requires 1 of each item in the collection Log + Slepey tablet and Parasitic Egg)
+* Corporeal Beast (Requires 1 of Each item in the Corporeal Beast Collection Log in addition to 3 more Spirit shields and Holy Elixirs)
+* Casket (Requires in your Collection Log)
+  * 1x Large Spade (500 Easy Clues completed)
+  * 1x Clueless Scroll (400 Mediums completed)
+  * 1x Heavy Casket (200 Elites completed)
+  * 1x Scroll Sack (100 Masters completed)
+* Nightmare (Requires 1 of each item in the collection Log in addition to Slepey tablet and Parasitic Egg from Phosanis Nightmare)
 
 ### Available to Patrons
 

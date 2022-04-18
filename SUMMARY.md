@@ -13,6 +13,7 @@
 * [Combat Training](getting-started/combat-skills.md)
 * [Bank Filters](getting-started/bank-filters.md)
 * [Bank Background](getting-started/bank-background.md)
+* [Reverting Items](getting-started/reverting-items.md)
 
 ## Bosses
 

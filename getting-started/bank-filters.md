@@ -1,3 +1,7 @@
+---
+description: Overview of how to use bank filters
+---
+
 # Bank Filters
 
 There are a multitude of bank filters you can use to easily identify or search items in your bank. You can start by typing the /`b` command to display your bank. It is also possible to view the different pages of your bank with /`b X` (X being any page number).
