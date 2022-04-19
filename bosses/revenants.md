@@ -2,23 +2,20 @@
 
 Revenants are some high risk, high reward content that allows you to collect some handy wildy weapons and many high tier resources. Revs uses the gear in your wildy setup, which means, you CAN lose pieces of gear from this setup. Please read this entire page before embarking.
 
-To start a trip, use the /`revs (style) (name)` command.
+To start a trip, use the `/k`` `**`name`**`: (name) method: none` command.
 
-* E.g. /`revs range imp`
-* E.g. /`revs mage dragon --skull`
+* E.g. `/k`` `**`name`**`: Revenant imp method: none`
+* E.g.  /`k`` `**`name`**`: Revenant dragon method: none`
 
-**Note:** You can add `--skull` at the end of your cmd to fight the revs skulled. This removes the lower value items from the unique table but you risk more of your equipped items.
+**Note:** If you try to put any other method outside of none it will auto default you to using the range method as you can not barrage/burst or cannon revs.
 
 ## Things To Know Before Starting
 
-Like aforementioned, you will use the wildy setup for killing revs. You CAN lose everything from this setup if unlucky so, _**don't equip items you are not willing to lose.**_
+**Note:** You are auto defaulted to being skulled while doing Revenants now no matter what.
 
-You can check which items are potentially at risk and which items you will keep if killed. Use:
+Like aforementioned, you will use the wildy setup for killing revs. You CAN lose everything from this setup if unlucky, _**don't equip items you are not willing to lose.**_
 
-* `/revs --skull` - show items you will keep if skulled
-* `/revs --smited` - show items you will keep if smited
-
-**Note:** If you do revs while _skulled_ and get _smited_, you will lose your entire wildy setup.
+**Note:** If you do revs while and get _smited_, you will lose your entire wildy setup regardless of value/items.
 
 ### **Smite Chance** <img src="../.gitbook/assets/Smite.png" alt="" data-size="line">****
 
@@ -80,9 +77,9 @@ These weapons can be charged which will provide boosts at revs themselves and ma
 
 #### **Ancient Items** ![](<../.gitbook/assets/Ancient emblem.png>) ![](<../.gitbook/assets/Ancient totem.png>) ![](<../.gitbook/assets/Ancient statuette.png>) ![](<../.gitbook/assets/Ancient medallion.png>) ![](<../.gitbook/assets/Ancient effigy.png>) ![](<../.gitbook/assets/Ancient relic.png>)
 
-You can sell the ancient items for the same value as in OSRS. Use the `+revs sell` command. This can't be done if your minion is busy.
+You can sell the ancient items for the same value as in OSRS. Use the `+sell` command. This can't be done if your minion is busy.
 
-* E.g. /`revs sell ancient relic`
+* E.g.  `+sell ancient relic`
 
 |                   |              |
 | ----------------- | :----------: |
