@@ -2,15 +2,15 @@
 
 ## Fastest Route to 99:&#x20;
 
-`/build 5 Crude wooden chair`\
-`/build 7 Wooden bookcase`\
-`/build 7 Wooden larder`\
-`/build 3 Repair bench`\
-`/build 12 Crafting table 1`\
-`/build 39 Oak dining table`\
-`/build 10 Carved oak table`\
-`/build 220 Oak larder`\
-`/build Mahogany table`
+`+build 5 Crude wooden chair`\
+`+build 7 Wooden bookcase`\
+`+build 7 Wooden larder`\
+`+build 3 Repair bench`\
+`+build 12 Crafting table 1`\
+`+build 39 Oak dining table`\
+`+build 10 Carved oak table`\
+`+build 220 Oak larder`\
+`+build Mahogany table`
 
 Materials Needed: \
 94 Plank\
@@ -23,7 +23,8 @@ A much cheaper alternative, especially for ironmen, is Mahogany Homes. This will
 \
 There are two commands associated with Mahogany Homes:
 
-`/mh build`\
-`/mh buy`
+`/minigames mahogany_homes start`
 
-See the minigame page for a full breakdown of Mahogany Homes [https://wiki.oldschool.gg/minigames/mahogany-homes](https://wiki.oldschool.gg/minigames/mahogany-homes)
+`/minigames mahogany_homes buy`
+
+See the Mahogany Homes [minigame page](https://wiki.oldschool.gg/skills/construction/mahogany-homes) for a full breakdown of the activity.

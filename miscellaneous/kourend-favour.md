@@ -1,6 +1,6 @@
 # Kourend Favour
 
-Kourend favour can be attained using  /`favour (housename)`
+Kourend favour can be attained using  `+favour (housename)`
 
 For Shayzien and Arceeus favour you can use `--ns` (no stamina), this will use no stamina potions, however, the trip will be a lot longer.
 
@@ -15,7 +15,7 @@ The below table shows a summary of stat and item requirements, along with time t
 | Piscarilius    | <p>45 Plank<br>25 Steel Bar</p>                      | <p>30 Crafting<br>15 Hunter</p>                                            | 120 minutes             |
 | Shayzien       | <p>2 x Stamina potion(4)<br>2 x Prayer potion(4)</p> | <p>50 Attack<br>50 Strength<br>50 Defence<br>50 Hitpoints<br>43 Prayer</p> | 60 minutes              |
 
-### Activities Requiring Favour
+## Activities Requiring Favour
 
 * You need 65% Hosidius to farm Grapes, and use the Farming guild.
 * You need 75% Hosidius for chopping redwoods.

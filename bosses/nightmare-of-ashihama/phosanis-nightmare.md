@@ -5,7 +5,7 @@
 Phosani's Nightmare is a more difficult; solo-only version of The Nightmare of Ashihama. It drops the same items as the normal Nightmare, as well as the [Parasitic egg](https://oldschool.runescape.wiki/w/Parasitic\_egg#:\~:text=The%20parasitic%20egg%20is%20a,parasite%20version%20of%20the%20pet.) and the [Slepey tablet](https://oldschool.runescape.wiki/w/Slepey\_tablet).\
 While unique items are rarer from Phosani's Nightmare than they are from the regular Nightmare, Phosani's Nightmare can be killed significantly faster, capping out at 2kc per trip (3kc if patreon).
 
-To kill Phosani's Nightmare, use /`nm phosani`
+To kill Phosani's Nightmare, use `+nm phosani`
 
 ## Requirements
 
@@ -25,7 +25,7 @@ To kill Phosani's Nightmare, use /`nm phosani`
 
 ## Boosts
 
-The maul, claws and staff boost are taken directly from the bank. You must have used the tablet for the boost "/`use slepey tablet"`.
+The maul, claws and staff boosts are taken directly from the bank. You must have used the tablet for the boost by doing `+use slepey tablet`.
 
 ![](<../../.gitbook/assets/Elder maul.png>) 3% for Elder maul
 

@@ -4,24 +4,24 @@
 
 Herblore works as it does in OSRS: you clean herbs, make unfinished potions, prepare your secondary ingredients, and then make your final potions. In order to start training herblore, you need 10 qp to get the starting xp from the Druidic Ritual quest which will take you to level 3 herblore. If you did not have 10 qp when herblore was released, you will have a 50% chance of getting the starting xp when questing post 10 qp.
 
-You can buy vials of water using /`buy (quantity) vial of water`
+You can buy vials of water using `+buy (quantity) vial of water`
 
 ### Making Potions
 
 Making unfinished potions, cleaning herbs, and preparing secondary ingredients can all be done by hand, but takes time. You can use Zahur & Wesley to assist in these processes for a small fee.
 
-* `/clean (grimy herb name)` - cleans the herb
-* `/crush (item name)` - crushes the item
-* `/mix (potion base)` - creates the potion base
-* `/mix (finished potion)` - creates the finished potion
+* `+clean (grimy herb name)` - cleans the herb
+* `+crush (item name)` - crushes the item
+* `+mix (potion base)` - creates the potion base
+* `+mix (finished potion)` - creates the finished potion
 
 **Zahur** - You can add `--zahur` to the end of the clean and mix commands to have to potion bases made instantly. However, this will cost 200gp per item. Zahur will also not clean herbs for you if you do not have the required herblore level to clean them yourself. You will also not get any xp.
 
-* E.g. /`clean grimy toadflax --zahur`
+* E.g. `+clean grimy toadflax --zahur`
 
 **Wesley** - You can add `--wesley` to the end of the crush command to have your items crushed instantly. However, this will cost 50gp per item. There are no requirements for this.
 
-* E.g. /`crush bird nest --wesley`
+* E.g. `+crush bird nest --wesley`
 
 ### Herb Cleaning Table
 

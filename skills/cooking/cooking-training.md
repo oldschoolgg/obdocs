@@ -4,13 +4,13 @@
 
 &#x20;**Optimal Cooking to 99** ![:cooking\~1:](https://cdn.discordapp.com/emojis/630911040426868756.png?v=1)
 
-/cook 25 Sardine (Until 5)\
-/cook 120 Herring (Until 15)\
-/cook 75 Trout (Until 20)\
-/cook 108 Pike (Until 25) \
-/cook 155 Salmon (Until 30) \
-/cook 300 Karambwan (Until 35) \
-/cook Jug of wine (Repeat until 99)
+\+cook 25 Sardine (Until 5)\
+\+cook 120 Herring (Until 15)\
+\+cook 75 Trout (Until 20)\
+\+cook 108 Pike (Until 25) \
+\+cook 155 Salmon (Until 30) \
+\+cook 300 Karambwan (Until 35) \
+\+cook Jug of wine (Repeat until 99)
 
 Materials Needed:\
 25 Raw sardine and 120 Raw herring\

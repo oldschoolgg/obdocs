@@ -12,7 +12,7 @@ coverY: 21.65841584158416
 * Saradomin Brew(4), Super Restore (4), Stamina Potion(4)
 * In a mass, atleast one user needs 55 Farming and 78 Herblore. (If solo, you need these too)
 
-It is highly recommended that you have the best possible Melee, Range and Mage gear you can and to equip them in their respective setups.  You can still participate with less than the 'best-in-slot' gear but you will receive less points, increase raid time and increase death chance.
+It is highly recommended that you have the best possible Melee, Range and Mage gear you can and to equip them in their respective setups. You can still participate with less than the 'best-in-slot' gear but you will receive less points, increase raid time and increase death chance.
 
 View the best in slot and alternate gear setups for CoX [here](cox-gear-setups.md)
 
@@ -37,9 +37,9 @@ Please keep in mind that these are just recommendations, you are not restricted 
 ### Getting Started
 
 There are a few things that need to be prefaced before you get started.\
-You can view current stats about your minion and it's raiding abilities with the /`raid` command.&#x20;
+You can view current stats about your minion and it's raiding abilities with the `+raid` command.&#x20;
 
-Starting a Chambers of Xeric raid also uses this command, for masses use /`raid mass`, and solos /`raid solo`.
+Starting a Chambers of Xeric raid also uses this command, for masses use `+raid mass`, and solos `+raid solo`.
 
 Solo Chambers of Xeric requires 50 KC, so the first 50 must be done within a mass raid, a mass requires minimum of 2 users and has a maximum capacity of 15.
 

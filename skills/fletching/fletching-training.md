@@ -2,14 +2,14 @@
 
 ### Fastest route to 99:
 
-/fletch 888 bronze arrow\
-/fletch 2484 bronze dart\
-/fletch 5750 iron dart\
-/fletch 12825 steel dart\
-/fletch mithril dart until 67\
-/fletch adamant dart until 81\
-/fletch rune dart until 95\
-/fletch dragon dart repeat until 99\
+\+fletch 888 bronze arrow\
+\+fletch 2484 bronze dart\
+\+fletch 5750 iron dart\
+\+fletch 12825 steel dart\
+\+fletch mithril dart until 67\
+\+fletch adamant dart until 81\
+\+fletch rune dart until 95\
+\+fletch dragon dart repeat until 99\
 \
 Materials Needed:\
 888 headless arrow and 888 bronze arrowtips\

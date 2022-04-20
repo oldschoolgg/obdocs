@@ -2,7 +2,7 @@
 
 OSRS Wiki page: [https://oldschool.runescape.wiki/w/Volcanic\_Mine](https://oldschool.runescape.wiki/w/Volcanic\_Mine)
 
-You can do the Volcanic Mine using:  /`vm [qty]`
+You can do the Volcanic Mine using:  `+vm [qty]`
 
 ### Requirements
 
@@ -35,9 +35,9 @@ If you have all the boosts you should get the following message upon starting a 
 
 ### Volcanic Mine Shop
 
-You can buy everything you can buy in OSRS with the  /`vm shop` command:
+You can buy everything you can buy in OSRS with the  `+vm shop` command:
 
-E.g.  /`vm shop 1000 gold ore`
+E.g.  `+vm shop 1000 gold ore`
 
 |                        |                |
 | ---------------------- | :------------: |

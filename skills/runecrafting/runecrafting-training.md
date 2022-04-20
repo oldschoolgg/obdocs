@@ -2,13 +2,13 @@
 
 ### Fastest Route to 99:
 
-`/rc 103 air rune` (until 6) \
-&#x20;/`rc 76 mist rune` (until 10) \
-/`rc 75 dust rune` (until 13) \
-/`rc 61 mud rune` (until 15) \
-/`rc 164 smoke rune` (until 19) \
-/`rc 232 steam rune` (until 23) \
-/`rc lava rune` (repeat until 99)
+`/runecraft`` `**`rune:`**`Air Rune`` `**`quantity:`**`103` (until level 6) \
+`/runecraft`` `**`rune:`**`Mist Rune`` `**`quantity:`**`76` (until level 10) \
+`/runecraft`` `**`rune:`**`Dust Rune`` `**`quantity:`**`75` (until level 13) \
+`/runecraft`` `**`rune:`**`Mud Rune`` `**`quantity:`**`61` (until level 15) \
+`/runecraft`` `**`rune:`**`Smoke Rune`` `**`quantity:`**`164` (until level 19) \
+`/runecraft`` `**`rune:`**`Steam Rune`` `**`quantity:`**`232` (until level 23) \
+`/runecraft`` `**`rune:`**`Lava Rune` (repeat until 99)
 
 **Materials Needed:** 1241520 Pure essence and 1000-2000 Binding necklaces \
 1240800 Earth rune, 293 Water rune and 315 Air rune. Abyssal sire drops Binding necklaces in quantity's of 25.\
@@ -17,18 +17,18 @@
 
 ### Alternative Route to 99 (more profitable):
 
-`/rc 17 air` \
-&#x20;/`rc 56 mind` \
-&#x20;/`rc 97 water` \
-&#x20;/`rc 176 earth` \
-&#x20;/`rc 338 fire` \
-&#x20;/`rc 4368 body` \
-&#x20;/`rc astral` - to 77\
+`/runecraft`` `**`rune:`**`Air Rune`` `**`quantity:`**`17`\
+`/runecraft`` `**`rune:`**`Mind Rune`` `**`quantity:`**`56`\
+`/runecraft`` `**`rune:`**`Water Rune`` `**`quantity:`**`97`\
+`/runecraft`` `**`rune:`**`Earth Rune`` `**`quantity:`**`176`\
+`/runecraft`` `**`rune:`**`Fire Rune`` `**`quantity:`**`338`\
+`/runecraft`` `**`rune:`**`Body Rune`` `**`quantity:`**`4368`\
+`/runecraft`` `**`rune:`**`Astral Rune` - to 77\
 \
 Unlock Kourend & Kebos medium diary for Dense essence mining buff.\
 \
-/`darkaltar blood` - to 90 (or 99)\
-/`darkaltar soul` - to whatever, this is best xp/hr!
+`/runecraft`` `**`rune:`**`Blood Rune` - to 90 (or 99)\
+`/runecraft`` `**`rune:`**`Soul Rune` - to whatever, this is best xp/hr!
 
 Requires 170,382 pure essence
 

@@ -36,13 +36,13 @@ To spend your honour points to increase your honour level, use the following com
 
 ### Barbarian Assault Shop
 
-To spend your honour points on BA items, you can use the  /`ba buy` command.
+To spend your honour points on BA items, use the following:
 
-* E.g.  /`ba buy fighter torso`
+* `/minigames barb_assault buy`
 
-You can also gamble your honour points by using  /`ba gamble` command.
+To spend your honour points on gambles, use the following:
 
-* E.g.  /`ba gamble low/medium/high`
+* `/minigames barb_assault gamble`
 
 | **Item**           | **Honour point cost** |
 | ------------------ | :-------------------: |
@@ -59,4 +59,4 @@ You can also gamble your honour points by using  /`ba gamble` command.
 | High gamble        |          500          |
 | Granite body**\*** |        95,000gp       |
 
-**\*** - The Granite body is purchasable after completing 10 waves of BA. To purchase the Granite body, use  /`buy granite body`
+**\*** - The Granite body is purchasable after completing 10 waves of BA. To purchase the Granite body, use  `+buy granite body`

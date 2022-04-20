@@ -2,12 +2,12 @@
 
 Smithing is one of the more useful skills on the bot, because it is required to create many useful items such as godswords, spirit shields and crystal equipment.
 
-You can train smithing by using  /`smelt` &  /`smith` commands.
+You can train smithing by using `+smelt` & `+smith` commands.
 
-* `/smelt [quantity] <bar>`
-  * E.g.  /`smelt 50 gold bar`
-* `/smith [quantity] <item>`
-  * E.g.  /`smith 100 adamant dart tip`
+* `+smelt [quantity] <bar>`
+  * E.g. `+smelt 50 gold bar`
+* `+smith [quantity] <item>`
+  * E.g. `+smith 100 adamant dart tip`
 
 ### Bars
 
@@ -32,7 +32,7 @@ An alternative method to train smithing is through use of the blast furnace. At 
 
 ### Items Requiring Smithing
 
-You can smith just about any item from the main game for xp, at exactly the same xp rates. You can see a full list of smithables by typing  /smith `--items` in the bot, or by visiting the [OSRS Smithing Wiki page.](https://oldschool.runescape.wiki/w/Smithing#Smithing)&#x20;
+You can smith just about any item from the main game for xp, at exactly the same xp rates. You can see a full list of smithables by typing `+smith --items` in the bot, or by visiting the [OSRS Smithing Wiki page.](https://oldschool.runescape.wiki/w/Smithing#Smithing)&#x20;
 
 The bot also mimics some of the more useful creatables that require a certain smithing level in the real game too. Here is a list of those items.
 

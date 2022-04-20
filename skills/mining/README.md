@@ -1,6 +1,6 @@
 # Mining
 
-You can train Mining using  /`mine [quantity] <ore>`, for example `+mine 10 coal`.
+You can train Mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`.
 
 See [Mining Training](mining-training.md) and [Volcanic Mine](volcanic-mine.md)
 

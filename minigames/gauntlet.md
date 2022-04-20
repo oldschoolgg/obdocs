@@ -56,7 +56,7 @@ You need 82 crafting and smithing to create both the inactive and charged versio
 
 You may trade in your spare crystal seeds for crystal shards through the `+amrod` command.
 
-* E.g.  /`amrod 3 crystal tool seed`
+* E.g.  `+amrod 3 crystal tool seed`
 
 | **Seed**                       | **Shards** |
 | ------------------------------ | :--------: |

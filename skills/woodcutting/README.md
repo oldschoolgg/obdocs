@@ -1,6 +1,6 @@
 # Woodcutting
 
-You can train Woodcutting using  /`chop [quantity] <logs>`, for example  /`chop 50 willow`. Alternatively, if you would like your minion to cut as many logs as possible in a single task, you can use  /`chop <logs>`, for example `+chop willow`.
+You can train Woodcutting using  `+chop [quantity] <logs>`, for example  `+chop 50 willow`. Alternatively, if you would like your minion to cut as many logs as possible in a single task, you can use  `+chop <logs>`, for example `+chop willow`.
 
 The bot uses XP rates based off rune axe as standard; however, you can get one of the following boosts from owning one of these axes:
 

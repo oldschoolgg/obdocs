@@ -23,8 +23,8 @@ The Blowpipe can be created from the fang (requires 53 fletching) and is an inte
 
 The Magic fang can be used to create 2 different staves (requires 59 crafting) and both provide boosts to Kraken and Thermy bosses. Once created, these 2 items _cannot_ be reverted.
 
-* `/create toxic staff (uncharged)`
-* `/create uncharged toxic trident`
+* `/create`` `**`item:`**`Toxic staff (uncharged)`
+* `/create`` `**`item:`**`Uncharged toxic trident`
 
 ![](<../.gitbook/assets/Serpentine visage.png>) **Serpentine visage**
 
@@ -41,7 +41,7 @@ Currently have no use. They CANNOT be added to the serpentine helm as of this mo
 ### Reverting
 
 It is possible to revert the following items into _20,000 zulrah scales_ using the `/create` command.\
-`/create item: Revert tanzanite fang quantity: 1`
+`/create`` `**`item:`**` ``Revert tanzanite fang quantity: 1`
 
 * `tanzanite fang`
 * `toxic blowpipe (empty)`

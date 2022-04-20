@@ -10,21 +10,21 @@ Agility is required to participate in a variety of activities.
 
 ## Training Methods
 
-Agility can be trained by using the command /`laps [quantity] <course>`. For example: /`laps 10 canifis`.
+Agility can be trained by using the command `+laps [quantity] <course>`. For example: `+laps 10 canifis`.
 
-You can check your total lap counts with the /`m lapcounts` command.
+You can check your total lap counts with the `+m lapcounts` command.
 
 ### Rooftop Agility
 
-Rooftop agility courses reward the player with marks of grace which can be used to buy pieces of the Graceful outfit, using the command /**create item: Graceful** this will take 260 marks of grace and create the entire outfit at once, and amylase packs using the command /`buy [quantity] amylase pack`, which will give you 100 amylase crystals per amylase pack costing 10 marks of grace each.
+Rooftop agility courses reward the player with marks of grace which can be used to buy pieces of the Graceful outfit, using the command `/create`` `**`item:`**`Graceful` **** this will take 260 marks of grace and create the entire outfit at once, and amylase packs using the command `+buy [quantity] amylase pack`, which will give you 100 amylase crystals per amylase pack costing 10 marks of grace each.
 
 ### [Hallowed Sepulchre](https://wiki.oldschool.gg/minigames/hallowed-sepulchre)
 
-From level 52 agility, the player may train agility using the command /`sepulchre`, which also requires full Graceful equipped in your skilling setup. You will progressively get better at plundering the sepulchre as your agility level increases, peaking at 92 agility.
+From level 52 agility, the player may train agility using the command `/minigames sepulchre start`, which also requires full Graceful equipped in your skilling setup. You will progressively get better at plundering the sepulchre as your agility level increases, peaking at 92 agility.
 
 ### [Brimhaven Agility Arena](https://wiki.oldschool.gg/minigames/brimhaven-agility-arena)
 
-The Brimhaven Agility Arena rewards the player with Agility tickets which can be used to purchase cosmetic rewards or agility XP, using the command /`agilityarena`.
+The Brimhaven Agility Arena rewards the player with Agility tickets which can be used to purchase cosmetic rewards or agility XP, using the command `+agilityarena`.
 
 ## Courses
 

@@ -6,8 +6,8 @@ Not all items are able to be bought, and no discount is given for any Karamja di
 
 You are able to both buy and sell items to this store using the following commands:
 
-* `/tokkulshop buy (quantity) (item)`
-* `/tokkulshop sell (quantity) (item)`
+* `/tokkulshop buy`
+* `/tokkulshop sell`
 
 |                        |                  |                   |
 | ---------------------- | :--------------: | :---------------: |

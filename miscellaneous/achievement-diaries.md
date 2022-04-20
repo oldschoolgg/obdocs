@@ -13,9 +13,9 @@ If you meet the requirements of a Diary, you can claim the reward item and the X
 * **Claim the rewards for a Diary:**
   * `/minion achievementdiary claim:True diary:Falador`
 * **Use an XP lamp:**
-  * `/lamp (quantity) antique lamp 1/2/3/4`
+  * `+lamp (quantity) antique lamp 1/2/3/4`
 * **Buy the achievement diary cape:**
-  * `/buy achievement diary cape`
+  * `+buy achievement diary cape`
 
 ## Diary Perks
 
@@ -48,10 +48,17 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 * **Elite**
   * 10% chance of receiving 2 Agility arena tickets, instead of one, upon every successful pillar tag at the Brimhaven Agility Arena
 
+### Kourend & Kebos Diary
+
+* **Medium**
+  * 20% boost to gathering speed of Dense essence blocks
+* **Elite**
+  * 10% Additional runes granted during the crafting process of Blood runes
+
 ### Lumbridge & Draynor Diary
 
 * **Hard**
-  * 10% additional experience when completing Tears of Guthix
+  * 10% additional experience when completing [Tears of Guthix](https://wiki.oldschool.gg/miscellaneous/tears-of-guthix)
 
 ### Morytania Diary
 
@@ -61,20 +68,13 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 ### Western Provinces Diary
 
 * **Easy**
-  * 25% increase to hunting Chompy Birds
+  * 25% increase to hunting Chompy birds
 * **Medium**
-  * 50% increase to hunting Chompy Birds
+  * 50% increase to hunting Chompy birds
 * **Elite**
-  * 100% increase to hunting Chompy Birds
+  * 100% increase to hunting Chompy birds
 
 ### Wilderness Diary
 
 * **Elite**
-  * 3x speed boost to charging glories at the Fountain of Rune
-
-### Kourend Diary
-
-* **Medium**
-  * 20% boost to Gathering speed of Dense Essence Blocks
-* **Elite**
-  * 10% Additional runes granted during the crafting process of Blood runes
+  * 3x speed boost to charging glories at the [Fountain of Rune](https://wiki.oldschool.gg/skills/magic/fountain-of-rune)

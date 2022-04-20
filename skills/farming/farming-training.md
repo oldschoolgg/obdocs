@@ -1,11 +1,11 @@
 # Farming Training
 
 **Before you start:** Decide what tier of compost you want to use. Ultracompost is definitely worth obtaining if you plan on doing any serious farming.\
-Use: /`defaultfarming tier ultracompost` before you start doing any farming and make sure to keep up on supply. At a bare minimum use supercompost, as it's very easy to get through pvm or the /compostbin command.
+Use: `+defaultfarming tier ultracompost` before you start doing any farming and make sure to keep up on supply. At a bare minimum use supercompost, as it's very easy to get through pvm or the `+compostbin` command.
 
 Ultra compost can be obtained by mining volcanic ash and combining with super compost.\
-/`mine volcanic ash`\
-/`create ultracompost`
+`+mine volcanic ash`\
+`/create`` `**`item:`**`Ultracompost`
 
 ## Route to 99
 

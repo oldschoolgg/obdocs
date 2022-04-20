@@ -4,8 +4,8 @@ You can use the Fountain of Rune to charge Rings of wealth and Amulets of glory.
 
 To charge at the Fountain of Rune, use the following command:
 
-* `/chargewealth (quantity)`
-* `/chargeglories (quantity)`
+* `+chargewealth (quantity)`
+* `+chargeglories (quantity)`
 
 **Note:** quantity refers to 1 inventory (1 invent = 26 items)
 
@@ -18,7 +18,7 @@ To charge at the Fountain of Rune, use the following command:
 
 * Amulet of glory(6) are only used in the [Gnome Restaurant](https://wiki.oldschool.gg/minigames/gnome-restaurant) minigame.
 * Gnome Restaurant is currently the only way to remove charges from a glory.
-* If you want to create Amulet of glory(4), use the  /`cast` command. However, these are not used in Gnome restaurant and are only used to create the Ornate jewelley box in your POH.
+* If you want to create Amulet of glory(4), use the  `+cast` command. However, these are not used in Gnome restaurant and are only used to create the Ornate jewelley box in your POH.
 
 ### Amulet of Eternal Glory
 

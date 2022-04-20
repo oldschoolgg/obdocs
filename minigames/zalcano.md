@@ -1,6 +1,6 @@
 # Zalcano
 
-Zalcano is a skilling based boss. You can start a trip with  /`zalcano`.
+Zalcano is a skilling based boss. You can start a trip with  `+zalcano`.
 
 Zalcano is a solo only activity, however your minion theoretically kills it with other minions.
 

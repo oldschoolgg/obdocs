@@ -1,6 +1,6 @@
 # Collecting
 
-Certain items can be collected using the  /`collect [tripAmount, itemName]` command. Every item has a minimum amount to be collected per trip, which is listed under the requirements in the table below. For example, if you want to collect 240 snape grass - which is collected in bundles of 120 - you would use  /`collect 2 snape grass`.
+Certain items can be collected using the  `+collect [tripAmount, itemName]` command. Every item has a minimum amount to be collected per trip, which is listed under the requirements in the table below. For example, if you want to collect 240 snape grass - which is collected in bundles of 120 - you would use  `+collect 2 snape grass`.
 
 |                    |                                                                                                                                  |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- |

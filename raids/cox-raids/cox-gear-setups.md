@@ -2,7 +2,7 @@
 
 ## Overview
 
-Your gear score (shown by doing /`raid gear`) is calculated by comparing your current gear's stats to a reference setup. Therefore, in order to reach a 100% gear score, you must have all of the relevant stats equal or exceed the stats of these reference setups. Depending on the setup, certain stats are ignored. (e.g range attack in your melee setup)\
+Your gear score (shown by doing `+raid gear`) is calculated by comparing your current gear's stats to a reference setup. Therefore, in order to reach a 100% gear score, you must have all of the relevant stats equal or exceed the stats of these reference setups. Depending on the setup, certain stats are ignored. (e.g range attack in your melee setup)\
 \
 Currently, each setup looks at **all** of your strength bonuses (melee, mage dmg, & range), however these stats are completely ignored if they are less than or equal to 0, meaning that this only really applies to the ranged setup.\
 \

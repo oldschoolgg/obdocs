@@ -2,17 +2,17 @@
 
 Farming in the bot works like farming ingame, where you will send your minion off on planting and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of patches you have available will increase with the number of quest points you have and your farming level.
 
-To plant crops, you can use the /`plant <name>` or `+farm <name>` commands. When a crop is fully grown, you can either use the /`harvest <name>` command, which will leave your patches empty, or the /`plant` or /`farm` commands which will plant whatever new crop you specify.
+To plant crops, you can use the `+plant <name>` or `+farm <name>` commands. When a crop is fully grown, you can either use the `+harvest <name>` command, which will leave your patches empty, or the `+plant` or `+farm` commands which will plant whatever new crop you specify.
 
-Alternatively, you can use /`m af/autofarm` to automatically plant the highest level seed in each patch you currently have access to.
+Alternatively, you can use `+m af/autofarm` to automatically plant the highest level seed in each patch you currently have access to.
 
-Some crops can be protected when planted using the `--pay` flag on the end of your farming command. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming\_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the /`create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
+Some crops can be protected when planted using the `--pay` flag on the end of your farming command. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming\_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `/create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
 
-You can view the patches you currently have things planted in, as well as the time remaining before they are done growing, by using /`checkpatches or /cp`
+You can view the patches you currently have things planted in, as well as the time remaining before they are done growing, by using `+checkpatches` or `+cp`
 
-You can set crop payment and compost to apply automatically using the /`defaultfarming tier compost/supercompost/ultracompost` and /`defaultfarming pay enable/disable` commands.
+You can set crop payment and compost to apply automatically using the `+defaultfarming tier compost/supercompost/ultracompost` and `+defaultfarming pay enable/disable` commands.
 
-You can make supercompost from watermelons using the /`compostbin watermelon` command. Otherwise supercompost can be obtained from drops by wilderness bosses.
+You can make supercompost from watermelons using the `+compostbin watermelon` command. Otherwise supercompost can be obtained from drops by wilderness bosses.
 
 **Farming Payment Creatables**
 
@@ -55,7 +55,7 @@ The speed of your farming trips and the xp you gain from farming activities can 
 
 The full [Farming commands breakdown](../../farming.md) gives an overview of all the commands introduced with the Farming skill.
 
-**Note**: Some of the commands listed in the list above may be out of date, as the bot is slowly transitioning to having more commands under /`m`.
+**Note**: Some of the commands listed in the list above may be out of date, as the bot is slowly transitioning to having more commands under `/m`.
 
 **Farming Patches**
 
@@ -83,57 +83,57 @@ The full [Farming commands breakdown](../../farming.md) gives an overview of all
 
 ## Optimal Farming route to 99
 
-`/cp (For checking farm times)`&#x20;
+`+cp (For checking farm times)`&#x20;
 
-`/defaultfarming tier ultracompost`&#x20;
+`+defaultfarming tier ultracompost`&#x20;
 
-`/defaultfarming pay enable`&#x20;
+`+defaultfarming pay enable`&#x20;
 
-`/farm Potato (1-2 times until 5)`&#x20;
+`+farm Potato (1-2 times until 5)`&#x20;
 
-`/farm Onion (1-2 times until 7)`&#x20;
+`+farm Onion (1-2 times until 7)`&#x20;
 
-`/farm Cabbage (1-2 times until 12)`&#x20;
+`+farm Cabbage (1-2 times until 12)`&#x20;
 
-`/farm Tomato (1-3 times until 15)  "/harvest allotment (last tomato trip before 15)) (Farm tree seeds, Hardwood seeds, fruit tree seeds and Special seeds until 99)`&#x20;
+`+farm Tomato (1-3 times until 15)  "/harvest allotment (last tomato trip before 15)) (Farm tree seeds, Hardwood seeds, fruit tree seeds and Special seeds until 99)`&#x20;
 
 **`Tree seeds`**` ```&#x20;
 
-`/farm Oak (Until 30)`&#x20;
+`+farm Oak (Until 30)`&#x20;
 
-`/farm Willow (Until 45)`&#x20;
+`+farm Willow (Until 45)`&#x20;
 
-`/farm Maple (Until 60)`&#x20;
+`+farm Maple (Until 60)`&#x20;
 
-`/farm Yew (Until 75)`&#x20;
+`+farm Yew (Until 75)`&#x20;
 
-`/farm Magic (Repeat until 99)`&#x20;
+`+farm Magic (Repeat until 99)`&#x20;
 
 **`Hardwood seeds`**` ```&#x20;
 
-`/farm Teak (35 until 55)`&#x20;
+`+farm Teak (35 until 55)`&#x20;
 
-`/farm Mahogany (Repeat until 99)`&#x20;
+`+farm Mahogany (Repeat until 99)`&#x20;
 
 **`Fruit tree seeds`**
 
-`/farm Pineapple (51 until 57)`&#x20;
+`+farm Pineapple (51 until 57)`&#x20;
 
-`/farm Papaya (Until 68)`&#x20;
+`+farm Papaya (Until 68)`&#x20;
 
-`/farm Palm tree (Until 81)`&#x20;
+`+farm Palm tree (Until 81)`&#x20;
 
-`/farm Dragonfruit (Repeat until 99)`&#x20;
+`+farm Dragonfruit (Repeat until 99)`&#x20;
 
 **`Special seeds`**&#x20;
 
-`/farm Calquat (72 repeat until 99)`&#x20;
+`+farm Calquat (72 repeat until 99)`&#x20;
 
-`/farm Spirit (83 repeat until 99)`&#x20;
+`+farm Spirit (83 repeat until 99)`&#x20;
 
-`/farm Celastrus (85 repeat until 99)`&#x20;
+`+farm Celastrus (85 repeat until 99)`&#x20;
 
-`/farm Redwood (90 repeat until 99`
+`+farm Redwood (90 repeat until 99`
 
 **Materials Needed:**
 

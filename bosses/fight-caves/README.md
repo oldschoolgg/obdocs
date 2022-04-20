@@ -2,10 +2,10 @@
 
 ### Overview
 
-You can challenge the Fight Caves and TzTok-Jad to receive a fire cape, tokkul, and the TzRek-Jad pet using the `/fightcaves` command. Better range gear will reduce the time each attempt takes at a rate of roughly 1% per 5 attack value, as will total Jad kc. \
-You can equip your best ranged gear with the autoequip command `/autoequip range attack ranged`\
+You can challenge the Fight Caves and TzTok-Jad to receive a fire cape, tokkul, and the TzRek-Jad pet using the `+fightcaves` command. Better range gear will reduce the time each attempt takes at a rate of roughly 1% per 5 attack value, as will total Jad kc. \
+You can equip your best ranged gear with the autoequip command `+autoequip range attack ranged`\
 The number of total attempts you have made will determine your chances of killing Jad when he is reached.\
-You can make 4 dose potions from 3, 2, and 1 dose drops using the `/decant` command. Should you fail before the final wave, some of your potions will be refunded.
+You can make 4 dose potions from 3, 2, and 1 dose drops using the `+decant` command. Should you fail before the final wave, some of your potions will be refunded.
 
 ### Requirements & Boosts
 
@@ -15,7 +15,7 @@ You can make 4 dose potions from 3, 2, and 1 dose drops using the `/decant` comm
 * Having a Saradomin Godsword equipped in any setup reduce your chances of dying before Jad by 4%.
 * Having a Twisted Bow in your bank gives a 15% boost to time.
 
-If you have extra fire capes, you can gamble them for an additional roll at the TzRek-Jad pet using the `/capegamble` command.
+If you have extra fire capes, you can gamble them for an additional roll at the TzRek-Jad pet using the `+capegamble` command.
 
 Tokkul can be spent at the [Tokkul shop](https://wiki.oldschool.gg/bosses/fight-caves/tokkul-shop).
 
