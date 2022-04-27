@@ -6,6 +6,10 @@ You can start aerial fishing with either `+aerial` or `+aerialfish`
 
 You can purchase buyables via `+aerialfish buy (item)`
 
+You can sell Golden Tenches for 100 Molch pearls via `+aerialfish sell golden tench`
+
+
+
 ### Aerial Fishing Buyables
 
 | **Item**              | **Molch pearl cost** |
