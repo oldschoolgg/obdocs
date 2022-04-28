@@ -2,7 +2,7 @@
 
 Slayer is a skill where you're assigned to kill a certain amount of a certain monster - called a 'task', you keep completing lots of tasks to unlock more knowledge on slaying monsters, and gain points which can be used to unlock rewards.
 
-So, in very simple terms to train slayer, all you need to do is: **Get a task** "`+slayertask"` then **Kill that monster "**`/k monster"`.
+So, in very simple terms to train slayer, all you need to do is: **Get a task** `+slayertask` then **Kill that monster** `/k monster`.
 
 ## Commands
 
@@ -49,20 +49,20 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 *   **Use a Cannon in your task**
 
-    * If you own a cannon and cannonballs, the cannon can be used at some slayer tasks to speed it up, at the cost of cannonballs. You can do this by adding `--cannon` to your message. E.g `/k dagannoth --cannon`
+    * If you own a cannon and cannonballs, the cannon can be used at some slayer tasks to speed it up, at the cost of cannonballs. You can do this with the method option on the kill command, for example `/k name:dagannoth method:cannon`
     * You can buy a cannon using `+buy dwarf multicannon`.
     * In single combat, 16 cannonballs are used per minute of task. In multi combat, 50 cannonballs are used per minute of task.
 
 
 *   **Barrage your task:**
 
-    * If you have sufficient Runes and the Magic level, you can barrage your tasks, to speed it up at the cost of runes. You can do this by adding `--barrage` to your message. E.g. `/k abyssal demon --barrage.` You can also burst tasks using `--burst` instead.
+    * If you have sufficient Runes and the Magic level, you can barrage your tasks, to speed it up at the cost of runes. You can do this with the method option on the kill command, for example `/k name:warped jelly method:barrage`
     * Both barrage and burst uses 16 casts per minute of task. The rune costs are the same as in game. Any item that provides unlimited water runes works, but needs to be equipped.
 
 
 *   **Default to always barraging/bursting/cannoning**
 
-    * /config user combat\_options
+    * `/config user combat_options`
 
     Note that there is no way to override the always on settings. If you want to do certain tasks in the catacombs for example you should disable always cannon and specify `+as ehp` when wanting to use a cannon. If you've saved `+as ehp` as your default, you can override this by using `+as default`.\
 
