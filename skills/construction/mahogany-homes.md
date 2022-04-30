@@ -39,7 +39,7 @@ E.g. `/minigames mahogany_homes buy`` `**`name:`**`builders supply crate`
 | --------------------- | :------------: | :-----------------------------------------: |
 | Builders supply crate |       25       | Provides construction materials when opened |
 | Amy's saw             |       500      |                 Cosmetic saw                |
-| Plank sack            |       350      |            Construction xp boost            |
+| Plank sack            |       350      |           Mahogany Homes xp boost           |
 | Hosidius blueprints   |      2,000     |                 PoH recolour                |
 | Carpenter's helmet    |       400      |          0.4% construction xp boost         |
 | Carpenter's shirt     |       800      |          0.8% construction xp boost         |
