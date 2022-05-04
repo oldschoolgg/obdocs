@@ -16,13 +16,13 @@ description: Hugely beneficial boosts!
 
 ## Boosts
 
-**80 Con - Rejuvenation pool and higher:**\
-50% up to 65% boost to Corp with Ornate Rejuvenation Pool\
-10% up to 25% boost to Kalphite Queen with Ornate Rejuvenation Pool\
-10% up to 30% boost to Abyssal Sire with Ornate Rejuvenation Pool\
-10% up to 19% boost to Barrows with Ornate Rejuvenation Pool\
+**80 Con - Rejuvenation pool or higher:**\
+50% boost to Corp\
+10% boost to Kalphite Queen\
+10% boost to Abyssal Sire\
+10% boost to Barrows\
 \
-This will likely be extended in the future and include the jewellery box.
+This may be expanded in the future to include higher level pools and the jewellery box.
 
 ## General
 
