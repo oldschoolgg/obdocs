@@ -21,14 +21,14 @@ The Blowpipe can be created from the fang (requires 53 fletching) and is an inte
 
 ![](<../.gitbook/assets/Magic fang.png>) **Magic fang**
 
-The Magic fang can be used to create 2 different staves (requires 59 crafting) and both provide boosts to Kraken and Thermy bosses. Once created, these 2 items _cannot_ be reverted.
+The Magic fang can be used to create 2 different staves (requires 59 crafting) and both provide boosts to Kraken and Thermy bosses. Once created, these 2 items _cannot_ be reverted. Neither item can be charged.
 
 * `/create`` `**`item:`**`Toxic staff (uncharged)`
 * `/create`` `**`item:`**`Uncharged toxic trident`
 
 ![](<../.gitbook/assets/Serpentine visage.png>) **Serpentine visage**
 
-The Serpentine helm can be crafted from the visage (requires 52 crafting), however, currently provides _no boosts_ anywhere within the bot. It also _cannot_ be charged at this stage.
+The Serpentine helm can be crafted from the visage (requires 52 crafting), however, currently provides _no boosts_ anywhere within the bot. It also _cannot_ be charged.
 
 The helm can be created with the following command:
 
@@ -36,11 +36,11 @@ The helm can be created with the following command:
 
 ![](<../.gitbook/assets/Magma mutagen.png>) ![](<../.gitbook/assets/Tanzanite mutagen.png>) **Magma/Tanzanite mutagens**
 
-Currently have no use. They CANNOT be added to the serpentine helm as of this moment.
+Currently have no use. They _cannot_ be added to the serpentine helm.
 
 ### Reverting
 
-It is possible to revert the following items into _20,000 zulrah scales_ using the `/create` command.\
+It is possible to revert the following items into 20,000 zulrah's scales using the `/create` command.\
 `/create`` `**`item:`**` ``Revert tanzanite fang quantity: 1`
 
 * `tanzanite fang`
