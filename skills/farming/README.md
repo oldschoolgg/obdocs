@@ -8,8 +8,6 @@ When a crop is fully grown, you can either use the `/farming harvest` command, w
 
 Alternatively, you can use `/farming auto_farm` to automatically plant the highest level seed in each patch you currently have access to.
 
-Some crops can be protected by using the pay option on farming commands. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming\_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `/create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
-
 You can view the patches you currently have things planted in, as well as the time remaining before they are done growing, by using `/farming check_patches`
 
 You can set crop payment and compost to apply automatically using the `/farming default_compost` and `/farming always_pay` commands.
@@ -21,6 +19,10 @@ Compost is buyable from the game shop using the `+buy` command.
 You can make supercompost from watermelons using the `/farming compost_bin` command. Otherwise supercompost can be obtained from drops by wilderness bosses.
 
 You can create ultracompost with the `/create` command, using 2 Volcanic Ash and 1 Supercompost.
+
+You can find an optimal route to level 99 farming [here](https://wiki.oldschool.gg/skills/farming/farming-training#optimal-route-to-level-99)
+
+Crops can be protected by using the pay option on farming commands. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming\_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `/create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
 
 
 
