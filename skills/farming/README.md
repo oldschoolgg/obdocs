@@ -61,9 +61,7 @@ The speed of your farming trips and the xp you gain from farming activities can 
 * Full Graceful Outfit - 10% to trip speed
 * Ring of Endurance - 10% to trip speed (must be [charged](https://wiki.oldschool.gg/skills/agility/hallowed-sepulchre#ring-of-endurance) & equipped)
 
-The full [Farming commands breakdown](../../farming.md) gives an overview of all the commands introduced with the Farming skill.
 
-**Note**: Some of the commands listed in the list above may be out of date, as the bot is slowly transitioning to having more commands under `/m`.
 
 **Farming Patches**
 
