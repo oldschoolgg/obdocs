@@ -15,6 +15,4 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * Questing information and unlocks
 * Createables
 * Drift Net fishing page
-* Update Bank Backgrounds (Completed by Josh, let me know if anything is missing/incorrect)
-* Reverting items page (Completed by Josh, let me know if anything is missing/incorrect)
 * Boosts to RC page
