@@ -2,7 +2,7 @@
 
 The [Tithe Farm](https://oldschool.runescape.wiki/w/Tithe\_Farm) is a Farming minigame where you earn points which can be used to purchase the Farmers outfit, supercompost, and other collection log slots. Your minion will start out quite inefficient at the minigame and progressively become more experienced.
 
-The start the minigame, use `+tithefarm`
+The start the minigame, use `/farming tithe_farm`
 
 ### Requirements
 
@@ -19,16 +19,16 @@ The start the minigame, use `+tithefarm`
 
 ### Tithe Farm Shop
 
-To purchase an item from this shop, use the `+tfs` command.
+To purchase an item from this shop, use the `/farming tithe_farm [buy_reward]` command.
 
-**E.g.** `+tfs farmers strawhat`
+**E.g.** `/farming tithe_farm [buy_reward:Farmer's strawhat]`
 
 | **Item name**           | **Point cost** |
 | ----------------------- | :------------: |
-| Farmers strawhat        |       75       |
-| Farmers jacket/shirt    |       150      |
-| Farmers boro trousers   |       125      |
-| Farmers boots           |       50       |
+| Farmer's strawhat       |       75       |
+| Farmer's jacket/shirt   |       150      |
+| Farmer's boro trousers  |       125      |
+| Farmer's boots          |       50       |
 | Seed box**\***          |       250      |
 | Gricoller's can**\***   |       200      |
 | Herb sack**\***         |       250      |

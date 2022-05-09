@@ -2,17 +2,27 @@
 
 Farming in the bot works like farming ingame, where you will send your minion off on planting and/or harvesting trips, and your crops will grow in the background as you do other activities. The number of patches you have available will increase with the number of quest points you have and your farming level.
 
-To plant crops, you can use the `+plant <name>` or `+farm <name>` commands. When a crop is fully grown, you can either use the `+harvest <name>` command, which will leave your patches empty, or the `+plant` or `+farm` commands which will plant whatever new crop you specify.
+To plant crops, you can use the `/farming plant` command.&#x20;
 
-Alternatively, you can use `+m af/autofarm` to automatically plant the highest level seed in each patch you currently have access to.
+When a crop is fully grown, you can either use the `/farming harvest` command, which will leave your patches empty, or the `/farming plant` command which will plant the new crop you specify.
 
-Some crops can be protected when planted using the `--pay` flag on the end of your farming command. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming\_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `/create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
+Alternatively, you can use `/farming auto_farm` to automatically plant the highest level seed in each patch you currently have access to.
 
-You can view the patches you currently have things planted in, as well as the time remaining before they are done growing, by using `+checkpatches` or `+cp`
+Some crops can be protected by using the pay option on farming commands. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming\_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `/create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
 
-You can set crop payment and compost to apply automatically using the `+defaultfarming tier compost/supercompost/ultracompost` and `+defaultfarming pay enable/disable` commands.
+You can view the patches you currently have things planted in, as well as the time remaining before they are done growing, by using `/farming check_patches`
 
-You can make supercompost from watermelons using the `+compostbin watermelon` command. Otherwise supercompost can be obtained from drops by wilderness bosses.
+You can set crop payment and compost to apply automatically using the `/farming default_compost` and `/farming always_pay` commands.
+
+When harvesting trees, you will either need the woodcutting level necessary to chop down the tree (which will award logs), or if you lack the necessary woodcutting level, 200gp for a farmer to remove the tree for you (which will not award logs).
+
+Compost is buyable from the game shop using the `+buy` command.
+
+You can make supercompost from watermelons using the `/farming compost_bin` command. Otherwise supercompost can be obtained from drops by wilderness bosses.
+
+You can create ultracompost with the `/create` command, using 2 Volcanic Ash and 1 Supercompost.
+
+
 
 **Farming Payment Creatables**
 
@@ -34,10 +44,6 @@ You can make supercompost from watermelons using the `+compostbin watermelon` co
 | Onion           |    Onions(10)   |
 | Cabbages(10)    |    10 Cabbage   |
 | Cabbage         |   Cabbages(10)  |
-
-When harvesting trees, you will either need the woodcutting level necessary to chop down the tree (which will award logs), or if you lack the necessary woodcutting level, 200gp for a farmer to remove the tree for you (which will not award logs).
-
-Compost is buyable from the game shop using the `+buy` command, and is automatically applied to your crops if you have any available. If you have supercompost or ultracompost, you can use their respective flags (`--supercompost` and `--ultracompost`) to add them to your crops when planting. Ultracompost can be created by combining supercompost with volcanic ash, which you can mine with 22 Mining. Compost decreases the death chances for your crops as they grow and increases some crop yields, so it can be very useful to get the most out of your seeds.
 
 ## **Farming Boosts**
 
@@ -83,57 +89,71 @@ The full [Farming commands breakdown](../../farming.md) gives an overview of all
 
 ## Optimal Farming route to 99
 
-`+cp (For checking farm times)`&#x20;
 
-`+defaultfarming tier ultracompost`&#x20;
 
-`+defaultfarming pay enable`&#x20;
+`/farming check_patches` (For checking patch timers)&#x20;
 
-`+farm Potato (1-2 times until 5)`&#x20;
+`/default_compost`  - set to ultracompost
 
-`+farm Onion (1-2 times until 7)`&#x20;
+`/farming always_pay`&#x20;
 
-`+farm Cabbage (1-2 times until 12)`&#x20;
+`/farming plant [plant_name:Potato]` - (until level 5)&#x20;
 
-`+farm Tomato (1-3 times until 15)  "/harvest allotment (last tomato trip before 15)) (Farm tree seeds, Hardwood seeds, fruit tree seeds and Special seeds until 99)`&#x20;
+`/farming plant [plant_name:Onion]` - (until level 7)&#x20;
+
+`/farming plant [plant_name:Cabbage]` - (until level 12)&#x20;
+
+`/farming plant [plant_name:Tomato]` (until level 15)
+
+
+
+**Now farm tree seeds, Hardwood seeds, fruit tree seeds and Special seeds until 99**
 
 **`Tree seeds`**` ```&#x20;
 
-`+farm Oak (Until 30)`&#x20;
+`/farming plant [plant_name:Oak Tree]` (until level 30)&#x20;
 
-`+farm Willow (Until 45)`&#x20;
+`/farming plant [plant_name:Willow Tree]` (until level 45)&#x20;
 
-`+farm Maple (Until 60)`&#x20;
+`/farming plant [plant_name:Maple Tree]` (until level 60)&#x20;
 
-`+farm Yew (Until 75)`&#x20;
+`/farming plant [plant_name:Yew Tree]` (until level 75)&#x20;
 
-`+farm Magic (Repeat until 99)`&#x20;
+`/farming plant [plant_name:Magic Tree]` (Repeat to 99)&#x20;
+
+
 
 **`Hardwood seeds`**` ```&#x20;
 
-`+farm Teak (35 until 55)`&#x20;
+`/farming plant [plant_name:Teak Tree]` (Level 35-55)&#x20;
 
-`+farm Mahogany (Repeat until 99)`&#x20;
+`/farming plant [plant_name:Teak Tree]` (Repeat to 99)&#x20;
+
+
 
 **`Fruit tree seeds`**
 
-`+farm Pineapple (51 until 57)`&#x20;
+`/farming plant [plant_name:Pineapple Tree]`(Level 51-57)&#x20;
 
-`+farm Papaya (Until 68)`&#x20;
+`/farming plant [plant_name:Papaya Tree]`(until level 68)&#x20;
 
-`+farm Palm tree (Until 81)`&#x20;
+`/farming plant [plant_name:Palm Tree]` (until level 81)&#x20;
 
-`+farm Dragonfruit (Repeat until 99)`&#x20;
+`/farming plant [plant_name:Dragonfruit Tree]` (Repeat to 99)
+
+
 
 **`Special seeds`**&#x20;
 
-`+farm Calquat (72 repeat until 99)`&#x20;
+`/farming plant [plant_name:Calquat Tree]` (Level 72-99)&#x20;
 
-`+farm Spirit (83 repeat until 99)`&#x20;
+`/farming plant [plant_name:Spirit Tree]` (Level 83-99)&#x20;
 
-`+farm Celastrus (85 repeat until 99)`&#x20;
+`/farming plant [plant_name:Celastrus Tree]` (Level 85-99)&#x20;
 
-`+farm Redwood (90 repeat until 99`
+`/farming plant [plant_name:Redwood Tree]` (Level 90-99)&#x20;
+
+
 
 **Materials Needed:**
 
