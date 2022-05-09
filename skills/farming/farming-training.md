@@ -19,11 +19,11 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 `/farming always_pay`&#x20;
 
-`/farming plant [plant_name:Potato]` - (until level 5)&#x20;
+`/farming plant [plant_name:Potato]` (until level 5)&#x20;
 
-`/farming plant [plant_name:Onion]` - (until level 7)&#x20;
+`/farming plant [plant_name:Onion]` (until level 7)&#x20;
 
-`/farming plant [plant_name:Cabbage]` - (until level 12)&#x20;
+`/farming plant [plant_name:Cabbage]` (until level 12)&#x20;
 
 `/farming plant [plant_name:Tomato]` (until level 15)
 
