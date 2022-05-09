@@ -1,6 +1,6 @@
 # Buyables
 
-There are various useful items you can buy from the bot, not all are purchased with just GP and some require quest points or other minigame requirements to purchase.
+Ardougne cloakThere are various useful items you can buy from the bot, not all are purchased with just GP and some require quest points or other minigame requirements to purchase.
 
 Every item on this page can be purchase with the following command:&#x20;
 
@@ -128,22 +128,70 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 {% endtab %}
 
 {% tab title="Achievements" %}
-|                        |           |                             |
-| ---------------------- | :-------: | --------------------------- |
-| **Item Name**          | **Price** | **Other Requirements**      |
-| Quest Cape             |   99,000  | Maximum Quest Points        |
-| Achievement diary cape | 1,000,000 | All Elite Dairies Completed |
-| Max cape               | 2,277,000 | Level 99 in All Skills      |
-| Xeric's guard          |  100,000  | Completed 100 CoX CMs       |
-| Xeric's warrior        |  500,000  | Completed 500 CoX CMs       |
-| Xeric's sentinel       | 1,000,000 | Completed 1,000 CoX CMs     |
-| Xeric's general        | 1,500,000 | Completed 1,500 CoX CMs     |
-| Xeric's champion       | 2,000,000 | Completed 2,000 CoX CMs     |
-| Sinhaza shroud tier 1  |  100,000  | Completed 100 ToBs          |
-| Sinhaza shroud tier 2  |  500,000  | Completed 500 ToBs          |
-| Sinhaza shroud tier 3  |  500,000  | Completed 1,000 ToBs        |
-| Sinhaza shroud tier 4  |  500,000  | Completed 1,500 ToBs        |
-| Sinhaza shroud tier 5  |  500,000  | Completed 2,000 ToBs        |
+|                        |           |                                            |
+| ---------------------- | :-------: | ------------------------------------------ |
+| **Item Name**          | **Price** | **Other Requirements**                     |
+| Quest Cape             |   99,000  | Maximum Quest Points                       |
+| Achievement diary cape | 1,000,000 | All Elite Dairies Completed                |
+| Max cape               | 2,277,000 | Level 99 in All Skills                     |
+| Xeric's guard          |  100,000  | Completed 100 CoX CMs                      |
+| Xeric's warrior        |  500,000  | Completed 500 CoX CMs                      |
+| Xeric's sentinel       | 1,000,000 | Completed 1,000 CoX CMs                    |
+| Xeric's general        | 1,500,000 | Completed 1,500 CoX CMs                    |
+| Xeric's champion       | 2,000,000 | Completed 2,000 CoX CMs                    |
+| Sinhaza shroud tier 1  |  100,000  | Completed 100 ToBs                         |
+| Sinhaza shroud tier 2  |  500,000  | Completed 500 ToBs                         |
+| Sinhaza shroud tier 3  |  500,000  | Completed 1,000 ToBs                       |
+| Sinhaza shroud tier 4  |  500,000  | Completed 1,500 ToBs                       |
+| Sinhaza shroud tier 5  |  500,000  | Completed 2,000 ToBs                       |
+| Karamja gloves 1       |   1,000   | Completed Karamja Easy Diary               |
+| Karamja gloves 2       |   1,000   | Completed Karamja Medium Diary             |
+| Karamja gloves 3       |   1,000   | Completed Karamja Hard Diary               |
+| Karamja gloves 4       |   1,000   | Completed Karamja Elite Diary              |
+| Ardougne cloak 1       |   1,000   | Completed Ardougne Easy Diary              |
+| Ardougne cloak 2       |   1,000   | Completed Ardougne Medium Diary            |
+| Ardougne cloak 3       |   1,000   | Completed Ardougne Hard Diary              |
+| Ardougne cloak 4       |   1,000   | Completed Ardougne Elite Diary             |
+| Falador shield 1       |   1,000   | Completed Falador Easy Diary               |
+| Falador shield 2       |   1,000   | Completed Falador Medium Diary             |
+| Falador shield 3       |   1,000   | Completed Falador Hard Diary               |
+| Falador shield 4       |   1,000   | Completed Falador Elite Diary              |
+| Fremennik sea boots 1  |   1,000   | Completed Fremennik Easy Diary             |
+| Fremennik sea boots 2  |   1,000   | Completed Fremennik Medium Diary           |
+| Fremennik sea boots 3  |   1,000   | Completed Fremennik Hard Diary             |
+| Fremennik sea boots 4  |   1,000   | Completed Fremennik Elite Diary            |
+| Kandarin headgear 1    |   1,000   | Completed Kandarin Easy Diary              |
+| Kandarin headgear 2    |   1,000   | Completed Kandarin Medium Diary            |
+| Kandarin headgear 3    |   1,000   | Completed Kandarin Hard Diary              |
+| Kandarin headgear 4    |   1,000   | Completed Kandarin Elite Diary             |
+| Desert amulet 1        |   1,000   | Completed Desert Easy Diary                |
+| Desert amulet 2        |   1,000   | Completed Desert Medium Diary              |
+| Desert amulet 3        |   1,000   | Completed Desert Hard Diary                |
+| Desert amulet 4        |   1,000   | Completed Desert Elite Diary               |
+| Explorer's ring 1      |   1,000   | Completed Lumbridge & Draynor Easy Diary   |
+| Explorer's ring 2      |   1,000   | Completed Lumbridge & Draynor Medium Diary |
+| Explorer's ring 3      |   1,000   | Completed Lumbridge & Draynor Hard Diary   |
+| Explorer's ring 4      |   1,000   | Completed Lumbridge & Draynor Elite Diary  |
+| Morytania legs 1       |   1,000   | Completed Morytania Easy Diary             |
+| Morytania legs 2       |   1,000   | Completed Morytania Medium Diary           |
+| Morytania legs 3       |   1,000   | Completed Morytania Hard Diary             |
+| Morytania legs 4       |   1,000   | Completed Morytania Elite Diary            |
+| Varrock armour 1       |   1,000   | Completed Varrock Easy Diary               |
+| Varrock armour 2       |   1,000   | Completed Varrock Medium Diary             |
+| Varrock armour 3       |   1,000   | Completed Varrock Hard Diary               |
+| Varrock armour 4       |   1,000   | Completed Varrock Elite Diary              |
+| Wilderness sword 1     |   1,000   | Completed Wilderness Easy Diary            |
+| Wilderness sword 2     |   1,000   | Completed Wilderness Medium Diary          |
+| Wilderness sword 3     |   1,000   | Completed Wilderness Hard Diary            |
+| Wilderness sword 4     |   1,000   | Completed Wilderness Elite Diary           |
+| Western banner 1       |   1,000   | Completed Western Provinces Easy Diary     |
+| Western banner 2       |   1,000   | Completed Western Provinces Medium Diary   |
+| Western banner 3       |   1,000   | Completed Western Provinces Hard Diary     |
+| Western banner 4       |   1,000   | Completed Western Provinces Elite Diary    |
+| Rada's blessing 1      |   1,000   | Completed Kourend & Kebos Easy Diary       |
+| Rada's blessing 2      |   1,000   | Kourend & Kebos Medium Diary               |
+| Rada's blessing 3      |   1,000   | Kourend & Kebos Hard Diary                 |
+| Rada's blessing 4      |   1,000   | Kourend & Kebos Elite Diary                |
 
 
 {% endtab %}

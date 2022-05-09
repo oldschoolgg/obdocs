@@ -4,6 +4,8 @@ You can complete Achievement Diaries if you have the requirements. Requirements 
 
 If you meet the requirements of a Diary, you can claim the reward item and the XP lamp.
 
+Achievement Diary items can be purchased using the +buy command if the respective diary is already completed.&#x20;
+
 ## Commands
 
 * **Check your currently completed Diaries:**

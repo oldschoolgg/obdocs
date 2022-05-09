@@ -13,6 +13,8 @@ Certain items can be collected using the  `+collect [tripAmount, itemName]` comm
 | Snake weed         | <p>1 Ring of dueling(8) per 150 snake weed.</p><p>3QP</p>                                                                        |
 | Bucket of sand     | <p>1 Law Rune and 750 coins per 30 buckets.</p><p>30QP</p>                                                                       |
 | Tarn's diary       | <p>2 Prayer potion(4) per 1 diary.</p><p>100QP, 40 Slayer, 60 Attack, 60 Strength, </p><p>60 Ranged, 60 Defence and 60 magic</p> |
+| White berries      | 22 QP, 60 Ranged, 50 Thieving, 56 Agility, 10 Crafting, 5 Fletching and 30 Cooking                                               |
+| Jangerberries      | <p>1 Ring of dueling(8) per 224 jangerberries<br>10 Agility</p>                                                                  |
 
 ### Boosts
 
