@@ -2,11 +2,11 @@
 
 Agility is required to participate in a variety of activities.
 
-| Level | Activity          | Bonus                   |
-| ----- | ----------------- | ----------------------- |
-| 15    | Barbarian Fishing |                         |
-| 50    | Rogues' Den       | Becomes 40% at level 80 |
-| 70    | Commander Zilyana |                         |
+| Level | Activity          | Bonus                 |
+| ----- | ----------------- | --------------------- |
+| 15    | Barbarian Fishing |                       |
+| 50    | Rogues' Den       | 40% boost at level 80 |
+| 70    | Commander Zilyana |                       |
 
 ## Training Methods
 
@@ -16,7 +16,16 @@ You can check your total lap counts with the `+m lapcounts` command.
 
 ### Rooftop Agility
 
-Rooftop agility courses reward the player with marks of grace which can be used to buy pieces of the Graceful outfit, using the command `/create`` `**`item:`**`Graceful` **** this will take 260 marks of grace and create the entire outfit at once, and amylase packs using the command `+buy [quantity] amylase pack`, which will give you 100 amylase crystals per amylase pack costing 10 marks of grace each.
+Rooftop agility courses reward the player with marks of grace which can be used to buy pieces of the Graceful outfit (260 marks for full outfit). You can also purchase Amylase packs which will give you 100 amylase crystals per amylase pack, costing 10 marks of grace each.&#x20;
+
+To create full graceful in 1 command or buy pieces individually:
+
+* `/create`` `**`item:`**` ``Graceful`
+* `/create`` `**`item:`**` ``Graceful (piece)`
+
+To buy Amylase crystals (1 quantity = 100 crystals)
+
+* `+buy [quantity] amylase pack`
 
 ### [Hallowed Sepulchre](https://wiki.oldschool.gg/minigames/hallowed-sepulchre)
 
@@ -40,5 +49,8 @@ The Brimhaven Agility Arena rewards the player with Agility tickets which can be
 | Falador          | 50                 | 440            | 58.2         | 27,200    | 13                    |
 | Seers Village    | 60                 | 570            | 44.4         | 46,200    | 12                    |
 | Pollnivneach     | 70                 | 890            | 61.2         | 52,300    | 9                     |
+| Prifddinas\*     | 75                 | 1340           | 74           | 65,180    | 0                     |
 | Rellekka         | 80                 | 780            | 51           | 55,000    | 14                    |
 | Ardougne         | 90                 | 793            | 45.6         | 62,600    | 24                    |
+
+\* - Please note you will NOT receive crystal shards or marks of grace from the Priff agil course.
