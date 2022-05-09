@@ -31,17 +31,17 @@ To begin a trip, use `/minigames gauntlet start`` `**`corrupted:`**`true` (the c
 
 The standard rewards from gauntlet can be obtained here such as Crystal shards alongside runes, gems, arrows, and rune/dragon alchables. The unique rewards include:
 
-#### Crystal weapon seeds
+#### Crystal weapon seeds ![](../.gitbook/assets/Crystal\_weapon\_seed.png)
 
 The only thing these can be made into is a Crystal halberd for ToB.
 
 * `/create`` `**`item:`**`crystal halberd`
 
-#### Crystal armour seeds
+#### Crystal armour seeds ![](../.gitbook/assets/Crystal\_armour\_seed.png)
 
 Currently have no use except trading in for crystal shards.
 
-#### Enhanced crystal weapon seeds
+#### Enhanced crystal weapon seeds ![](../.gitbook/assets/Enhanced\_crystal\_weapon\_seed.png)
 
 You need 82 crafting and smithing to create both the inactive and charged versions of the blade/bow. The charged bow provides boosts to bosses such as Sara, Arma, Zulrah, and CoX. The charged blade is used at ToB. Charged versions can be reverted back to inactive versions and inactive weapons can be reverted back to seeds (costs 250 crystal shards for the latter).
 
@@ -50,7 +50,7 @@ You need 82 crafting and smithing to create both the inactive and charged versio
 * `/create`` `**`item:`**`blade of saeldor (c)` - Requires 1000 shards
 * `/create`` `**`item:`**`bow of faerdhinen (c)` - Requires 2000 shards
 
-**Note:** The _charged_ blade/bow are untradeable while the _inactive_ versions are tradeable.
+**Note:** The _charged_ blade/bow are untradeable, while the _inactive_ versions are tradeable.
 
 ### Trading in Crystal Seeds
 

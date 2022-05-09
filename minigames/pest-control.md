@@ -13,7 +13,7 @@ To start a game, use: `/minigames pest_control start`
 * Combat Level 100 (Veteran Boat)
   * 5 points per game
 
-**Note:** Your minion will automatically use the highest boat it can.
+**Note:** Your minion will automatically use the highest boat it can. You _cannot_ select a lower tier boat if you have access to a higher tier boat.
 
 ### Boosts&#x20;
 

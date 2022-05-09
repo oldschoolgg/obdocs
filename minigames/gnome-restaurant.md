@@ -26,7 +26,7 @@ To start the minigame, use `/minigames gnome_restaurant start`
 
 The bot will randomly choose between a piece of jewellery to use every trip. If the bot chooses jewellery that you don't have, you won't get the 20% boost, even if you have the others.
 
-**Example:** You have a charged dueling ring and charged glory. The bot chooses to use a games necklace for this trip. You will not get the 20% boost.
+**Example:** You only have a charged dueling ring and charged glory. The bot chooses to use a games necklace for this trip. You will not get the 20% boost.
 
 **What happens to my jewellery?**
 

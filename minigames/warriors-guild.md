@@ -12,11 +12,11 @@ To kill cyclops for defenders:
 
 **NOTE:** Don't equip your defenders until you get dragon! The command checks your bank for current defender rather than equipped gear. You can also get more than one defender in one trip.
 
-If you have attained 99 Attack, you can equip the cape in the _melee setup_ and no longer require any tokens to kill the giants (you do still require the previous tiers of defenders in order to get the next one).
+If you have attained 99 Attack, you can equip the cape in the _melee setup_ and no longer require any tokens to kill the cyclops (you do still require the previous tiers of defenders in order to get the next one).
 
 ### Armour sets
 
-Each armour set requires the full helm, platebody, and platelegs. You will automatically use the highest tier armour set you can.
+Each armour set requires the full helm, platebody, and platelegs. You will automatically use the highest tier armour set you can. Armour sets are not consumed.
 
 |                    |                 |                           |
 | ------------------ | :-------------: | :-----------------------: |
