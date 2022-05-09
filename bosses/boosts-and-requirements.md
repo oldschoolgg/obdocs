@@ -93,6 +93,42 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 3% for<img src="../.gitbook/assets/150px-Dragon_claws_detail.png" alt="" data-size="line">Dragon Claws **OR** 5% for<img src="../.gitbook/assets/130px-Bandos_godsword_detail.png" alt="" data-size="line">Bandos Godsword **OR** 10% for<img src="../.gitbook/assets/120px-Dragon_warhammer_detail (1).png" alt="" data-size="line">Dragon Warhammer
 {% endtab %}
+
+{% tab title="Nex" %}
+**Requirements**
+
+<img src="../.gitbook/assets/Defence_icon.png" alt="" data-size="line">  90 Defence
+
+<img src="../.gitbook/assets/Ranged_icon.png" alt="" data-size="line"> 90 Ranged
+
+<img src="../.gitbook/assets/Prayer_icon.png" alt="" data-size="line"> 74 Prayer
+
+&#x20;<img src="../.gitbook/assets/frozen key" alt="" data-size="line">[Frozen Key](nex.md)
+
+<img src="../.gitbook/assets/Zaryte_crossbow.png" alt="" data-size="line">Zaryte Crossbow **OR** <img src="../.gitbook/assets/ACB.png" alt="" data-size="line">Armadyl Crossbow **OR** <img src="../.gitbook/assets/Dragon_crossbow.png" alt="" data-size="line">Dragon Crossbow **OR** <img src="../.gitbook/assets/Tbow.png" alt="" data-size="line">Twisted Bow&#x20;
+
+<img src="../.gitbook/assets/Coins_10000.png" alt="" data-size="line">1,000,000 Coins in bank (Covers Death Cost)
+
+
+
+**Resource Used Per Trip (Regardless of Length/Kills)**
+
+<img src="../.gitbook/assets/Ruby_dragon_bolts_(e)" alt="" data-size="line"> 600 Ammo Equipped (50-60 used per kill before reductions)
+
+![](../.gitbook/assets/Sara\_brew\(4\).png) 8x Saradomin brew(4)
+
+![](../.gitbook/assets/Super\_restore\(4\).png) 5x Super restore(4)
+
+![](../.gitbook/assets/Range\_pot\(4\).png) 2x Ranging potion(4)
+
+![](../.gitbook/assets/Sanfew\_serum\(4\).png) 1x Sanfew serum(4)
+
+
+
+**Boosts**
+
+**-30%** chance of death for <img src="../.gitbook/assets/120px-Elysian_spirit_shield_detail.png" alt="" data-size="line">Elysian Spirit Shield
+{% endtab %}
 {% endtabs %}
 
 ### Dagannoth Kings
