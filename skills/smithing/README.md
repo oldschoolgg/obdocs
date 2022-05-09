@@ -2,25 +2,24 @@
 
 Smithing is one of the more useful skills on the bot, because it is required to create many useful items such as godswords, spirit shields and crystal equipment.
 
-You can train smithing by using `+smelt` & `+smith` commands.
+You can train smithing by using `/smelt` & `+smith` commands.
 
-* `+smelt [quantity] <bar>`
-  * E.g. `+smelt 50 gold bar`
+* `/smelt`` `**`name:`**` ``Runite bar`` `**`quantity:`**` ``1`
 * `+smith [quantity] <item>`
   * E.g. `+smith 100 adamant dart tip`
 
 ### Bars
 
-| **Bar**      | **Required level** | **Materials needed**    |
-| ------------ | :----------------: | ----------------------- |
-| Bronze       |          1         | Tin + Copper            |
-| Iron**\***   |         15         | Iron ore                |
-| Silver       |         20         | Silver ore              |
-| Steel        |         30         | Iron ore + 2 coal       |
-| Gold**\*\*** |         40         | Gold ore                |
-| Mithril      |         50         | Mithril ore + 4 coal    |
-| Adamantite   |         70         | Adamantite ore + 6 coal |
-| Runite       |         85         | Runite ore + 8 coal     |
+|    **Bar**   | **Required level** | **Experience** |   **Materials needed**  |
+| :----------: | :----------------: | :------------: | :---------------------: |
+|    Bronze    |          1         |       6.2      |       Tin + Copper      |
+|  Iron**\***  |         15         |      12.5      |         Iron ore        |
+|    Silver    |         20         |      13.7      |        Silver ore       |
+|     Steel    |         30         |      17.5      |    Iron ore + 2 coal    |
+| Gold**\*\*** |         40         |      22.5      |         Gold ore        |
+|    Mithril   |         50         |       30       |   Mithril ore + 4 coal  |
+|  Adamantite  |         70         |      37.5      | Adamantite ore + 6 coal |
+|    Runite    |         85         |       50       |   Runite ore + 8 coal   |
 
 **\*** - Has a 50% chance to fail. Ring of forging does NOT work yet.
 
