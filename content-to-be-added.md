@@ -12,3 +12,4 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * Createables
 * Drift Net fishing page
 * Boosts to RC page
+* Champion's Challenge

@@ -8,7 +8,7 @@ This guide is meant for players just starting with OSB. It does not include opti
 
 Do [agility](https://wiki.oldschool.gg/skills/agility) until you have full graceful. (Can be obtained by using `/create`` `**`item:`**`graceful`, and costs 260 marks of grace. You can do agility by using the `+laps [course name]` command. After getting full graceful, you can do the [Hallowed Sepulchre](https://wiki.oldschool.gg/skills/agility/hallowed-sepulchre) in order to get a Strange Old Lockpick. This item will be extremely useful later, and is worth getting now.\
 \
-Once you have full graceful, you should quest to at least **205 QP**. You can quest with the `+q` command. Since you will already have the maximum bonus for questing, there is little reason to not quest all the way to 284 QP right now, so consider doing that.\
+Once you have full graceful, you should quest to at least **205 QP**. You can quest with the `/activities quest` command. Since you will already have the maximum bonus for questing, there is little reason to not quest all the way to 284 QP right now, so consider doing that.\
 After getting at least 175 QP, purchase at least 1 set of barrows gloves. (Ideally 3 sets.) With 205 QP you can access all bosses that the bot has to offer.\
 \
 If your minion is an ironman, you should do a small amount of fishing/cooking for some early game food. You won't need to get that much, as you should unlock better food sources fairly soon.\
