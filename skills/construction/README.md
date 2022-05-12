@@ -6,7 +6,7 @@ You can also `+offer` curved bones and long bones you get from PvM for construct
 
 ## Sawmill
 
-Construction training requires planks, which can be made from normal, oak, teak, and mahogany logs using the `/activities sawmill type:[logType] quantity:[quantityValue]` command.
+Construction training requires planks, which can be made from normal, oak, teak, and mahogany logs using the `+sawmill <logs>` command.
 
 Wearing full Graceful gives a 10% boost to trip time.
 

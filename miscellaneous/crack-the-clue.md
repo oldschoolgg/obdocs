@@ -9,4 +9,4 @@ You can obtain the Clue hunter outfit by following these steps:
 5. Equip an iron med helm "`+equip melee iron med helm"`
 6. Bury 1 bones "`+bury 1 bones"`
 7. Train strength "`+m train strength"`
-8. Sawmill 1 logs "`+sawmill 1 logs"`
+8. Sawmill 1 logs "`/activities sawmill type:Logs quantity:1`"
