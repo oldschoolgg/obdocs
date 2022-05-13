@@ -1,6 +1,6 @@
 # Buyables
 
-Ardougne cloakThere are various useful items you can buy from the bot, not all are purchased with just GP and some require quest points or other minigame requirements to purchase.
+There are various useful items you can buy from the bot, not all are purchased with just GP and some require quest points or other minigame requirements to purchase.
 
 Every item on this page can be purchase with the following command:&#x20;
 
@@ -131,7 +131,8 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 |                        |           |                                            |
 | ---------------------- | :-------: | ------------------------------------------ |
 | **Item Name**          | **Price** | **Other Requirements**                     |
-| Quest Cape             |   99,000  | Maximum Quest Points                       |
+| \[Skill] cape          |   99,000  | Level 99 in that skill                     |
+| Quest cape             |   99,000  | Maximum Quest Points                       |
 | Achievement diary cape | 1,000,000 | All Elite Dairies Completed                |
 | Max cape               | 2,277,000 | Level 99 in All Skills                     |
 | Xeric's guard          |  100,000  | Completed 100 CoX CMs                      |
@@ -189,11 +190,9 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Western banner 3       |   1,000   | Completed Western Provinces Hard Diary     |
 | Western banner 4       |   1,000   | Completed Western Provinces Elite Diary    |
 | Rada's blessing 1      |   1,000   | Completed Kourend & Kebos Easy Diary       |
-| Rada's blessing 2      |   1,000   | Kourend & Kebos Medium Diary               |
-| Rada's blessing 3      |   1,000   | Kourend & Kebos Hard Diary                 |
-| Rada's blessing 4      |   1,000   | Kourend & Kebos Elite Diary                |
-
-
+| Rada's blessing 2      |   1,000   | Completed Kourend & Kebos Medium Diary     |
+| Rada's blessing 3      |   1,000   | Completed Kourend & Kebos Hard Diary       |
+| Rada's blessing 4      |   1,000   | Completed Kourend & Kebos Elite Diary      |
 {% endtab %}
 
 {% tab title="Minigames" %}
