@@ -2,22 +2,22 @@
 
 You can play as an ironman, however, this will reset your entire account, to a fresh start.
 
-**Note:** You're allowed to have an ironman account and a non-ironman account. However, this requires you to run 2 discord accounts, and is only if you want to.
-
 To become an Ironman, use either of the following:
 
 * `+m ironman`
 * `+m ironman --permanent`
 
-The obvious difference between permanent and non-permanent is that you can de-iron if you are not permanent. However, you CANNOT de-iron if you already have a main account.
+**Note:** You're allowed to have an ironman account and a non-ironman account. However, this requires you to run 2 discord accounts.
 
-The sacrifice cost for trip length extensions is halved for ironmen, giving the maximum 1 minute increase with only 5b sacrificed. For more info on sacrificing items, please [visit here](https://wiki.oldschool.gg/#minion-icons).
+If you use the **--permanent** flag, you will **NOT** be able to de-iron, if you are running an ironman alternate account you are required to use the permanent flag.
+
+Trip length extension via sacrifice value is halved for ironmen, giving the maximum 1 minute increase (or 3 minute with T3 Patron) for only 5b sacrificed rather than the usual 10b. For more info on this, please [see here](https://wiki.oldschool.gg/#minion-icons)
 
 ### Permanent Ironman Perks
 
-Being a _permanent ironman_ provides some perks such as:
+Being a _permanent ironman_ provides the following perks:
 
-* Shared patron perks between main and ironman accounts
+* Shared patron perks between main and ironman discord accounts
 * Ironman armour (use: `+m ironman --armor`)
 
 ### Ironman Leaderboards
