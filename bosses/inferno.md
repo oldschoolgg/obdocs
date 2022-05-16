@@ -75,7 +75,9 @@ The number of attempts you've done, and the number of times you've fought Zuk gr
 
 ### Gear
 
-![](../.gitbook/assets/Update.png)
+![](<../.gitbook/assets/Inferno Bis Range.png>)
+
+![](<../.gitbook/assets/Inferno Bis Mage.png>)
 
 Using this gear, along with dragon darts in your blowpipe, will give the maximum bonus for Inferno.
 

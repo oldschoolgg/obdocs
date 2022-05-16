@@ -1,6 +1,6 @@
 # Big Chompy Bird Hunting
 
-You can do the chompy bird hunting minigame using `+chompyhunt`.
+You can do the chompy bird hunting minigame using `/activities chompy_hunt action:start`.
 
 ### Requirements
 
@@ -21,7 +21,7 @@ You can try to buy them from other players, or...
 
 ### Rewards
 
-* Chompy hats can be claimed in bulk with `+ch claim` or you can buy them individually with `+buy` after you have unlocked them.
+* Chompy hats can be claimed in bulk with `/activities chompy_hunt action:claim` or you can buy them individually with `+buy` after you have unlocked them.
   * E.g.  `+buy chompy bird hat (ogre bowman)`
 * The following table is a list of all the purchasable chompy hats:
 

@@ -24,7 +24,7 @@ These quantities scale based off KC, Challenge Mode and Mass/Solo, excluding the
 
 ### Finding a Raid Team
 
-In the [support discord server](http://invite.oldschool.gg) you will find dedicated channels for Chambers of Xeric.
+In the [support discord server](http://invite.oldschool.gg/) you will find dedicated channels for Chambers of Xeric.
 
 For chatting, asking for help with your gear score you can talk in [`#raids-general`](https://discord.com/channels/342983479501389826/835879359805653002).
 
@@ -83,5 +83,5 @@ See below for unique Chambers of Xeric (Challenge Mode) loot.
 
 Note: You can receive the Challenge Mode 'Dusted' metamorphic pets too, you just need 1x Metamorphic dust in your collection log and then they are dropped at a 1/50 rate from challenge mode Chambers of Xeric raids. (You **DO NOT** need an Olmlet!)
 
-If you or another user of your raid gets a unique, you will see a purple square next to the spoiler and the loot (excluding prayer scrolls) is recorded in the [#notifications](https://discord.com/channels/342983479501389826/469523207691436042) channel in the [discord support server](http://invite.oldschool.gg).
+If you or another user of your raid gets a unique, you will see a purple square next to the spoiler and the loot (excluding prayer scrolls) is recorded in the [#notifications](https://discord.com/channels/342983479501389826/469523207691436042) channel in the [discord support server](http://invite.oldschool.gg/).
 

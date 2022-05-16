@@ -1,14 +1,16 @@
 # Warriors Guild
 
-You can use the Warriors Guild to get defenders, powerful offensive offhand slot items. You can use sets of black, mithril, adamant, or rune armour to earn guild tokens command. Once you have tokens, you can fight the cyclops housed in the guild to earn bronze through dragon defenders. You are required to have at least 100 tokens before killing the cyclops.
+You can use the Warriors Guild to get defenders, powerful offensive offhand slot items. You can use sets of black, mithril, adamant, or rune armour to earn guild tokens command. Once you have tokens, you can fight the cyclopes housed in the guild to earn bronze through dragon defenders. You are required to have at least 100 tokens before killing the cyclopes.
 
 To collect warriors guild tokens:
 
-* `+wg tokens`&#x20;
+* `/activities warriors_guild action:tokens quantity:[quantityValue]`&#x20;
 
 To kill cyclops for defenders:
 
-* `+wg cyclops`
+* `/activities warriors_guild action:cyclops`
+
+The argument `quantity:[quantityValue]` can be used to specify the quantity of cyclopes to kill.
 
 **NOTE:** Don't equip your defenders until you get dragon! The command checks your bank for current defender rather than equipped gear. You can also get more than one defender in one trip.
 

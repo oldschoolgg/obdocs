@@ -1,8 +1,8 @@
 # Kourend Favour
 
-Kourend favour can be attained using  `+favour (housename)`
+Kourend favour can be attained using  `/activities favour name:[houseName]`.
 
-For Shayzien and Arceeus favour you can use `--ns` (no stamina), this will use no stamina potions, however, the trip will be a lot longer.
+For Shayzien and Arceeus favour you can use the argument `no_stams:True`, this will use no stamina potions, however, the trip will be a lot longer.
 
 The below table shows a summary of stat and item requirements, along with time to complete 100% favour.&#x20;
 

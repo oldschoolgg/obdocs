@@ -28,6 +28,8 @@ Most of the boosts will come from items purchased from the shop.
 
 With all available boosts, it is possible to achieve upwards of 90K xp/hr while doing floor 5.
 
+**Note:** The Hallowed Ring from the shop does **not** provide a boost or benefit.
+
 ### Hallowed Sepulchre Shop
 
 The following items can be purchased using the `+buy` command using hallowed marks.
