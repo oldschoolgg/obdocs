@@ -6,27 +6,44 @@ description: This page goes over how your gear functions on the bot.
 
 ## Overview
 
-Your minion has 8 gear setups (Melee, Mage, Range, Skilling, Misc, Wildy, Fashion and Other) in which you can equip your gear into depending on what activity you want to do on the bot. Below is a list of the commands that deal with equip and unequipping gear on your minion. Lets say you just finished questing and bought yourself a pair of barrows gloves and you would like to equip those in your range setup, you would type `+equip range barrows gloves`. Now lets say you already had a pair of mithril gloves equipped in your range setup and you wanted to equip the barrows gloves instead now, you do not need to unequip the other gloves first, the equip command will take the other pair off for you and equip the new item. Further below we will talk about `+gearpresets` a way for you to save a setup you like for later for easy equipping (Please note that the other gear setup is locked to T3 Patron or Higher)\
-\
+Your minion has 8 gear setups (Melee, Mage, Range, Skilling, Misc, Wildy, Fashion and Other) in which you can equip your gear into depending on what activity you want to do on the bot. Below is a list of the commands that deal with equip and unequipping gear on your minion. Lets say you just finished questing and bought yourself a pair of barrows gloves and you want to equip those in your range setup, you would type `/gear equip`` `**`gear_setup:`**`Range`` `**`item:`**`Barrows gloves` . Now lets say you already had a pair of mithril gloves equipped in your range setup and you wanted to equip the barrows gloves instead now, you do not need to unequip the other gloves first, the equip command will take the other pair off for you and equip the new item. Further below we will talk about gearpresets, a way for you to save a setup you like for later for easy equipping (Please note that the some gear setups are locked to T3 Patron or higher).
 
+![All 8 gear setups with names](../.gitbook/assets/gearall\_setup.png)
 
-![](../.gitbook/assets/osbot.png)
+## Commands
 
-### Commands
+There are 3 main options, `/gear equip`, `/gear unequip`, and `/gear stats.` You can simply type `/gear` for all 3 of these options to appear.
 
-| Command            | What it does                                                                                                                                                      | Example                                                                                              |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| +autoequip or +aep | Automatically equips the BIS gear you have in your bank, for a particular attack style, to one of your gear setups. (note will not pull from other equipped gear) | +autoequip melee attack crush +autoequip mage attack magic                                           |
-| +equip             | Equips an item to one of your gear setups.                                                                                                                        | <p>+equip skilling graceful hood</p><p>+equip melee bandos boots</p><p>+equip mage staff of fire</p> |
-| +gear              | Shows your equipped gear. Adding --all shows all setups                                                                                                           | <p>+gear melee</p><p>+gear --all</p>                                                                 |
-| +unequip           | Unequips items from one of your gear setups.                                                                                                                      | <p>+unequip range Twisted bow</p><p>+unequip melee Abyssal whip</p>                                  |
-| +gear unequipall   | Unequips everything from one of your gear setups. (melee/range/mage/skilling/misc)                                                                                | <p>+gear unequipall melee<br>+gear unequipall range<br>+gear unequipall mage</p>                     |
-| +m equippet/ep     | Equips a pet, like dropping it on the floor ingame.                                                                                                               | +m equippet smolcano                                                                                 |
-| +m unequippet/uep  | Unequips your pet.                                                                                                                                                | +m unequippet                                                                                        |
+### Gear Equip
 
-### Gear Presets
+This is the main command you will use to equip and change gear. You will firstly select the gear setup you wish to edit. There are 4 options under it:
 
-Now that you have equipped the gear you like you probably would like to save that setup for later before you equip something up in that setup. This can done through the /`gearpresets` commands listed before. Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup.\
+|             |                                                                  |                                                                                            |
+| ----------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Command** | **What it does**                                                 | **Example**                                                                                |
+| Item        | Selects a single item you wish to equip.                         | `/gear equip`` `**`gear_setup:`**`Melee`` `**`item:`**`Barrows gloves`                     |
+| Preset      | Selects a previously made or default gear setup to equip.        | `/gear equip`` `**`gear_setup:`**`Skilling`` `**`preset:`**`gracefu`                       |
+| Quantity    | Selects a specific number of an item to equip (ammunition only). | `/gear equip`` `**`gear_setup:`**`Range`` `**`item:`**`Rune arrow`` `**`quantity:`**`1000` |
+| Auto        | Selects the BiS equipment for a specific attack style.           | `/gear equip`` `**`gear_setup:`**`Melee`` `**`auto:`**`melee_strength`                     |
+
+### Gear Unequip
+
+You can use this command to unequip items from any gear setup. There are 2 options: unequip all the items from a specific setup, or just 1 item at a time.
+
+### Gear Stats
+
+This is simply for simulation of equipping items and checking the stats of a particular setup. You do not need to own the items to perform this command, but you will need the items full name.
+
+### Equipping Pets
+
+| **Command**       | **What it does**                                    | **Example**          |
+| ----------------- | --------------------------------------------------- | -------------------- |
+| +m equippet/ep    | Equips a pet, like dropping it on the floor ingame. | +m equippet smolcano |
+| +m unequippet/uep | Unequips your pet.                                  | +m unequippet        |
+
+## Gear Presets
+
+Now that you have equipped the gear you like you probably would like to save that setup for later before you equip something up in that setup. This can done through the `+gearpresets` commands. Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup.\
 \
 By default, you are restricted to having 3 gear presets. However, this is increased to 8 if you are a T3 patron or a github supporter.
 
@@ -37,7 +54,7 @@ By default, you are restricted to having 3 gear presets. However, this is increa
 | +gearpresets delete  \<name>         | delete your setup called \<name>.                     | +gearpresets delete corp      |
 | +gearpresets equip  \<name> \<setup> | equip your \<name> setup to your \<setup> outfit.     | +gearpresets equip corp melee |
 
-#### Global Gear Presets
+### Global Gear Presets
 
 * Graceful
 * Pyro
@@ -48,7 +65,7 @@ By default, you are restricted to having 3 gear presets. However, this is increa
 * Prospector
 * Lumberjack
 
-### BiS Gear
+## BiS Gear
 
 ![](../.gitbook/assets/slayerbis.png)
 
@@ -56,4 +73,4 @@ This gear is the best food reduction equipment in the game. This will save the h
 
 ### Wildy Setup
 
-The wilderness setup is currently only used at revenants and wilderness hunter. **All** of the items equipped in this setup can be **permanently lost** if you are killed while doing activities that use this setup.
+The wilderness setup is currently only used at [revenants](../bosses/revenants.md#things-to-know-before-starting) and [wilderness hunter](../skills/hunter/#wilderness-hunting). Items equipped in this setup can be **permanently lost** if you are killed while doing activities that use this setup (hunter activities ONLY risk top and bottom, while revs risks the entire setup). Read more about death chance and mechanics on their respective pages.

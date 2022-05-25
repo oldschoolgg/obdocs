@@ -2,17 +2,15 @@
 
 Birdhouses are a great way to collect birds nests and various seeds and rings. It is also the only method to collect bird's eggs for the chance at the evil chicken outfit pieces. All birdhouses take the same amount of time (50 minutes).
 
-To start your birdhouses, or to collect and replace your birdhouses, use:
+**QUICK START -** When typing `+m` this offers a one-click button to run the same previous birdhouse trip. This option will only appear if your birdhouses are ready to be collected.
 
-* `+birdhouse [log type]` or `+bh [log type]`
+If you have no birdhouses in place, you can set them up using:
+
+* `/activities birdhouses`` `**`action:`**`Collect and Plant Birdhouses`` `**`birdhouse:`**` ``[birdhouseType]`
 
 To check to see if your birdhouses are ready, use:
 
-* `+birdhouse check` or  `+bh check`
-
-To collect your birdhouses without replacing them, use:
-
-* `+birdhouse collect` or `+bh collect`
+* `/activities birdhouses`` `**`action:`**`Check Birdhouses`
 
 ## Boosts
 

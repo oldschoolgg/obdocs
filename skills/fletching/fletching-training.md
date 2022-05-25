@@ -11,7 +11,7 @@
 \+fletch rune dart until 95\
 \+fletch dragon dart repeat until 99\
 \
-Materials Needed:\
+**Materials Needed:**\
 888 headless arrow and 888 bronze arrowtips\
 2484 bronze dart tip and 689049 feather\
 5750 iron dart tip and 12825 steel dart tip\

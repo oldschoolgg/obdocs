@@ -12,7 +12,7 @@
 \+cook 300 Karambwan (Until 35) \
 \+cook Jug of wine (Repeat until 99)
 
-Materials Needed:\
+**Materials Needed:**\
 25 Raw sardine and 120 Raw herring\
 75 Raw trout and 108 Raw pike\
 155 Raw salmon and 300 Raw karambwan\

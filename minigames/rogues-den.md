@@ -21,6 +21,6 @@ It works a bit differently to in game, after your trip returns you'll receive lo
   * Each piece provides a 20% chance of double loot when pickpocketing (100% with full outfit).
   * Must be equipped in the Skilling setup
 
-`+equip skilling rogue top` - Equips a single piece
+`/gear equip`` `**`gear_setup:`**`Skilling`` `**`item:`**`Rogue top` - Equips a single piece
 
-`+gearpresets equip rogue skilling` - Equips the entire set
+`/gear equip`` `**`gear_setup:`**`Skilling`` `**`preset:`**` ``rogue` - Equips the entire set

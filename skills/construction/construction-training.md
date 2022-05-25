@@ -12,7 +12,7 @@
 `+build 220 Oak larder`\
 `+build Mahogany table`
 
-Materials Needed: \
+**Materials Needed:** \
 94 Plank\
 2030 Oak plank\
 92,220 Mahogany plank

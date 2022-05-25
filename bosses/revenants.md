@@ -2,10 +2,10 @@
 
 Revenants are some high risk, high reward content that allows you to collect some handy wildy weapons and many high tier resources. Revs uses the gear in your wildy setup, which means, you CAN lose pieces of gear from this setup. Please read this entire page before embarking.
 
-To start a trip, use the `/k`` `**`name`**`: (name) method: none` command.
+To start a trip, use the `/k`` `**`name`**`: (name)`` `**`method:`**` ``none` command.
 
 * E.g. `/k`` `**`name`**`: Revenant imp method: none`
-* E.g.  /`k`` `**`name`**`: Revenant dragon method: none`
+* E.g.  `/k`` `**`name`**`: Revenant dragon method: none`
 
 **Note:** If you try to put any other method outside of none it will auto default you to using the range method as you can not barrage/burst or cannon revs.
 

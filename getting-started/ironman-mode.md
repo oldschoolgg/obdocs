@@ -11,7 +11,7 @@ To become an Ironman, use either of the following:
 
 If you use the **--permanent** flag, you will **NOT** be able to de-iron, if you are running an ironman alternate account you are required to use the permanent flag.
 
-Trip length extension via sacrifice value is halved for ironmen, giving the maximum 1 minute increase (or 3 minute with T3 Patron) for only 5b sacrificed rather than the usual 10b. For more info on this, please [see here](https://wiki.oldschool.gg/#minion-icons)
+Trip length extension via sacrifice value is halved for ironmen, giving the maximum 1 minute increase (or 3 minute with T3 Patron) for only 5b sacrificed rather than the usual 10b. For more info on this, please [see here](https://wiki.oldschool.gg/#minion-icons).
 
 ### Permanent Ironman Perks
 
@@ -26,7 +26,7 @@ Any leaderboard can be filtered to only show ironmen. This is done by adding `--
 
 * E.g. `+lb kc vorkath --im`
 * E.g. `+lb sacrifice --im`
-* E.g. `+drystreak corp, elysian sigil --im` (T3 patrons only)
+* E.g. `/tools patron drystreak`` `**`monster:`**`Corporeal Beast`` `**`item:`**`Elysian sigil`` `**`ironman:`**`True`
 
 ### Ironman Discord Server
 

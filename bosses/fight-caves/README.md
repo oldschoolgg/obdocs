@@ -1,13 +1,30 @@
 # Fight Caves
 
-### Overview
+## Overview
 
-You can challenge the Fight Caves and TzTok-Jad to receive a fire cape, tokkul, and the TzRek-Jad pet using the `/activities fight_caves` command. Better range gear will reduce the time each attempt takes at a rate of roughly 1% per 5 attack value, as will total Jad kc. \
-You can equip your best ranged gear with the autoequip command `+autoequip range attack ranged`\
-The number of total attempts you have made will determine your chances of killing Jad when he is reached.\
-You can make 4 dose potions from 3, 2, and 1 dose drops using the `/decant` command. Should you fail before the final wave, some of your potions will be refunded.
+You can challenge the Fight Caves and TzTok-Jad to receive a fire cape, tokkul, and the TzRek-Jad pet. The number of total attempts you have made will largely determine your chances of killing Jad when he is reached (starting at a mere 0.9% survival chance).
 
-### Requirements & Boosts
+Better range gear will reduce the time each attempt takes at a rate of roughly 1% per 5 attack value, as will total Jad kc. You can equip your best ranged gear with the autoequip command `/gear equip`` `**`gear_setup:`**` ``Range`` `**`auto:`**` ``ranged_strength`\
+\
+You require 4 dose potions for the fight, so, decent 3, 2, and 1 dose pots using the `/decant` command. Should you fail before the final wave, some of your potions will be refunded.
+
+Tokkul gained from completions can be spent at the [Tokkul shop](https://wiki.oldschool.gg/bosses/fight-caves/tokkul-shop).
+
+## Commands
+
+To start a trip into the Fight caves, use
+
+* `/activities fight_caves`
+
+To gamble a Fire cape at a chance for the TzRek-Jad pet, use:
+
+* `/gamble cape`` `**`type:`**` ``fire`
+
+To sacrifice a Fire cape for the Inferno, use:
+
+* `+sacrifice 1 fire cape`
+
+## Requirements & Boosts
 
 * \+160 range bonus equipped to your range gear setup.
 * 43 prayer&#x20;
@@ -15,11 +32,7 @@ You can make 4 dose potions from 3, 2, and 1 dose drops using the `/decant` comm
 * Having a Saradomin Godsword equipped in any setup reduce your chances of dying before Jad by 4%.
 * Having a Twisted Bow in your bank gives a 15% boost to time.
 
-If you have extra fire capes, you can gamble them for an additional roll at the TzRek-Jad pet using the `+capegamble` command.
-
-Tokkul can be spent at the [Tokkul shop](https://wiki.oldschool.gg/bosses/fight-caves/tokkul-shop).
-
-### Survival Chance
+## Survival Chance
 
 Your chance of survival during the fightcaves is calculated based on your number of attempts and whether or not you have a Saradomin Godsword equiped (in any gear setup).
 

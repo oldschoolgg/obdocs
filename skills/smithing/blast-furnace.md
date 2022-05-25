@@ -6,7 +6,7 @@ description: >-
 
 # Blast Furnace
 
-The Blast Furnace can be used with the `[blast_furnace:true]` option on the `/smelt` command. For example `/smelt [name:Gold bar] [blast furnace:true]`
+The Blast Furnace can be used with the `[`**`blast_furnace:`**`true]` option on the `/smelt` command. For example `/smelt [`**`name:`**`Gold bar] [`**`blast furnace:`**`true]`
 
 The Blast Furnace will cost you 216,000 gp/hr to use, or 72,000 gp/hr if your minion is an ironman. &#x20;
 

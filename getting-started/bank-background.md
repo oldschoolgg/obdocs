@@ -18,7 +18,7 @@ In order to change your bank background one of the first things you will need to
   * 1x Clueless Scroll (400 Mediums completed)
   * 1x Heavy Casket (200 Elites completed)
   * 1x Scroll Sack (100 Masters completed)
-* Nightmare (Requires 1 of each item in the collection Log in addition to Slepey tablet and Parasitic Egg from Phosanis Nightmare)
+* Nightmare (Requires 1 of each item in the collection Log in addition to Slepey tablet and Parasitic Egg from Phosani's Nightmare)
 
 ### Available to Patrons
 

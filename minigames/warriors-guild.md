@@ -4,11 +4,11 @@ You can use the Warriors Guild to get defenders, powerful offensive offhand slot
 
 To collect warriors guild tokens:
 
-* `/activities warriors_guild action:tokens quantity:[quantityValue]`&#x20;
+* `/activities warriors_guild`` `**`action:`**`tokens`` `**`quantity:`**`[quantityValue]`&#x20;
 
 To kill cyclops for defenders:
 
-* `/activities warriors_guild action:cyclops`
+* `/activities warriors_guild`` `**`action:`**`cyclops`
 
 The argument `quantity:[quantityValue]` can be used to specify the quantity of cyclopes to kill.
 

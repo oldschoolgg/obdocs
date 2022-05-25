@@ -5,7 +5,7 @@
 Full graceful provides a 5% boost to all hunter creatures, except birdhouses where it gives a 10% boost. It _must_ be equipped in the skilling setup.
 
 **Passive XP + seeds** \
-`+birdhouse` or  `+bh` \
+`/activities birdhouses` \
 You can set birdhouse traps to collect various seeds, rings, and eggs. This can be done every 50 minutes which provides excellent xp. See the [Birdhouses](https://wiki.oldschool.gg/skills/hunter/birdhouses) page for more info.
 
 \

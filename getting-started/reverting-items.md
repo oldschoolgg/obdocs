@@ -11,7 +11,7 @@ For starters, in most instances reverting items is something you may not necessa
 To start reverting items you are going to begin by doing `/create`` `**`item:`**` ``revert` and looking for the item that you are looking to revert into either:
 
 * Components
-* Original Item (removing an ornament or seperating combined items)
+* Original Item (removing an ornament or separating combined items)
 * Reverting an item to Tickets (Castle Wars)
 
 When reverting an item such as those listed below, you will be seeing a return of 20,000 Zulrah scales in exchange for that item or in regards to the Bandos items you will be seeing a return of Bandosian Components varying on the item that is reverted&#x20;
@@ -22,7 +22,7 @@ When reverting an item such as those listed below, you will be seeing a return o
 * Bandos Chestplate (3 Bandosian Components)
 * Bandos Tassets (2 Bandosian Components)
 
-When reverting one of the items below you will be guarenteed to get your Ornament kit back in regards to ornament items, with the Nightmare staffs you will be recieving back the Orb inserted in the staff and the Nightmare staff itself.  Those items with ornaments are listed below
+When reverting one of the items below you will be guaranteed to get your Ornament kit back in regards to ornament items, with the Nightmare staffs you will be receiving back the Orb inserted in the staff and the Nightmare staff itself.  Those items with ornaments are listed below
 
 * Zenyte Items (Tormented, Anguish, Torture)
 * Godswords (Bandos, Armadyl, Zamorak, Saradomin)
@@ -33,7 +33,7 @@ When reverting one of the items below you will be guarenteed to get your Ornamen
 * Nightmare Staffs (Eldritch, Volatile, Harmonised)
 * Ferocious Gloves (Hydra Leather)
 
-When reverting a castle wars item back into tickets you will get full return of any and all tickets that was used to spend on buying those items in the first place.  For more information on Castle Wars, how to get started, and the cost of all those items, make sure you make a trip to [Castle Wars](../minigames/castle-wars.md)
+When reverting a castle wars item back into tickets you will get full return of any and all tickets that was used to spend on buying those items in the first place.  For more information on Castle Wars, how to get started, and the cost of all those items, make sure you make a trip to [Castle Wars](../minigames/castle-wars.md).
 
 The only instance of reverting an item and not getting a component or an item return back is when doing `/create`` `**`item:`**` ``revert Dragon Pickaxe (upgraded)`, this will only return you the Dragon Pickaxe.&#x20;
 

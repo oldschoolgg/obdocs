@@ -1,6 +1,6 @@
 # Tempoross
 
-&#x20;With at least 35 Fishing, you can send your minion out with `/k name:Tempoross`.&#x20;
+&#x20;With at least 35 Fishing, you can send your minion out with `/k`` `**`name:`**`Tempoross`.&#x20;
 
 All rewards are dropped as your minion returns, no need to fish the reward pool.&#x20;
 

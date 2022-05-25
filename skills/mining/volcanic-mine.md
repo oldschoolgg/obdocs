@@ -35,9 +35,9 @@ If you have all the boosts you should get the following message upon starting a 
 
 ### Volcanic Mine Shop
 
-You can buy everything you can buy in OSRS with the  `/minigames volcanic_mine buy:[item] quantity:[number]` item: command:
+You can buy everything you can buy in OSRS with the  `/minigames volcanic_mine` command.
 
-E.g.  `/minigames volcanic_mine buy item:Gold ore quantity:1000`.
+E.g.  `/minigames volcanic_mine buy`` `**`item:`**`Gold ore`` `**`quantity:`**`1000`
 
 |                        |                |
 | ---------------------- | :------------: |

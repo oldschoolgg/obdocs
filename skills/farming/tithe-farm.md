@@ -19,9 +19,9 @@ The start the minigame, use `/farming tithe_farm`
 
 ### Tithe Farm Shop
 
-To purchase an item from this shop, use the `/farming tithe_farm [buy_reward]` command.
+To purchase an item from this shop, use the `/farming tithe_farm buy_reward` command.
 
-**E.g.** `/farming tithe_farm [buy_reward:Farmer's strawhat]`
+**E.g.** `/farming tithe_farm`` `**`buy_reward:`**`[rewardName]`
 
 | **Item name**           | **Point cost** |
 | ----------------------- | :------------: |

@@ -12,7 +12,7 @@
 \+mix magic potion until 81\
 \+mix saradomin brew repeat until 99\
 \
-Materials Needed:\
+**Materials Needed:**\
 64 guam potion(unf) and 64 eye of newt\
 237 tarromin potion(unf) and 237 limpwurt root\
 4095 ranarr potion(unf), 2692 cadantine potion(unf) and 2920 white berries, 3867 snape grass\

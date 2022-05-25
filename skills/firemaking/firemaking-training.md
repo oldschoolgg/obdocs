@@ -11,7 +11,7 @@ It's a good idea to get at least 30 Construction and Woodcutting before starting
 
 ### Additional Information:
 
-Food is easily obtainable with 65 Attack+Strength using `+buy` potato with cheese (650 gp each).
+Food is easily obtainable with 65 Attack+Strength using `+buy potato with cheese` (650gp each).
 
 Pyromancer outfit gives 2.5% xp boost and counts as warm clothes when equipped.
 
