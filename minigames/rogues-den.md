@@ -23,4 +23,4 @@ It works a bit differently to in game, after your trip returns you'll receive lo
 
 `/gear equip`` `**`gear_setup:`**`Skilling`` `**`item:`**`Rogue top` - Equips a single piece
 
-`/gear equip`` `**`gear_setup:`**`Skilling`` `**`preset:`**` ``rogue` - Equips the entire set
+`/gear equip`` `**`gear_setup:`**`Skilling`` `**`preset:`**`rogue` - Equips the entire set

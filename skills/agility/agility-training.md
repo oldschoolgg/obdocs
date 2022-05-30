@@ -2,13 +2,13 @@
 
 ### Fastest route to 99:
 
-\+laps 42 gnome until 14\
-\+laps draynor until 25\
-\+laps al kharid until 30\
-\+laps penguin until 48\
-\+laps ape until 70\
-\+laps pol until 72\
-\+sepulchre repeat until 99\
+`/laps`` `**`name:`**`Gnome Stronghold Agility Course`` `**`quantity:`**`42` until 14\
+`/laps`` `**`name:`**`Draynor Village Rooftop Course` until 25\
+`/laps`` `**`name:`**`Al Kharid Rooftop Course` until 30\
+`/laps`` `**`name:`**`Penguin Agility Course` until 48\
+`/laps`` `**`name:`**`Ape Atoll Agility Course` until 70\
+`/laps`` `**`name:`**`Pollnivneach Rooftop Course` until 72\
+`/minigames sepulchre start` until 99\
 \
 **Alternative routes:**\
 `+agilityarena` (for diary)\

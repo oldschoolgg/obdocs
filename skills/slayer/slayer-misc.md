@@ -7,13 +7,13 @@ description: For all the random stuff people keep asking
 ### FAQ
 
 **Q: How do I use an unsired / Chewed bones?**\
-****A: `+offer unsired` and  `+offerchewed bones`
+****A: `+offer unsired` and  `+offer chewed bones`
 
 **Q: What unlocks should I prioritise?**\
 ****A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****&#x20;
 
 **Q: How do I unlock/create a slayer helm?**\
-A:  `+sls unlock slayer helmet` followed by `+create`` `**`item:`**` ``slayer helmet` or  `/create`` `**`item:`**` ``slayer helmet (i)`. This isn't recommended as a black mask can be used anywhere.
+A:  `+sls unlock slayer helmet` followed by `/create`` `**`item:`**`Slayer helmet` or  `/create`` `**`item:`**` ``Slayer helmet (i)`. This isn't needed as a black mask can be used for the same boost.
 
 **Q: Which slayer master should I use?**\
 A: Depends on your goal; Konar for CL/XP or Duradel for bossing. Konar is better XP due to being able to complete tasks in any of Konar's assignable locations rather than a specific location (the way it works in OSRS).
@@ -22,10 +22,10 @@ A: Depends on your goal; Konar for CL/XP or Duradel for bossing. Konar is better
 A: `/minigames soul_wars imbue`` `**`name:`**` ``Black mask` - you can get points through the [Soul wars minigame](https://wiki.oldschool.gg/minigames/soul-wars).
 
 **Q: Do I need to equip my black mask/slayer helm to get the boost?**\
-A: No, but its recommended you equip it in your misc (or any other) setup for fightcaves.
+A: No, the boost works from the bank.
 
 **Q: How do I get an arclight?**\
-A: `+buy darklight` then `/create`` `**`item:`**` ``arclight` - Requires 3 ancient shards.
+A: `+buy darklight` then `/create`` `**`item:`**`Arclight` - Requires 3 ancient shards.
 
 **Q: How do I get a cannon?**\
 A: `+buy dwarf multicannon`
@@ -59,7 +59,7 @@ The 95% threshold for ranged attack is 233.7.
 
 The 95% threshold for magic attack is 168.15.
 
-It is also reccomended to equip a staff that provides water runes in your misc setup. (If you don't have a kodai wand.)
+It is also recommended to equip a staff that provides water runes in your misc setup. (If you don't have a kodai wand.)
 
 You can also create a gear preset for these setups after equipping them. I.E.\
 `+gearpresets new meleeslay range`\

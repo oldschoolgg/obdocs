@@ -1,8 +1,8 @@
 # Dark Altar
 
-You can craft Blood runes and Soul runes at the Dark Altar using `/runecraft`.
+Blood runes and Soul runes can be crafted at the Dark Altar using `/runecraft`.
 
-You also receive some mining and crafting XP.
+This also gives some Mining and Crafting XP.
 
 ### Requirements
 

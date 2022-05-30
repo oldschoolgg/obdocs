@@ -29,7 +29,7 @@ Zalcano is a solo only activity, however your minion theoretically kills it with
 * Runecrafting, Smithing and Mining XP.
 * 2-3 crystal shards per kill and various resources such as runes, gems, ores and bars.
 * Crystal tool seed, used to make crystal tools which provide the highest boosts.
-  * `/create`` `**`item:`**` ``crystal pickaxe/axe/harpoon` (needs 76 craft & smith + 120 crystal shards)
+  * `/create`` `**`item:`**`Crystal pickaxe/axe/harpoon` (needs 76 craft & smith + 120 crystal shards)
 * Finally, Zalcano has a pet (Smolcano) and drops a dragon pickaxe ornament kit (Zalcano shard).
-  * `/create`` `**`item:`**` ``dragon pickaxe (or)`
+  * `/create`` `**`item:`**`Dragon pickaxe (or)`
 * See the OSRS wiki [Zalcano Page](https://oldschool.runescape.wiki/w/Zalcano) for further details.

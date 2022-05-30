@@ -2,18 +2,18 @@
 
 ### Fastest route to 99:
 
-\+fletch 888 bronze arrow\
-\+fletch 2484 bronze dart\
-\+fletch 5750 iron dart\
-\+fletch 12825 steel dart\
-\+fletch mithril dart until 67\
-\+fletch adamant dart until 81\
-\+fletch rune dart until 95\
-\+fletch dragon dart repeat until 99\
+`/fletch`` `**`name:`**`Bronze arrow`` `**`quantity:`**`888`\
+`/fletch`` `**`name:`**`Bronze dart`` `**`quantity:`**`2484`\
+`/fletch`` `**`name:`**`Iron dart`` `**`quantity:`**`5750`\
+`/fletch`` `**`name:`**`Steel dart`` `**`quantity:`**`12825`\
+`/fletch`` `**`name:`**`Mithril dart` until 67\
+`/fletch`` `**`name:`**`Adamant dart` until 81\
+`/fletch`` `**`name:`**`Rune dart` until 95\
+`/fletch`` `**`name:`**`Dragon dart` until 99\
 \
 **Materials Needed:**\
-888 headless arrow and 888 bronze arrowtips\
-2484 bronze dart tip and 689049 feather\
-5750 iron dart tip and 12825 steel dart tip\
-37884 mithril dart tip and 109658 adamant dart tip\
-349933 rune dart tip and 170515 dragon dart tip
+888 Headless arrow, 888 Bronze arrowtips,\
+689049 Feather, 2484 Bronze dart tip,\
+5750 Iron dart tip, 12825 Steel dart tip,\
+37884 Mithril dart tip, 109658 Adamant dart tip,\
+349933 Rune dart tip, 170515 Dragon dart tip

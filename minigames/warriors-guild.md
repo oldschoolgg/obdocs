@@ -4,15 +4,15 @@ You can use the Warriors Guild to get defenders, powerful offensive offhand slot
 
 To collect warriors guild tokens:
 
-* `/activities warriors_guild`` `**`action:`**`tokens`` `**`quantity:`**`[quantityValue]`&#x20;
+* `/activities warriors_guild`` `**`action:`**`tokens`` `**`quantity:`**`<quantity>`&#x20;
 
 To kill cyclops for defenders:
 
 * `/activities warriors_guild`` `**`action:`**`cyclops`
 
-The argument `quantity:[quantityValue]` can be used to specify the quantity of cyclopes to kill.
+The **`quantity:`**`<quantity>` option can be used to specify the quantity of cyclopes to kill.
 
-**NOTE:** Don't equip your defenders until you get dragon! The command checks your bank for current defender rather than equipped gear. You can also get more than one defender in one trip.
+**NOTE: Don't equip your defenders until you get dragon!** The command checks your bank for current defender rather than equipped gear. You can also get more than one defender in one trip.
 
 If you have attained 99 Attack, you can equip the cape in the _melee setup_ and no longer require any tokens to kill the cyclops (you do still require the previous tiers of defenders in order to get the next one).
 

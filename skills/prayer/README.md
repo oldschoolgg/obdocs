@@ -1,6 +1,6 @@
 # Prayer
 
-You can train Prayer by burying bones, or offering them to the Chaos altar. For example to bury 100 Dragon bones, you can do `+bury 100 Dragon bones`, or to bury the maximum amount you can: `+bury Dragon bones`.
+You can train Prayer by burying bones, or offering them to the Chaos altar. For example to bury 100 Dragon bones, you can do `+bury 100 Dragon bones`, or to bury the maximum amount you can: `+bury Dragon bones`. This should never be done as the Chaos alter gives over 6x more xp per bone, even including the chance to lose bones to pkers.
 
 Offering the bones to the Chaos altar works exactly the same, except you use `+offer` instead, for example: `+offer 100 Dragon bones`.
 

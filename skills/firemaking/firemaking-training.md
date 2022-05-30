@@ -2,11 +2,11 @@
 
 ## Fastest Route to 99:
 
-\+light 61 Logs\
-\+light 183 Oak logs\
-\+light 101 Willow logs\
-\+light 751 Teak logs\
-[Wintertodt ](wintertodt.md)to 99 (will require 4 pieces of --warm clothing and some food)\
+`/light`` `**`name:`**`Logs`` `**`quantity:`**`61`\
+`/light`` `**`name:`**`Oak logs`` `**`quantity:`**`183`\
+`/light`` `**`name:`**`Willow logs`` `**`quantity:`**`101`\
+`/light`` `**`name:`**`Teak logs`` `**`quantity:`**`751`\
+`/wintertodt` to 99 (will require 4 pieces of --warm clothing and some food)\
 It's a good idea to get at least 30 Construction and Woodcutting before starting Wintertodt to maximize the xp you get in those skills as well.
 
 ### Additional Information:

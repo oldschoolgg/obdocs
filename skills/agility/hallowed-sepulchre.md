@@ -54,8 +54,8 @@ The following items can be purchased using the `+buy` command using hallowed mar
 
 * The dark graceful set can be acquired through purchasing the dark dye from the shop. It requires a full set of the base graceful and 1 dark dye per piece.
 * To create the set, simply type:
-  * `/create`` `**`item:`**`dark graceful [piece]` - piece by piece
-  * `/create`` `**`item:`**`dark graceful` - whole set in one command
+  * `/create`` `**`item:`**`Dark graceful [piece]` - piece by piece
+  * `/create`` `**`item:`**`Dark graceful` - whole set in one command
 * You need 6 dark dyes to create the full set, totaling 1800 hallowed marks.
 
 ### **Strange Old Lockpick**
@@ -78,7 +78,7 @@ The Ring of Endurance also provides boosts to several activities within the bot,
 
 To create the charged Ring of Endurance, use the following command:
 
-* `/create`` `**`item:`**`ring of endurance`
+* `/create`` `**`item:`**`Ring of endurance`
   * Requires 125 Stamina potion (4)
   * The charged ring cannot be uncharged or traded
 

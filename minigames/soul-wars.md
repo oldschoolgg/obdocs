@@ -12,7 +12,7 @@ You can start a game of Soul wars by typing:
 
 To buy the following items, use the command below. The pet is obtainable from Spoils of war.
 
-* E.g. `/minigames soul_wars buy`` `**`name:`**`red soul cape`
+* E.g. `/minigames soul_wars buy`` `**`name:`**`Red soul cape`
 
 | **Item**       | **Zeal tokens** |
 | -------------- | --------------- |
@@ -25,7 +25,7 @@ To buy the following items, use the command below. The pet is obtainable from Sp
 
 To imbue the following items, use the command below.
 
-* E.g. `/minigames soul_wars imbue`` `**`name:`**`hydra slayer helmet`
+* E.g. `/minigames soul_wars imbue`` `**`name:`**`Hydra slayer helmet`
 
 | **Item**                | **Zeal Tokens** |
 | ----------------------- | --------------- |

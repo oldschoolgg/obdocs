@@ -1,8 +1,8 @@
 # Firemaking
 
-You can train Firemaking using `+light [quantity] <logs>`, for example `+light 50 willow`.
+You can train Firemaking using `/light`` `**`name:`**`<logs>`` `**`quantity:`**`<quantity>`, for example `/light`` `**`name:`**`Willow logs`` `**`quantity:`**`50`
 
-You can boost firemaking xp by 2.5% if you have the full pyromancer outfit equipped in your skilling gear setup.
+Equipping the full pyromancer outfit in the skilling gear setup gives a 2.5% boost to Firemaking xp.
 
 #### Logs
 
@@ -20,4 +20,4 @@ You can boost firemaking xp by 2.5% if you have the full pyromancer outfit equip
 | Magic            |         75         |      303.8     | 412,709   |
 | Redwood          |         90         |       350      | 475,472   |
 
-You can also train Firemaking via the [Wintertodt ](wintertodt.md)minigame.
+Firemaking can also be trained via the [Wintertodt ](wintertodt.md)minigame.

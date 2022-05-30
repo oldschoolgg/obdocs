@@ -2,24 +2,22 @@
 
 ### Fastest route to 99:
 
-\+craft 48 leather gloves\
-\+craft 19 leather boots\
-\+craft 22 leather cowl\
-\+craft 34 leather vambraces\
-\+craft 95 leather body\
-\+craft 106 sapphire\
-\+craft 156 emerald\
-\+craft 355 ruby\
-\+craft 1082 diamond\
-\+craft dragonstone until 63\
-\+craft green d'hide body until 71\
-\+craft blue d'hide body until 77\
-\+craft red d'hide body until 84\
-\+craft black d'hide body repeat until 99\
+`/craft`` `**`name:`**`Leather gloves`` `**`quantity:`**`48` \
+`/craft`` `**`name:`**`Leather boots`` `**`quantity:`**`19`\
+`/craft`` `**`name:`**`Leather cowl`` `**`quantity:`**`22`\
+`/craft`` `**`name:`**`Leather vambraces`` `**`quantity:`**`34`\
+`/craft`` `**`name:`**`Leather body`` `**`quantity:`**`95`\
+`/craft`` `**`name:`**`Sapphire`` `**`quantity:`**`106`\
+`/craft`` `**`name:`**`Emerald`` `**`quantity:`**`156`\
+`/craft`` `**`name:`**`Ruby`` `**`quantity:`**`355`\
+`/craft`` `**`name:`**`Diamond`` `**`quantity:`**`1082`\
+`/craft`` `**`name:`**`Dragonstone` until 63\
+`/craft`` `**`name:`**`Green d'hide body`  until 71\
+`/craft`` `**`name:`**`Blue d'hide body` until 77\
+`/craft`` `**`name:`**`Red d'hide body` until 84\
+`/craft`` `**`name:`**`Black d'hide body` until 99\
 \
 **Materials Needed:**\
-217 leather\
-106 uncut sapphire and 156 uncut emerald\
-355 uncut ruby, 1082 uncut diamond and 1469 uncut dragonstone\
-7194 green dragonleather and 9447 blue dragonleather\
-18921 red dragonleather and 117246 black dragonleather
+217 Leather\
+106 Uncut sapphire, 156 Uncut emerald, 355 Uncut ruby, 1082 Uncut diamond, 1469 Uncut dragonstone\
+7194 Green dragon leather, 9447 Blue dragon leather, 18921 Red dragon leather, 117246 Black dragon leather

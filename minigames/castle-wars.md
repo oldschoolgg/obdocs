@@ -14,7 +14,7 @@ E.g.  `+buy red decorative body`
 
 It is possible to revert your reward items back into tickets with the `/create` command.
 
-E.g. `/create`` `**`item:`**`revert red decorative body`
+E.g. `/create`` `**`item:`**`Revert red decorative body`
 
 |                            |                  |
 | -------------------------- | :--------------: |

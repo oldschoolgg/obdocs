@@ -2,11 +2,10 @@
 
 Smithing is one of the more useful skills on the bot, because it is required to create many useful items such as godswords, spirit shields and crystal equipment.
 
-You can train smithing by using `/smelt` & `+smith` commands.
+You can train smithing by using `/smelt` and `/smith` commands.
 
-* `/smelt`` `**`name:`**` ``Runite bar`` `**`quantity:`**` ``1`
-* `+smith [quantity] <item>`
-  * E.g. `+smith 100 adamant dart tip`
+* `/smelt`` `**`name:`**`Runite bar`` `**`quantity:`**`1`
+* `/smith`` `**`name:`**`Adamant dart tip`` `**`quantity:`**`100`
 
 ### Bars
 
@@ -21,17 +20,17 @@ You can train smithing by using `/smelt` & `+smith` commands.
 |  Adamantite  |         70         |      37.5      | Adamantite ore + 6 coal |
 |    Runite    |         85         |       50       |   Runite ore + 8 coal   |
 
-**\*** - Has a 50% chance to fail. Ring of forging does NOT work yet.
+**\*** - Has a 50% chance to fail. Ring of forging does NOT work.
 
-**\*\*** - Equipping [goldsmith gauntlets](https://wiki.oldschool.gg/miscellaneous/buyables) will increase the gold bar xp from 22.5 to 56.2.
+**\*\*** - Equipping [goldsmith gauntlets](https://wiki.oldschool.gg/miscellaneous/buyables) increases the gold bar xp from 22.5 to 56.2.
 
 ### Blast Furnace
 
-An alternative method to train smithing is through use of the blast furnace. At the blast furnace you can expect higher xp/hr and in turn, expect to make more bars/hr. Please visit the [blast furnace page](https://wiki.oldschool.gg/skills/smithing/blast-furnace) to view specifics.
+An alternative method to train smithing is through use of the blast furnace. At the blast furnace you can expect to make more bars/hr and in turn, expect higher xp/hr. See the [blast furnace page](https://wiki.oldschool.gg/skills/smithing/blast-furnace) for specifics.
 
 ### Items Requiring Smithing
 
-You can smith just about any item from the main game for xp, at exactly the same xp rates. You can see a full list of smithables by typing `+smith --items` in the bot, or by visiting the [OSRS Smithing Wiki page.](https://oldschool.runescape.wiki/w/Smithing#Smithing)&#x20;
+You can smith most items from the main game for xp, at exactly the same xp rates. You can see a full list of smithables by by visiting the [OSRS Smithing Wiki page.](https://oldschool.runescape.wiki/w/Smithing#Smithing)&#x20;
 
 The bot also mimics some of the more useful creatables that require a certain smithing level in the real game too. Here is a list of those items.
 

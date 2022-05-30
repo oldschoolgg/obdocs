@@ -27,7 +27,7 @@ These items must be equipped in your melee gear setup for the boosts to apply.
 ### Rewards (Equipment)
 
 * You can spend your Commendation Points with the following command.
-* E.g. `/minigames pest_control buy`` `**`name:`**`void knight robe`
+* E.g. `/minigames pest_control buy`` `**`name:`**`Void knight robe`
 
 |                    |                |
 | ------------------ | :------------: |

@@ -10,8 +10,8 @@
 `/runecraft`` `**`rune:`**`Steam Rune`` `**`quantity:`**`232` (until level 23) \
 `/runecraft`` `**`rune:`**`Lava Rune` (repeat until 99)
 
-**Materials Needed:** 1241520 Pure essence and 1000-2000 Binding necklaces \
-1240800 Earth rune, 293 Water rune and 315 Air rune. Abyssal sire drops Binding necklaces in quantity's of 25.\
+**Materials Needed:** 1,241,520 Pure essence and 1000-2000 Binding necklaces \
+1,240,800 Earth rune, 293 Water rune and 315 Air rune. Abyssal sire drops Binding necklaces in quantity's of 25.\
 \
 **For each lap of Lava runes:** 1 Earth talisman or 2 Astral rune + 7 Fire rune + 7 Water rune for Magic Imbue (lvl 82 magic), 1-2 charges Ring of dueling(8) and sometimes a dose of Stamina potion(4) is consumed.
 
@@ -24,11 +24,8 @@
 `/runecraft`` `**`rune:`**`Fire Rune`` `**`quantity:`**`338`\
 `/runecraft`` `**`rune:`**`Body Rune`` `**`quantity:`**`4368`\
 `/runecraft`` `**`rune:`**`Astral Rune` - to 77\
-\
-Unlock Kourend & Kebos medium diary for Dense essence mining buff.\
-\
 `/runecraft`` `**`rune:`**`Blood Rune` - to 90 (or 99)\
-`/runecraft`` `**`rune:`**`Soul Rune` - to whatever, this is best xp/hr!
+`/runecraft`` `**`rune:`**`Soul Rune` - to whatever, this is best xp/hr at the Dark altar!
 
-Requires 170,382 pure essence
+**Materials needed:** 170,382 pure essence
 

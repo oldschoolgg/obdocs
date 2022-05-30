@@ -8,20 +8,20 @@ You can buy vials of water using `+buy (quantity) vial of water`
 
 ### Making Potions
 
-Making unfinished potions, cleaning herbs, and preparing secondary ingredients can all be done by hand, but takes time. You can use Zahur & Wesley to assist in these processes for a small fee.
+Making unfinished potions, cleaning herbs, and preparing secondary ingredients are all done with the /mix command. You can optionally use Zahur & Wesley to make these processes instant for a small fee.
 
-* `+clean (grimy herb name)` - cleans the herb
-* `+crush (item name)` - crushes the item
-* `+mix (potion base)` - creates the potion base
-* `+mix (finished potion)` - creates the finished potion
+* `/mix`**`name:`**`Crushed nest`
+* `/mix`**`name:`**`Toadflax`
+* `/mix`**`name:`**`Toadflax potion (unf)`
+* `/mix`**`name:`**`Saradomin brew (3)`
 
-**Zahur** - You can add `--zahur` to the end of the clean and mix commands to have to potion bases made instantly. However, this will cost 200gp per item. Zahur will also not clean herbs for you if you do not have the required herblore level to clean them yourself. You will also not get any xp.
+**Zahur** - You can add **`zahur:`**`True` to the end of the command to make unfinished potions or clean herbs instantly. This costs 200gp per item. Zahur will not clean herbs that you do not have the require d herblore level to clean yourself. No xp is given for cleaning herbs with Zahur.
 
-* E.g. `+clean grimy toadflax --zahur`
+* E.g. `/mix`` `**`name:`**`Toadflax`` `**`zahur:`**`True`
 
-**Wesley** - You can add `--wesley` to the end of the crush command to have your items crushed instantly. However, this will cost 50gp per item. There are no requirements for this.
+**Wesley** - You can add **`wesley:`**`True` to the end of the command to crush your items instantly. This costs 50gp per item. There are no other requirements.
 
-* E.g. `+crush bird nest --wesley`
+* E.g. `/mix`` `**`name:`**`Crushed nest`` `**`wesley:`**`True`
 
 ### Herb Cleaning Table
 

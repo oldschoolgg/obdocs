@@ -2,21 +2,21 @@
 
 ### Fastest route to 99:
 
-\+mix 64 attack potion\
-\+mix 237 strength potion\
-\+mix 228 defence potion\
-\+mix prayer potion until 63\
-\+mix 900 super restore\
-\+mix super defence until 72\
-\+mix ranging potion until 76\
-\+mix magic potion until 81\
-\+mix saradomin brew repeat until 99\
+`/mix`` `**`name:`**`Attack potion (3)`` `**`quantity:`**`64`\
+`/mix`` `**`name:`**`Strength potion (3)`` `**`quantity:`**`237`\
+`/mix`` `**`name:`**`Defence potion (3)`` `**`quantity:`**`228`\
+`/mix`` `**`name:`**`Prayer potion (3)` until 63\
+`/mix`` `**`name:`**`Super restore (3)`` `**`quantity:`**`900`\
+`/mix`` `**`name:`**`Super defence (3)` until 72\
+`/mix`` `**`name:`**`Ranging potion (3)` until 76\
+`/mix`` `**`name:`**`Magic potion (3)` until 81\
+`/mix`` `**`name:`**`Saradomin brew (3)` until 99\
 \
 **Materials Needed:**\
-64 guam potion(unf) and 64 eye of newt\
-237 tarromin potion(unf) and 237 limpwurt root\
-4095 ranarr potion(unf), 2692 cadantine potion(unf) and 2920 white berries, 3867 snape grass\
-900 snapdragon potion(unf) and 900 red spiders' eggs\
-2694 dwarf weed potion(unf) and 2694 wine of zamorak\
-4966 lantadyme potion(unf) and 4966 potato cactus\
-60235 toadflax potion(unf) and 60235 crushed nest
+64 Guam potion(unf), 64 Eye of newt,\
+237 Tarromin potion(unf),  237 Limpwurt root,\
+4095 Ranarr potion(unf), 2692 Cadantine potion(unf), 2920 White berries, 3867 Snape grass,\
+900 Snapdragon potion(unf), 900 Red spiders' eggs,\
+2694 Dwarf weed potion(unf), 2694 Wine of zamorak,\
+4966 Lantadyme potion(unf), 4966 Potato cactus,\
+60235 Toadflax potion(unf), 60235 Crushed nest,

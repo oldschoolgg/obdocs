@@ -1,6 +1,6 @@
 # Woodcutting
 
-You can train Woodcutting using  `+chop [quantity] <logs>`, for example  `+chop 50 willow`. Alternatively, if you would like your minion to cut as many logs as possible in a single task, you can use  `+chop <logs>`, for example `+chop willow`.
+You can train Woodcutting using  `/chop`` `**`name:`**`<logs>`` `**`quantity:`**`<quantity>`, for example  `/chop`` `**`name:`**`Willow logs`` `**`quantity:`**`50`. If no quantity is specified, it will default to a full trip.
 
 The bot uses XP rates based off rune axe as standard; however, you can get one of the following boosts from owning one of these axes:
 
@@ -10,7 +10,7 @@ The bot uses XP rates based off rune axe as standard; however, you can get one o
 
 ### Lumberjack Outfit
 
-You can obtain the Lumberjack outfit through the [Temple Trekking](https://wiki.oldschool.gg/minigames/temple-trekking) minigame. When equipped in the skilling setup, it provides the following boosts to woodcutting XP:
+The Lumberjack outfit can be obtained from the [Temple Trekking](https://wiki.oldschool.gg/minigames/temple-trekking) minigame. When equipped in the skilling setup, it provides the following boosts to woodcutting XP:
 
 * 0.4% - Lumberjack hat
 * 0.8% - Lumberjack top

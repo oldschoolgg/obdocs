@@ -1,11 +1,11 @@
 # Farming Training
 
 **Before you start:** Decide what tier of compost you want to use. Ultracompost is definitely worth obtaining if you plan on doing any serious farming.\
-Use: `/farming default_compost [compost:Ultracompost]` before you start doing any farming and make sure to keep up on supply. At a bare minimum use supercompost, as it's very easy to get from wildy bosses or the `/farming compost_bin` command.
+Use `/farming default_compost`` `**`compost:`**`Ultracompost` before you start doing any farming and make sure to keep up on supply. At a bare minimum use supercompost, as it's very easy to get from wildy bosses or the `/farming compost_bin` command.
 
 Ultra compost can be obtained by mining volcanic ash and combining with super compost.\
-`+mine volcanic ash`\
-`/create [item:Ultracompost]`
+`/mine`` `**`name:`**`Volcanic ash`\
+`/create`` `**`item:`**`Ultracompost`
 
 
 
@@ -13,19 +13,19 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 
 
-`/farming check_patches` (For checking patch timers)&#x20;
+`/farming check_patches` (This can also be checked through `+m`)
 
-`/default_compost`  - set to ultracompost
+`/farming default_compost`` `**`compost:`**`Ultracompost`
 
 `/farming always_pay`&#x20;
 
-`/farming plant [plant_name:Potato]` (until level 5)&#x20;
+`/farming plant`` `**`plant_name:`**`Potato` (until level 5)&#x20;
 
-`/farming plant [plant_name:Onion]` (until level 7)&#x20;
+`/farming plant`` `**`plant_name:`**`Onion` (until level 7)&#x20;
 
-`/farming plant [plant_name:Cabbage]` (until level 12)&#x20;
+`/farming plant`` `**`plant_name:`**`Cabbage` (until level 12)&#x20;
 
-`/farming plant [plant_name:Tomato]` (until level 15)
+`/farming plant`` `**`plant_name:`**`Tomato` (until level 15)
 
 
 
@@ -33,47 +33,47 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 **`Tree seeds`**` ```&#x20;
 
-`/farming plant [plant_name:Oak Tree]` (until level 30)&#x20;
+`/farming plant`` `**`plant_name:`**`Oak tree` (until level 30)&#x20;
 
-`/farming plant [plant_name:Willow Tree]` (until level 45)&#x20;
+`/farming plant`` `**`plant_name:`**`Willow tree` (until level 45)&#x20;
 
-`/farming plant [plant_name:Maple Tree]` (until level 60)&#x20;
+`/farming plant`` `**`plant_name:`**`Maple tree` (until level 60)&#x20;
 
-`/farming plant [plant_name:Yew Tree]` (until level 75)&#x20;
+`/farming plant`` `**`plant_name:`**`Yew tree` (until level 75)&#x20;
 
-`/farming plant [plant_name:Magic Tree]` (Repeat to 99)&#x20;
+`/farming plant`` `**`plant_name:`**`Magic tree` (Repeat to 99)&#x20;
 
 
 
 **`Hardwood seeds`**` ```&#x20;
 
-`/farming plant [plant_name:Teak Tree]` (Level 35-55)&#x20;
+`/farming plant`` `**`plant_name:`**`Teak tree` (Level 35-55)&#x20;
 
-`/farming plant [plant_name:Teak Tree]` (Repeat to 99)&#x20;
+`/farming plant`` `**`plant_name:`**`Mahogany tree` (Repeat to 99)&#x20;
 
 
 
 **`Fruit tree seeds`**
 
-`/farming plant [plant_name:Pineapple Tree]`(Level 51-57)&#x20;
+`/farming plant`` `**`plant_name:`**`Pineapple tree`(Level 51-57)&#x20;
 
-`/farming plant [plant_name:Papaya Tree]`(until level 68)&#x20;
+`/farming plant`` `**`plant_name:`**`Papaya tree`(until level 68)&#x20;
 
-`/farming plant [plant_name:Palm Tree]` (until level 81)&#x20;
+`/farming plant`` `**`plant_name:`**`Palm tree` (until level 81)&#x20;
 
-`/farming plant [plant_name:Dragonfruit Tree]` (Repeat to 99)
+`/farming plant`` `**`plant_name:`**`Dragonfruit tree` (Repeat to 99)
 
 
 
 **`Special seeds`**&#x20;
 
-`/farming plant [plant_name:Calquat Tree]` (Level 72-99)&#x20;
+`/farming plant`` `**`plant_name:`**`Calquat tree` (Level 72-99)&#x20;
 
-`/farming plant [plant_name:Spirit Tree]` (Level 83-99)&#x20;
+`/farming plant`` `**`plant_name:`**`Spirit tree` (Level 83-99)&#x20;
 
-`/farming plant [plant_name:Celastrus Tree]` (Level 85-99)&#x20;
+`/farming plant`` `**`plant_name:`**`Celastrus tree` (Level 85-99)&#x20;
 
-`/farming plant [plant_name:Redwood Tree]` (Level 90-99)&#x20;
+`/farming plant`` `**`plant_name:`**`Redwood tree` (Level 90-99)&#x20;
 
 
 

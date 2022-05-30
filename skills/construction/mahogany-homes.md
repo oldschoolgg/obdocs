@@ -31,7 +31,7 @@ All contracts use a random amount of steel bars and planks, scaled to the amount
 
 You can buy the following items with the `/minigames mahogany_homes buy` command.
 
-E.g. `/minigames mahogany_homes buy`` `**`name:`**`builders supply crate`
+E.g. `/minigames mahogany_homes buy`` `**`name:`**`Builders supply crate`
 
 * The full carpenter's outfit provides a 2.5% boost to construction XP.
 

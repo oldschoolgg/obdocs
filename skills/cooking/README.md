@@ -1,8 +1,8 @@
 # Cooking
 
-You can train Cooking using `+cook [quantity] <food>`, for example `+cook 50 bass`.
+You can train Cooking using /`cook`` `**`name:`**`<food>`` `**`quantity:`**`<quantity>`, for example /`cook`` `**`name:`**`Bass`` `**`quantity:`**`50`
 
-You can boost Cooking xp rates when attempting to cook fish while having the cooking gauntlets equipped which decrease your failure rate when cooking fish.
+Having cooking gauntlets equipped reduces the burn rate of certain fish.
 
 ### Food
 

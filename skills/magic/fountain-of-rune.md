@@ -4,8 +4,7 @@ You can use the Fountain of Rune to charge Rings of wealth and Amulets of glory.
 
 To charge at the Fountain of Rune, use the following command:
 
-* `+chargewealth (quantity)`
-* `+chargeglories (quantity)`
+* `/activities charge`` `**`item:`**`[Amulet of glory/Ring of wealth]`
 
 **Note:** quantity refers to 1 inventory (1 invent = 26 items)
 

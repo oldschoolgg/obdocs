@@ -6,9 +6,11 @@ description: >-
 
 # Blast Furnace
 
-The Blast Furnace can be used with the `[`**`blast_furnace:`**`true]` option on the `/smelt` command. For example `/smelt [`**`name:`**`Gold bar] [`**`blast furnace:`**`true]`
+The Blast Furnace can be used with the **`blast_furnace:`**`true` option in the `/smelt` command. For example `/smelt`` `**`name:`**`Gold bar`` `**`blast furnace:`**`true`
 
-The Blast Furnace will cost you 216,000 gp/hr to use, or 72,000 gp/hr if your minion is an ironman. &#x20;
+The Blast Furnace costs 216,000 gp/hr to use, or 72,000 gp/hr if your minion is an ironman.&#x20;
+
+Smelting bars at the blast furnace is faster than smelting bars normally, and the amount of coal needed to smelt bars is halved.
 
 ### Requirements
 
@@ -23,8 +25,7 @@ The Blast Furnace will cost you 216,000 gp/hr to use, or 72,000 gp/hr if your mi
 
 * 60% boost for Coal bag (only applies to bars that require coal)
 * 7.5% time penalty if full graceful not equipped (in any [gear setup](../../getting-started/gear.md))
-* Goldsmith gauntlets boosts gold ore (exactly the same as in-game)
-  * The xp/bar changes from 22.5 to 56.2
+* Goldsmith gauntlets boosts xp from smelting gold ore from 22.5 to 56.2 xp/bar
 
 ### Bars
 

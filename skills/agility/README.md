@@ -10,9 +10,9 @@ Agility is required to participate in a variety of activities.
 
 ## Training Methods
 
-Agility can be trained by using the command `+laps [quantity] <course>`. For example: `+laps 10 canifis`.
+Agility can be trained by using the command `/laps`` `**`name:`**`<course>`` `**`quantity:`**`<quantity>`` `**`alch:`**`[True/False].` Quantity and alch are optional.
 
-You can check your total lap counts with the `+m lapcounts` command.
+Total lap counts can be checked with `+m lapcounts`.
 
 ### Rooftop Agility
 
@@ -53,4 +53,4 @@ The Brimhaven Agility Arena rewards the player with Agility tickets which can be
 | Rellekka         | 80                 | 780            | 51           | 55,000    | 14                    |
 | Ardougne         | 90                 | 793            | 45.6         | 62,600    | 24                    |
 
-\* - Please note you will NOT receive crystal shards or marks of grace from the Priff agil course.
+\* - You will NOT receive crystal shards OR marks of grace from the Prifddinas agility course.
