@@ -16,11 +16,16 @@ It's possible to get the Angler's outfit from [Fishing Trawler](fishing-trawler.
 * 0.8% - Angler top
 * 0.6% - Angler waders
 * 0.2% - Angler boots
-* 2.5% - Full outfit equipped in skilling setup\\
+* 2.5% - Full outfit equipped in skilling setup
 
-#### Aerial Fishing
+**Tools**
 
-The Pearl barbarian rod from Aerial Fishing gives a 5% boost to barbarian fishing.
+Certain tools - when equipped in any setup - will speed up the time it takes to catch a fish. The following boosts are available
+
+* 5% for Pearl fishing rod when fishing with bait
+* 5% for Pearl fly fishing rod when fly fishing
+* 5% for Pearl barbarian rod when barbarian fishing
+* 5% for Crystal Harpoon when harpooning fish
 
 ### Fish
 
