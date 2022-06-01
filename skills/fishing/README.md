@@ -25,7 +25,7 @@ Certain tools - when equipped in any setup - will speed up the time it takes to 
 * 5% for Pearl fishing rod when fishing with bait
 * 5% for Pearl fly fishing rod when fly fishing
 * 5% for Pearl barbarian rod when barbarian fishing
-* 5% for Crystal Harpoon when harpooning fish
+* 5% for Crystal harpoon when harpooning-, caging- and netting fish
 
 ### Fish
 
