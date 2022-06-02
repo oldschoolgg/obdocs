@@ -25,7 +25,9 @@ To kill Phosani's Nightmare, use `+nm phosani`
 
 ## Boosts
 
-The maul, claws and staff boosts are taken directly from the bank. You must have used the tablet for the boost by doing `/minion use`` `**`item:`**`Slepey tablet`.
+Phosani boosts are applied from either your bank or equipped gear.
+
+You must have used the tablet for the boost by doing `/minion use`` `**`item:`**`Slepey tablet`.
 
 ![](<../../.gitbook/assets/Elder maul.png>) 3% for Elder maul
 
