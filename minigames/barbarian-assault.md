@@ -16,9 +16,11 @@ To start a trip of BA, use the following command:
 
 ### BiS Melee Gear
 
-Your melee gear will provide a boost up to 12.5%. This boost is based on your minions _melee strength bonus_. This is important, especially in masses, because if your minion is chosen as the Fighter role, the team's boost will be dependant on your Melee gear. Below is an image of the best melee strength bonus currently available:
+Your melee gear will provide a boost up to 12.87%. This boost is based on your minions _melee strength bonus_. This is important, especially in masses, because if your minion is chosen as the Fighter role, the team's boost will be dependant on your Melee gear. Below is an image of the best melee strength bonus currently available:
 
-![](<../.gitbook/assets/bis\_ba (1).png>)
+**NOTE:** Using Bandos chestplate and tassets with Neitiznot faceguard will give 12.50% boost.
+
+![Highest Melee Strength Bonus Available](../.gitbook/assets/bis\_melee\_str.png)
 
 ### **Honour Level**
 
