@@ -7,9 +7,9 @@ To become an Ironman, use either of the following:
 * `+m ironman`
 * `+m ironman --permanent`
 
-**Note:** You're allowed to have an ironman account and a non-ironman account. However, this requires you to run 2 discord accounts.
+**Note:** You're allowed to have as many ironman accounts as you wish alongside your non-ironman account. However, you are required to have them set as permanent.&#x20;
 
-If you use the **--permanent** flag, you will **NOT** be able to de-iron, if you are running an ironman alternate account you are required to use the permanent flag.
+If you use the **--permanent** flag, you will **NOT** be able to de-iron.
 
 Trip length extension via sacrifice value is halved for ironmen, giving the maximum 1 minute increase (or 3 minute with T3 Patron) for only 5b sacrificed rather than the usual 10b. For more info on this, please [see here](https://wiki.oldschool.gg/#minion-icons).
 
@@ -31,8 +31,6 @@ Any leaderboard can be filtered to only show ironmen. This is done by adding `--
 ### Ironman Discord Server
 
 If you would like to join a discord server for Old School Bot ironmen please [click here](https://discord.gg/gGmd9znG3Y).
-
-
 
 ### Ironman Prices
 
