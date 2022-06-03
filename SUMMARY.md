@@ -87,6 +87,7 @@
   * [Dark Altar](skills/runecrafting/dark-altar.md)
 * [Slayer](skills/slayer/README.md)
   * [Misc Info & FAQ](skills/slayer/slayer-misc.md)
+  * [Tasks](skills/slayer/tasks.md)
   * [Slayer Boosts](skills/slayer/slayer-boosts.md)
 * [Smithing](skills/smithing/README.md)
   * [Smithing Training](skills/smithing/smithing-training.md)
