@@ -4,8 +4,6 @@ description: Available Slayer tasks on Old School Bot.
 
 # Tasks
 
-You can check the boosts for a specific monster and by how much by using the `+monster` command.
-
 You can check the specific boosts or requirements for a task/monster by using the `+monster` command, for example `+monster cave horror`
 
 **Note:** Tasks assigned by Konar **must** be killed in their assigned locations in order to count towards their task, for example if Konar assigns you blue dragons, Vorkath will **not** count towards your task.
