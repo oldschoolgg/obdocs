@@ -689,11 +689,11 @@ None\
 
 **Boosts**
 
-15% for ![](../.gitbook/assets/Dragon\_hunter\_lance.png) Dragon Hunter Lance **OR** 25% for ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon Hunter Crossbow
+15% for ![](../.gitbook/assets/Dragon\_hunter\_lance.png) Dragon Hunter Lance **OR** 15% for ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon Hunter Crossbow
 
 16% for ![](../.gitbook/assets/Salve\_amulet\(i\).png) Salve Amulet (i) **OR** 20% for ![](../.gitbook/assets/Salve\_amulet\(ei\).png) Salve Amulet (ei)
 
-8% for <img src="../.gitbook/assets/150px-Dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws **OR** 13% for<img src="../.gitbook/assets/130px-Bandos_godsword_detail.png" alt="" data-size="line">Bandos Godsword **OR** 13% for<img src="../.gitbook/assets/120px-Dragon_warhammer_detail (1).png" alt="" data-size="line">Dragon Warhammer **OR 18%** for <img src="../.gitbook/assets/zcb.png" alt="" data-size="line"> Zaryte Crossbow
+8% for <img src="../.gitbook/assets/150px-Dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws **OR** 13% for<img src="../.gitbook/assets/130px-Bandos_godsword_detail.png" alt="" data-size="line">Bandos Godsword **OR** 13% for<img src="../.gitbook/assets/120px-Dragon_warhammer_detail (1).png" alt="" data-size="line">Dragon Warhammer **OR** 18% **** for <img src="../.gitbook/assets/zcb.png" alt="" data-size="line"> Zaryte Crossbow
 {% endtab %}
 
 {% tab title="Zulrah" %}
