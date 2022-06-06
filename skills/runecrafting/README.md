@@ -44,6 +44,8 @@ You can create Runecrafting pouches using `/create`, they require different craf
 
 **Note for Lava runes ONLY:** You can use the **`usestams:`**`False` option to send your minion runecrafting without using stamina potions. However, you will runecraft 3x slower than usual.
 
+It's recommended to equip a staff in your skilling setup to provide infinite runes, for example a fire staff when crafting lava runes.
+
 |          |                    |
 | -------- | ------------------ |
 | **Rune** | **Required Level** |
