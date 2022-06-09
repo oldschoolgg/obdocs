@@ -1,16 +1,16 @@
 # Construction Training
 
-## Fastest Route to 99:&#x20;
+## Fastest Route to 99:
 
-`+build 5 Crude wooden chair`\
-`+build 7 Wooden bookcase`\
-`+build 7 Wooden larder`\
-`+build 3 Repair bench`\
-`+build 12 Crafting table 1`\
-`+build 39 Oak dining table`\
-`+build 10 Carved oak table`\
-`+build 220 Oak larder`\
-`+build Mahogany table`
+`/build name:Crude wooden chair quantity:5`\
+`/build name:Wooden bookcase quantity:7`\
+`/build name:Wooden larder quantity:7`\
+`/build name:Repair bench quantity:3`\
+`/build name:Crafting table 1 quantity:12`\
+`/build name:Oak dining table quantity:39`\
+`/build name:Carved oak table quantity:10`\
+`/build name:Oak larder quantity:220`\
+`/build name:Mahogany table`
 
 **Materials Needed:** \
 94 Plank\
