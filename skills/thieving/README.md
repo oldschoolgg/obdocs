@@ -2,7 +2,7 @@
 
 ## Thieving
 
-You can train thieving using the `+pickpocket` command. For example, you can `+pickpocket master farmer`. To start training Thieving, you can `+pickpocket man` or `woman`. You will obtain the standard loot from each monster you can pickpocket, all of which can be found on the [OSRS Thieving Wiki Page](https://oldschool.runescape.wiki/w/Thieving).
+You can train thieving using the `/pickpocket` command. To start training Thieving, you can `/pickpocket`` `**`name:`**` ``man` or `woman`. You will obtain the standard loot from each monster you can pickpocket, all of which can be found on the [OSRS Thieving Wiki Page](https://oldschool.runescape.wiki/w/Thieving).
 
 ### Alternatives
 

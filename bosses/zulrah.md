@@ -11,7 +11,7 @@ For information regarding boosts and requirements of Zulrah, please visit the [r
 The Blowpipe can be created from the fang (requires 53 fletching) and is an integral item for ToB and Inferno.
 
 * **To create the blowpipe:**
-  * `+fletch toxic blowpipe (empty)`
+  * `/fletch`` `**`name:`**` ``Toxic blowpipe (empty)`
 * **To add darts and scales:**
   * `+m bp add (quantity) zulrah's scales`
   * `+m bp add (quantity) (metal) dart`
@@ -32,7 +32,7 @@ The Serpentine helm can be crafted from the visage (requires 52 crafting), howev
 
 The helm can be created with the following command:
 
-* `+craft serpentine helm (uncharged)`
+* `/craft`` `**`name:`**` ``Serpentine helm (uncharged)`
 
 ![](<../.gitbook/assets/Magma mutagen.png>) ![](<../.gitbook/assets/Tanzanite mutagen.png>) **Magma/Tanzanite mutagens**
 
@@ -41,7 +41,7 @@ Currently have no use. They _cannot_ be added to the serpentine helm.
 ### Reverting
 
 It is possible to revert the following items into 20,000 zulrah's scales using the `/create` command.\
-`/create`` `**`item:`**` ``Revert tanzanite fang quantity: 1`
+`/create`` `**`item:`**` ``Revert tanzanite fang`` `**`quantity:`**` ``1`
 
 * `tanzanite fang`
 * `toxic blowpipe (empty)`

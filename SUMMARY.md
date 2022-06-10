@@ -7,12 +7,12 @@
 * [FAQ](getting-started/faq.md)
 * [Rules](getting-started/rules.md)
 * [List of Commands](https://www.oldschool.gg/oldschoolbot/commands)
+* [BSO (Bot School Old)](getting-started/bso-bot-school-old.md)
 * [Beginner Guide](getting-started/beginner-guide.md)
 * [Ironman Mode](getting-started/ironman-mode.md)
 * [Gear](getting-started/gear.md)
 * [Combat Training](getting-started/combat-skills.md)
 * [Bank Filters](getting-started/bank-filters.md)
-* [Bank Background](getting-started/bank-background.md)
 * [Reverting Items](getting-started/reverting-items.md)
 
 ## Bosses
@@ -118,9 +118,11 @@
 * [Kourend Favour](miscellaneous/kourend-favour.md)
 * [Tears of Guthix](miscellaneous/tears-of-guthix.md)
 * [God Capes](miscellaneous/god-capes.md)
+* [Champions Challenge](miscellaneous/champions-challenge.md)
+* [Crack The Clue](miscellaneous/crack-the-clue.md)
 * [Collecting](miscellaneous/collecting.md)
 * [Buyables](miscellaneous/buyables.md)
-* [Crack The Clue](miscellaneous/crack-the-clue.md)
+* [Bank Backgrounds](miscellaneous/bank-backgrounds.md)
 
 ***
 

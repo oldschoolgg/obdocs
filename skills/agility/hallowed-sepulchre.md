@@ -6,16 +6,17 @@ To start the Sepulchre, use the command:
 
 * `/minigames sepulchre start`
 
-### Requirements
+## Requirements
 
-* Minimum 52 Agility - higher levels provide better rewards (including hallowed marks)
-  * Floor 1 - 52 Agility
-  * Floor 2 - 62 Agility
-  * Floor 3 - 72 Agility
-  * Floor 4 - 82 Agility
-  * Floor 5 - 92 Agility
+Minimum 52 Agility - higher levels provide better rewards (including hallowed marks)
 
-### Boosts
+* Floor 1 - 52 Agility
+* Floor 2 - 62 Agility
+* Floor 3 - 72 Agility
+* Floor 4 - 82 Agility
+* Floor 5 - 92 Agility
+
+## Boosts
 
 Most of the boosts will come from items purchased from the shop.
 
@@ -30,11 +31,11 @@ With all available boosts, it is possible to achieve upwards of 90K xp/hr while 
 
 **Note:** The Hallowed Ring from the shop does **not** provide a boost or benefit.
 
-### Hallowed Sepulchre Shop
+## Hallowed Sepulchre Shop
 
-The following items can be purchased using the `+buy` command using hallowed marks.
+The following items can be purchased using the `/buy` command using hallowed marks.
 
-* E.g. `+buy hallowed symbol`
+* E.g. `/buy hallowed symbol`
 
 | **Item**               | **Hallowed marks required** |
 | ---------------------- | :-------------------------: |
@@ -44,11 +45,13 @@ The following items can be purchased using the `+buy` command using hallowed mar
 | Hallowed focus         |             100             |
 | Hallowed symbol        |             100             |
 | Hallowed hammer        |             100             |
+| Hallowed sack          |             100             |
 | Hallowed ring          |             250             |
 | Dark dye               |             300             |
 | Dark acorn             |            3,000            |
 
 * If you have obtained a Giant Squirrel agility pet, you can `+buy dark squirrel` after purchasing the dark acorn from the shop to transmogrify the pet.
+* Hallowed sacks can be opened with `/open hallowed sack`.
 
 ### Dark Graceful Set
 
@@ -58,7 +61,7 @@ The following items can be purchased using the `+buy` command using hallowed mar
   * `/create`` `**`item:`**`Dark graceful` - whole set in one command
 * You need 6 dark dyes to create the full set, totaling 1800 hallowed marks.
 
-### **Strange Old Lockpick**
+## **Strange Old Lockpick**
 
 The strange old lockpick provides boosts to several places in the bot; namely Barrows and Hallowed Sepulchre, as it has a purpose in those locations in game. However, unlike its in game counterpart, the strange old lockpick is **untradeable** in the bot, and has **infinite charges**. Because of this, its drop rate is significantly lower than in game, increasing its rarity.
 
@@ -72,21 +75,18 @@ The strange old lockpick provides boosts to several places in the bot; namely Ba
 
 * These rates are calculated **by chest**, not by floor. The number of chests on each floor can be found [here](https://oldschool.runescape.wiki/w/Coffin\_\(Hallowed\_Sepulchre\)#Locations), on the OSRS wiki. This means that while doing the Hallowed Sepulchre at 92+ agility, you will have an approximately 1/150 chance of receiving a strange old lockpick each lap.
 
-### Ring of Endurance
+## Ring of Endurance
 
 The Ring of Endurance also provides boosts to several activities within the bot, both the uncharged and charged versions.
 
 To create the charged Ring of Endurance, use the following command:
 
 * `/create`` `**`item:`**`Ring of endurance`
-  * Requires 125 Stamina potion (4)
+  * Requires 125 Stamina potion(4)
   * The charged ring cannot be uncharged or traded
 
 The boosts apply to the following activities:
 
 * Runecrafting trips - 1% _(uncharged or charged)_
-  * Does not need to be equipped
 * Drift net fishing - 6% _(uncharged or charged)_
-  * Does not need to be equipped
 * Farming trips - 10% _(only charged version)_
-  * Must be equipped

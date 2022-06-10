@@ -32,7 +32,7 @@ You must have sacrificed 1 Fire Cape in order to access the Inferno - `+sacrific
 
 8 Saradomin Brews, 12 Super Restores, 1 Stamina Potion, and 1 Ranging Potion per attempt     &#x20;
 
-Rune Pouch "`+sls buy rune pouch"`   &#x20;
+Rune Pouch `+sls buy rune pouch`
 
 \>100 Magic Attack     &#x20;
 

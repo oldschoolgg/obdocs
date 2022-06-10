@@ -34,7 +34,7 @@ To imbue the following items, use the command below.
 | Turquoise slayer helmet | 500             |
 | Red slayer helmet       | 500             |
 | Green slayer helmet     | 500             |
-| Twisted slayer helmet'  | 500             |
+| Twisted slayer helmet   | 500             |
 | Black slayer helmet     | 500             |
 | Purple slayer helmet    | 500             |
 | Hydra slayer helmet     | 500             |

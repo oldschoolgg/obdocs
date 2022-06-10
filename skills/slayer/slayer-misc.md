@@ -7,7 +7,7 @@ description: For all the random stuff people keep asking
 ### FAQ
 
 **Q: How do I use an unsired / Chewed bones?**\
-****A: `+offer unsired` and  `+offer chewed bones`
+****A: `/offer`` `**`name:`**` ``Unsired` and  `/offer`` `**`name:`**` ``Chewed bones`
 
 **Q: What unlocks should I prioritise?**\
 ****A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****&#x20;
@@ -25,16 +25,16 @@ A: `/minigames soul_wars imbue`` `**`name:`**` ``Black mask` - you can get point
 A: No, the boost works from the bank.
 
 **Q: How do I get an arclight?**\
-A: `+buy darklight` then `/create`` `**`item:`**`Arclight` - Requires 3 ancient shards.
+A: `/buy`` `**`name:`**` ``Darklight` then `/create`` `**`item:`**`Arclight` - Requires 3 ancient shards.
 
 **Q: How do I get a cannon?**\
-A: `+buy dwarf multicannon`
+A: `/buy`` `**`name:`**` ``Dwarf multicannon`
 
 **Q: Why am I using so many cannonballs?**\
 A: Cannonballs are used at 16 per minute in single combat areas and 50 per minute in multi areas. This is intentional. XP works out to similar as in game.
 
 **Q: How do I get an elemental/mind shield for wyverns?**\
-A: `+buy mind shield`
+A: `/buy`` `**`name:`**` ``Mind shield`
 
 ### Best gear for slayer
 
@@ -62,11 +62,13 @@ The 95% threshold for magic attack is 168.15.
 It is also recommended to equip a staff that provides water runes in your misc setup. (If you don't have a kodai wand.)
 
 You can also create a gear preset for these setups after equipping them. I.E.\
-`+gearpresets new meleeslay range`\
+`+gearpresets new meleeslay melee`\
 `+gearpresets new rangeslay range`\
 `+gearpresets new mageslay mage`\
 Equip the presets with:\
-`+gearpresets equip meleeslay melee`
+`/gear equip`` `**`gear_setup:`**` ``Melee`` `**`preset:`**` ``meleeslay`\
+`/gear equip`` `**`gear_setup:`**` ``Range`` `**`preset:`**` ``rangeslay`\
+`/gear equip`` `**`gear_setup:`**` ``Mage`` `**`preset:`**` ``mageslay`
 
 ### Konar specific
 

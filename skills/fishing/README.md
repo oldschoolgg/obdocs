@@ -2,7 +2,7 @@
 
 You can train Fishing using `/fish`` `**`name:`**`<fish>`` `**`quantity:`**`<quantity>`, for example `/fish`` `**`name:`**`Lobster`` `**`quantity:`**`100`
 
-Fishing bait is buyable with `+buy fishing bait`.
+Fishing bait is buyable with `/buy`` `**`name:`**` ``Fishing bait`.
 
 Dark fishing bait and Raw Karambwanji aren't sold by the bot and can only be obtained by buying from other players or obtaining them yourself.
 
@@ -57,4 +57,4 @@ Certain tools - when equipped in any setup - will speed up the time it takes to 
 * **Karambwanji** (the bait for catching **Karambwan**) requires **15** Quest Points to fish.
 * **Monkfish** requires **100** Quest Points to fish.
 * **Anglerfish** requires **40** Quest Points to fish.
-* **Minnows** requires **full angler outfit** to fish. To **trade** minnows, use `+buy raw shark`
+* **Minnows** requires **full angler outfit** to fish. To **trade** minnows, use `/buy`` `**`name:`**` ``raw shark`

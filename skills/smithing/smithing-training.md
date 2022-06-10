@@ -11,5 +11,5 @@
 `/smith`` `**`name:`**`Steel warhammer`` `**`quantity:`**`34`\
 `/smelt`` `**`name:`**`Gold bar`` `**`blast_furnace:`**`True` - repeat until 99\
 \
-Materials Needed:\
+**Materials Needed:**\
 572 bronze bar, 1070 iron bar, 102 steel bar, 231268 gold ore and 1 goldsmith gauntlets (for [Blast Furnace](https://wiki.oldschool.gg/skills/smithing/blast-furnace))

@@ -21,7 +21,7 @@ To kill Phosani's Nightmare, use `+nm phosani`
   * 70 Wrath runes
   * 1 Super restore(4)
   * 1 Sanfew serum(4)
-  * 1 Super combat potion(4) - Unlike the others, you only need 1 per trip.
+  * 1 Super combat potion(4) - Only uses 2-doses per kill
 
 ## Boosts
 

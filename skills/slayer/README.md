@@ -50,7 +50,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 *   **Use a Cannon in your task**
 
     * If you own a cannon and cannonballs, the cannon can be used at some slayer tasks to speed it up, at the cost of cannonballs. You can do this with the method option on the kill command, for example `/k`` `**`name:`**`Dagannoth`` `**`method:`**`cannon`
-    * You can buy a cannon using `+buy dwarf multicannon`.
+    * You can buy a cannon using `/buy`` `**`name:`**` ``Dwarf multicannon`.
     * In single combat, 16 cannonballs are used per minute of task. In multi combat, 50 cannonballs are used per minute of task.
 
 

@@ -16,7 +16,7 @@ Main accounts should purchase food from other players using the #grand-exchange 
 
 ### Part 2: Early Upgrades
 
-Equip the best slash attack gear you have in your melee setup. This can be done by using the following`/gear equip`` `**`gear_setup:`**`Melee`` `**`auto:`**`attack_slash`. Kill baby dragons (black/blue) with `/k`` `**`name:`**`baby blue dragon` until you have the bones for 43 prayer. Then use `+offer dragon` to train the skill to 43.\
+Equip the best slash attack gear you have in your melee setup. This can be done by using the following`/gear equip`` `**`gear_setup:`**`Melee`` `**`auto:`**`attack_slash`. Kill baby dragons (black/blue) with `/k`` `**`name:`**`baby blue dragon` until you have the bones for 43 prayer. Then use `/offer`` `**`name:`**` ``Dragon bone` to train the skill to 43.\
 \
 Once you have 43 prayer, do `+m train mage` to begin gaining magic xp while doing combat, and then start doing barrows. Barrows is a useful early game boss as it doesn't require food, and has extremely useful uniques. You can do as much, or as little as you want, although ironmen should consider completing the barrows log here, or at least obtaining all useful items. Train magic until you are at least level 55, and then feel free to change to any other attack style.\
 If you are a main account, you can sell duplicate items in #grand-exchange for some early gp. Spend this gp on potatoes with cheese, as well as a Bandos godsword, and other gear upgrades.

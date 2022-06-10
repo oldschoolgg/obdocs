@@ -61,4 +61,4 @@ To spend your honour points on gambles, use the following:
 | High gamble        |          500          |
 | Granite body**\*** |        95,000gp       |
 
-**\*** - The Granite body is purchasable after completing 10 waves of BA. To purchase the Granite body, use  `+buy granite body`
+**\*** - The Granite body is purchasable after completing 10 waves of BA. To purchase the Granite body, use  `/buy`` `**`name:`**` ``Granite Body`

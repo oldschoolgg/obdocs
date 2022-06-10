@@ -11,7 +11,7 @@
 `/minigames sepulchre start` until 99\
 \
 **Alternative routes:**\
-`+agilityarena` (for diary)\
+`/minigames agility_arena start` (for diary)\
 `/minigames rogues_den start` (gear for thieving)\
 \
 **Additional information:**\

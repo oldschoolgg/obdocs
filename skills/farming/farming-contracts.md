@@ -6,7 +6,7 @@ description: Refer to House Paran for additional knowledge
 
 An easy way to get additional seeds while farming is to take on a [farming contract](https://oldschool.runescape.wiki/w/Guildmaster\_Jane#Farming\_contracts) from Farming Guildmaster Jane using the `/farming contract` command.&#x20;
 
-**QUICK START -** Using the Autocontract button  harvest your current contract, open a seedpack and get a new contract, or plant your current contract.
+**QUICK START -** Using the Autocontract button you can harvest your current contract, open a seedpack and get a new contract, or plant your current contract.
 
 #### Farming Level Required
 

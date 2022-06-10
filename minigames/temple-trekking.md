@@ -39,9 +39,9 @@ Requires a silver sickle (`/craft`` `**`name:`**`Silver sickle`) and an emerald 
 
 ### Salve Amulet (e)
 
-First buy the salve amulet for 200,000GP using `+buy salve amulet`.\
-Then [collect](../miscellaneous/collecting.md) Tarn's diary using `/activites collect`` `**`item:`**`Tarn's diary`\
-Finally create the salve amulet (e) using `/create`` `**`item:`**`Salve amulet (e)`
+First buy the salve amulet for 200,000GP using `/buy`` `**`name:`**` ``Salve amulet`.\
+Then [collect](../miscellaneous/collecting.md) Tarn's diary using `/activites collect`` `**`item:`**`Tarn's diary`.\
+Finally create the salve amulet (e) using `/create`` `**`item:`**`Salve amulet (e)`.
 
 Although the salve amulet (e) can be [imbued](soul-wars.md#imbueables), the imbued salve amulet (ei) still only provides the same 5% bonus as the unimbued version.
 

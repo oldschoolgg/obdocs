@@ -14,7 +14,7 @@ You can set crop payment and compost to apply automatically using the `/farming 
 
 When harvesting trees, you will either need the woodcutting level necessary to chop down the tree (which will award logs), or if you lack the necessary woodcutting level, 200gp for a farmer to remove the tree for you (which will not award logs).
 
-Compost is buyable from the game shop using the `+buy` command.
+Compost is buyable from the game shop using the `/buy` command.
 
 You can make supercompost from watermelons using the `/farming compost_bin` command. Otherwise supercompost can be obtained from drops by wilderness bosses.
 
@@ -59,7 +59,7 @@ The speed of your farming trips and the xp you gain from farming activities can 
 * Magic Secateurs - 10% to harvest quantity
 * Farming Cape - 5% to harvest quantity
 * Full Graceful Outfit - 10% to trip speed
-* Ring of Endurance - 10% to trip speed (must be [charged](https://wiki.oldschool.gg/skills/agility/hallowed-sepulchre#ring-of-endurance) & equipped)
+* Ring of Endurance - 10% to trip speed (must be [charged](https://wiki.oldschool.gg/skills/agility/hallowed-sepulchre#ring-of-endurance))
 
 
 

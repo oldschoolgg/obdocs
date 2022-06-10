@@ -17,7 +17,7 @@ Achievement Diary items can be purchased using the +buy command if the respectiv
 * **Use an XP lamp:**
   * `+lamp (quantity) antique lamp 1/2/3/4`
 * **Buy the achievement diary cape:**
-  * `+buy achievement diary cape`
+  * `/buy`` `**`name:`**` ``Achievement diary cape`
 
 ## Diary Perks
 

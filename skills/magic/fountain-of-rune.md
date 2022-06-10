@@ -25,7 +25,7 @@ To charge at the Fountain of Rune, use the following command:
 * Possessing the stats for the Wilderness elite diary provides a 3x speed boost.
   * It is **not recommended** to charge glories unless you have this unlocked.
 * Currently, the only use of the Eternal glory is at the [Gnome Restaurant](https://wiki.oldschool.gg/minigames/gnome-restaurant) minigame.
-* There are approximately 5 Amulets of eternal glory in the game (Feb 13th 2022).
+* There are approximately 6 Amulets of eternal glory in the game (June 10th 2022).
 
 
 

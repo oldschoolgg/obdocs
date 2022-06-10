@@ -61,7 +61,7 @@ There are no direct speed boosts, these items affect your boost score (see theor
 
 You can charge the Blowpipe using: `+m blowpipe add 100 dragon dart, 1000 zulrah's scales`
 
-You can create an Abyssal Tentacle using: `+create Abyssal tentacle`
+You can create an Abyssal Tentacle using: `/create`` `**`item:`**` ``Abyssal tentacle`
 
 You can add charges to your Abyssal Tentacle using `+m charge tent, 1`
 

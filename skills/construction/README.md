@@ -2,7 +2,7 @@
 
 Construction in the bot has three distinct parts:[ Training](./#training), [Mahogany Homes](mahogany-homes.md), and your [Player-owned House](mahogany-homes.md). Mahogany Homes requires planks and steel bars, and building things in your PoH requires planks as well as various mob drops or buyables.
 
-You can also `+offer` curved bones and long bones you get from PvM for construction xp after level 30 construction. Fighting the Wintertodt also provides some construction xp.
+You can also `/offer`` `**`name:`**` ``curved bone` and `long bone` you get from PvM for construction xp after level 30 construction. Fighting the Wintertodt also provides some construction xp.
 
 ## Sawmill
 
@@ -25,7 +25,7 @@ Creating planks costs a varying amount of coins, dependent on the type of plank 
 
 ## Training
 
-Standard training offers the fastest methods for training construction in the bot, and also uses the most planks. When building these items, they do not appear in your PoH, and currently have no functionality outside of being the best xp per hour. You can do normal construction training using the `+build <item>` command.
+Standard training offers the fastest methods for training construction in the bot, and also uses the most planks. When building these items, they do not appear in your PoH, and currently have no functionality outside of being the best xp per hour. You can do normal construction training using the `/build <item>` command.
 
 **Standard Construction Training Table**
 

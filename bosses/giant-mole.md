@@ -6,8 +6,8 @@ description: Magna's favourite Boss
 
 You can turn in mole parts with the `+wyson` command.
 
-![](<../.gitbook/assets/Mole claw.png>) `+wyson (quantity) mole claw`\
-``![](<../.gitbook/assets/Mole skin.png>)`+wyson (quantity) mole skin`
+![](<../.gitbook/assets/Mole claw.png>) `+sell (quantity) mole claw`\
+``![](<../.gitbook/assets/Mole skin.png>)`+sell (quantity) mole skin`
 
 **NOTE** - There is no confirmation for this command.
 

@@ -17,7 +17,7 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 `/farming default_compost`` `**`compost:`**`Ultracompost`
 
-`/farming always_pay`&#x20;
+`/farming always_pay`
 
 `/farming plant`` `**`plant_name:`**`Potato` (until level 5)&#x20;
 
@@ -31,7 +31,7 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 **Now farm tree seeds, Hardwood seeds, fruit tree seeds and Special seeds until 99**
 
-**`Tree seeds`**` ```&#x20;
+**`Tree seeds`**
 
 `/farming plant`` `**`plant_name:`**`Oak tree` (until level 30)&#x20;
 
@@ -45,7 +45,7 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 
 
-**`Hardwood seeds`**` ```&#x20;
+**`Hardwood seeds`**
 
 `/farming plant`` `**`plant_name:`**`Teak tree` (Level 35-55)&#x20;
 
@@ -55,9 +55,9 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 **`Fruit tree seeds`**
 
-`/farming plant`` `**`plant_name:`**`Pineapple tree`(Level 51-57)&#x20;
+`/farming plant`` `**`plant_name:`**`Pineapple tree` (Level 51-57)&#x20;
 
-`/farming plant`` `**`plant_name:`**`Papaya tree`(until level 68)&#x20;
+`/farming plant`` `**`plant_name:`**`Papaya tree` (until level 68)&#x20;
 
 `/farming plant`` `**`plant_name:`**`Palm tree` (until level 81)&#x20;
 
@@ -65,7 +65,7 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 
 
-**`Special seeds`**&#x20;
+**`Special seeds`**
 
 `/farming plant`` `**`plant_name:`**`Calquat tree` (Level 72-99)&#x20;
 

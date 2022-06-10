@@ -8,9 +8,9 @@ You will receive 1-3 tickets per game played.
 
 ### Rewards
 
-You can buy all the same rewards in OSRS with the `+buy` command.
+You can buy all the same rewards in OSRS with the /`buy` command.
 
-E.g.  `+buy red decorative body`
+E.g.  `/buy`` `**`name:`**` ``Red decorative body`
 
 It is possible to revert your reward items back into tickets with the `/create` command.
 
