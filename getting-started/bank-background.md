@@ -2,7 +2,7 @@
 description: Overview of how to change your bank background and what is required to do so.
 ---
 
-# Bank Background
+# Bank Backgrounds
 
 ### Bank Backgrounds
 
