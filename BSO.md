@@ -5,7 +5,7 @@ It's kind of like a "Leagues" of OSBot, where things are buffed for fun.
 
 ## Invite
 
-You can invite BSO to your server using this link: https://discord.com/oauth2/authorize?client_id=729244028989603850&scope=bot
+You can invite BSO to your server using this link: https://discord.com/oauth2/authorize?client_id=729244028989603850&scope=bot+applications.commands&permissions=537259072
 
 ## Key Mechanics Changes
 - Clue scrolls are stackable
