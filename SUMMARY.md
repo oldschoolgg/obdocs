@@ -63,6 +63,7 @@
 * [Fishing](skills/fishing/README.md)
   * [Fishing Training](skills/fishing/fishing-training.md)
   * [Aerial Fishing](skills/fishing/aerial-fishing.md)
+  * [Drift Net Fishing](skills/fishing/drift-net-fishing.md)
   * [Fishing Trawler](skills/fishing/fishing-trawler.md)
   * [Tempoross](skills/fishing/tempoross.md)
 * [Fletching](skills/fletching/README.md)
