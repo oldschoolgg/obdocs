@@ -42,7 +42,7 @@ Individual gear bonuses (e.g. ranged attack, slash defence, etc.) cap at 95% of 
 
 #### Melee
 
-![If you dont have Justiciar you can use Torags, Justiciar just gives a 6.5% food reduction](<../../.gitbook/assets/osbot (4).png>)
+![If you dont have Justiciar you can use Torags, Justiciar just gives a 6.5% food reduction](<../../.gitbook/assets/osbot (3).png>)
 
 Currently, only your **slash attack** is taken into account. The 95% threshold for slash attack is 172.9.\
 If you do Jad tasks, it is best to equip a Saradomin Godsword. Otherwise, any godsword can be used, as they all have the same stats.

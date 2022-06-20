@@ -43,7 +43,7 @@ You can see a leaderboard of who has sacrificed the most using `+lb sacrifice`.
 
 Tier 3 patrons or above receive 3 times the bonus to their trip length from sacrifice value. For example, a tier 3 patron with 2.5b sacrificed will receive a 45 second bonus and with 10b sacrificed will receive a 3 minute bonus.
 
-![](<.gitbook/assets/image (6) (1) (1).png>)
+![](<.gitbook/assets/image (5).png>)
 
 ## Bank Backgrounds
 
