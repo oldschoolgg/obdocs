@@ -434,13 +434,13 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 ![](../.gitbook/assets/20px-Slayer\_icon.png) 87 Slayer
 
-****![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** ![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+****![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** ![](<../.gitbook/assets/Trident\_of\_the\_seas\_(full) (1).png>) Trident of the Seas (full) **OR** ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png)Uncharged Trident of the Seas **OR** ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** ![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
 
 
 **Boosts**
 
-5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** 8% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 10% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 10% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 12% for the![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** 15% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** 8% for the ![](<../.gitbook/assets/Trident\_of\_the\_seas\_(full) (1).png>) Trident of the Seas (full) **OR** 5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png)Uncharged Trident of the Seas **OR** 10% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 10% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 12% for the![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** 15% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
 3% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued Heart
 
@@ -456,7 +456,7 @@ _**Note**: Tridents cannot currently be manually charged._
 
 **Boosts**
 
-5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 6% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 6% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 8% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** 5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png)Uncharged Trident of the Seas **OR** 6% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 6% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 8% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
 3% for ![](../.gitbook/assets/Dragon\_dagger.png) Dragon Dagger **OR** 8% for <img src="../.gitbook/assets/150px-Dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
 

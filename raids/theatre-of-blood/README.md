@@ -32,7 +32,7 @@ This is the best-in-slot gear you can wear - only needed until you reach 95.3% b
 
 ![ToB Best-in-slot Melee Gear](../../.gitbook/assets/torvatob.png)
 
-![ToB Best-in-slot Range Gear](../../.gitbook/assets/tobrange.png)
+![ToB Best-in-slot Range Gear](<../../.gitbook/assets/osbot (2) (2).png>)
 
 ![ToB Best-in-slot Mage Gear](<../../.gitbook/assets/osbot (3) (1).png>)
 
