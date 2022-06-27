@@ -12,7 +12,7 @@ Your minion has 8 gear setups (Melee, Mage, Range, Skilling, Misc, Wildy, Fashio
 
 ## Commands
 
-There are 3 main options, `/gear equip`, `/gear unequip`, and `/gear stats.` You can simply type `/gear` for all 3 of these options to appear.
+There are 4 options: `/gear equip`, `/gear unequip`,  `/gear stats` and `/gear pet`. You can simply type `/gear` for all 4 of these options to appear.
 
 ### Gear Equip
 
@@ -22,7 +22,7 @@ This is the main command you will use to equip and change gear. You will firstly
 | ----------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Command** | **What it does**                                                 | **Example**                                                                                |
 | Item        | Selects a single item you wish to equip.                         | `/gear equip`` `**`gear_setup:`**`Melee`` `**`item:`**`Barrows gloves`                     |
-| Preset      | Selects a previously made or default gear preset to equip.       | `/gear equip`` `**`gear_setup:`**`Skilling`` `**`preset:`**`gracefu`                       |
+| Preset      | Selects a previously made or default gear preset to equip.       | `/gear equip`` `**`gear_setup:`**`Skilling`` `**`preset:`**`graceful`                      |
 | Quantity    | Selects a specific number of an item to equip (ammunition only). | `/gear equip`` `**`gear_setup:`**`Range`` `**`item:`**`Rune arrow`` `**`quantity:`**`1000` |
 | Auto        | Selects the BiS equipment for a specific attack style.           | `/gear equip`` `**`gear_setup:`**`Melee`` `**`auto:`**`melee_strength`                     |
 
@@ -34,20 +34,20 @@ You can use this command to unequip items from any gear setup. There are 2 optio
 
 This is simply for simulation of equipping items and checking the stats of a particular setup. You do not need to own the items to perform this command, but you will need the items full name.
 
-### Equipping Pets
+### Gear Pet
 
-| **Command**       | **What it does**                                    | **Example**          |
-| ----------------- | --------------------------------------------------- | -------------------- |
-| +m equippet/ep    | Equips a pet, like dropping it on the floor ingame. | +m equippet smolcano |
-| +m unequippet/uep | Unequips your pet.                                  | +m unequippet        |
+Use this command to simply equip or unequip a pet. You can equip and unequip a pet during a trip.
+
+* `/gear pet`` `**`equip:`**` ``[petName]`
+* `/gear pet`` `**`unequip:`**` ``true`
 
 ## Gear Presets
 
 Now that you have equipped the gear you like you probably would like to save that setup for later before you equip something up in that setup. This can done through the +gearpresets commands. Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup.\
-\
+&#x20; \
 By default, you are restricted to having 3 gear presets. However, this is increased to 8 if you are a T3 patron or a github supporter.
 
-**NOTE -** To equip your custom gear preset, please use the `/gear equip preset:` command.
+**NOTE -** To equip your custom gear preset, please use the `/gear equip`` `**`preset:`** command.
 
 | Command                            | What it does                                          | Example                     |
 | ---------------------------------- | ----------------------------------------------------- | --------------------------- |

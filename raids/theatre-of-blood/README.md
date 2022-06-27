@@ -2,13 +2,15 @@
 
 The Theatre Of Blood is a high-level raid you can do for some good loot. You get faster, and better, at ToB after more attempts and KC.
 
-You can do the Theatre of Blood using +tob start, you can make the raid automatically start when 4 people join, doing `+tob start 4` (or replace with another number).
+You can do the Theatre of Blood using `/raid tob start`
 
-You can do `+tob start --hard` to start a Hard mode raid.
+You can specify a maximum number of people to join the raid using `/raid tob start`` `**`max_team_size:`**
+
+To start a hard mode tob raid, use `/raid tob start`` `**`hard_mode:`**` ``true`
+
+You can see your KC, attempts and death chances using `/raid tob stats`
 
 You can find a team to do ToB in the official server at discord.gg/ob
-
-You can see your KC, attempts and death chances using `+tob`
 
 ## Requirements
 
@@ -19,8 +21,8 @@ You can see your KC, attempts and death chances using `+tob`
 * An Abyssal tentacle, Blade of saeldor(c) or Scythe of Vitur, and Fire or Infernal cape, in melee gear.
 * A charged/loaded Toxic blowpipe in your bank, with good darts
 * A magic shortbow or twisted bow in your range gear, with amethyst/rune/dragon arrows.
-* Atleast 250 KC and an Infernal cape for Hard mode
-* Atleast 300 KC before doing duos
+* At least 250 KC and an Infernal cape for Hard mode
+* At least 150 KC before doing duos
 * Super combat potions, ranging potions, brews, restores, blood runes, death runes, water rune
 * Karambwans if you're less than 20 kc
 * 20+ HP healing food (e.g. sharks) (more if less than 20 kc)
@@ -32,9 +34,9 @@ This is the best-in-slot gear you can wear - only needed until you reach 95.3% b
 
 ![ToB Best-in-slot Melee Gear](../../.gitbook/assets/torvatob.png)
 
-![ToB Best-in-slot Range Gear](../../.gitbook/assets/tobrange.png)
+![ToB Best-in-slot Range Gear](<../../.gitbook/assets/osbot (2) (1) (1).png>)
 
-![ToB Best-in-slot Mage Gear](<../../.gitbook/assets/osbot (3) (1).png>)
+![ToB Best-in-slot Mage Gear](<../../.gitbook/assets/osbot (1) (1).png>)
 
 ## Boosts
 

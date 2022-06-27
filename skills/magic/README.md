@@ -79,6 +79,10 @@ To enchant any jewellery or bolts, use the `+enchant` command.
 
 * To view what each piece of jewellery turns into, visit the [OSRS Enchanting Spells](https://oldschool.runescape.wiki/w/Enchantment\_spells#Enchanted\_gold\_and\_silver\_jewellery) wiki page.
 
+### Regular Alching
+
+You are able to send your minion on an alching trip using the `/activities alch` command. You can specify the item and quantity to alch, or you can simply send the minion to alch whatever is in your favourite alchs list by not adding any items or quantity. Please note that this is different to agility alching.
+
 ### Agility Alching
 
 Another non-combat method is to cast high alchemy when running laps of agility. This can be especially handy to ironmen or if you want to maximise your time spent while training agility. You can read more about this method on the [Agility Alching](https://wiki.oldschool.gg/skills/agility/agility-alching) page.

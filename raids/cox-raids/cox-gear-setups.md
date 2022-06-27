@@ -2,7 +2,7 @@
 
 ## Overview
 
-Your gear score (shown by doing `+raid gear`) is calculated by comparing your current gear's stats to a reference setup. Therefore, in order to reach a 100% gear score, you must have all of the relevant stats equal or exceed the stats of these reference setups. Depending on the setup, certain stats are ignored. (e.g range attack in your melee setup)\
+Your gear score (shown by doing `/raid cox stats`) is calculated by comparing your current gear's stats to a reference setup. Therefore, in order to reach a 100% gear score, you must have all of the relevant stats equal or exceed the stats of these reference setups. Depending on the setup, certain stats are ignored. (e.g range attack in your melee setup)\
 \
 Currently, each setup looks at **all** of your strength bonuses (melee, mage dmg, & range), however these stats are completely ignored if they are less than or equal to 0, meaning that this only really applies to the ranged setup.\
 \
@@ -15,7 +15,7 @@ If you are below 50% of the reference strength bonus, (75) your gear score is ha
 
 ### Reference Setup
 
-![](../../.gitbook/assets/Cox\_melee\_bis.png)
+![](<../../.gitbook/assets/osbot (4) (1).png>)
 
 ### Alternative Setups
 
@@ -36,7 +36,7 @@ If you are below 50% of the reference gear's range strength (44.5), your gear sc
 
 ### Reference Setup
 
-![](<../../.gitbook/assets/coxrange (1) (1).png>)
+![](<../../.gitbook/assets/coxrange (1).png>)
 
 ### Alternative Setup
 
@@ -59,6 +59,6 @@ The harmonised nightmare staff can be replaced with a kodai wand, a staff of the
 
 ### Alternative Setup
 
-![](../../.gitbook/assets/coxmageahrim's.png)
+![](../../.gitbook/assets/coxmageahrims.png)
 
 This setup requires no rewards from the Chambers of Xeric, and provides a gear score of 97.3%

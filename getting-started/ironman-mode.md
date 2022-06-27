@@ -4,12 +4,12 @@ You can play as an ironman, however, this will reset your entire account, to a f
 
 To become an Ironman, use either of the following:
 
-* `+m ironman`
-* `+m ironman --permanent`
+* `/minion ironman`
+* `/minion ironman`` `**`permanent:`**` ``true`
 
 **Note:** You're allowed to have as many ironman accounts as you wish alongside your non-ironman account. However, you are required to have them set as permanent.&#x20;
 
-If you use the **--permanent** flag, you will **NOT** be able to de-iron.
+If you use the **`permanent:`**` ``true` flag, you will **NOT** be able to de-iron.
 
 Trip length extension via sacrifice value is halved for ironmen, giving the maximum 1 minute increase (or 3 minute with T3 Patron) for only 5b sacrificed rather than the usual 10b. For more info on this, please [see here](https://wiki.oldschool.gg/#minion-icons).
 
@@ -18,14 +18,14 @@ Trip length extension via sacrifice value is halved for ironmen, giving the maxi
 Being a _permanent ironman_ provides the following perks:
 
 * Shared patron perks between main and ironman discord accounts
-* Ironman armour (use: `+m ironman --armor`)
+* Ironman armour (use: `/buy`` `**`name:`**` ``Ironman [armourPiece]`)
 
 ### Ironman Leaderboards
 
-Any leaderboard can be filtered to only show ironmen. This is done by adding `--im` at the end of any `+lb` command.
+Any leaderboard can be filtered to only show ironmen. This is done by selecting **`ironmen_only:`**` ``true` at the end of any `/lb` command.
 
-* E.g. `+lb kc vorkath --im`
-* E.g. `+lb sacrifice --im`
+* E.g. `/lb kc`` `**`monster:`**` ``Vorkath`` `**`ironmen_only:`**` ``true`
+* E.g. `/lb opens`` `**`openable:`**` ``Mystery box`` `**`ironmen_only:`**` ``true`
 * E.g. `/tools patron drystreak`` `**`monster:`**`Corporeal Beast`` `**`item:`**`Elysian sigil`` `**`ironman:`**`True`
 
 ### Ironman Discord Server

@@ -283,19 +283,20 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 {% endtab %}
 
 {% tab title="Other" %}
-|                    |           |                            |
-| ------------------ | :-------: | -------------------------- |
-| **Item Name**      | **Price** | **Other Requirements**     |
-| Shield right half  | 1,000,000 | 111 Quest Points           |
-| Dragon metal shard | 2,500,000 | 205 Quest Points           |
-| Dragon scimitar    |  500,000  | 105 Quest Points           |
-| Fishbowl pet       |  500,000  | N/A                        |
-| Potato with cheese |    650    | Level 65 Attack & Strength |
-| Beer               | 1,000,000 | N/A                        |
-| Vodka              | 1,000,000 | N/A                        |
-| Gin                | 1,000,000 | N/A                        |
-| Ogre bow           |  200,000  | N/A                        |
-| Sandworms          |    500    | N/A                        |
-| Granite body       |   95,000  | 10kc at Barbarian Assault  |
+|                      |           |                            |
+| -------------------- | :-------: | -------------------------- |
+| **Item Name**        | **Price** | **Other Requirements**     |
+| Shield right half    | 1,000,000 | 111 Quest Points           |
+| Dragon metal shard   | 2,500,000 | 205 Quest Points           |
+| Dragon scimitar      |  500,000  | 105 Quest Points           |
+| Fishbowl pet         |  500,000  | N/A                        |
+| Potato with cheese   |    650    | Level 65 Attack & Strength |
+| Beer                 | 1,000,000 | N/A                        |
+| Vodka                | 1,000,000 | N/A                        |
+| Gin                  | 1,000,000 | N/A                        |
+| Ogre bow             |  200,000  | N/A                        |
+| Sandworms            |    500    | N/A                        |
+| Granite body         |   95,000  | 10kc at Barbarian Assault  |
+| Rainbow flower crown |   5,000   | N/A                        |
 {% endtab %}
 {% endtabs %}

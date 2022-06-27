@@ -36,10 +36,16 @@ Please keep in mind that these are just recommendations, you are not restricted 
 
 ### Getting Started
 
-There are a few things that need to be prefaced before you get started.\
-You can view current stats about your minion and it's raiding abilities with the `+raid` command.&#x20;
+There are a few things that need to be prefaced before you get started.
 
-Starting a Chambers of Xeric raid also uses this command, for masses use `+raid mass`, and solos `+raid solo`.
+To view your current stats and raiding abilities (gear score and death chance), use:
+
+* `/raid cox stats`
+
+To start a Chambers of Xeric raid, use either:
+
+* `/raid cox start`` `**`type:`**` ``solo`
+* `/raid cox start`` `**`type:`**` ``mass`
 
 Solo Chambers of Xeric requires 50 KC, so the first 50 must be done within a mass raid, a mass requires minimum of 2 users and has a maximum capacity of 15.
 
@@ -53,10 +59,10 @@ Specific items will give a hidden speed boost to your raids, they **DO NOT** nee
 
 The item with the highest boost that you currently own from each line will be applied.
 
-* Twisted bow (8%), **OR** Bow of Faerdhinen (6%), **OR** Dragon Hunter Crossbow (5%)
-* Dragon Hunter Lance (3%), **OR** Abyssal tentacle (2%)**\***
-* Sanguinesti Staff (6%)**\*\***
-* Dragon Warhammer (3%), **OR** Bandos Godsword (2.5%)
+* Twisted bow (8%) **OR** Bow of faerdhinen (6%) **OR** Dragon hunter crossbow (5%)
+* Dragon hunter lance (3%) **OR** Abyssal tentacle (2%)**\***
+* Sanguinesti staff (6%)**\*\***
+* Dragon warhammer (3%) **OR** Bandos godsword (2.5%)
 
 **\*** - Requires at least 200 charges for boost to apply.
 
