@@ -5,7 +5,7 @@
 Phosani's Nightmare is a more difficult; solo-only version of The Nightmare of Ashihama. It drops the same items as the normal Nightmare, as well as the [Parasitic egg](https://oldschool.runescape.wiki/w/Parasitic\_egg) and the [Slepey tablet](https://oldschool.runescape.wiki/w/Slepey\_tablet).\
 While unique items are rarer from Phosani's Nightmare than they are from the regular Nightmare, Phosani's Nightmare can be killed significantly faster, capping out at 2kc per trip (4kc if patreon).
 
-To kill Phosani's Nightmare, use `+nm phosani`
+To kill Phosani's Nightmare, use `/k`` `**`name:`**` ``Phosani's Nightmare`
 
 ## Requirements
 
@@ -27,13 +27,13 @@ To kill Phosani's Nightmare, use `+nm phosani`
 
 Phosani boosts are applied from either your bank or equipped gear.
 
-You must have used the tablet for the boost by doing `/minion use`` `**`item:`**`Slepey tablet`.
+You must use the tablet for the boost to apply: `/minion use`` `**`item:`**`Slepey tablet`
 
-![](<../../.gitbook/assets/Elder maul.png>) 3% for Elder maul
+![](../../.gitbook/assets/Elder\_maul.png) 3% for Elder maul
 
 ![](<../../.gitbook/assets/Dragon claws.png>) 3% for Dragon claws
 
-![](<../../.gitbook/assets/Harmonised nightmare staff.png>)  3% for Harmonised nightmare staff
+![](../../.gitbook/assets/Harmonised\_nightmare\_staff.png)  3% for Harmonised nightmare staff
 
 ![](<../../.gitbook/assets/Slepey tablet.png>)   15% for Slepey tablet
 
@@ -41,6 +41,6 @@ You must have used the tablet for the boost by doing `/minion use`` `**`item:`**
 
 ## BiS Gear
 
-Your melee gear will provide a boost up to 13.2%. This boost is based on your minions _melee strength bonus_ in combination with the _attack crush bonus_. Below is an image of the best in slot gear to use when killing Phosani's Nightmare.
+Your melee gear will provide a boost up to 13.2%. This boost is based on each piece of BiS gear you equip, with each piece giving 1.2%. Equipping anything that is not BiS, will not grant the 1.2% boost for that slot. Rada's Blessing 4 is BiS for the ammo slot, all other blessings will not suffice.
 
-![](../../.gitbook/assets/phosani\_BiS.png)
+![BiS equipment for Phosani's nightmare.](../../.gitbook/assets/phosani\_BiS.png)

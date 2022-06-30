@@ -10,5 +10,4 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * Woodcutting Guild boost information
 * Questing information and unlocks
 * Createables
-* Drift Net fishing page
 * Boosts to RC page

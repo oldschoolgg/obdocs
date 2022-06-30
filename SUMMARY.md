@@ -123,6 +123,7 @@
 * [God Capes](miscellaneous/god-capes.md)
 * [Champions Challenge](miscellaneous/champions-challenge.md)
 * [Crack The Clue](miscellaneous/crack-the-clue.md)
+* [Offering](miscellaneous/offering.md)
 * [Collecting](miscellaneous/collecting.md)
 * [Buyables](miscellaneous/buyables.md)
 * [Bank Backgrounds](getting-started/bank-background.md)
