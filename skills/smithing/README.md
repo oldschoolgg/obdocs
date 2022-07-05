@@ -20,7 +20,7 @@ You can train smithing by using `/smelt` and `/smith` commands.
 |  Adamantite  |         70         |      37.5      | Adamantite ore + 6 coal |
 |    Runite    |         85         |       50       |   Runite ore + 8 coal   |
 
-**\*** - Has a 50% chance to fail. Ring of forging does NOT work.
+**\*** - Has a 50% chance to fail in a regular furnace. Ring of forging does NOT work.
 
 **\*\*** - Equipping [goldsmith gauntlets](https://wiki.oldschool.gg/miscellaneous/buyables) increases the gold bar xp from 22.5 to 56.2.
 

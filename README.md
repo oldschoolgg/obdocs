@@ -20,7 +20,7 @@ Minions are entirely virtual, and not in any way tradeable for real GP or real m
 
 ## Getting Started
 
-**To get started, firstly read the** [**rules**](getting-started/rules.md), then get yourself a minion by typing `+minion buy`, or `+m buy` for short. If your Discord account is 6 months old or older, your minion will be free. If it is between 1 and 6 months old, your minion will cost 20m. If your account is less than one month old, you are currently unable to purchase a minion as a precaution against alt accounts and bots (unless you become a patron which bypasses this restriction). To get your starting gp, you can use the `+daily`'command every 12 hours to get a trivia question you can answer for gp and special Diango items.
+**To get started, firstly read the** [**rules**](getting-started/rules.md), then get yourself a minion by typing `/minion buy`. If your Discord account is 6 months old or older, your minion will be free. If it is between 1 and 6 months old, your minion will cost 20m. If your account is less than one month old, you are currently unable to purchase a minion as a precaution against alt accounts and bots (unless you become a patron which bypasses this restriction). To get your starting gp, you can use the `/minion daily` command every 12 hours to get a trivia question you can answer for gp and special Diango items.
 
 Next, decide what you want to do. Skilling? PVM? Questing? Have a look around the rest of the wiki to see what you can do, and how - and just do whatever you want to do!
 
@@ -28,18 +28,15 @@ Next, decide what you want to do. Skilling? PVM? Questing? Have a look around th
 
 You can sacrifice items, and their GP value will go towards you unlocking new minion icons. You will automatically receive the icon immediately after sacrificing enough GP.
 
-You can sacrifice items by using: `+sacrifice [quantity] <item>` (quantity is optional)
+You can sacrifice items by using: `/sacrifice` (to specify quantity, put the number before the name).
 
-* E.g. `+sacrifice bandos chestplate`
-* E.g. `+sacrifice 1000 gold ore`
-
-Or you can sacrifice GP directly by using: `+sacrifice [quantity] coins`
-
-* E.g. `+sacrifice 100m coins`
+* E.g. `/sacrifice`` `**`items:`**` ``bandos chestplate`
+* E.g. `/sacrifice`` `**`items:`**` ``1000 gold ore`
+* E.g. `/sacrifice`` `**`items:`**` ``100m coins`
 
 You receive a 15 second bonus to your maximum trip length for every 2.5b gp you sacrifice. This scales up to a 1 minute increase when you've sacrificed a total of 10b gp. This scaling is halved for ironmen, only requiring 5b gp to get the 1 minute increase.
 
-You can see a leaderboard of who has sacrificed the most using `+lb sacrifice`.
+You can see a leaderboard of who has sacrificed the most value using `/lb sacrifice`` `**`type:`**` ``Most Value Sacrificed`
 
 Tier 3 patrons or above receive 3 times the bonus to their trip length from sacrifice value. For example, a tier 3 patron with 2.5b sacrificed will receive a 45 second bonus and with 10b sacrificed will receive a 3 minute bonus.
 
@@ -47,7 +44,9 @@ Tier 3 patrons or above receive 3 times the bonus to their trip length from sacr
 
 ## Bank Backgrounds
 
-If you meet the requirements and costs of a background, you can get it using `+bankbg <name>`. The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and having certain items in your collection log, they are quite hard to obtain.
+You can change your bank background using `/minion bankbg`` `**`name:`** . The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and have certain items in your collection log. They are supposed to be difficult to obtain.
+
+To see all available backgrounds, please visit the [bank backgrounds page](getting-started/bank-background.md).
 
 Click on the bank bg name to see what it looks like.
 

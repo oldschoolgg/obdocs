@@ -8,18 +8,18 @@ You can buy vials of water using `/buy`` `**`name:`**` ``Vial of water`` `**`qua
 
 ### Making Potions
 
-Making unfinished potions, cleaning herbs, and preparing secondary ingredients are all done with the /mix command. You can optionally use Zahur & Wesley to make these processes instant for a small fee.
+Making unfinished potions, cleaning herbs, and preparing secondary ingredients are all done with the `/mix` command. You can optionally use Zahur & Wesley to make these processes instant for a small fee.
 
 * `/mix`**`name:`**`Crushed nest`
 * `/mix`**`name:`**`Toadflax`
 * `/mix`**`name:`**`Toadflax potion (unf)`
 * `/mix`**`name:`**`Saradomin brew (3)`
 
-**Zahur** - You can add **`zahur:`**`True` to the end of the command to make unfinished potions or clean herbs instantly. This costs 200gp per item. Zahur will not clean herbs that you do not have the required herblore level to clean yourself. No xp is given for cleaning herbs with Zahur.
+**Zahur** - You can add the **`zahur:`**`True` flag to make unfinished potions or clean herbs instantly. This costs 200gp per item. Zahur will not clean herbs that you do not have the required herblore level to clean yourself. No xp is given for cleaning herbs with Zahur.
 
 * E.g. `/mix`` `**`name:`**`Toadflax`` `**`zahur:`**`True`
 
-**Wesley** - You can add **`wesley:`**`True` to the end of the command to crush your items instantly. This costs 50gp per item. There are no other requirements.
+**Wesley** - You can add the **`wesley:`**`True` flag to crush your items instantly. This costs 50gp per item. There are no other requirements.
 
 * E.g. `/mix`` `**`name:`**`Crushed nest`` `**`wesley:`**`True`
 
@@ -73,6 +73,7 @@ Making unfinished potions, cleaning herbs, and preparing secondary ingredients a
 | Bastion potion               | Cadantine blood potion (unf) |      Wine of zamorak     |         80         |
 | Battlemage potion            | Cadantine blood potion (unf) |       Potato cactus      |         80         |
 | Saradomin brew               |     Toadflax potion (unf)    |       Crushed nest       |         81         |
+| Ancient brew                 |    Dwarf weed potion (unf)   |        Nihil dust        |         85         |
 
 ### **Non-standard Potions**
 

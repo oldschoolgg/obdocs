@@ -11,7 +11,7 @@ description: Hugely beneficial boosts!
 `+poh items` - Full list of buildable items\
 `+poh build NameOfItem` - Builds a specific item\
 `+poh destroy NameOfItem` - Destroys a specific item\
-`+poh mountitem` - Mount an item if you've built the item mount (This is currently disabled)\
+`+poh mountitem` - Mount an item if you've built the item mount\
 `+poh wallkit` - Currently bugged, type anything after to see available wallkits (currently only default and Hosidius)&#x20;
 
 ## Boosts

@@ -32,10 +32,12 @@ Smelting bars at the blast furnace is faster than smelting bars normally, and th
 | **Bar**    | **Required level** | **Materials needed**    |
 | ---------- | :----------------: | ----------------------- |
 | Bronze     |          1         | Tin + Copper            |
-| Iron       |         15         | Iron ore                |
+| Iron**\*** |         15         | Iron ore                |
 | Silver     |         20         | Silver ore              |
 | Steel      |         30         | Iron ore + 1 coal       |
 | Gold       |         40         | Gold ore                |
 | Mithril    |         50         | Mithril ore + 2 coal    |
 | Adamantite |         70         | Adamantite ore + 3 coal |
 | Runite     |         85         | Runite ore + 4 coal     |
+
+\* - Iron ore has a success rate of 100% at the Blast furnace.

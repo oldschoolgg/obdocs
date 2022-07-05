@@ -4,13 +4,13 @@ You can train your magic level through various non-combat spells in the bot. Thi
 
 **Note:** Equipping an [elemental staff](https://oldschool.runescape.wiki/w/Elemental\_staves) in your _skilling setup_ will cut down on rune costs.
 
-### Casting
+## Casting
 
 There are numerous useful casting spells that can be used to train magic. All cast spells require 50qp except for teleports and bones to bananas.
 
-To use any of the following spells, use the `+cast` command.
+To use any of the following spells, use the `/activities cast` command.
 
-* E.g. `+cast 100 camelot teleport`
+* E.g. `/activities cast`` `**`spell:`**` ``Camelot Teleport`` `**`quantity:`**` ``100`
 
 |                               |                     |                            |
 | ----------------------------- | :-----------------: | -------------------------- |
@@ -43,15 +43,13 @@ To use any of the following spells, use the `+cast` command.
 | Superglass make seaweed       | 77 Magic + 61 Craft | Makes 17 molten glass/cast |
 | Superglass make soda ash      | 77 Magic + 61 Craft | Makes 17 molten glass/cast |
 
-### Enchanting
+## Enchanting
 
-Much like casting, enchanting jewellery or bolts is another viable method to train magic. You can enchant all the same jewellery as OSRS, however, most enchanted jewellery has no use at this stage. Use `+enchant --items` to view all enchantable items.
+Much like casting, enchanting jewellery or bolts is another viable method to train magic. You can enchant all the same jewellery as OSRS, however, most enchanted jewellery has no use at this stage. Please note that 10 bolts are enchanted per cast.
 
-**Note:** 10 bolts are enchanted per cast.
+To enchant any jewellery or bolts, use the `/activities enchant` command.
 
-To enchant any jewellery or bolts, use the `+enchant` command.
-
-* E.g.  `+enchant 100 emerald ring` or `+enchant 5 onyx bolts`
+* E.g.  `/activities enchant`` `**`name:`**` ``Emerald ring`` `**`quantity:`**` ``100`
 
 |               |                    |                          |                     |
 | ------------- | ------------------ | :----------------------: | :-----------------: |
@@ -79,11 +77,11 @@ To enchant any jewellery or bolts, use the `+enchant` command.
 
 * To view what each piece of jewellery turns into, visit the [OSRS Enchanting Spells](https://oldschool.runescape.wiki/w/Enchantment\_spells#Enchanted\_gold\_and\_silver\_jewellery) wiki page.
 
-### Regular Alching
+## Regular Alching
 
 You are able to send your minion on an alching trip using the `/activities alch` command. You can specify the item and quantity to alch, or you can simply send the minion to alch whatever is in your favourite alchs list by not adding any items or quantity. Please note that this is different to agility alching.
 
-### Agility Alching
+## Agility Alching
 
 Another non-combat method is to cast high alchemy when running laps of agility. This can be especially handy to ironmen or if you want to maximise your time spent while training agility. You can read more about this method on the [Agility Alching](https://wiki.oldschool.gg/skills/agility/agility-alching) page.
 

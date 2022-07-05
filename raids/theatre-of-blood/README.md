@@ -61,12 +61,17 @@ There are no direct speed boosts, these items affect your boost score (see theor
 
 ## Blowpipe, Abyssal Tentacle, Sanguinesti staff and Scythe of Vitur
 
-You can charge the Blowpipe using: `+m blowpipe add 100 dragon dart, 1000 zulrah's scales`
+To charge your Blowpipe use:
 
-You can create an Abyssal Tentacle using: `/create`` `**`item:`**` ``Abyssal tentacle`
+* `+m bp add 100 dragon dart, 1000 zulrah's scales`
 
-You can add charges to your Abyssal Tentacle using `+m charge tent, 1`
+To create or charge an Abyssal tentacle use:&#x20;
 
-You can charge a Sanguinesti Staff using `+m charge sang, 1000` - this has no use a ToB.&#x20;
+* `/create`` `**`item:`**` ``Abyssal tentacle`
+* `/minion charge`` `**`item:`**` ``Abyssal tentacle`` `**`amount:`**` ``1`
+
+To charge your Sanguinesti Staff use:
+
+* `/minion charge`` `**`item:`**` ``Sanguinesti staff`` `**`amount:`**` ``10000`
 
 The Scythe isn't charged. It is created from an uncharged scythe with `/create`` `**`item:`**`Scythe of vitur` and uses blood runes/vials of blood as you use it.
