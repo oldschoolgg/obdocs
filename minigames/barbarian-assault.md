@@ -8,15 +8,14 @@ To start a trip of BA, use the following command:
 
 ### Boosts
 
-* Up to 12.5% for melee gear (see below)
+* Up to 12.87% for melee gear (see below)
 * Up to 30.3% for honour level (see below)
 * Up to 20% for average KC
-* \-10% for solo trips
 * 10% more points for completion of Kandarin elite diary (upon return of trip)
 
 ### BiS Melee Gear
 
-Your melee gear will provide a boost up to 12.87%. This boost is based on your minions _melee strength bonus_. This is important, especially in masses, because if your minion is chosen as the Fighter role, the team's boost will be dependant on your Melee gear. Below is an image of the best melee strength bonus currently available:
+You have a 1/4 chance per trip for your minion to be chosen as the Fighter role. If you are chosen for this role, your melee gear will provide a boost of up to 12.87%. If you are not chosen for this role, you simply don't get the gear score boost. This boost is based on your minions _melee strength bonus_ and below is an image of the best melee strength bonus currently available:
 
 **NOTE:** Using Bandos chestplate and tassets with Neitiznot faceguard will give 12.50% boost.
 
