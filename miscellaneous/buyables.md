@@ -8,7 +8,7 @@ Every item on this page can be purchase with the following command:&#x20;
 
 Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP sink on the bot. If your minion is an Ironman, you will get the same prices as on Oldschool RuneScape for _most_ items, which can be viewed [here](../getting-started/ironman-mode.md#ironman-prices).
 
-### List of Buyables
+## List of Buyables
 
 {% tabs %}
 {% tab title="Skilling Materials" %}
@@ -289,14 +289,20 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Shield right half    | 1,000,000 | 111 Quest Points           |
 | Dragon metal shard   | 2,500,000 | 205 Quest Points           |
 | Dragon scimitar      |  500,000  | 105 Quest Points           |
-| Fishbowl pet         |  500,000  | N/A                        |
 | Potato with cheese   |    650    | Level 65 Attack & Strength |
+| Mystic hat           |   15,000  | Level 66 Magic             |
+| Mystic robe top      |  120,000  | Level 66 Magic             |
+| Mystic robe bottom   |   80,000  | Level 66 Magic             |
+| Mystic gloves        |   10,000  | Level 66 Magic             |
+| Mystic boots         |   10,000  | Level 66 Magic             |
 | Beer                 | 1,000,000 | N/A                        |
 | Vodka                | 1,000,000 | N/A                        |
 | Gin                  | 1,000,000 | N/A                        |
 | Ogre bow             |  200,000  | N/A                        |
+| Fishbowl pet         |  500,000  | N/A                        |
 | Sandworms            |    500    | N/A                        |
 | Granite body         |   95,000  | 10kc at Barbarian Assault  |
 | Rainbow flower crown |   5,000   | N/A                        |
+| Mithril seeds        |   3,000   | N/A                        |
 {% endtab %}
 {% endtabs %}

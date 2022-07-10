@@ -73,7 +73,7 @@ The item with the highest boost that you currently own from each line will be ap
 #### Requirements
 
 * 200 regular Chambers of Xeric kill count
-* Twisted bow **or** Dragon hunter crossbow **(masses)**
+* Twisted bow **OR** Dragon hunter crossbow **OR** Bow of faerdhinen + full Crystal armour **(masses)**
 * Twisted bow **(solos)**
 
 ### Loot

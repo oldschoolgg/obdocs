@@ -1,6 +1,6 @@
 # Barbarian Assault
 
-Challenge waves of penance monsters with a teammate to unlock the rewards from Barbarian Assault. BA in the bot works a bit differently than BA in OSRS as it was modified to be easier to find teams and earn points. There are no defined roles or role-specific honour levels, there aren't even specific waves. At random, one member of the team will be selected as the Fighter, and that member's melee strength bonus will provide an overall boost to your time spent per wave.
+Challenge waves of penance monsters to unlock the rewards from Barbarian Assault. BA in the bot works a bit differently than BA in OSRS, as it is only soloable and the rest of your team members are essentially NPCs. There are no defined roles or role-specific honour levels, there aren't even specific waves. However, you do have a 25% chance to be selected as the fighter role, and when this happens, you will get a speed boost based on your melee gear (see below).
 
 To start a trip of BA, use the following command:
 
@@ -10,7 +10,7 @@ To start a trip of BA, use the following command:
 
 * Up to 12.87% for melee gear (see below)
 * Up to 30.3% for honour level (see below)
-* Up to 20% for average KC
+* Up to 10% for average KC
 * 10% more points for completion of Kandarin elite diary (upon return of trip)
 
 ### BiS Melee Gear

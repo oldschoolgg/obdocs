@@ -4,7 +4,7 @@ The Gauntlet is a solo minigame which has some substantial requirements. When yo
 
 To begin a trip, use `/minigames gauntlet start`` `**`corrupted:`**`True` (the corrupted option may be left off if doing normal gauntlet).
 
-### Requirements
+## Requirements
 
 * Level 80 in all combat stats (90 for Corrupted)
 * Level 77 Prayer
@@ -22,26 +22,32 @@ To begin a trip, use `/minigames gauntlet start`` `**`corrupted:`**`True` (the c
 * 200+ quest points
 * _Corrupted Gauntlet also requires at least 50kc in the normal Gauntlet_.
 
-### Boosts
+## Boosts
 
 * Augury & Rigour prayers both provide a 3% boost.
 * Higher KC provides a speed boost (up to 20% at 100kc).
 
-### Rewards
+## Rewards
 
 The standard rewards from gauntlet can be obtained here such as Crystal shards alongside runes, gems, arrows, and rune/dragon alchables. The unique rewards include:
 
-#### Crystal weapon seeds ![](../.gitbook/assets/Crystal\_weapon\_seed.png)
+### Crystal weapon seeds ![](../.gitbook/assets/Crystal\_weapon\_seed.png)
 
-The only thing these can be made into is a Crystal halberd for ToB.
+These can only be made into a Crystal halberd for ToB. Requires 78 smithing and crafting.
 
-* `/create`` `**`item:`**`Crystal halberd`
+![](../.gitbook/assets/Crystal\_halberd.png) `/create`` `**`item:`**`Crystal halberd` - Requires 40 shards
 
-#### Crystal armour seeds ![](../.gitbook/assets/Crystal\_armour\_seed.png)
+### Crystal armour seeds ![](../.gitbook/assets/Crystal\_armour\_seed.png)
 
-Currently have no use except trading in for crystal shards.
+You can create all 3 pieces of the crystal armour set. Each armour piece requires level 70/72/74 smithing and crafting respectively.
 
-#### Enhanced crystal weapon seeds ![](../.gitbook/assets/Enhanced\_crystal\_weapon\_seed.png)
+&#x20;![](../.gitbook/assets/Crystal\_helm.png)  `/create`` `**`item:`**` ``Crystal helm` - Requires 150 shards
+
+![](../.gitbook/assets/Crystal\_body.png)`/create`` `**`item:`**` ``Crystal body` - Requires 300 shards
+
+&#x20; ![](../.gitbook/assets/Crystal\_legs.png)   `/create`` `**`item:`**` ``Crystal legs` - Requires 450 shards
+
+### Enhanced crystal weapon seeds ![](../.gitbook/assets/Enhanced\_crystal\_weapon\_seed.png)
 
 You need 82 crafting and smithing to create both the inactive and charged versions of the blade/bow. The charged bow provides boosts to bosses such as Sara, Arma, Zulrah, and CoX. The charged blade is used at ToB. Charged versions can be reverted back to inactive versions and inactive weapons can be reverted back to seeds (costs 250 crystal shards for the latter).
 
@@ -52,7 +58,7 @@ You need 82 crafting and smithing to create both the inactive and charged versio
 
 **Note:** The _charged_ blade/bow are untradeable, while the _inactive_ versions are tradeable.
 
-### Trading in Crystal Seeds
+## Trading in Crystal Seeds
 
 You may trade in your spare crystal seeds for crystal shards through the `/create` command.
 
