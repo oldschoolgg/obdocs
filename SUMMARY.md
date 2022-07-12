@@ -14,6 +14,7 @@
 * [Combat Training](getting-started/combat-skills.md)
 * [Bank Filters](getting-started/bank-filters.md)
 * [Reverting Items](getting-started/reverting-items.md)
+* [Leagues](getting-started/leagues.md)
 
 ## Bosses
 
