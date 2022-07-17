@@ -30,7 +30,7 @@ description: List of achievements on the bot
 | Attack       | Googleit       | Googleit       |
 | Strength     | Exanimum       | Im Z           |
 | Hitpoints    | Tiz            | Doom           |
-| Slayer       | wood           |                |
+| Slayer       | wood           | Doom           |
 
 ### **Other Achievements**
 
