@@ -707,11 +707,11 @@ None\
 
 **Boosts**
 
-5% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow **OR** 3% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of Faerdhinen (c)
+2% for Magic Shortbow **OR** 3% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of Faerdhinen (c) **OR** 4% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic Blowpipe **OR** 5% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
 
-2% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's Staff **OR** 5% for ![](<../.gitbook/assets/Harmonised nightmare staff.png>) Harmonised Nightmare Staff
+1% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's Staff **OR** 2% for ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** 4% for ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** 5% for ![](<../.gitbook/assets/Harmonised nightmare staff.png>) Harmonised Nightmare Staff&#x20;
 
-2% for <img src="../.gitbook/assets/ranger-boots.png" alt="" data-size="line"> Ranger Boots **OR** 4% for <img src="../.gitbook/assets/170px-pegasian_boots_detail.png" alt="" data-size="line"> Pegasian Boots
+4% for <img src="../.gitbook/assets/170px-pegasian_boots_detail.png" alt="" data-size="line"> Pegasian Boots **OR** 2% for <img src="../.gitbook/assets/ranger-boots.png" alt="" data-size="line"> Ranger Boots
 
 3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
 

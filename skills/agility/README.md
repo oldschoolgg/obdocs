@@ -10,9 +10,9 @@ Agility is required to participate in a variety of activities.
 
 ## Training Methods
 
-Agility can be trained by using the command `/laps`` `**`name:`**`<course>`` `**`quantity:`**`<quantity>`` `**`alch:`**`[True/False].` Quantity and alch are optional.
+Agility can be trained by using the command `/laps`` `**`name:`**`<course>`` `**`quantity:`**`<quantity>`` `**`alch:`**`[True/False]` - Quantity and alch are optional.
 
-Total lap counts can be checked with `+m lapcounts`.
+Total lap counts can be checked with `/minion stats`` `**`stat:`**` ``Personal Agility Stats`
 
 ### Rooftop Agility
 
@@ -25,15 +25,15 @@ To create full graceful in 1 command or buy pieces individually:
 
 To buy Amylase crystals (1 quantity = 100 crystals)
 
-* `+buy [quantity] amylase pack`
+* `/buy`` `**`name:`**` ``Amylase pack`
 
-### [Hallowed Sepulchre](https://wiki.oldschool.gg/minigames/hallowed-sepulchre)
+### [Hallowed Sepulchre](hallowed-sepulchre.md)
 
 From level 52 agility, the player may train agility using the command `/minigames sepulchre start`, which also requires full Graceful equipped in your skilling setup. You will progressively get better at plundering the sepulchre as your agility level increases, peaking at 92 agility.
 
-### [Brimhaven Agility Arena](https://wiki.oldschool.gg/minigames/brimhaven-agility-arena)
+### [Brimhaven Agility Arena](brimhaven-agility-arena.md)
 
-The Brimhaven Agility Arena rewards the player with Agility tickets which can be used to purchase cosmetic rewards or agility XP, using the command `+agilityarena`.
+The Brimhaven Agility Arena rewards the player with Agility tickets which can be used to purchase cosmetic rewards or agility XP, using the command `/minigames agility_arena start`.
 
 ## Courses
 
@@ -53,4 +53,4 @@ The Brimhaven Agility Arena rewards the player with Agility tickets which can be
 | Rellekka         | 80                 | 780            | 51           | 55,000    | 14                    |
 | Ardougne         | 90                 | 793            | 45.6         | 62,600    | 24                    |
 
-\* - You will NOT receive crystal shards OR marks of grace from the Prifddinas agility course.
+\* - You will receive 15 crystal shards per hour from the Prifddinas agility course.
