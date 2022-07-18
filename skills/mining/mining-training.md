@@ -2,9 +2,9 @@
 
 ## Fastest Route to 99
 
-1-35: Copper/Tin&#x20;
+1-15: Copper/Tin&#x20;
 
-35-50: Iron&#x20;
+15-50: Iron&#x20;
 
 50-99: Volcanic Mine
 
