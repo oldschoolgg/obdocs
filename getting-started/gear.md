@@ -45,7 +45,7 @@ Use this command to simply equip or unequip a pet. You can equip and unequip a p
 
 Now that you have equipped the gear you like you probably would like to save that setup for later before you equip something up in that setup. This can done through the +gearpresets commands. Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup.\
 &#x20; \
-By default, you are restricted to having 3 gear presets. However, this can be increase if you are a patron or a github supporter.
+By default, you are restricted to having 3 gear presets. However, this can be increased if you are a patron or a github supporter.
 
 Tier 1 = 7 presets
 
