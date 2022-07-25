@@ -2,15 +2,15 @@
 
 ## Fastest Route to 99:
 
-`/build name:Crude wooden chair quantity:5`\
-`/build name:Wooden bookcase quantity:7`\
-`/build name:Wooden larder quantity:7`\
-`/build name:Repair bench quantity:3`\
-`/build name:Crafting table 1 quantity:12`\
-`/build name:Oak dining table quantity:39`\
-`/build name:Carved oak table quantity:10`\
-`/build name:Oak larder quantity:220`\
-`/build name:Mahogany table`
+`/build`` `**`name:`**`Crude wooden chair`` `**`quantity:`**`5`\
+`/build`` `**`name:`**`Wooden bookcase`` `**`quantity:`**`7`\
+`/build`` `**`name:`**`Wooden larder`` `**`quantity:`**`7`\
+`/build`` `**`name:`**`Repair bench`` `**`quantity:`**`3`\
+`/build`` `**`name:`**`Crafting table 1`` `**`quantity:`**`12`\
+`/build`` `**`name:`**`Oak dining table`` `**`quantity:`**`39`\
+`/build`` `**`name:`**`Carved oak table`` `**`quantity:`**`10`\
+`/build`` `**`name:`**`Oak larder`` `**`quantity:`**`220`\
+`/build`` `**`name:`**`Mahogany table`
 
 **Materials Needed:** \
 94 Plank\

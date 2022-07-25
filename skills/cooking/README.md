@@ -26,8 +26,9 @@ Having cooking gauntlets equipped reduces the burn rate of certain fish.
 | Bass            |         43         |       130      | 162,500         |
 | Swordfish       |         45         |       140      | 175,500         |
 | Monkfish        |         62         |       150      | 187,500         |
-| Wine of Zamorak |         65         |       200      | 300,000         |
+| Wine of zamorak |         65         |       200      | 300,000         |
 | Shark           |         80         |       210      | 262,500         |
+| Sea turtle      |         82         |      211.3     | 264,000         |
 | Anglerfish      |         84         |       230      | 287,500         |
-| Dark Crab       |         90         |       215      | 268,750         |
-| Manta Ray       |         91         |      216.2     | 270,250         |
+| Dark crab       |         90         |       215      | 268,750         |
+| Manta ray       |         91         |      216.3     | 270,250         |

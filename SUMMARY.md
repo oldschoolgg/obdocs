@@ -49,6 +49,7 @@
   * [Construction Training](skills/construction/construction-training.md)
   * [Mahogany Homes](skills/construction/mahogany-homes.md)
   * [Player-owned Houses](skills/construction/player-owned-houses.md)
+  * [Stash Units](skills/construction/stash-units.md)
 * [Cooking](skills/cooking/README.md)
   * [Cooking Training](skills/cooking/cooking-training.md)
 * [Crafting](skills/crafting/README.md)
@@ -119,6 +120,7 @@
 ## Miscellaneous
 
 * [Hall of Fame](miscellaneous/bot-firsts.md)
+* [Questing](miscellaneous/questing.md)
 * [Achievement Diaries](miscellaneous/achievement-diaries.md)
 * [Kourend Favour](miscellaneous/kourend-favour.md)
 * [Tears of Guthix](miscellaneous/tears-of-guthix.md)

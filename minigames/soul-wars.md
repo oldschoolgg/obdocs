@@ -6,7 +6,7 @@ You can start a game of Soul wars by typing:
 
 * `/minigames soul_wars start`
 
-**Note:** To check how many points you have, type: `/minigames soul_wars tokens`
+**NOTE -** To check how many points you have, type: `/minigames soul_wars tokens`
 
 ### Buyables
 

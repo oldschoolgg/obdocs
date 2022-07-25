@@ -44,6 +44,7 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Fairy enchantment          |  100,000  | 23 Quest Points         |
 | Lunar signet               |  100,000  | 52 Quest Points         |
 | Ancient signet             |  100,000  | 105 Quest Points        |
+| Arceuus signet             |  100,000  | 100% Arceuus favour     |
 | Butterfly jar              |    500    | N/A                     |
 | Magic Box                  |   1,500   | N/A                     |
 | Broad arrows               |    250    | N/A                     |
@@ -226,60 +227,80 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 {% endtab %}
 
 {% tab title="Cosmetics" %}
-|                        |           |                        |
-| ---------------------- | :-------: | ---------------------- |
-| **Item Name**          | **Price** | **Other Requirements** |
-| Prince outfit          |     0     | 1x Frog Token          |
-| Princess outfit        |     0     | 1x Frog Token          |
-| Frog mask              |     0     | 1x Frog Token          |
-| Fremennik green cloak  |  100,000  | N/A                    |
-| Fremennik blue cloak   |  100,000  | N/A                    |
-| Fremennik brown cloak  |  100,000  | N/A                    |
-| Fremennik cyan cloak   |  100,000  | N/A                    |
-| Fremennik red cloak    |  100,000  | N/A                    |
-| Fremennik grey cloak   |  100,000  | N/A                    |
-| Fremennik yellow cloak |  100,000  | N/A                    |
-| Fremennik teal cloak   |  100,000  | N/A                    |
-| Fremennik purple cloak |  100,000  | N/A                    |
-| Fremennik pink cloak   |  100,000  | N/A                    |
-| Fremennik black cloak  |  100,000  | N/A                    |
-| Grey hat               |  100,000  | N/A                    |
-| Grey gloves            |  100,000  | N/A                    |
-| Grey robe top          |  100,000  | N/A                    |
-| Grey robe bottom       |  100,000  | N/A                    |
-| Grey boots             |  100,000  | N/A                    |
-| Red hat                |  100,000  | N/A                    |
-| Red gloves             |  100,000  | N/A                    |
-| Red robe top           |  100,000  | N/A                    |
-| Red robe bottoms       |  100,000  | N/A                    |
-| Red boots              |  100,000  | N/A                    |
-| Yellow hat             |  100,000  | N/A                    |
-| Yellow gloves          |  100,000  | N/A                    |
-| Yellow robe top        |  100,000  | N/A                    |
-| Yellow robe bottom     |  100,000  | N/A                    |
-| Yellow boots           |  100,000  | N/A                    |
-| Teal hat               |  100,000  | N/A                    |
-| Teal gloves            |  100,000  | N/A                    |
-| Teal robe top          |  100,000  | N/A                    |
-| Teal robe bottoms      |  100,000  | N/A                    |
-| Teal boots             |  100,000  | N/A                    |
-| Purple hat             |  100,000  | N/A                    |
-| Purple gloves          |  100,000  | N/A                    |
-| Purple robe top        |  100,000  | N/A                    |
-| Purple robe bottoms    |  100,000  | N/A                    |
-| Purple boots           |  100,000  | N/A                    |
-| Red cape               |  100,000  | N/A                    |
-| Black cape             |  100,000  | N/A                    |
-| Blue cape              |  100,000  | N/A                    |
-| Yellow cape            |  100,000  | N/A                    |
-| Green cape             |  100,000  | N/A                    |
-| Pink boots             |  100,000  | N/A                    |
-| Cream boots            |  100,000  | N/A                    |
-| Blue boots             |  100,000  | N/A                    |
-| Green boots            |  100,000  | N/A                    |
-| Turquoise boots        |  100,000  | N/A                    |
-
-
+|                             |           |                        |
+| --------------------------- | :-------: | ---------------------- |
+| **Item Name**               | **Price** | **Other Requirements** |
+| Prince outfit               |     0     | 1x Frog Token          |
+| Princess outfit             |     0     | 1x Frog Token          |
+| Frog mask                   |     0     | 1x Frog Token          |
+| Fremennik green cloak       |  100,000  | N/A                    |
+| Fremennik blue cloak        |  100,000  | N/A                    |
+| Fremennik brown cloak       |  100,000  | N/A                    |
+| Fremennik cyan cloak        |  100,000  | N/A                    |
+| Fremennik red cloak         |  100,000  | N/A                    |
+| Fremennik grey cloak        |  100,000  | N/A                    |
+| Fremennik yellow cloak      |  100,000  | N/A                    |
+| Fremennik teal cloak        |  100,000  | N/A                    |
+| Fremennik purple cloak      |  100,000  | N/A                    |
+| Fremennik pink cloak        |  100,000  | N/A                    |
+| Fremennik black cloak       |  100,000  | N/A                    |
+| Grey hat                    |  100,000  | N/A                    |
+| Grey gloves                 |  100,000  | N/A                    |
+| Grey robe top               |  100,000  | N/A                    |
+| Grey robe bottom            |  100,000  | N/A                    |
+| Grey boots                  |  100,000  | N/A                    |
+| Red hat                     |  100,000  | N/A                    |
+| Red gloves                  |  100,000  | N/A                    |
+| Red robe top                |  100,000  | N/A                    |
+| Red robe bottoms            |  100,000  | N/A                    |
+| Red boots                   |  100,000  | N/A                    |
+| Yellow hat                  |  100,000  | N/A                    |
+| Yellow gloves               |  100,000  | N/A                    |
+| Yellow robe top             |  100,000  | N/A                    |
+| Yellow robe bottom          |  100,000  | N/A                    |
+| Yellow boots                |  100,000  | N/A                    |
+| Teal hat                    |  100,000  | N/A                    |
+| Teal gloves                 |  100,000  | N/A                    |
+| Teal robe top               |  100,000  | N/A                    |
+| Teal robe bottoms           |  100,000  | N/A                    |
+| Teal boots                  |  100,000  | N/A                    |
+| Purple hat                  |  100,000  | N/A                    |
+| Purple gloves               |  100,000  | N/A                    |
+| Purple robe top             |  100,000  | N/A                    |
+| Purple robe bottoms         |  100,000  | N/A                    |
+| Purple boots                |  100,000  | N/A                    |
+| Red cape                    |  100,000  | N/A                    |
+| Black cape                  |  100,000  | N/A                    |
+| Blue cape                   |  100,000  | N/A                    |
+| Yellow cape                 |  100,000  | N/A                    |
+| Green cape                  |  100,000  | N/A                    |
+| Pink boots                  |  100,000  | N/A                    |
+| Cream boots                 |  100,000  | N/A                    |
+| Blue boots                  |  100,000  | N/A                    |
+| Green boots                 |  100,000  | N/A                    |
+| Turquoise boots             |  100,000  | N/A                    |
+| Pirate bandana (white)      |   2,000   | N/A                    |
+| Stripy pirate shirt (white) |   2,000   | N/A                    |
+| Pirate leggings (white)     |   2,000   | N/A                    |
+| Pirate bandana (blue)       |   2,000   | N/A                    |
+| Stripy pirate shirt (blue)  |   2,000   | N/A                    |
+| Pirate leggings (blue)      |   2,000   | N/A                    |
+| Pirate bandana (brown)      |   2,000   | N/A                    |
+| Stripy pirate shirt (brown) |   2,000   | N/A                    |
+| Pirate leggings (brown)     |   2,000   | N/A                    |
+| Pirate bandana (red)        |   2,000   | N/A                    |
+| Stripy pirate shirt (red)   |   2,000   | N/A                    |
+| Pirate leggings (red)       |   2,000   | N/A                    |
+| Menaphite purple outfit     |   5,000   | N/A                    |
+| Menaphite red outfit        |   5,000   | N/A                    |
+| Ghostly boots               |   10,000  | 10 Quest Points        |
+| Ghostly cloak               |   10,000  | 10 Quest Points        |
+| Ghostly gloves              |   10,000  | 10 Quest Points        |
+| Ghostly hood                |   10,000  | 10 Quest Points        |
+| Ghostly robe top            |   10,000  | 10 Quest Points        |
+| Ghostly robe bottom         |   10,000  | 10 Quest Points        |
+| Shadow sword                |   10,000  | 10 Quest Points        |
+| Team-X cape                 |   1,000   | Replace X with 1-50    |
 {% endtab %}
 
 {% tab title="Other" %}
@@ -304,5 +325,13 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Granite body         |   95,000  | 10kc at Barbarian Assault  |
 | Rainbow flower crown |   5,000   | N/A                        |
 | Mithril seeds        |   3,000   | N/A                        |
+| Brown apron          |   1,000   | N/A                        |
+| Bull roarer          |   1,000   | N/A                        |
+| Rolling pin          |   1,000   | N/A                        |
+| Bone club            |   1,000   | N/A                        |
+| Bone spear           |   1,000   | N/A                        |
+| Bone dagger          |   2,500   | N/A                        |
+| Dorgeshuun crossbow  |   2,500   | N/A                        |
+| Crystal Bow          |  900,000  | N/A                        |
 {% endtab %}
 {% endtabs %}

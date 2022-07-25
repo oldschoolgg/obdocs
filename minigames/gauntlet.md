@@ -33,7 +33,9 @@ The standard rewards from gauntlet can be obtained here such as Crystal shards a
 
 ### Crystal weapon seeds ![](../.gitbook/assets/Crystal\_weapon\_seed.png)
 
-These can only be made into a Crystal halberd for ToB. Requires 78 smithing and crafting.
+You can create a Crystal bow or Crystal halberd (used at ToB). Both require 78 smithing and crafting.
+
+![](../.gitbook/assets/Crystal\_bow.png)`/create`` `**`item:`**`Crystal bow` - Requires 40 shards
 
 ![](../.gitbook/assets/Crystal\_halberd.png) `/create`` `**`item:`**`Crystal halberd` - Requires 40 shards
 

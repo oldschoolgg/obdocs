@@ -16,8 +16,8 @@ To kill Phosani's Nightmare, use `/k`` `**`name:`**` ``Phosani's Nightmare`
   * A Defence Slash stat of least 150
   * An Attack Crush stat of at least 80
 * **Items (per kill)**
-  * 1,100 Fire runes
-  * 700 Air runes
+  * 700 Fire runes
+  * 490 Air runes
   * 70 Wrath runes
   * 1 Super restore(4)
   * 1 Sanfew serum(4)

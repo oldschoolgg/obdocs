@@ -16,13 +16,16 @@ description: Hugely beneficial boosts!
 
 ## Boosts
 
-**80 Con - Rejuvenation pool or higher:**\
-50% boost to Corp\
-10% boost to Kalphite Queen\
-10% boost to Abyssal Sire\
-10% boost to Barrows\
-\
-This may be expanded in the future to include higher level pools and the jewellery box.
+**80 Con - Rejuvenation pool or higher:**
+
+* 50% boost to Corp
+* 10% boost to Kalphite Queen
+* 10% boost to Abyssal Sire
+* 10% boost to Barrows
+
+**81 Con - Basic jewellery box or higher:**
+
+* Removes the need for Ring of dueling(8) when collecting items
 
 ## General
 

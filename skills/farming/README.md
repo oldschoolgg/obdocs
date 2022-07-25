@@ -20,13 +20,9 @@ You can make supercompost from watermelons using the `/farming compost_bin` comm
 
 You can create ultracompost with the `/create` command, using 2 Volcanic Ash and 1 Supercompost.
 
-You can find an optimal route to level 99 farming [here](https://wiki.oldschool.gg/skills/farming/farming-training#optimal-route-to-level-99)
-
 Crops can be protected by using the pay option on farming commands. Protection costs can be found on the [Farming training](https://oldschool.runescape.wiki/w/Farming\_training) page of the OSRS Wiki. Protecting your crops will prevent them from dying at all, and most crops can be both protected and composted, if you wish to stack their properties. These payment bundles can be created using the `/create` command and works for most common crops such as potatoes, tomatoes, strawberries, bananas, oranges, etc, and are often taken in groups of 5 or 10.
 
-
-
-**Farming Payment Creatables**
+### **Farming Payment Creatables**
 
 | **Item name**   | **Input items** |
 | --------------- | :-------------: |
@@ -61,9 +57,7 @@ The speed of your farming trips and the xp you gain from farming activities can 
 * Full Graceful Outfit - 10% to trip speed
 * Ring of Endurance - 10% to trip speed (must be [charged](https://wiki.oldschool.gg/skills/agility/hallowed-sepulchre#ring-of-endurance))
 
-
-
-**Farming Patches**
+## **Farming Patches**
 
 | **Patch type** | **Base patches** | **Number of possible additional patches** | **Additional patch requirements** |
 | -------------- | :--------------: | :---------------------------------------: | :-------------------------------: |

@@ -2,7 +2,7 @@
 
 ## Farmable Levels
 
-| Herbs           | Trees      | Allotments      | Fruit Trees     | Bushes          | Misc              |
+| **Herbs**       | **Trees**  | **Allotments**  | **Fruit Trees** | **Bushes**      | **Misc**          |
 | --------------- | ---------- | --------------- | --------------- | --------------- | ----------------- |
 | Guam: 9         | Oak: 15    | Potato: 1       | Apple: 27       | Redberry: 10    | Seaweed: 23       |
 | Marrentill: 14  | Willow: 30 | Onion: 5        | Banana: 33      | Cadavaberry: 22 | Limpwurt: 26      |
@@ -19,3 +19,11 @@
 | Dwarf Weed: 79  |            |                 |                 |                 | Spirit Tree: 83   |
 | Torstol: 85     |            |                 |                 |                 | Celastrus: 85     |
 |                 |            |                 |                 |                 | Redwood: 90       |
+
+## Hespori
+
+While Hespori does fall under the boss category, there are no boosts for killing it. The only requirement is 65 Farming to access the medium tier of the Farming guild.
+
+It takes approximately 32 hours to grow.
+
+It does drop all 3 Anima seeds but they currently have no use. Additionally, it does drop the Bottomless compost bucket at 1/35 chance, but this has no functional use either.

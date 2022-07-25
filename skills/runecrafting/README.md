@@ -2,7 +2,7 @@
 
 You can train Runecrafting using `/runecraft`.
 
-### Boosts
+## Boosts
 
 There are several boosts available which apply to all runes except blood and soul runes. You can view the boosts for blood and soul runes on the [Dark Altar page](https://wiki.oldschool.gg/skills/runecrafting/dark-altar).
 
@@ -11,18 +11,18 @@ There are several boosts available which apply to all runes except blood and sou
 * 1% for Ring of endurance (both versions work and it can be equipped or in bank)
 * 3% for Runecrafting cape
 
-### Pouches
+## Pouches
 
 You can create Runecrafting pouches using `/create`, they require different crafting levels based on the tier, as well as leather. Similarly to in-game, higher tier pouches also require higher Runecrafting levels to use. These boost the amount of essence you can carry in 1 inventory, increasing XP/Hr.
 
-| **Pouch**    | **Crafting lvl. Required** | **Rc'ing Lvl Required** | **Leather Required** |
-| ------------ | -------------------------- | ----------------------- | -------------------- |
-| Small Pouch  | 1                          | 1                       | 10                   |
-| Medium Pouch | 10                         | 25                      | 20                   |
-| Large Pouch  | 20                         | 50                      | 30                   |
-| Giant Pouch  | 30                         | 75                      | 40                   |
+| **Pouch**    | **Crafting Lvl Required** | **Rc'ing Lvl Required** | **Leather Required** |
+| ------------ | ------------------------- | ----------------------- | -------------------- |
+| Small Pouch  | 1                         | 1                       | 10                   |
+| Medium Pouch | 10                        | 25                      | 20                   |
+| Large Pouch  | 20                        | 50                      | 30                   |
+| Giant Pouch  | 30                        | 75                      | 40                   |
 
-### Regular Runes
+## Regular Runes
 
 | **Rune** | **Required level** |
 | -------- | :----------------: |
@@ -40,7 +40,7 @@ You can create Runecrafting pouches using `/create`, they require different craf
 | Death    |         65         |
 | Wrath    |         95         |
 
-### Combination Runes
+## Combination Runes
 
 **Note for Lava runes ONLY:** You can use the **`usestams:`**`False` option to send your minion runecrafting without using stamina potions. However, you will runecraft 3x slower than usual.
 
@@ -56,7 +56,7 @@ It's recommended to equip a staff in your skilling setup to provide infinite run
 | Steam    | 19                 |
 | Lava     | 23                 |
 
-### Multiple Runes
+## Multiple Runes
 
 Just like in OSRS, certain levels will grant you multiple of some runes. Combination runes are never multiplied.
 
