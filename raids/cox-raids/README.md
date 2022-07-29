@@ -5,6 +5,25 @@ coverY: 21.65841584158416
 
 # Chambers of Xeric (CoX)
 
+### Getting Started
+
+There are a few things that need to be prefaced before you get started.
+
+To view your current stats and raiding abilities (gear score and death chance), use:
+
+* `/raid cox stats`
+
+To start a Chambers of Xeric raid, use either:
+
+* `/raid cox start`` `**`type:`**` ``solo`
+* `/raid cox start`` `**`type:`**` ``mass`
+
+Solo Chambers of Xeric requires 50 KC, so the first 50 must be done within a mass raid, a mass requires minimum of 2 users and has a maximum capacity of 15.
+
+Remember that one user will need 55 Farming and 78 Herblore for the mass!
+
+See [here](cox-gear-setups.md) for recommended gear setups for the Chambers of Xeric.
+
 ### Requirements
 
 * 80+ Attack/Strength/Defence/Ranged/Magic
@@ -34,25 +53,6 @@ For regular chambers it's recommended that you use [`#raids-mass-regular`.](http
 
 Please keep in mind that these are just recommendations, you are not restricted to these channels in order to participate in raiding, it is only recommended as finding a group would be much easier.  You can raid in your own discord servers if you would like to.
 
-### Getting Started
-
-There are a few things that need to be prefaced before you get started.
-
-To view your current stats and raiding abilities (gear score and death chance), use:
-
-* `/raid cox stats`
-
-To start a Chambers of Xeric raid, use either:
-
-* `/raid cox start`` `**`type:`**` ``solo`
-* `/raid cox start`` `**`type:`**` ``mass`
-
-Solo Chambers of Xeric requires 50 KC, so the first 50 must be done within a mass raid, a mass requires minimum of 2 users and has a maximum capacity of 15.
-
-Remember that one user will need 55 Farming and 78 Herblore for the mass!
-
-See [here](cox-gear-setups.md) for recommended gear setups for the Chambers of Xeric.
-
 ### Boosts
 
 Specific items will give a hidden speed boost to your raids, they **DO NOT** need to be equipped and the affect will apply from your bank.
@@ -60,17 +60,18 @@ Specific items will give a hidden speed boost to your raids, they **DO NOT** nee
 The item with the highest boost that you currently own from each line will be applied.
 
 * Twisted bow (8%) **OR** Bow of faerdhinen (6%) **OR** Dragon hunter crossbow (5%)
-* Dragon hunter lance (3%) **OR** Abyssal tentacle (2%)**\***
-* Sanguinesti staff (6%)**\*\***
+* Dragon hunter lance (3%) **OR** Abyssal tentacle (2%)<mark style="color:red;">**\***</mark>
+* Sanguinesti staff (6%)<mark style="color:red;">**\*\***</mark>
 * Dragon warhammer (3%) **OR** Bandos godsword (2.5%)
+* Zaryte vambraces (4%) <mark style="color:red;">**(MUST be equipped in range setup for boost)**</mark>
 
-**\*** - Requires at least 200 charges for boost to apply.
+<mark style="color:red;">**\***</mark> - Requires at least 200 charges for boost to apply.
 
-**\*\*** - Requires at least 150 charges for boost to apply.
+<mark style="color:red;">**\*\***</mark> - Requires at least 150 charges for boost to apply.
 
-### Challenge Mode
+## Challenge Mode
 
-#### Requirements
+### Requirements
 
 * 200 regular Chambers of Xeric kill count
 * Twisted bow **OR** Dragon hunter crossbow **OR** Bow of faerdhinen + full Crystal armour **(masses)**
@@ -87,7 +88,7 @@ See below for unique Chambers of Xeric (Challenge Mode) loot.
 * Metamorphic dust - 1/400
 * Twisted ancestral colour kit - 1/75
 
-Note: You can receive the Challenge Mode 'Dusted' metamorphic pets too, you just need 1x Metamorphic dust in your collection log and then they are dropped at a 1/50 rate from challenge mode Chambers of Xeric raids. (You **DO NOT** need an Olmlet!)
+**Note:** You can receive the Challenge Mode 'Dusted' metamorphic pets too, you just need 1x Metamorphic dust in your collection log and then they are dropped at a 1/50 rate from challenge mode Chambers of Xeric raids. (You **DO NOT** need an Olmlet!)
 
 If you or another user of your raid gets a unique, you will see a purple square next to the spoiler and the loot (excluding prayer scrolls) is recorded in the [#notifications](https://discord.com/channels/342983479501389826/469523207691436042) channel in the [discord support server](http://invite.oldschool.gg/).
 
