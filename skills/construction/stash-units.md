@@ -41,24 +41,24 @@ To view which stash units are filled or unfill, use the following commands:
 
 ## List of All Stash Units (WIP)
 
-<details>
-
-<summary>Buyables for STASH Units</summary>
-
-* Red cape - 100k - `/buy name: Red cape`
-* Black cape - 100k - `/buy name: Black cape`
-* Desert shirt - 1m - `/buy name: Desert Outfit`
-* Green boots - 100k - `/buy name: Green boots`
-
-</details>
-
 {% hint style="info" %}
-<mark style="color:blue;">**Any item marked in red can be bought using**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`/buy`</mark>
+<mark style="color:blue;">**Any item marked in**</mark>** **<mark style="color:red;">**red**</mark>** **<mark style="color:blue;">**can be bought using**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">`/buy`</mark>
 {% endhint %}
 
 {% hint style="warning" %}
 <mark style="color:orange;">**Any item marked with an**</mark>** **<mark style="color:red;">**\***</mark>** **<mark style="color:orange;">**is not currently obtainable**</mark>
 {% endhint %}
+
+<details>
+
+<summary>Buyables for STASH Units</summary>
+
+* Red cape - 100k - `/buy`` `**`name:`**` ``Red cape`
+* Black cape - 100k - `/buy`` `**`name:`**` ``Black cape`
+* Desert shirt - 1m - `/buy`` `**`name:`**` ``Desert Outfit`
+* Green boots - 100k - `/buy`` `**`name:`**` ``Green boots`
+
+</details>
 
 {% tabs %}
 {% tab title="Beginner (1-3)" %}
