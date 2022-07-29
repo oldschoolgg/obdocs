@@ -25,6 +25,10 @@ To view which stash units are filled or unfill, use the following commands:
 <mark style="color:orange;">**All stash units are built only using 10 bronze nails.**</mark>
 {% endhint %}
 
+{% hint style="info" %}
+<mark style="color:blue;">**You need 64 Planks, 44 Oak planks, 30 Teak planks, 76 Mahogany planks, 21 Gold leaves, and 1,070 Bronze nails to make all available stash units.**</mark>
+{% endhint %}
+
 |                             |                             |                                         |
 | --------------------------- | :-------------------------: | --------------------------------------- |
 | **Stash Tier (# of Units)** | **Req. Construction Level** | **Materials Per Unit**                  |
@@ -43,7 +47,7 @@ To view which stash units are filled or unfill, use the following commands:
 
 <details>
 
-<summary>Beginner Stash Units 1</summary>
+<summary>Beginner Stash Units (1-3)</summary>
 
 ### ID 1 - Gypsy Aris's tent
 
@@ -61,85 +65,81 @@ To view which stash units are filled or unfill, use the following commands:
 
 <details>
 
-<summary>Beginner Stash Units 2</summary>
+<summary>Easy Stash Units (4-32)</summary>
 
-* ### ID 1 - Gypsy Aris's tent
+### **ID 4 - Near a shed in Lumbridge Swamp**
 
-<!---->
+* <img src="../../.gitbook/assets/Bronze_dagger.png" alt="" data-size="line"> Bronze dagger + <img src="../../.gitbook/assets/Iron_full_helm.png" alt="" data-size="line"> Iron full helm + <img src="../../.gitbook/assets/Gold_ring.png" alt="" data-size="line"> Gold ring
 
-* <img src="../../.gitbook/assets/Gold_ring.png" alt="" data-size="line"> Gold ring + <img src="../../.gitbook/assets/Gold_necklace.png" alt="" data-size="line"> Gold necklace
+### **ID 5 - Draynor Village market**
 
-<!---->
+* <img src="../../.gitbook/assets/Studded_chaps.png" alt="" data-size="line"> Studded chaps + <img src="../../.gitbook/assets/Iron_kiteshield.png" alt="" data-size="line"> Iron kiteshield + <img src="../../.gitbook/assets/Steel_longsword.png" alt="" data-size="line"> Steel longsword
 
-* ### ID 2 - Bob's Brilliant Axes in Lumbridge
+### ID 6 - Outside the Legends' Guild gates
 
-<!---->
-
-* <img src="../../.gitbook/assets/Leather_boots.png" alt="" data-size="line"> Leather boots + <img src="../../.gitbook/assets/Bronze_axe.png" alt="" data-size="line"> Bronze axe
-
-<!---->
-
-* ### ID 3 - Iffie Nitter in Varrock
-
-<!---->
-
-* <img src="../../.gitbook/assets/Chef&#x27;s_hat.png" alt="" data-size="line"> Chef's hat + <img src="../../.gitbook/assets/Red_cape.png" alt="" data-size="line"> <mark style="color:red;">Red cape</mark>
+* <img src="../../.gitbook/assets/Iron_platelegs.png" alt="" data-size="line"> Iron platelegs + <img src="../../.gitbook/assets/Emerald_amulet.png" alt="" data-size="line"> Emerald amulet + <img src="../../.gitbook/assets/Oak_longbow.png" alt="" data-size="line"> Oak longbow
 
 </details>
 
 <details>
 
-<summary>Beginner Stash Units 3</summary>
+<summary>Medium Stash Units (33-55)</summary>
 
-* ### ID 1 - Gypsy Aris's tent
 
-&#x20;      <img src="../../.gitbook/assets/Gold_ring.png" alt="" data-size="line"> Gold ring + <img src="../../.gitbook/assets/Gold_necklace.png" alt="" data-size="line"> Gold necklace
-
-* ### ID 2 - Bob's Brilliant Axes in Lumbridge
-
-&#x20;      <img src="../../.gitbook/assets/Leather_boots.png" alt="" data-size="line"> Leather boots + <img src="../../.gitbook/assets/Bronze_axe.png" alt="" data-size="line"> Bronze axe
-
-* ### ID 3 - Iffie Nitter in Varrock
-
-&#x20;      <img src="../../.gitbook/assets/Chef&#x27;s_hat.png" alt="" data-size="line"> Chef's hat + <img src="../../.gitbook/assets/Red_cape.png" alt="" data-size="line"> <mark style="color:red;">Red cape</mark>
 
 </details>
 
 <details>
 
-<summary>Easy Stash Units 1</summary>
+<summary>Hard Stash Units (56-70)</summary>
 
-* [ ] **ID 4 - Near a shed in Lumbridge Swamp**
-  * [ ] <img src="../../.gitbook/assets/Bronze_dagger.png" alt="" data-size="line"> Bronze dagger + <img src="../../.gitbook/assets/Iron_full_helm.png" alt="" data-size="line"> Iron full helm + <img src="../../.gitbook/assets/Gold_ring.png" alt="" data-size="line"> Gold ring
-* [ ] **ID 5 - Draynor Village market**
-  * [ ] <img src="../../.gitbook/assets/Studded_chaps.png" alt="" data-size="line"> Studded chaps + <img src="../../.gitbook/assets/Iron_kiteshield.png" alt="" data-size="line"> Iron kiteshield + <img src="../../.gitbook/assets/Steel_longsword.png" alt="" data-size="line"> Steel longsword
-* [ ] ID 6 - Outside the Legends' Guild gates
-  * [ ] <img src="../../.gitbook/assets/Iron_platelegs.png" alt="" data-size="line"> Iron platelegs + <img src="../../.gitbook/assets/Emerald_amulet.png" alt="" data-size="line"> Emerald amulet + <img src="../../.gitbook/assets/Oak_longbow.png" alt="" data-size="line"> Oak longbow
+
+
+</details>
+
+<details>
+
+<summary>Elite Stash Units (71-87)</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Master Stash Units (88-109)</summary>
+
+
 
 </details>
 
 {% tabs %}
-{% tab title="Beginner" %}
-<table><thead><tr><th data-type="checkbox"></th><th>ID Number - Name</th><th>Items Needed</th></tr></thead><tbody><tr><td>false</td><td><strong>1</strong> - Gypsy Aris's tent</td><td><img src="../../.gitbook/assets/Gold_ring.png" alt=""> Gold ring<br><img src="../../.gitbook/assets/Gold_necklace.png" alt="" data-size="line">Gold necklace</td></tr><tr><td>false</td><td><strong>2</strong> - Bob's Brilliant Axes in Lumbridge</td><td><img src="../../.gitbook/assets/Leather_boots.png" alt="" data-size="line">Leather boots<br><img src="../../.gitbook/assets/Bronze_axe.png" alt="" data-size="line">Bronze axe</td></tr><tr><td>false</td><td><strong>3</strong> - Iffie Nitter in Varrock</td><td><img src="../../.gitbook/assets/Chef&#x27;s_hat.png" alt="" data-size="line">Chef's hat<br><img src="../../.gitbook/assets/Red_cape.png" alt="" data-size="line">Red cape</td></tr></tbody></table>
+{% tab title="Beginner (1-3)" %}
+|                                           |                                                                                                                                                                                       |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ID Number - Unit Name**                 | **Items Needed**                                                                                                                                                                      |
+| **1** - Gypsy Aris's tent                 | <p><img src="../../.gitbook/assets/Gold_ring.png" alt=""> Gold ring<br><img src="../../.gitbook/assets/Gold_necklace.png" alt="" data-size="line">Gold necklace</p>                   |
+| **2** - Bob's Brilliant Axes in Lumbridge | <p><img src="../../.gitbook/assets/Leather_boots.png" alt="" data-size="line">Leather boots<br><img src="../../.gitbook/assets/Bronze_axe.png" alt="" data-size="line">Bronze axe</p> |
+| **3** - Iffie Nitter in Varrock           | <p><img src="../../.gitbook/assets/Chef&#x27;s_hat.png" alt="" data-size="line">Chef's hat<br><img src="../../.gitbook/assets/Red_cape.png" alt="" data-size="line">Red cape</p>      |
 {% endtab %}
 
-{% tab title="Easy" %}
-
-{% endtab %}
-
-{% tab title="Medium" %}
-
-{% endtab %}
-
-{% tab title="Hard" %}
+{% tab title="Easy (4-32)" %}
 
 {% endtab %}
 
-{% tab title="Elite" %}
+{% tab title="Medium (33-55)" %}
 
 {% endtab %}
 
-{% tab title="Master" %}
+{% tab title="Hard (56-70)" %}
+
+{% endtab %}
+
+{% tab title="Elite (71-87)" %}
+
+{% endtab %}
+
+{% tab title="Master (88-109)" %}
 
 {% endtab %}
 {% endtabs %}
