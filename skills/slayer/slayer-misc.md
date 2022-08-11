@@ -13,7 +13,7 @@ description: For all the random stuff people keep asking
 ****A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****&#x20;
 
 **Q: How do I unlock/create a slayer helm?**\
-A:  `+sls unlock slayer helmet` followed by `/create`` `**`item:`**`Slayer helmet` or  `/create`` `**`item:`**` ``Slayer helmet (i)`. This isn't needed as a black mask can be used for the same boost.
+A:  `/slayer rewards unlock`` `**`unlockable:`**`Malevolent Masquerade` followed by `/create`` `**`item:`**`Slayer helmet` or  `/create`` `**`item:`**` ``Slayer helmet (i)`. This isn't needed as a black mask can be used for the same boost.
 
 **Q: Which slayer master should I use?**\
 A: Depends on your goal; Konar for CL/XP or Duradel for bossing. Konar is better XP due to being able to complete tasks in any of Konar's assignable locations rather than a specific location (the way it works in OSRS).

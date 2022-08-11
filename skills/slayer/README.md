@@ -2,48 +2,54 @@
 
 Slayer is a skill where you're assigned to kill a certain amount of a certain monster - called a 'task', you keep completing lots of tasks to unlock more knowledge on slaying monsters, and gain points which can be used to unlock rewards.
 
-So, in very simple terms to train slayer, all you need to do is: **Get a task** `+slayertask` then **Kill that monster** `/k monster`.
+So, in very simple terms to train slayer, all you need to do is: **Get a task** `/slayer new_task` then **Kill that monster** `/k`` `**`name:`**`monster`.
 
 ## Commands
 
 *   **Get a new slayer task, or check your current task:**
 
-    * `+slayertask turael` or `+st duradel`
-    * You can set a Slayer master as your default using `--save`, so that you don't have to specify the name every time. E.g.  `+slayertask duradel --save`
+    * `/slayer new_task` or `slayer new_task`` `**`master:`**`Duradel`
+    * You can set a Slayer master as your default using the save option, so that you don't have to specify the name every time. E.g.  `/slayer new_task`` `**`master:`**`Duradel`` `**`save:`**`True`
 
 
-*   **Automatically send your minion to kill your currently assigned task:**
+*   **Automatically slay your task with guided settings:**
 
-    * `+autoslay` or  `+as`
+    * `/slayer autoslay`` `**`mode:`**`default/ehp/boss/low`
+    * Optionally add **`save:`**`True` to set your default mode
+      * Using `/slayer autoslay` will automatically use your default mode
+    * **Default**: kills the monster you're assigned
+    * **Lowest**: kills the lowest combat level monster
+    * **Efficient**: Use with `always cannon` for the most efficient tasks for Slayer XP.
+    * **Boss**: Kills the boss variant or similar, (e.g. Demonic gorillas for Black demon
 
-
+    ****
 *   **Skip your current task:**
 
-    * `+st skip` - Costs 30 slayer points
-    * Use  `+st turael` to cancel your task and reset your streak.
+    * `/slayer manage`` `**`command:`**`skip` - Costs 30 slayer points
+    * Use  `/slayer new_task`` `**`master:`**`Turael` to cancel your task and reset your streak
 
 
 *   **Buy rewards/unlocks from the Slayer shop:**
 
-    * `+slayershop unlock malevolent masquerade`
-    * `+sls unlock red slayer helmet`
+    * `/slayer rewards unlock`` `**`unlockable:`**`Malevolent Masquerade`
+    * `/slayer rewards unlock`` `**`unlockable:`**`Unholy Helmet`
 
 
 *   **List Slayer shop unlocks:**
 
-    * `+slayershop help`
+    * `/slayer rewards show_all_rewards`
 
 
 *   **Blocking tasks:**
 
-    * Block current task: `+st block`
-    * See block list: `+st list`
-    * Unblock a task: `+st unblock blue dragon`
+    * Block current task: `/slayer manage`` `**`command:`**`block`
+    * See block list: `/slayer manage`` `**`command:`**`list_blocks`
+    * Unblock a task: `/slayer rewards unblock`` `**`assignment:`**`Blue Dragon`
 
 
 *   **Getting a Slayer Helmet:**
 
-    * Firstly, unlock the Slayer helmet using `+sls unlock slayer helmet`
+    * Firstly, unlock the Slayer helmet using `/slayer rewards unlock`` `**`unlockable:`**`Malevolent Masquerade`
     * With a black mask and 55 Crafting, buy the required items from the bot, and then `/create`` `**`item:`**` ``slayer helmet`&#x20;
 
 
@@ -64,17 +70,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
     * `/config user combat_options`
 
-    Note that there is no way to override the always on settings. If you want to do certain tasks in the catacombs for example you should disable always cannon and specify `+as ehp` when wanting to use a cannon. If you've saved `+as ehp` as your default, you can override this by using `+as default`.\
-
-*   **Automatically slay your task with guided settings:**
-
-    * `+as default/lowest/efficient/boss`
-    * Optionally add `--save` to set your default
-    * **Default**: kills the monster you're assigned
-    * **Lowest**: kills the lowest combat level monster
-    * **Efficient**: Use with `always cannon` for the most efficient tasks for Slayer XP.
-    * **Boss**: Kills the boss variant or similar, (e.g. Demonic gorillas for Black demons)
-
+    Note that there is no way to override the always on settings. If you want to do certain tasks in the catacombs for example you should disable always cannon and specify `/slayer autoslay`` `**`mode:`**`ehp` when wanting to use a cannon. If you've saved ehp mode as your default, you can override this by using `/slayer autoslay`` `**`mode:`**`default`\
 
 
 ### Recommended block/skip list

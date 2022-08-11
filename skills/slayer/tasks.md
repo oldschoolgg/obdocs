@@ -4,11 +4,11 @@ description: Available Slayer tasks on Old School Bot.
 
 # Tasks
 
-You can check the specific boosts or requirements for a task/monster by using the `+monster` command, for example `+monster cave horror`
+You can check the specific boosts or requirements for a task/monster by using the `/k`` `**`show_info:`**`True` command, for example `/k`` `**`name:`**`Cave Horror`` `**`show_info:`**`True`
 
 **Note:** Tasks assigned by Konar **must** be killed in their assigned locations in order to count towards their task, for example if Konar assigns you blue dragons, Vorkath will **not** count towards your task.
 
-Some tasks have a boost for Cannon and/or Burst/Barrage, to check this use the `+monster` command. These can be enabled by default with the `/config user combat_options` command. These are not listed in the table below.
+Some tasks have a boost for Cannon and/or Burst/Barrage, to check this use the `/k`` `**`show_info:`**`True` command. These can be enabled by default with the `/config user combat_options` command. These are not listed in the table below.
 
 Most tasks have an alternative monster you can kill, for example you can kill Dagannoth Kings when assigned a Dagannoth task. Boosts/requirements for boss alternatives can be viewed on the [Slayer boosts](slayer-boosts.md) or [Boosts & Requirements](../../bosses/boosts-and-requirements.md) page.
 
