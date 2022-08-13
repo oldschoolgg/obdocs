@@ -13,11 +13,10 @@ The Blowpipe can be created from the fang (requires 53 fletching) and is an inte
 * **To create the blowpipe:**
   * `/fletch`` `**`name:`**` ``Toxic blowpipe (empty)`
 * **To add darts and scales:**
-  * `+m bp add (quantity) zulrah's scales`
-  * `+m bp add (quantity) (metal) dart`
+  * `/minion blowpipe`` `**`add:`**
 * **To remove darts and scales**
-  * `+m bp removedarts` - removes just darts
-  * `+m bp uncharge` - removes scales and darts
+  * `/minion blowpipe remove_darts` - removes just darts
+  * `/minion blowpipe uncharge` - removes scales and darts
 
 ![](<../.gitbook/assets/Magic fang.png>) **Magic fang**
 
