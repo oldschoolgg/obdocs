@@ -4,10 +4,12 @@ description: Magna's favourite Boss
 
 # Giant Mole
 
-You can turn in mole parts with the `/sell` command. To sell all at once, don't include any number.
+You can turn in mole parts for nest boxes with the `/sell` command. To sell all at once, don't include any number.
 
 ![](<../.gitbook/assets/Mole claw.png>) `/sell`` `**`items:`**` ``50 mole claw`\
 ``![](<../.gitbook/assets/Mole skin.png>)`/sell`` `**`items:`**` ``100 mole skin`
+
+You can also use `/sell`` `**`filter:`**`mole` to sell all at once.
 
 <mark style="color:red;">**NOTE**</mark><mark style="color:red;">:</mark> There is <mark style="color:red;">**NO CONFIRMATION**</mark> for this command.
 
