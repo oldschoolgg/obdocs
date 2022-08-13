@@ -16,7 +16,7 @@ There are 4 options: `/gear equip`, `/gear unequip`,  `/gear stats` and `/gear p
 
 ### Gear Equip
 
-This is the main command you will use to equip and change gear. You will firstly select the gear setup you wish to edit. There are 4 options under it:
+The `/gear equip` command lets you equip and change gear. You will firstly select the gear setup you wish to edit. There are 4 options under it:
 
 |             |                                                                  |                                                                                            |
 | ----------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
@@ -43,25 +43,23 @@ Use this command to simply equip or unequip a pet. You can equip and unequip a p
 
 ## Gear Presets
 
-Now that you have equipped the gear you like you probably would like to save that setup for later before you equip something up in that setup. This can done through the +gearpresets commands. Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup.\
-&#x20; \
-By default, you are restricted to having 3 gear presets. However, this can be increased if you are a patron or a github supporter.
+The `/gearpresets` command gives you the ability to save a particular gear setup for quick-equipping if you decide to switch between content. By default, you are restricted to having 3 gear presets. However, this can be increased if you are a patron or a github supporter.
 
-Tier 1 = 7 presets
+* Tier 1 - 7 presets
+* Tier 2 - 9 presets
+* Tier 3+ - 11 presets
 
-Tier 2 = 9 presets
-
-Tier 3+ = 11 presets
-
-**NOTE -** To equip your custom gear preset, please use the `/gear equip`` `**`preset:`** command.
-
-| Command                            | What it does                                          | Example                     |
-| ---------------------------------- | ----------------------------------------------------- | --------------------------- |
-| +gearpresets/+gps                  | Shows you your presets you have made.                 | +gearpresets                |
-| +gearpresets new  \<name> \<setup> | copy your \<setup> gear into a preset called \<name>. | +gearpresets new corp melee |
-| +gearpresets delete  \<name>       | delete your setup called \<name>.                     | +gearpresets delete corp    |
+| **Command** | **What it does**                                                                                     | **Example**                                                                    |
+| ----------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Create      | Allows you to create a gear preset. You can copy an existing setup or hand pick items to create one. | `/gearpresets create`` `**`name:`**` ``Example`` `**`copy_setup:`**` ``Melee`  |
+| Edit        | Allows you to edit an existing gear preset.                                                          | `/gearpresets edit`` `**`preset:`**` ``Example`` `**`hands:`**`Barrows gloves` |
+| Delete      | Allows you to delete an existing gear preset.                                                        | `/gearpresets delete`` `**`preset:`**` ``Example`                              |
+| Equip       | Allows you to equip an existing gear preset.                                                         | `/gearpresets equip`` `**`gear_setup:`**` ``Melee`` `**`preset:`**` ``Example` |
+| View        | Allows you to view an existing gear preset.                                                          | `/gearpresets view`` `**`preset:`**` ``Example`                                |
 
 ### Global Gear Presets
+
+Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup. These do no count towards the total numbers of presets that are available to you.
 
 * Graceful
 * Pyro

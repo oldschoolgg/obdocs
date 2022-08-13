@@ -42,6 +42,11 @@ To use any of the following spells, use the `/activities cast` command.
 | Superglass make giant seaweed | 77 Magic + 61 Craft | Makes 29 molten glass/cast |
 | Superglass make seaweed       | 77 Magic + 61 Craft | Makes 17 molten glass/cast |
 | Superglass make soda ash      | 77 Magic + 61 Craft | Makes 17 molten glass/cast |
+| Demonic offering fiendish     |       84 Magic      | Offers 3 fiendish ashes    |
+| Demonic offering vile         |       84 Magic      | Offers 3 vile ashes        |
+| Demonic offering malicious    |       84 Magic      | Offers 3 malicious ashes   |
+| Demonic offering abyssal      |       84 Magic      | Offers 3 abyssal ashes     |
+| Demonic offering infernal     |       84 Magic      | Offers 3 infernal ashes    |
 
 ## Enchanting
 

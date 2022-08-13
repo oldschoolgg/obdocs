@@ -50,7 +50,7 @@ The following items can be purchased using the `/buy` command using hallowed mar
 | Dark dye               |             300             |
 | Dark acorn             |            3,000            |
 
-* If you have obtained a Giant Squirrel agility pet, you can `+buy dark squirrel` after purchasing the dark acorn from the shop to transmogrify the pet.
+* If you have obtained a Giant Squirrel agility pet, you can `/buy`` `**`name:`**` ``Dark squirrel` after purchasing the dark acorn from the shop to transmogrify the pet.
 * Hallowed sacks can be opened with `/open hallowed sack`.
 
 ### Dark Graceful Set

@@ -17,6 +17,7 @@ The below table shows a summary of stat and item requirements, along with time t
 
 ## Activities Requiring Favour
 
+* You need 15% Hosidius to steal from fruit stalls.
 * You need 65% Hosidius to farm Grapes, and use the Farming guild.
 * You need 75% Hosidius for chopping redwoods.
 * You need 100% Hosidius to use the Tithe Farm.

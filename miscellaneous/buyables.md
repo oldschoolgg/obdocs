@@ -126,6 +126,14 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Cannon base            |  2,500,000 | 5 Quest Points         |
 | Cannon furnace         |  2,500,000 | 5 Quest Points         |
 | Cannon stand           |  2,500,000 | 5 Quest Points         |
+| Ghostly boots          |   10,000   | 10 Quest Points        |
+| Ghostly cloak          |   10,000   | 10 Quest Points        |
+| Ghostly gloves         |   10,000   | 10 Quest Points        |
+| Ghostly hood           |   10,000   | 10 Quest Points        |
+| Ghostly robe top       |   10,000   | 10 Quest Points        |
+| Ghostly robe bottom    |   10,000   | 10 Quest Points        |
+| Shadow sword           |   10,000   | 10 Quest Points        |
+| Adamant halberd        |   100,000  | 150 Quest Points       |
 {% endtab %}
 
 {% tab title="Achievements" %}
@@ -269,16 +277,31 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Purple robe top             |  100,000  | N/A                    |
 | Purple robe bottoms         |  100,000  | N/A                    |
 | Purple boots                |  100,000  | N/A                    |
+| Pink hat                    |  100,000  | N/A                    |
+| Pink robe top               |  100,000  | N/A                    |
+| Pink robe bottoms           |  100,000  | N/A                    |
+| Pink boots                  |  100,000  | N/A                    |
+| Cream hat                   |  100,000  | N/A                    |
+| Cream robe top              |  100,000  | N/A                    |
+| Cream robe bottoms          |  100,000  | N/A                    |
+| Cream boots                 |  100,000  | N/A                    |
+| Blue hat                    |  100,000  | N/A                    |
+| Blue robe top               |  100,000  | N/A                    |
+| Blue robe bottoms           |  100,000  | N/A                    |
+| Blue boots                  |  100,000  | N/A                    |
+| Green hat                   |  100,000  | N/A                    |
+| Green robe top              |  100,000  | N/A                    |
+| Green robe bottoms          |  100,000  | N/A                    |
+| Green boots                 |  100,000  | N/A                    |
+| Turquoise hat               |  100,000  | N/A                    |
+| Turquoise robe top          |  100,000  | N/A                    |
+| Turquoise robe bottoms      |  100,000  | N/A                    |
+| Turquoise boots             |  100,000  | N/A                    |
 | Red cape                    |  100,000  | N/A                    |
 | Black cape                  |  100,000  | N/A                    |
 | Blue cape                   |  100,000  | N/A                    |
 | Yellow cape                 |  100,000  | N/A                    |
 | Green cape                  |  100,000  | N/A                    |
-| Pink boots                  |  100,000  | N/A                    |
-| Cream boots                 |  100,000  | N/A                    |
-| Blue boots                  |  100,000  | N/A                    |
-| Green boots                 |  100,000  | N/A                    |
-| Turquoise boots             |  100,000  | N/A                    |
 | Pirate bandana (white)      |   2,000   | N/A                    |
 | Stripy pirate shirt (white) |   2,000   | N/A                    |
 | Pirate leggings (white)     |   2,000   | N/A                    |
@@ -293,13 +316,6 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Pirate leggings (red)       |   2,000   | N/A                    |
 | Menaphite purple outfit     |   5,000   | N/A                    |
 | Menaphite red outfit        |   5,000   | N/A                    |
-| Ghostly boots               |   10,000  | 10 Quest Points        |
-| Ghostly cloak               |   10,000  | 10 Quest Points        |
-| Ghostly gloves              |   10,000  | 10 Quest Points        |
-| Ghostly hood                |   10,000  | 10 Quest Points        |
-| Ghostly robe top            |   10,000  | 10 Quest Points        |
-| Ghostly robe bottom         |   10,000  | 10 Quest Points        |
-| Shadow sword                |   10,000  | 10 Quest Points        |
 | Team-X cape                 |   1,000   | Replace X with 1-50    |
 {% endtab %}
 
@@ -326,6 +342,7 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Rainbow flower crown |   5,000   | N/A                        |
 | Mithril seeds        |   3,000   | N/A                        |
 | Brown apron          |   1,000   | N/A                        |
+| White apron          |   1,000   | N/A                        |
 | Bull roarer          |   1,000   | N/A                        |
 | Rolling pin          |   1,000   | N/A                        |
 | Bone club            |   1,000   | N/A                        |

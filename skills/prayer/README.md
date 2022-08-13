@@ -1,6 +1,6 @@
 # Prayer
 
-There are 2 methods to training your Prayer: burying/offering bones and using ensouled heads.
+There are 3 methods to training your Prayer: burying/offering bones, using ensouled heads, and offering demonic ashes.
 
 ### Burying/Offering Bones
 
@@ -14,4 +14,15 @@ The Chaos Altar works like ingame, your minion will do 1 inventory trips back an
 
 Through slayer and other combat related activities, you may obtain ensouled heads in various forms. You can use these heads for Prayer xp by using the `/k` command. They require a specific magic level to kill along with a rune cost for each cast. To view the rune cost and xp given, visit the [Ensouled heads page](ensouled-heads.md).
 
-The Prayer skill is also required alongside smithing in order to create the Spirit shields.
+### Demonic Ashes
+
+Much like ensouled heads, you can obtain demonic ashes through slayer and other combat related activities.  These can be offered through the use of the `/activities cast`` `**`spell:`**` ``Demonic offering` command which will grant various amounts of prayer xp depending on the type of the ashes offered.
+
+|                   |                 |                                                         |
+| ----------------- | :-------------: | ------------------------------------------------------- |
+| **Type of Ashes** | **Xp Received** | **Spell cost**                                          |
+| Fiendish ashes    |        90       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Fiendish ashes</p>  |
+| Vile ashes        |       225       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Vile ashes</p>      |
+| Malicious ashes   |       585       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Malicious ashes</p> |
+| Abyssal ashes     |       765       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Abyssal ashes</p>   |
+| Infernal ashes    |       990       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Infernal ashes</p>  |
