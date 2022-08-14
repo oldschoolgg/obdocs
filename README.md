@@ -76,7 +76,7 @@ Some of these also have an item cost/collection log requirement. You can view th
 | [Smokey](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/21.png?raw=true)         | 20m              | 3           |
 | [Nieve](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/22.jpg?raw=true)          | 20m              | 3           |
 | [ToB](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/23.png?raw=true)            | 20m              | 3           |
-| Zilyana                                                                                                                              | 20m              | 3           |
+| [Zilyana](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/24.jpg?raw=true)        | 20m              | 3           |
 | [Morytania](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/12.jpg)     | 10m              | 4           |
 | [Barrows](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/6.jpg)        | 10m              | 5           |
 
