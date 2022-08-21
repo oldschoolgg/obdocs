@@ -72,7 +72,7 @@ Along with the ability to make your own presets there are some global presets av
 
 ## BiS Gear
 
-![](../.gitbook/assets/slayerbis.png)
+![Justiciar can be used instead of barrows for a marginal food reduction](../.gitbook/assets/slayerbis.png)
 
 This gear is the best food reduction equipment in the game. This will save the highest amount of food possible at almost every boss, with notable exceptions being KQ and [Nightmare](https://wiki.oldschool.gg/bosses/nightmare-of-ashihama).
 
