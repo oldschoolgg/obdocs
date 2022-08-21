@@ -1,6 +1,6 @@
 # Fountain of Rune
 
-You can use the Fountain of Rune to charge Rings of wealth and Amulets of glory. Be aware that there is a small chance of getting pked (approximately 1/9 chance) which will result in a loss of an invent of wealths/glories per death. You will not lose any gear in any setup from this.
+You can use the Fountain of Rune to charge Rings of wealth and Amulets of glory. Be aware that there is a small chance of getting pked (approximately 1/100 chance) which will result in a loss of an invent of wealths/glories per death. You will not lose any gear in any setup from this.
 
 To charge at the Fountain of Rune, use the following command:
 
@@ -17,7 +17,7 @@ To charge at the Fountain of Rune, use the following command:
 
 * Amulet of glory(6) are only used in the [Gnome Restaurant](https://wiki.oldschool.gg/minigames/gnome-restaurant) minigame.
 * Gnome Restaurant is currently the only way to remove charges from a glory.
-* If you want to create Amulet of glory(4), use the  `+cast` command. However, these are not used in Gnome restaurant and are only used to create the Ornate jewelley box in your POH.
+* If you want to create Amulet of glory(4), use the  `/activities cast spell:recharge glory` command. However, these are not used in Gnome restaurant and are only used to create the Ornate jewelley box in your POH.
 
 ### Amulet of Eternal Glory
 
