@@ -10,7 +10,7 @@ You can set birdhouse traps to collect various seeds, rings, and eggs. This can 
 
 \
 **Optimal route for EHP hunter & fishing** \
-`/activities aerial_fishing` (from 35 hunter and 45 fishing)
+`+aerialfish` or `+aerial` (from 35 hunter and 45 fishing)
 
 **Optimal route for active hunter XP**\
 _Numbers may not be accurate if you're unlucky with RNG_\
