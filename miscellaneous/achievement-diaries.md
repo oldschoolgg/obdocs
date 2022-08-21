@@ -15,7 +15,7 @@ Achievement Diary items can be purchased using the +buy command if the respectiv
 * **Claim the rewards for a Diary:**
   * `/minion achievementdiary`` `**`claim:`**`True`` `**`diary:`**`Falador`
 * **Use an XP lamp:**
-  * `+lamp (quantity) antique lamp 1/2/3/4`
+  * `/minion lamp item: antique lamp 1/2/3/4 skill:[skill] quantity:[quantity]`
 * **Buy the achievement diary cape:**
   * `/buy`` `**`name:`**` ``Achievement diary cape`
 
