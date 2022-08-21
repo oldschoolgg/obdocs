@@ -62,9 +62,9 @@ The 95% threshold for magic attack is 168.15.
 It is also recommended to equip a staff that provides water runes in your misc setup. (If you don't have a kodai wand.)
 
 You can also create a gear preset for these setups after equipping them. I.E.\
-`+gearpresets new meleeslay melee`\
-`+gearpresets new rangeslay range`\
-`+gearpresets new mageslay mage`\
+`/gearpresets create name:meleeslay copy_setup:melee`\
+`/gearpresets create name:rangeslay copy_setup:range`\
+`/gearpresets create name:mageslay copy_setup:mage`\
 Equip the presets with:\
 `/gear equip`` `**`gear_setup:`**` ``Melee`` `**`preset:`**` ``meleeslay`\
 `/gear equip`` `**`gear_setup:`**` ``Range`` `**`preset:`**` ``rangeslay`\
