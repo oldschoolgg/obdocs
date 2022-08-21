@@ -22,7 +22,7 @@ To gamble a Fire cape at a chance for the TzRek-Jad pet, use:
 
 To sacrifice a Fire cape for the Inferno, use:
 
-* `+sacrifice 1 fire cape`
+* `/sacrifice items:1 fire cape`
 
 ## Requirements & Boosts
 
