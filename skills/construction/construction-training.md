@@ -19,7 +19,7 @@
 
 ### Mahogany Homes
 
-A much cheaper alternative, especially for ironmen, is Mahogany Homes. This will automatically choose the highest tier contract you have the level for, and gives much more xp per plank, at the cost of lower xp/hr. Doing expert contracts (70+ Construction) provides roughly 180k xp/hr and gives approximately 350 xp per Mahogany plank used, which means 99 Con would take about 30-35k planks instead of 92k.\
+A much cheaper alternative, especially for ironmen, is Mahogany Homes. This will automatically choose the highest tier contract you have the level for, and gives much more xp per plank, at the cost of lower xp/hr. Doing expert contracts (70+ Construction) provides roughly 180k xp/hr and gives approximately 390 xp per Mahogany plank used, which means 99 Con would take about 30-35k planks instead of 92k.\
 \
 There are two commands associated with Mahogany Homes:
 
