@@ -36,7 +36,7 @@ The following command is an example of a bank search for the term "rune" with ma
 
 * E.g. `+bs rune --full --wide --sort=name --names`
 
-![](../.gitbook/assets/rune\_search)
+![](../.gitbook/assets/rune\_search.png)
 
 ### Category Filters
 

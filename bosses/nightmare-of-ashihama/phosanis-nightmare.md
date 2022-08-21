@@ -29,11 +29,11 @@ Phosani boosts are applied from either your bank or equipped gear.
 
 You must use the tablet for the boost to apply: `/minion use`` `**`item:`**`Slepey tablet`
 
-![](../../.gitbook/assets/Elder\_maul.png) 3% for Elder maul
+![](<../../.gitbook/assets/Elder maul.png>) 3% for Elder maul
 
 ![](<../../.gitbook/assets/Dragon claws.png>) 3% for Dragon claws
 
-![](../../.gitbook/assets/Harmonised\_nightmare\_staff.png)  3% for Harmonised nightmare staff
+![](<../../.gitbook/assets/Harmonised nightmare staff.png>)  3% for Harmonised nightmare staff
 
 ![](<../../.gitbook/assets/Slepey tablet.png>)   15% for Slepey tablet
 
