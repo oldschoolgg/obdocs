@@ -60,7 +60,7 @@ Higher tier darts (-Adamant: -4.5%, Rune: -5.4%, Amethyst: -6.3%, Dragon: -7.2%)
 
 Twisted Bow: (-7.5%) (ACB increases time by 4.5%)                 &#x20;
 
-Unlocking Rigour and/or Augury (unlocked with `+use dexterous/arcane prayer scroll`, -4% for each)                                                                                 &#x20;
+Unlocking Rigour and/or Augury (unlocked with `/minion use dexterous/arcane prayer scroll`, -4% for each)                                                                                 &#x20;
 
 Being on task with an imbued slayer helm/black mask (requires a Tzhaar task and 1 Inferno KC, -9%)              &#x20;
 
