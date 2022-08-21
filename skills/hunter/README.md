@@ -91,7 +91,7 @@ For example, if you encounter a PKer, while having over 20k total of a creature 
 
 ## Creatable Hunter Gear
 
-You can create hunter gear with the `/create` command. This serves no purpose other than to fill skilling collection log slots and be used as warm clothing.
+You can create hunter gear with the `/create` command. This serves no purpose other than to fill `+cl skilling` slots and be used as warm clothing.
 
 E.g. `/create`` `**`item:`**`Polar camouflage gear`` `**`quantity:`**`1`
 
