@@ -6,13 +6,12 @@ description: Hugely beneficial boosts!
 
 ## Commands
 
-`+poh` - Generate POH image\
-`+poh build` - Generates POH image in build mode\
-`+poh items` - Full list of buildable items\
-`+poh build NameOfItem` - Builds a specific item\
-`+poh destroy NameOfItem` - Destroys a specific item\
-`+poh mountitem` - Mount an item if you've built the item mount\
-`+poh wallkit` - Currently bugged, type anything after to see available wallkits (currently only default and Hosidius)&#x20;
+`/poh view` - Generate POH image\
+`/poh view build_mode:true` - Generates POH image in build mode\
+`/poh build name:[item]` - Builds a specific item\
+`/poh destroy name:[item]` - Destroys a specific item\
+`/poh mount_item name:[item]` - Mount an item if you've built the item mount\
+`/poh wallkit` - Allows you to switch between hosidius and normal wallkits if unlocked
 
 ## Boosts
 
