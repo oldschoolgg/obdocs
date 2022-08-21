@@ -42,6 +42,6 @@ In order to change your bank background one of the first things you will need to
 
 * Swampman (Unavailable)
 * Karamja (Unavailable)
-* CoX (Limited to Permanent Tier 1 Patrons)
-* OSB (Limited to Permanent Tier 1 Patrons)
+* CoX (Discontinued promotion)
+* OSB (Discontinued promotion)
 
