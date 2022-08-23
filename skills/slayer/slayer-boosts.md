@@ -5,12 +5,13 @@ You will not receive totem pieces or ancient shards if you are using a cannon as
 You can check the boosts for a specific monster and by how much by using the `/k`` `**`show_info:`**`True` command.\
 The Elysian spirit shield will also reduce your food usage by 17.5%, this needs to be equipped to work.  Having a full Justiciar set equipped in your melee will further increase your food reduction by 6.5% on any Melee tasks
 
-
-
 ### General boosts
 
-You can find boosts for bosses under the [boss boosts page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)\
-Cannon boosts a number of bosses by a variable amount, the same applies for bursting and barraging.
+You can find boosts for bosses under the [boss boosts page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)&#x20;
+
+Certain foods give boosts to the trip time during PvM. See more information [here](../../getting-started/combat-skills.md#food-boosts).
+
+Cannon boosts a number of bosses by a variable amount, the same applies for bursting and barraging.&#x20;
 
 **Please note this is not complete - either submit a PR or post in the wiki channel on discord if you notice something is missing.**
 

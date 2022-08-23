@@ -63,7 +63,7 @@ There are no direct speed boosts, these items affect your boost score (see theor
 
 To charge your Blowpipe use:
 
-* `+m bp add 100 dragon dart, 1000 zulrah's scales`
+* `/minion blowpipe add:100 dragon dart, 1000 zulrah's scales`
 
 To create or charge an Abyssal tentacle use:&#x20;
 

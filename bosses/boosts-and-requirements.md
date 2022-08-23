@@ -4,15 +4,19 @@ description: All boosts and Requirements for bosses.
 
 # Boosts & Requirements
 
-You can check the boosts/requirements for a specific boss and by how much by using `+monster [name]`. Some boosts don't currently appear so it is advised you crosscheck against this chart.
+You can check the boosts/requirements for a specific boss and by how much by using`/k name:[monster] show_info:[true]`. Some boosts don't currently appear so it is advised you crosscheck against this chart.
 
 ### Global Boosts
 
-<img src="../.gitbook/assets/120px-elysian_spirit_shield_detail.png" alt="" data-size="original"> Elysian Spirit Shield: Reduces food usage by 17.5% when equipped in the gear setup being used.
+<img src="../.gitbook/assets/120px-elysian_spirit_shield_detail.png" alt="" data-size="original"> **Elysian Spirit Shield:** Reduces food usage by 17.5% when equipped in the gear setup being used.
 
-<img src="../.gitbook/assets/1024px-black_mask_detail.png" alt="" data-size="original">Black Mask (i): Gives a 15% boost while killing monsters on a slayer task.
+![](../.gitbook/assets/billede\_2022-08-23\_192551881.png) **Food:** Certain foods give boosts to the trip time during PvM. See more information [here](../getting-started/combat-skills.md#food-boosts).
+
+<img src="../.gitbook/assets/1024px-black_mask_detail.png" alt="" data-size="original">B**lack Mask (i):** Gives a 16.67% boost while killing monsters on a slayer task.
 
 Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
+
+
 
 ### God Wars Dungeon
 

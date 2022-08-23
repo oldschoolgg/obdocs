@@ -26,10 +26,26 @@ By using the `/minion train` command, you can select which style of combat you w
 
 You can leave this in the default mode where your style will change depending on the mob you are attacking, or you can specify a specific combat skill to train in. The amount of xp you gain is based off of the hitpoints of the monster you're killing, and the hourly rate can vary from monster to monster. Fire giants offer the fastest combat experience in the game, but their lack of profitable drops can mean it may be preferable to train on other monsters.
 
-## Favourite Foods
+## Food
 
-When PvMing, you will consume any food you currently have in your bank. The consumption of your food is used from **lowest healing** to **highest healing**. Because of this mechanic, any jugs of wine you create during cooking training will be used before many other high tier foods. Unbeknownst to many people, using jugs of wine will actually incur a penalty when PvMing.
+#### Favourite Food
+
+When PvMing, you will consume any food you currently have in your bank. The consumption of your food is used from **lowest healing** to **highest healing**. Because of this mechanic, any jugs of wine you create during cooking training will be used before many other high tier foods.
 
 To set and remove prioritised food when PvMing, you can use the following command:
 
 * `/config user favorite_food`
+
+#### Food Boosts
+
+Certain foods give boosts to the trip time during PvM. Jug of wine is the only food to give a **penalty** instead of a boost.
+
+|             |      |
+| ----------- | ---- |
+| Jug of wine | -10% |
+| Monkfish    | 1%   |
+| Shark       | 2%   |
+| Sea turtle  | 2%   |
+| Manta ray   | 3%   |
+| Dark crab   | 3%   |
+| Anglerfish  | 4%   |
