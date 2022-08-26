@@ -10,6 +10,7 @@
 * [BSO (Bot School Old)](getting-started/bso-bot-school-old.md)
 * [Beginner Guide](getting-started/beginner-guide.md)
 * [Ironman Mode](getting-started/ironman-mode.md)
+* [Advanced Resources](getting-started/advanced-resources.md)
 * [Gear](getting-started/gear.md)
 * [Combat Training](getting-started/combat-skills.md)
 * [Bank Filters](getting-started/bank-filters.md)
