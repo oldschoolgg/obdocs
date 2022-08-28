@@ -6,7 +6,7 @@ description: Nightmare of Ashihama
 
 ## Overview
 
-You can kill The Nightmare to receive the inquisitor's armor set, the inquisitor's mace, the nightmare staff, and the 3 orbs that can be combined with the nightmare staff. (harmonised orb, eldritch orb, & volatile orb).
+You can kill The Nightmare to receive the inquisitor's armour set, the inquisitor's mace, the nightmare staff, and the 3 orbs that can be combined with the nightmare staff. (harmonised orb, eldritch orb, & volatile orb).
 
 To start a solo Nightmare trip, use:
 
