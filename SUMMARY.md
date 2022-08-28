@@ -120,18 +120,19 @@
 
 ## Miscellaneous
 
-* [Hall of Fame](miscellaneous/bot-firsts.md)
-* [Questing](miscellaneous/questing.md)
 * [Achievement Diaries](miscellaneous/achievement-diaries.md)
-* [Kourend Favour](miscellaneous/kourend-favour.md)
-* [Tears of Guthix](miscellaneous/tears-of-guthix.md)
-* [God Capes](miscellaneous/god-capes.md)
+* [Bank Backgrounds](getting-started/bank-background.md)
+* [Buyables](miscellaneous/buyables.md)
 * [Champions Challenge](miscellaneous/champions-challenge.md)
 * [Crack The Clue](miscellaneous/crack-the-clue.md)
-* [Offering](miscellaneous/offering.md)
+* [Creatables](miscellaneous/creatables.md)
 * [Collecting](miscellaneous/collecting.md)
-* [Buyables](miscellaneous/buyables.md)
-* [Bank Backgrounds](getting-started/bank-background.md)
+* [God Capes](miscellaneous/god-capes.md)
+* [Hall of Fame](miscellaneous/bot-firsts.md)
+* [Kourend Favour](miscellaneous/kourend-favour.md)
+* [Offering](miscellaneous/offering.md)
+* [Questing](miscellaneous/questing.md)
+* [Tears of Guthix](miscellaneous/tears-of-guthix.md)
 
 ***
 
