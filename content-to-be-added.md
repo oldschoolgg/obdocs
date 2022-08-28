@@ -8,6 +8,5 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 
 * Woodcutting Guild boost information
 * Revamp skill guides with xp/hr
-* Clue hunting guide
 * Missing osrs content
 * Confirmed WIP content

@@ -127,6 +127,7 @@
 * [Crack The Clue](miscellaneous/crack-the-clue.md)
 * [Creatables](miscellaneous/creatables.md)
 * [Collecting](miscellaneous/collecting.md)
+* [Clue Scrolls](miscellaneous/clue-scrolls.md)
 * [God Capes](miscellaneous/god-capes.md)
 * [Hall of Fame](miscellaneous/bot-firsts.md)
 * [Kourend Favour](miscellaneous/kourend-favour.md)
