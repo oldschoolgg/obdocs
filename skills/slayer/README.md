@@ -79,6 +79,8 @@ This table is based off the XP Gains/efficient Blocks/Skips at Post 99 Slayer bu
 
 <figure><img src="../../.gitbook/assets/Duradaddy.png" alt=""><figcaption><p>Duradel Block/Skip and Efficient Slayer XP/Hour Table</p></figcaption></figure>
 
-This is based on using Konar at post 99 Slayer providing slightly faster overall XP/hour with average points, excluding skips and provided you have Zeah Elite Diary.
+This is based on using Konar at post 99 Slayer providing slightly faster overall XP/hour with average points, excluding skips and provided you have Zeah Elite Diary. &#x20;
+
+(Notes: Reccomended to skip Ankous, do Dark Beasts, re-lock Mithril Dragons, skip Adamant Dragons and barrage Smoke Devils as opposed to cannoning)
 
 <figure><img src="../../.gitbook/assets/Konarmommy.png" alt=""><figcaption><p>Konar efficiency Slayer Skip/Block list.</p></figcaption></figure>
