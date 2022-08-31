@@ -40,7 +40,7 @@ You can see a leaderboard of who has sacrificed the most value using `/lb sacrif
 
 Tier 3 patrons or above receive 3 times the bonus to their trip length from sacrifice value. For example, a tier 3 patron with 2.5b sacrificed will receive a 45 second bonus and with 10b sacrificed will receive a 3 minute bonus.
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (6) (1) (1).png>)
 
 ## Bank Backgrounds
 
@@ -77,6 +77,9 @@ Some of these also have an item cost/collection log requirement. You can view th
 | [Nieve](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/22.jpg?raw=true)          | 20m              | 3           |
 | [ToB](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/23.png?raw=true)            | 20m              | 3           |
 | [Zilyana](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/24.jpg?raw=true)        | 20m              | 3           |
+|                                                                                                                                      |                  |             |
+| Konar                                                                                                                                | 20m              | 3           |
+|                                                                                                                                      |                  |             |
 | [Morytania](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/12.jpg)     | 10m              | 4           |
 | [Barrows](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/6.jpg)        | 10m              | 5           |
 

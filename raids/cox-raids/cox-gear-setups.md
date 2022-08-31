@@ -15,7 +15,7 @@ If you are below 50% of the reference strength bonus, (75) your gear score is ha
 
 ### Reference Setup
 
-![](../../.gitbook/assets/Cox\_melee\_bis.png)
+![](<../../.gitbook/assets/osbot (4) (1).png>)
 
 ### Alternative Setups
 
@@ -36,7 +36,7 @@ If you are below 50% of the reference gear's range strength (44.5), your gear sc
 
 ### Reference Setup
 
-![](<../../.gitbook/assets/coxrange (1) (1) (1).png>)
+![](<../../.gitbook/assets/coxrange (1).png>)
 
 ### Alternative Setup
 
