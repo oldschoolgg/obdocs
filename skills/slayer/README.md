@@ -75,10 +75,10 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
 ### Recommended block/skip list
 
-This is based on using Duradel at 50 slayer.
+This table is based off the XP Gains/efficient Blocks/Skips at Post 99 Slayer but can be used at all levels of Slayer to provide you with the best XP Gain per hr.
 
-![](<../../.gitbook/assets/image (9).png>)
+<figure><img src="../../.gitbook/assets/Duradaddy.png" alt=""><figcaption><p>Duradel Block/Skip and Efficient Slayer XP/Hour Table</p></figcaption></figure>
 
-This is based on using Duradel after achieving 93 slayer.&#x20;
+This is based on using Konar at post 99 Slayer providing slightly faster overall XP/hour with average points, excluding skips and provided you have Zeah Elite Diary.
 
-![](<../../.gitbook/assets/image (8).png>)
+<figure><img src="../../.gitbook/assets/Konarmommy.png" alt=""><figcaption><p>Konar efficiency Slayer Skip/Block list.</p></figcaption></figure>
