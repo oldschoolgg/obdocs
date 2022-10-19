@@ -55,4 +55,4 @@ Rewards are same as in game. The treks themselves drop nails from nail beasts an
 
 #### Rewards per hour
 
-![Rewards per hour](<../.gitbook/assets/image (13).png>)
+![Rewards per hour](<../.gitbook/assets/image (11).png>)

@@ -49,7 +49,7 @@ If you do Jad tasks, it is best to equip a Saradomin Godsword. Otherwise, any go
 
 #### Range
 
-![](<../../.gitbook/assets/osbot (5).png>)
+![](<../../.gitbook/assets/osbot (5) (1).png>)
 
 The 95% threshold for ranged attack is 233.7.
 

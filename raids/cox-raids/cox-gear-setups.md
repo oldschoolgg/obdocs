@@ -15,7 +15,7 @@ If you are below 50% of the reference strength bonus, (75) your gear score is ha
 
 ### Reference Setup
 
-![](<../../.gitbook/assets/osbot (4) (1).png>)
+![](../../.gitbook/assets/Cox\_melee\_bis.png)
 
 ### Alternative Setups
 

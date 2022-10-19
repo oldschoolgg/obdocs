@@ -6,19 +6,34 @@ The challenges work slightly different in the bot as you only need to collect al
 
 `/activities champions_challenge`
 
-**NOTE -** You cannot fail the challenge.
+{% hint style="warning" %}
+You cannot fail the challenge.
+{% endhint %}
 
-### Champion Scrolls
+To check what scrolls you currently own, use the following command:
+
+`/bank`` `**`format:`**` ``text_paged`` `**`filter:`**` ``Champion's Challenge`
+
+## Champion Scrolls
 
 All scrolls have a 1/5000 drop rate from their respective monsters.
 
-* Imp champion scroll
-* Goblin champion scroll
-* Skeleton champion scroll
-* Zombie champion scroll
-* Giant champion scroll
-* Hobgoblin champion scroll
-* Ghoul champion scroll
-* Earth warrior champion scroll
-* Jogre champion scroll
-* Lesser demon champion scroll
+![](<../.gitbook/assets/Imp Champion Scroll.png>) Imp champion scroll
+
+![](<../.gitbook/assets/Goblin Champion Scroll.png>) Goblin champion scroll
+
+![](<../.gitbook/assets/Skeleton Champion Scroll.png>) Skeleton champion scroll
+
+![](<../.gitbook/assets/Zombie Champion Scroll.png>) Zombie champion scroll
+
+![](<../.gitbook/assets/Giant Champion Scroll.png>) Giant champion scroll
+
+![](<../.gitbook/assets/Hobgoblin Champion Scroll.png>) Hobgoblin champion scroll
+
+![](<../.gitbook/assets/Ghoul Champion Scroll.png>) Ghoul champion scroll
+
+![](<../.gitbook/assets/Earth Warrior Champion Scroll.png>) Earth warrior champion scroll
+
+![](<../.gitbook/assets/Jogre Champion Scroll.png>) Jogre champion scroll
+
+![](<../.gitbook/assets/Lesser Demon Champion Scroll.png>) Lesser demon champion scroll

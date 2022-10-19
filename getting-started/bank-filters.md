@@ -44,7 +44,7 @@ The following command is an example of a bank search for the term "rune" with ma
 
 * E.g. `/bank search:rune flag:show_names flag_extra:wide`&#x20;
 
-![](../.gitbook/assets/rune\_search)
+![](../.gitbook/assets/rune\_search.png)
 
 ### Category Filters
 
