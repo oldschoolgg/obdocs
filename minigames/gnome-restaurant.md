@@ -20,7 +20,9 @@ To start the minigame, use `/minigames gnome_restaurant start`
   * [Amulet of glory (6)](https://wiki.oldschool.gg/skills/magic/fountain-of-rune) - glories with 4 charges do NOT work
   * [Amulet of eternal glory](https://wiki.oldschool.gg/skills/magic/fountain-of-rune)
 
-**Note:** If you have an eternal glory, you will never use amulet of glory (6).
+{% hint style="info" %}
+If you have an eternal glory, you will never use amulet of glory (6).
+{% endhint %}
 
 ### **Jewellery Items**
 

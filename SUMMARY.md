@@ -110,6 +110,7 @@
 * [Creature Creation](minigames/creature-creation.md)
 * [Gauntlet](minigames/gauntlet.md)
 * [Gnome Restaurant](minigames/gnome-restaurant.md)
+* [Last Man Standing](minigames/last-man-standing.md)
 * [Pest Control](minigames/pest-control.md)
 * [Rogues Den](minigames/rogues-den.md)
 * [Soul Wars](minigames/soul-wars.md)
