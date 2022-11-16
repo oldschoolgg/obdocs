@@ -22,7 +22,7 @@ Fragments
 Barriers & Guardian
 
 * 2 Extra barriers if graceful is equipped
-* 2 Extra barriers if runecrafting cape is equipped
+* 2 Extra barriers if you got runecrafting cape&#x20;
 * Abyssal lantern can boost up to max 6 barriers it's depending on your firemaking level
 
 Rolls
