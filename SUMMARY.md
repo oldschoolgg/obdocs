@@ -89,6 +89,7 @@
   * [Prayer Training](skills/prayer/prayer-training.md)
 * [Runecrafting](skills/runecrafting/README.md)
   * [Runecrafting Training](skills/runecrafting/runecrafting-training.md)
+  * [Guardian of the rift](skills/runecrafting/guardian-of-the-rift.md)
   * [Dark Altar](skills/runecrafting/dark-altar.md)
 * [Slayer](skills/slayer/README.md)
   * [Misc Info & FAQ](skills/slayer/slayer-misc.md)
