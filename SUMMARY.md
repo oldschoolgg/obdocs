@@ -90,7 +90,7 @@
 * [Runecrafting](skills/runecrafting/README.md)
   * [Runecrafting Training](skills/runecrafting/runecrafting-training.md)
   * [Dark Altar](skills/runecrafting/dark-altar.md)
-  * [Guardian of the rift](skills/runecrafting/guardian-of-the-rift.md)
+  * [Guardians of the Rift](skills/runecrafting/guardians-of-the-rift.md)
 * [Slayer](skills/slayer/README.md)
   * [Misc Info & FAQ](skills/slayer/slayer-misc.md)
   * [Tasks](skills/slayer/tasks.md)
