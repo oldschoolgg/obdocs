@@ -54,8 +54,11 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 
 * **Medium**
   * 20% boost to gathering speed of Dense essence blocks
+* **Hard**
+  * Obtain the Ash sanctifier for passive prayer xp during combat (half xp)
 * **Elite**
   * 10% Additional runes granted during the crafting process of Blood runes
+  * Obtain the Ash sanctifier for passive prayer xp during combat (full xp)
 
 ### Lumbridge & Draynor Diary
 

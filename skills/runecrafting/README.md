@@ -22,6 +22,10 @@ You can create Runecrafting pouches using `/create`, they require different craf
 | Large Pouch  | 20                        | 50                      | 30                   |
 | Giant Pouch  | 30                        | 75                      | 40                   |
 
+## Tiaras
+
+Crafting tiaras are another method of runecrafting training, albiet an incredibly slow method. Tiaras don't have any use within the bot, except for being stored in [STASH units](../construction/stash-units.md). They can be created through the `/runecraft` command.
+
 ## Regular Runes
 
 | **Rune** | **Required level** |

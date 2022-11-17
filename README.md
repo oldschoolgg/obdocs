@@ -70,16 +70,14 @@ Some of these also have an item cost/collection log requirement. You can view th
 | [Dark](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/11.jpg)          | 10m              | 3           |
 | [Grass](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/13.jpg)         | 10m              | 3           |
 | [Wilderness](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/16.jpg?raw=true)     | 100m             | 3           |
-| [Grand Exchange](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/17.jpg?raw=true) | 2.147,483,647 GP | 3           |
+| [Grand Exchange](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/17.jpg?raw=true) | 2,147,483,647 GP | 3           |
 | [Falador Park](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/18.jpg?raw=true)   | 100m             | 3           |
 | [Pets](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/19.png?raw=true)           | 20m              | 3           |
 | [Smokey](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/21.png?raw=true)         | 20m              | 3           |
 | [Nieve](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/22.jpg?raw=true)          | 20m              | 3           |
 | [ToB](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/23.png?raw=true)            | 20m              | 3           |
 | [Zilyana](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/24.jpg?raw=true)        | 20m              | 3           |
-|                                                                                                                                      |                  |             |
 | Konar                                                                                                                                | 20m              | 3           |
-|                                                                                                                                      |                  |             |
 | [Morytania](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/12.jpg)     | 10m              | 4           |
 | [Barrows](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/6.jpg)        | 10m              | 5           |
 

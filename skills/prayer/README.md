@@ -16,13 +16,28 @@ Through slayer and other combat related activities, you may obtain ensouled head
 
 ### Demonic Ashes
 
-Much like ensouled heads, you can obtain demonic ashes through slayer and other combat related activities.  These can be offered through the use of the `/activities cast`` `**`spell:`**` ``Demonic offering` command which will grant various amounts of prayer xp depending on the type of the ashes offered.
+Much like ensouled heads, you can obtain demonic ashes through slayer and other combat related activities. These have 2 uses:&#x20;
 
-|                   |                 |                                                         |
-| ----------------- | :-------------: | ------------------------------------------------------- |
-| **Type of Ashes** | **Xp Received** | **Spell cost**                                          |
-| Fiendish ashes    |        90       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Fiendish ashes</p>  |
-| Vile ashes        |       225       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Vile ashes</p>      |
-| Malicious ashes   |       585       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Malicious ashes</p> |
-| Abyssal ashes     |       765       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Abyssal ashes</p>   |
-| Infernal ashes    |       990       | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Infernal ashes</p>  |
+* They can be **offered** through the use of the `/activities cast`` `**`spell:`**` ``Demonic offering` command which will grant various amounts of prayer xp depending on the type of the ashes offered.
+* They can be **scattered** through the use of the `/activities scatter`` `**`name:`** command. This requires no items or runes. It gives the full xp regardless of the diary level completed.
+
+|                   |                            |                              |                                                         |
+| ----------------- | :------------------------: | ---------------------------- | :-----------------------------------------------------: |
+| **Type of Ashes** | **Xp Received (Offering)** | **Xp Received (Scattering)** |               **Spell cost per offering**               |
+| Fiendish ashes    |             90             | 10                           |  <p>1 Soul Rune<br>1 Wrath Rune<br>3 Fiendish ashes</p> |
+| Vile ashes        |             225            | 25                           |    <p>1 Soul Rune<br>1 Wrath Rune<br>3 Vile ashes</p>   |
+| Malicious ashes   |             585            | 65                           | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Malicious ashes</p> |
+| Abyssal ashes     |             765            | 85                           |  <p>1 Soul Rune<br>1 Wrath Rune<br>3 Abyssal ashes</p>  |
+| Infernal ashes    |             990            | 110                          |  <p>1 Soul Rune<br>1 Wrath Rune<br>3 Infernal ashes</p> |
+
+### Ash Sanctifier
+
+This item can be obtained through completion of the Hard and Elite Kebos & Kourend diary. If you have already completed the diary, simply just claim the diary reward again. This item must be charged to use during combat, costing 1 death rune for 10 charges. When charged during combat, you will receive passive prayer xp anytime you kill monsters that drop demonic ashes. If you have only the hard diary completed, you will receive half the normal xp, or full xp for completion of the elite diary (see above for xp rates).
+
+To charge the Ash sanctifier, use:
+
+* `/minion charge`` `**`item:`**` ``Ash sanctifier`` `**`amount:`**` ``X`
+
+To toggle the effect of the Ash sanctifier during combat, use:
+
+* `/config user toggle`` `**`name:`**` ``Disable Ash Sanctifier`

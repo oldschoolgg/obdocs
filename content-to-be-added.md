@@ -8,5 +8,7 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 
 * Woodcutting Guild boost information
 * Revamp skill guides with xp/hr
-* Missing osrs content
+* Missing osrs content - What does this mean?
 * Confirmed WIP content
+* Mention that you get free T1 perks for maxing on both OSB & BSO somewhere
+* Shooting stars

@@ -53,12 +53,10 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
     * With a black mask and 55 Crafting, buy the required items from the bot, and then `/create`` `**`item:`**` ``slayer helmet`&#x20;
 
 
-*   **Use a Cannon in your task**
-
-    * If you own a cannon and cannonballs, the cannon can be used at some slayer tasks to speed it up, at the cost of cannonballs. You can do this with the method option on the kill command, for example `/k`` `**`name:`**`Dagannoth`` `**`method:`**`cannon`
-    * You can buy a cannon using `/buy`` `**`name:`**` ``Dwarf multicannon`.
-    * In single combat, 16 cannonballs are used per minute of task. In multi combat, 50 cannonballs are used per minute of task.
-
+* **Use a Cannon in your task**
+  * If you own a cannon and cannonballs, the cannon can be used at some slayer tasks to speed it up, at the cost of cannonballs. You can do this with the method option on the kill command, for example `/k`` `**`name:`**`Dagannoth`` `**`method:`**`cannon`
+  * You can buy a cannon using `/buy`` `**`name:`**` ``Dwarf multicannon`.
+  * In single combat, 16 cannonballs are used per minute of task. In multi combat, 50 cannonballs are used per minute of task.\
 
 *   **Barrage your task:**
 
@@ -70,7 +68,18 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
     * `/config user combat_options`
 
-    Note that there is no way to override the always on settings. If you want to do certain tasks in the catacombs for example you should disable always cannon and specify `/slayer autoslay`` `**`mode:`**`ehp` when wanting to use a cannon. If you've saved ehp mode as your default, you can override this by using `/slayer autoslay`` `**`mode:`**`default`\
+    Note that there is no way to override the always on settings. If you want to do certain tasks in the catacombs for example you should disable always cannon and specify `/slayer autoslay`` `**`mode:`**`ehp` when wanting to use a cannon. If you've saved ehp mode as your default, you can override this by using `/slayer autoslay`` `**`mode:`**`default`.\
+
+*   **Use the Ash sanctifier on your task**
+
+    * If you have completed the Hard or Elite Kebos & Kourend diary, you can use the ash sanctifier to gain passive prayer xp when killing monsters that drop demonic ashes.
+    * This can be toggled on or off using `/config user toggle`` `**`name:`**` ``Disable Ash Sanctifier`
+    * You will gain half xp for hard diary completion, or full xp for elite diary completion.
+    * It must be charged with death runes: `/minion charge`` `**`item:`**` ``Ash sanctifier`
+
+    ****
+
+    \
 
 
 ### Recommended block/skip list

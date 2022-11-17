@@ -1,6 +1,6 @@
 # Questing
 
-There are various activities within the bot that require a specific amount of quest points to access. These requirements mimic the real requirements in OSRS. Every questing trip is 30 minutes long. The maximum amount of quest points you can currently collect is: 289.
+There are various activities within the bot that require a specific amount of quest points to access. These requirements mimic the real requirements in OSRS. Every questing trip is 30 minutes long. The maximum amount of quest points you can currently collect is: 290.
 
 To start questing, use the following command:
 
@@ -11,7 +11,7 @@ To start questing, use the following command:
 * The amount of quest points given per trip is as follows:
   * 1-3 - Between 1-99QP
   * 1-2 - Between 100-199QP
-  * 1 - Between 200-289QP
+  * 1 - Between 200-290QP
 * It takes approximately \~115 hours to complete the quest cape.
 * If you have level 1 Herblore and complete a questing trip, you have a 50% chance to be given 250xp in Herblore to allow your minion to start the Herblore skill.
 * If you have level 1 Magic and complete a questing trip, you have a 50% chance to be given 325xp in Magic for theoretical completion of Witch's Potion.
@@ -125,5 +125,5 @@ This section will detail the unlocks of certain activities which require quest p
 | Vorkath                             |            205            |
 | Killing Adamant dragons             |            205            |
 | Killing Rune dragons                |            205            |
-| Elite Lumbridge & Draynor diary     |            289            |
-| Buying Quest point cape             |            289            |
+| Elite Lumbridge & Draynor diary     |            290            |
+| Buying Quest point cape             |            290            |
