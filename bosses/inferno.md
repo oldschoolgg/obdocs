@@ -26,13 +26,13 @@ To gamble a cape for a chance at the Jal-nib-rek pet, use:
 
 ## Requirements
 
-You must have sacrificed 1 Fire Cape in order to access the Inferno - `+sacrifice 1 fire cape`     &#x20;
+You must have sacrificed 1 Fire Cape in order to access the Inferno - `/sacrifice 1 fire cape`     &#x20;
 
 92 Defence, 94 Magic, 92 Hitpoints, 92 Ranged, and 77 Prayer                 &#x20;
 
 8 Saradomin Brews, 12 Super Restores, 1 Stamina Potion, and 1 Ranging Potion per attempt     &#x20;
 
-Rune Pouch `+sls buy rune pouch`
+Rune Pouch (LMS or Slayer shop)
 
 \>100 Magic Attack     &#x20;
 
