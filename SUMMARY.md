@@ -83,6 +83,7 @@
   * [Fountain of Rune](skills/magic/fountain-of-rune.md)
 * [Mining](skills/mining/README.md)
   * [Mining Training](skills/mining/mining-training.md)
+  * [Shooting stars](skills/mining/shooting-stars.md)
   * [Volcanic Mine](skills/mining/volcanic-mine.md)
 * [Prayer](skills/prayer/README.md)
   * [Prayer Training](skills/prayer/prayer-training.md)

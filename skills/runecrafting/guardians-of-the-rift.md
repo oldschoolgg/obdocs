@@ -1,10 +1,14 @@
 # Guardians of the Rift
 
-Guardians of the Rift is played entirely solo. It is a requirement to have 27 Runecrafting to play the minigame.
+Guardians of the Rift is played entirely solo. It is a requirement to have 27 Runecrafting to play the minigame. Each game will take 10 minutes, and Tier 3+ Patreon will allow you to do 4 games per trip.
 
-To start a game, use `/minigames gotr start`, each game will take 10 minutes.\
-Tier 3+ Patreon will allow you to do 4 games per trip.\
-If you want to start a run with combination runes use `/minigames gotr start combination_runes:True`
+To start a game, use&#x20;
+
+* `/minigames gotr start`
+
+To start a run with combination runes, use
+
+* `/minigames gotr start combination_runes:True`
 
 Runecrafting xp scales from mined fragments, runecrafting level and barriers/guardians.\
 Crafting xp scales with barriers/guardians.\
@@ -15,39 +19,39 @@ Mining xp scales with mined fragments.
 **Raiments of the eye** outfit will boost the number of runes created during the minigame.
 
 * 10% extra runes for each piece or 60% extra runes for the full outfit
-* This extra runes effect also applies to other runes outside of GOTR.
+* This extra runes effect also applies to other runes outside of GOTR
 
 **Fragments**
 
-* 10% extra mined fragments if any varrock armour is equipped
+* 10% extra mined fragments if you own any Varrock armour _(does not need to be equipped)_
 * 33% more fragments if 56 agility
-* 5% more fragments if you own a 99 mining cape (does not need to be equipped)
+* 5% more fragments if you own a 99 mining cape _(does not need to be equipped)_
 
 **Barriers & Guardian**
 
-* 2 Extra barriers if graceful is equipped
-* 2 Extra barriers if you got runecrafting cape&#x20;
-* Abyssal lantern can boost up to max 6 barriers it's depending on your firemaking level
+* 2 extra barriers if graceful is equipped
+* 2 extra barriers if you got runecrafting cape&#x20;
+* Abyssal lantern can boost up to max 6 barriers which is dependant on your firemaking level
 
 **Rolls**
 
-* Standard is 28 inventory spaces if you get pouches it will give you extra rolls max rolls is 3 with Collosal Pouch
-* 1 Extra roll if you got Abyssal Lantern
-* 2 Extra rolls if you are making combination runes ( Requires 82 magic 10 Astral runes, 35 Fire runes, 35 Water runes and 1 binding necklace pr game )
+* Standard is 28 inventory spaces. If you own pouches, it will give you extra rolls. Max rolls is 3 with Colossal Pouch
+* 1 extra roll if you own an Abyssal Lantern
+* 2 extra rolls if you are making combination runes (Requires 82 magic 10 Astral runes, 35 Fire runes, 35 Water runes and 1 binding necklace per game)
 * \-1 roll if magic level is lower than 67 or don't have runes for NPC Contact\
-  ( Runes required for npc contact 1 Astral, 1 Cosmic and 2 Air runes per game )
+  (Runes required for NPC contact: 1 Astral, 1 Cosmic and 2 Air runes per game)
 
 | Pickaxe | Boost %    |
 | ------- | ---------- |
 | Bronze  | (Standard) |
-| Iron    | 14 %       |
-| Steel   | 33 %       |
-| Black   | 60 %       |
-| Mithril | 60 %       |
-| Adamant | 100 %      |
-| Rune    | 266 %      |
-| Dragon  | 282 %      |
-| Crystal | 290 %      |
+| Iron    | 14%        |
+| Steel   | 33%        |
+| Black   | 60%        |
+| Mithril | 60%        |
+| Adamant | 100%       |
+| Rune    | 266%       |
+| Dragon  | 282%       |
+| Crystal | 290%       |
 
 ## Rewards
 
