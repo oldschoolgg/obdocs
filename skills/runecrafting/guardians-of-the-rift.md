@@ -18,19 +18,19 @@ Mining xp scales with mined fragments.
 
 **Raiments of the eye** outfit will boost the number of runes created during the minigame.
 
-* 10% extra runes for each piece or 60% extra runes for the full outfit
+* 10% extra runes for each piece or 60% extra runes for the full outfit _(<mark style="color:red;">MUST</mark> be equipped in skilling)_
 * This extra runes effect also applies to other runes outside of GOTR
 
 **Fragments**
 
-* 10% extra mined fragments if you own any Varrock armour _(does not need to be equipped)_
 * 33% more fragments if 56 agility
+* 10% extra mined fragments if you own any Varrock armour _(does not need to be equipped)_
 * 5% more fragments if you own a 99 mining cape _(does not need to be equipped)_
 
 **Barriers & Guardian**
 
-* 2 extra barriers if graceful is equipped
-* 2 extra barriers if you got runecrafting cape&#x20;
+* 2 extra barriers if graceful is equipped _(in any setup)_
+* 2 extra barriers if you own a runecrafting cape _(does not need to be equipped)_
 * Abyssal lantern can boost up to max 6 barriers which is dependant on your firemaking level
 
 **Rolls**
@@ -55,11 +55,12 @@ Mining xp scales with mined fragments.
 
 ## Rewards
 
-Each game will reward you with random rewards such as untradeable items and runes, as well as a common chance to obtain Abyssal pearls. The rarity of getting the pearls as a drop is 1/6.944. Abyssal pearls are needed to buy rewards from the Reward-shop.
+Each game will reward you with runes, talismans, and some untradeable items, alongside a common chance to obtain Abyssal pearls at a rate of 1/6.944. Abyssal pearls are needed to buy rewards from the reward shop. Rewards are bought using the command `/buy`
 
-You can buy rewards by using the command `/buy`\
-You can colour your piece of eye items using the Abyssal Red, Blue and Green dyes with the create command e.g `/create item:Hat of the eye (red)`\
-The Abyssal protector pet can be turned into the Greatish Guardian with the command `/create item:Greatish guardian`. This requires a Guardians eye which is bought from the reward shop. Abyssal lanterns and dyes can be sold to the shop for 100 and 50 pearls respectively with the `/sell` command.
+* You can colour your piece of eye items using the Abyssal Red, Blue and Green dyes with the create command - `/create item:Hat of the eye (red)`
+* The Rift guardian pet can be turned into the Greatish guardian with the command `/create item:Greatish guardian`. This requires a Guardians eye which is bought from the reward shop.&#x20;
+* Abyssal lanterns and dyes can be sold to the shop for 100 and 50 pearls respectively with the `/sell` command.
+* You <mark style="color:red;">CANNOT</mark> trade one dye colour for another.
 
 | **Reward Shop Items**   | **Abyssal Pearl Cost** | **Abyssal Pearl Returned** |
 | ----------------------- | ---------------------- | -------------------------- |
@@ -86,5 +87,11 @@ The Abyssal protector pet can be turned into the Greatish Guardian with the comm
 | Abyssal green dye       | -                      | 50                         |
 | Abyssal blue dye        | -                      | 50                         |
 
-\
-\
+## Intricate Pouches
+
+These can be opened for a chance at the last 2 items on the GOTR collection log page, these being
+
+* Tarnished locket (1/40)
+* Lost bag (1/60)
+
+There is also a 1/10 chance to receive a hard clue scroll from the pouches, among other items.
