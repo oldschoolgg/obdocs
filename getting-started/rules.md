@@ -4,7 +4,7 @@ description: These are the rules of Old School Bot and Bot School Old (BSO)
 
 # Rules
 
-#### _Breaking these rules will get you banned (blacklisted) from the bot, or your bank/stats wiped._
+_**Breaking these rules will get you banned (blacklisted) from the bot, or your bank/stats wiped.**_
 
 1. Follow all of the Jagex/RuneScape rules and ToS. We strictly do not allow anyone breaking RuneScape rules, and will ban anyone doing so.
 2. No botting/autotyping/macroing, this is also against Discord ToS.
