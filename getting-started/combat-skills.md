@@ -1,10 +1,6 @@
----
-description: >-
-  Overview of how to train Magic, Range, Attack, Strength, Defence, and
-  Hitpoints through PvM
----
-
 # Combat Training
+
+Overview of how to train Magic, Range, Attack, Strength, Defence, and Hitpoints through PvM
 
 While strength can be leveled through barbarian fishing and magic has various non-combat applications, PvM is a more efficient and profitable way to level up your combat stats.&#x20;
 

@@ -1,8 +1,6 @@
----
-description: Additional resources for players doing long term planning
----
-
 # Advanced Resources
+
+Additional resources for players doing long term planning
 
 ### Banked Experience and Ironman EHP
 

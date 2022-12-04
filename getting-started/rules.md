@@ -1,8 +1,6 @@
----
-description: These are the rules of Old School Bot and Bot School Old (BSO)
----
-
 # Rules
+
+These are the rules of Old School Bot and Bot School Old (BSO)
 
 _**Breaking these rules will get you banned (blacklisted) from the bot, or your bank/stats wiped.**_
 

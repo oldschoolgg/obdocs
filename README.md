@@ -1,10 +1,6 @@
----
-description: >-
-  The official wiki for Old School Bot. This wiki contains information and
-  guides for the bot.
----
-
 # Welcome to the Old School Bot Wiki!
+
+The official wiki for Old School Bot. This wiki contains information and guides for the bot.
 
 ## Welcome to the Old School Bot Wiki!
 
