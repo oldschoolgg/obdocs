@@ -10,7 +10,7 @@ You can check the boosts/requirements for a specific boss and by how much by usi
 
 <img src="../.gitbook/assets/120px-elysian_spirit_shield_detail.png" alt="" data-size="original"> **Elysian Spirit Shield:** Reduces food usage by 17.5% when equipped in the gear setup being used.
 
-![](../.gitbook/assets/billede\_2022-08-23\_192551881.png) **Food:** Certain foods give boosts to the trip time during PvM. See more information [here](../getting-started/combat-skills.md#food-boosts).
+&#x20;![](../.gitbook/assets/Cake3.png) **Food:** Certain foods give boosts to the trip time during PvM. See more information [here](../getting-started/combat-skills.md#food-boosts).&#x20;
 
 <img src="../.gitbook/assets/1024px-black_mask_detail.png" alt="" data-size="original">B**lack Mask (i):** Gives a 16.67% boost while killing monsters on a slayer task.
 
@@ -676,6 +676,12 @@ None\
 **Boosts**
 
 5% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
+
+8% for <img src="../.gitbook/assets/Abyssal_bludgeon.png" alt="" data-size="line"> Abyssal bludgeon **OR** 12% for <img src="../.gitbook/assets/Inquisitor&#x27;s_mace.png" alt="" data-size="line"> Inquisitor's mace **OR** 15% for <img src="../.gitbook/assets/Scythe_of_vitur.png" alt="" data-size="line"> Scythe of vitur
+
+3% for <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's leathertop
+
+2% for <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's leatherskirt
 {% endtab %}
 
 {% tab title="Vorkath" %}
@@ -711,7 +717,7 @@ None\
 
 **Boosts**
 
-2% for Magic Shortbow **OR** 3% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of Faerdhinen (c) **OR** 4% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic Blowpipe **OR** 5% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
+2% for <img src="../.gitbook/assets/Magic_shortbow.png" alt="" data-size="line"> Magic Shortbow **OR** 3% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of Faerdhinen (c) **OR** 4% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic Blowpipe **OR** 5% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
 
 1% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's Staff **OR** 2% for ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas (full) **OR** 4% for ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** 5% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff&#x20;
 

@@ -2,30 +2,43 @@
 
 Construction in the bot has three distinct parts:[ Training](./#training), [Mahogany Homes](mahogany-homes.md), and your [Player-owned House](mahogany-homes.md). Mahogany Homes requires planks and steel bars, and building things in your PoH requires planks as well as various mob drops or buyables.
 
-You can also `/offer`` `**`name:`**` ``curved bone` and `long bone` you get from PvM for construction xp after level 30 construction. Fighting the Wintertodt also provides some construction xp.
+You can also `/offer`` `**`name:`**` ``curved bone` and `long bone` you get from PvM for construction xp after level 30 construction. Fighting the Wintertodt also provides a small amount of construction xp.
 
-## Sawmill
+## Making Planks
 
-Construction training requires planks, which can be made from normal, oak, teak, and mahogany logs using the `/activities sawmill`` `**`type:`**`[logType]`` `**`quantity:`**`[quantityValue]` command.
+There are 3 methods to plank making: The sawmill, using a Demon butler, or using magic.
 
-Wearing full Graceful gives a 10% boost to trip time.
+The cost of making planks via all 3 methods can be found here.
 
-Having unlocked the Woodcutting Guild gives a 10% boost to trip time.
+| **Plank Type** | **Sawmill/Butler Cost** | **Plank-Make Spell Cost** |
+| -------------- | ----------------------- | ------------------------- |
+| Plank          | 100                     | 70                        |
+| Oak Plank      | 250                     | 175                       |
+| Teak Plank     | 500                     | 350                       |
+| Mahogany Plank | 1500                    | 1050                      |
 
-Unlocking the Woodcutting Guild requires 50QP, 60 Woodcutting and 75% Hosidius favour.&#x20;
+#### Sawmill
 
-Creating planks costs a varying amount of coins, dependent on the type of plank created.
+* `/activities plank_make`` `**`action:`**`Sawmill`` `**`type:`**`[Plank type]`
+* Wearing full Graceful gives a 10% boost to trip time.
+* Unlocking the Woodcutting Guild gives a 10% boost to trip time.
+  * Requires 50QP, 60 Woodcutting, and 75% Hosidius favour.
 
-| **Plank Type** | **Coins Cost** |
-| -------------- | -------------- |
-| Plank          | 100            |
-| Oak Plank      | 250            |
-| Teak Plank     | 500            |
-| Mahogany Plank | 1500           |
+#### Butler
+
+* `/activities plank_make`` `**`action:`**`Demon Butler`` `**`type:`**`[Plank type]`
+* Approximately 2x faster than the sawmill but also more expensive and requires teleport runes.
+* Equipping a Crafting or Construction cape will lower the cost of runes.
+
+#### Plank-make Spell
+
+* `/activities cast`` `**`spell:`**` ``Plank Make [log type]`
+* The slowest method but 30% cheaper for the plank cost.
+* Provides around 158k magic xp per hour.
 
 ## Training
 
-Standard training offers the fastest methods for training construction in the bot, and also uses the most planks. When building these items, they do not appear in your PoH, and currently have no functionality outside of being the best xp per hour. You can do normal construction training using the `/build <item>` command.
+Standard training offers the fastest methods for training construction in the bot, and also uses the most planks. When building these items, they do not appear in your PoH, and currently have no functionality outside of being the best xp per hour. You can do normal construction training using the `/build [item]` command.
 
 **Standard Construction Training Table**
 
