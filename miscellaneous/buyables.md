@@ -61,6 +61,15 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Spiny helmet               |   65,000  | N/A                     |
 | Boots of stone             |  100,000  | N/A                     |
 | Antipoison(4)              |   10,000  | N/A                     |
+| Bronze axe                 |    500    | N/A                     |
+| Iron axe                   |   1,000   | N/A                     |
+| Steel axe                  |   2,000   | N/A                     |
+| Bronze pickaxe             |    500    | N/A                     |
+| Iron pickaxe               |   1,000   | N/A                     |
+| Steel pickaxe              |   2,000   | N/A                     |
+| Mithril pickaxe            |   5,000   | N/A                     |
+| Adamant pickaxe            |   10,000  | N/A                     |
+| Rune pickaxe               |  100,000  | N/A                     |
 {% endtab %}
 
 {% tab title="Quest Items" %}
@@ -241,67 +250,67 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Prince outfit               |     0     | 1x Frog Token          |
 | Princess outfit             |     0     | 1x Frog Token          |
 | Frog mask                   |     0     | 1x Frog Token          |
-| Fremennik green cloak       |  100,000  | N/A                    |
-| Fremennik blue cloak        |  100,000  | N/A                    |
-| Fremennik brown cloak       |  100,000  | N/A                    |
-| Fremennik cyan cloak        |  100,000  | N/A                    |
-| Fremennik red cloak         |  100,000  | N/A                    |
-| Fremennik grey cloak        |  100,000  | N/A                    |
-| Fremennik yellow cloak      |  100,000  | N/A                    |
-| Fremennik teal cloak        |  100,000  | N/A                    |
-| Fremennik purple cloak      |  100,000  | N/A                    |
-| Fremennik pink cloak        |  100,000  | N/A                    |
-| Fremennik black cloak       |  100,000  | N/A                    |
-| Grey hat                    |  100,000  | N/A                    |
-| Grey gloves                 |  100,000  | N/A                    |
-| Grey robe top               |  100,000  | N/A                    |
-| Grey robe bottom            |  100,000  | N/A                    |
-| Grey boots                  |  100,000  | N/A                    |
-| Red hat                     |  100,000  | N/A                    |
-| Red gloves                  |  100,000  | N/A                    |
-| Red robe top                |  100,000  | N/A                    |
-| Red robe bottoms            |  100,000  | N/A                    |
-| Red boots                   |  100,000  | N/A                    |
-| Yellow hat                  |  100,000  | N/A                    |
-| Yellow gloves               |  100,000  | N/A                    |
-| Yellow robe top             |  100,000  | N/A                    |
-| Yellow robe bottom          |  100,000  | N/A                    |
-| Yellow boots                |  100,000  | N/A                    |
-| Teal hat                    |  100,000  | N/A                    |
-| Teal gloves                 |  100,000  | N/A                    |
-| Teal robe top               |  100,000  | N/A                    |
-| Teal robe bottoms           |  100,000  | N/A                    |
-| Teal boots                  |  100,000  | N/A                    |
-| Purple hat                  |  100,000  | N/A                    |
-| Purple gloves               |  100,000  | N/A                    |
-| Purple robe top             |  100,000  | N/A                    |
-| Purple robe bottoms         |  100,000  | N/A                    |
-| Purple boots                |  100,000  | N/A                    |
-| Pink hat                    |  100,000  | N/A                    |
-| Pink robe top               |  100,000  | N/A                    |
-| Pink robe bottoms           |  100,000  | N/A                    |
-| Pink boots                  |  100,000  | N/A                    |
-| Cream hat                   |  100,000  | N/A                    |
-| Cream robe top              |  100,000  | N/A                    |
-| Cream robe bottoms          |  100,000  | N/A                    |
-| Cream boots                 |  100,000  | N/A                    |
-| Blue hat                    |  100,000  | N/A                    |
-| Blue robe top               |  100,000  | N/A                    |
-| Blue robe bottoms           |  100,000  | N/A                    |
-| Blue boots                  |  100,000  | N/A                    |
-| Green hat                   |  100,000  | N/A                    |
-| Green robe top              |  100,000  | N/A                    |
-| Green robe bottoms          |  100,000  | N/A                    |
-| Green boots                 |  100,000  | N/A                    |
-| Turquoise hat               |  100,000  | N/A                    |
-| Turquoise robe top          |  100,000  | N/A                    |
-| Turquoise robe bottoms      |  100,000  | N/A                    |
-| Turquoise boots             |  100,000  | N/A                    |
-| Red cape                    |  100,000  | N/A                    |
-| Black cape                  |  100,000  | N/A                    |
-| Blue cape                   |  100,000  | N/A                    |
-| Yellow cape                 |  100,000  | N/A                    |
-| Green cape                  |  100,000  | N/A                    |
+| Fremennik green cloak       |  100,000  | 55 Quest Points        |
+| Fremennik blue cloak        |  100,000  | 55 Quest Points        |
+| Fremennik brown cloak       |  100,000  | 55 Quest Points        |
+| Fremennik cyan cloak        |  100,000  | 55 Quest Points        |
+| Fremennik red cloak         |  100,000  | 55 Quest Points        |
+| Fremennik grey cloak        |  100,000  | 55 Quest Points        |
+| Fremennik yellow cloak      |  100,000  | 55 Quest Points        |
+| Fremennik teal cloak        |  100,000  | 55 Quest Points        |
+| Fremennik purple cloak      |  100,000  | 55 Quest Points        |
+| Fremennik pink cloak        |  100,000  | 55 Quest Points        |
+| Fremennik black cloak       |  100,000  | 55 Quest Points        |
+| Grey hat                    |  100,000  | 15 Quest Points        |
+| Grey gloves                 |  100,000  | 15 Quest Points        |
+| Grey robe top               |  100,000  | 15 Quest Points        |
+| Grey robe bottom            |  100,000  | 15 Quest Points        |
+| Grey boots                  |  100,000  | 15 Quest Points        |
+| Red hat                     |  100,000  | 15 Quest Points        |
+| Red gloves                  |  100,000  | 15 Quest Points        |
+| Red robe top                |  100,000  | 15 Quest Points        |
+| Red robe bottoms            |  100,000  | 15 Quest Points        |
+| Red boots                   |  100,000  | 15 Quest Points        |
+| Yellow hat                  |  100,000  | 15 Quest Points        |
+| Yellow gloves               |  100,000  | 15 Quest Points        |
+| Yellow robe top             |  100,000  | 15 Quest Points        |
+| Yellow robe bottom          |  100,000  | 15 Quest Points        |
+| Yellow boots                |  100,000  | 15 Quest Points        |
+| Teal hat                    |  100,000  | 15 Quest Points        |
+| Teal gloves                 |  100,000  | 15 Quest Points        |
+| Teal robe top               |  100,000  | 15 Quest Points        |
+| Teal robe bottoms           |  100,000  | 15 Quest Points        |
+| Teal boots                  |  100,000  | 15 Quest Points        |
+| Purple hat                  |  100,000  | 15 Quest Points        |
+| Purple gloves               |  100,000  | 15 Quest Points        |
+| Purple robe top             |  100,000  | 15 Quest Points        |
+| Purple robe bottoms         |  100,000  | 15 Quest Points        |
+| Purple boots                |  100,000  | 15 Quest Points        |
+| Pink hat                    |  100,000  | 15 Quest Points        |
+| Pink robe top               |  100,000  | 15 Quest Points        |
+| Pink robe bottoms           |  100,000  | 15 Quest Points        |
+| Pink boots                  |  100,000  | 15 Quest Points        |
+| Cream hat                   |  100,000  | 15 Quest Points        |
+| Cream robe top              |  100,000  | 15 Quest Points        |
+| Cream robe bottoms          |  100,000  | 15 Quest Points        |
+| Cream boots                 |  100,000  | 15 Quest Points        |
+| Blue hat                    |  100,000  | 15 Quest Points        |
+| Blue robe top               |  100,000  | 15 Quest Points        |
+| Blue robe bottoms           |  100,000  | 15 Quest Points        |
+| Blue boots                  |  100,000  | 15 Quest Points        |
+| Green hat                   |  100,000  | 15 Quest Points        |
+| Green robe top              |  100,000  | 15 Quest Points        |
+| Green robe bottoms          |  100,000  | 15 Quest Points        |
+| Green boots                 |  100,000  | 15 Quest Points        |
+| Turquoise hat               |  100,000  | 15 Quest Points        |
+| Turquoise robe top          |  100,000  | 15 Quest Points        |
+| Turquoise robe bottoms      |  100,000  | 15 Quest Points        |
+| Turquoise boots             |  100,000  | 15 Quest Points        |
+| Red cape                    |  100,000  | 15 Quest Points        |
+| Black cape                  |  100,000  | 15 Quest Points        |
+| Blue cape                   |  100,000  | 15 Quest Points        |
+| Yellow cape                 |  100,000  | 15 Quest Points        |
+| Green cape                  |  100,000  | 15 Quest Points        |
 | Pirate bandana (white)      |   2,000   | N/A                    |
 | Stripy pirate shirt (white) |   2,000   | N/A                    |
 | Pirate leggings (white)     |   2,000   | N/A                    |
@@ -349,6 +358,7 @@ Prices are inflated in comparison to Oldschool RuneScape to act as more of a GP 
 | Bone spear           |   1,000   | N/A                        |
 | Bone dagger          |   2,500   | N/A                        |
 | Dorgeshuun crossbow  |   2,500   | N/A                        |
-| Crystal Bow          |  900,000  | N/A                        |
+| Crystal bow          |  900,000  | N/A                        |
+| Pink skirt           |   1,000   | N/A                        |
 {% endtab %}
 {% endtabs %}
