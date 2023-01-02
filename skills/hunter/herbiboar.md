@@ -1,28 +1,32 @@
 # Herbiboar
 
-Herbiboar is a hunter activity where you can gain decent hunter xp and a handful of herbs.
+Herbiboar is a hunter activity where you can gain decent hunter xp and a handful of herbs. At level 99 hunter, you can expect to see around 135-140k xp/h per hour, with a sprinkle of 1-4k herb xp/h.
 
 To start Herbiboar, use:
 
 * `/hunt`` `**`name:`**`Herbiboar`
 
-3x Stamina Potion (4) will be consumed automatically if you have them banked. To avoid consuming them, use the **`stamina_potions:`**`False` option.
+Stamina potions can be used with the flag **`stamina_potions:`**`true`. For every 9 minutes of your trip, you will consume a full 4-dose stamina.
 
-* `/hunt`` `**`name:`**`Herbiboar`` `**`stamina_potions:`**`False`
+* `/hunt`` `**`name:`**`Herbiboar`` `**`stamina_potions:`**` ``true`
 
-### Requirements
+{% hint style="info" %}
+**Herbiboar trip times work different to other creatures.** Instead of catching more creatures for using stamina potions, you will instead catch the same amount of creatures in a shorter time period.
+{% endhint %}
+
+## Requirements
 
 * 80 Hunter
 * 31 Herblore
 
-### Boosts
+## Boosts
 
-* 5% for full Graceful (equipped)
-* 20% for using Stamina Potions
-* Up to 20% for Creature Hunting Experience
-* Magic Secateurs provide a small increase to herb yield
+* 5% for full Graceful (equipped in any setup)
+* 20% for using Stamina potions
+* Up to 20% for creature hunting experience
+* Magic secateurs provide a small increase to herb yield
 
-### Loot Table
+## Loot Table
 
 * You will receive 1-3 herbs (2-4 if using Magic Secateurs) per catch.
 
