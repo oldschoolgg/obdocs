@@ -1,6 +1,6 @@
 # Herbiboar
 
-Herbiboar is a hunter activity where you can gain decent hunter xp and a handful of herbs. At level 99 hunter, you can expect to see around 135-140k xp/h per hour, with a sprinkle of 1-4k herb xp/h.
+Herbiboar is a hunter activity where you can gain decent hunter xp and a handful of herbs. With maximum boosts at level 99 hunter, you can expect to see around 155-160k xp/h per hour, with a sprinkle of 1-4k herb xp/h.
 
 To start Herbiboar, use:
 
