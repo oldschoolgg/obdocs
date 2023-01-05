@@ -7,7 +7,7 @@ You can train Woodcutting using  `/chop`` `**`name:`**`<logs>`. If no quantity i
 
 ## Axes
 
-All axes in the bot (excluding 3a axe) will provide a specific marginal increase to your chance of chopping logs (i.e. chopping speed). The best axe to use is a Crystal axe (71 wc) with the second-best being a Dragon or Infernal axe (61 wc). The Crystal axe does not degrade and the Infernal axe does not burn logs while chopping. Axes do not need to be equipped for the bonus to apply.
+All axes in the bot will provide a specific increase to your chance of chopping logs (i.e. chopping speed). The best axe to use is a Crystal axe (Lvl 71) with the second-best being a Dragon, Infernal, or 3rd Age axe (Lvl 61). The Crystal axe does not degrade and the Infernal axe does not burn logs while chopping. Axes do not need to be equipped for the bonus to apply.
 
 ## Woodcutting Guild
 
@@ -33,20 +33,22 @@ The Lumberjack outfit can be obtained from the [Temple Trekking](https://wiki.ol
 
 ## Logs
 
-| **Log**          | **Required level** | Experience | XP/Hr. @ 99 |
-| ---------------- | :----------------: | :--------: | :---------: |
-| Logs             |          1         |     25     |    15,789   |
-| Achey logs       |          1         |     25     |    17,647   |
-| Oak              |         15         |    37.5    |    40,981   |
-| Willow           |         30         |    67.5    |    63,614   |
-| Teak             |         35         |     85     |    81,565   |
-| Maple            |         45         |     100    |    54,841   |
-| Bark             |         45         |    82.5    |    61,455   |
-| Mahogany         |         50         |     125    |    48,635   |
-| Arctic pine logs |         42         |     40     |    17,533   |
-| Yew              |         60         |     175    |    41,369   |
-| Sulliusceps      |         65         |     127    |   100,536   |
-| Magic            |         75         |     250    |    29,227   |
-| Redwood          |         90         |     380    |    65,860   |
+| **Log Type**                                  | **Required level** | **Experience** | **XP/Hr. @ 99** |
+| --------------------------------------------- | :----------------: | :------------: | :-------------: |
+| Logs                                          |          1         |       25       |      15,789     |
+| Achey logs                                    |          1         |       25       |      17,647     |
+| Oak                                           |         15         |      37.5      |      40,981     |
+| Willow                                        |         30         |      67.5      |      63,614     |
+| Teak                                          |         35         |       85       |      81,565     |
+| Maple                                         |         45         |       100      |      54,841     |
+| Bark                                          |         45         |      82.5      |      61,455     |
+| Mahogany                                      |         50         |       125      |      48,635     |
+| Arctic pine logs                              |         42         |       40       |      17,533     |
+| Yew                                           |         60         |       175      |      41,369     |
+| Sulliusceps<mark style="color:red;">\*</mark> |         65         |       127      |     100,536     |
+| Magic                                         |         75         |       250      |      29,227     |
+| Redwood<mark style="color:red;">\*\*</mark>   |         90         |       380      |      65,860     |
 
-_**Note:** Chopping Redwood trees requires 75% Hosidius Favour._
+_<mark style="color:red;">**\***</mark>** ****-** Sulliusceps require 25qp to chop._
+
+_<mark style="color:red;">**\*\***</mark>** ****-** Redwood trees requires 75% Hosidius favour to chop._
