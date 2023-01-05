@@ -1,14 +1,27 @@
 # Woodcutting
 
-You can train Woodcutting using  `/chop`` `**`name:`**`<logs>`` `**`quantity:`**`<quantity>`, for example  `/chop`` `**`name:`**`Willow logs`` `**`quantity:`**`50`. If no quantity is specified, it will default to a full trip.
+You can train Woodcutting using  `/chop`` `**`name:`**`<logs>`. If no quantity is specified, it will default to a full trip. Using the powerchop option will result in no logs being obtained, but provides significantly faster woodcutting xp rates.
 
-The bot uses XP rates based off rune axe as standard; however, you can get one of the following boosts from owning one of these axes:
+* `/chop`` `**`name:`**`Willow logs`` `**`quantity:`**`50`
+* `/chop`` `**`name:`**`Teak logs`` `**`powerchop:`**`true`
 
-* Dragon axe: +9% (level 61)
-* Infernal axe: +9% (level 61)
-* Crystal axe: +12% (level 61)
+## Axes
 
-### Lumberjack Outfit
+All axes in the bot (excluding 3a axe) will provide a specific marginal increase to your chance of chopping logs (i.e. chopping speed). The best axe to use is a Crystal axe (71 wc) with the second-best being a Dragon or Infernal axe (61 wc). The Crystal axe does not degrade and the Infernal axe does not burn logs while chopping. Axes do not need to be equipped for the bonus to apply.
+
+## Woodcutting Guild
+
+If you have at least 60 Woodcutting, 75% Hosidius favour, and the tree you are attempting to chop is located within the Woodcutting guild, you will gain an invisible +7 wc levels. This will grant a small increase to the speed in which you will chop logs.
+
+* **Trees in Guild** - Normal, Oak, Willow, Maple, Yew, Magic, Redwood
+
+## Powerchopping
+
+Using this filter when chopping logs allows your minion to reach much higher xp rates, at the expense of not receiving any logs from your trip. For ironmen, it may be beneficial to chop normally so they can use the logs for early firemaking or construction levels. You will still receive bird nests and their contents when powerchopping.
+
+After level 92, your minion magically learns how to tick manipulate, allowing rates of up to 200k xp/h powerchopping Teak logs.
+
+## Lumberjack Outfit
 
 The Lumberjack outfit can be obtained from the [Temple Trekking](https://wiki.oldschool.gg/minigames/temple-trekking) minigame. When equipped in the skilling setup, it provides the following boosts to woodcutting XP:
 
@@ -18,7 +31,7 @@ The Lumberjack outfit can be obtained from the [Temple Trekking](https://wiki.ol
 * 0.2% - Lumberjack boots
 * 2.5% - Full outfit equipped in skilling setup
 
-### Logs
+## Logs
 
 | **Log**          | **Required level** | Experience | XP/Hr. @ 99 |
 | ---------------- | :----------------: | :--------: | :---------: |

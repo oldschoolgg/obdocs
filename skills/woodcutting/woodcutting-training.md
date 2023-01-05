@@ -2,13 +2,14 @@
 
 ## Fastest Route to 99:
 
-1 - 15: Achey logs\
-15 - 30: Oak logs\
-30 - 35: Willow logs\
-35 - 65 Teak logs\
-65 - 99 Sulliuscep
+1 - 15: `/chop`` `**`name:`**`Achey Tree Logs`` `**`quantity:`**`97`` `**`powerchop:`**`True`\
+15 - 30: `/chop`` `**`name:`**`Oak Logs`` `**`quantity:`**`92`` `**`powerchop:`**`True`\
+30 - 35: `/chop`` `**`name:`**`Willow Logs`` `**`quantity:`**`134`` `**`powerchop:`**`True`\
+35 - 65: `/chop`` `**`name:`**`Teak Logs`` `**`powerchop:`**`True`\
+65 - 92: `/chop`` `**`name:`**`Sulliusceps`` `**`powerchop:`**`True`\
+92 - 99: `/chop`` `**`name:`**`Teak Logs`` `**`powerchop:`**`True`
 
-If going for pet chop Teak logs to 99 and beyond.
+**If going for pet, powerchop Teak logs for best odds.**
 
 ![](../../.gitbook/assets/woodcuttingxp.png)
 
