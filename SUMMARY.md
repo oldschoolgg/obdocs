@@ -115,6 +115,7 @@
 * [Last Man Standing](minigames/last-man-standing.md)
 * [Pest Control](minigames/pest-control.md)
 * [Rogues Den](minigames/rogues-den.md)
+* [Shades Of Mort'ton](minigames/shades-of-mortton.md)
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Trouble Brewing](minigames/trouble-brewing.md)

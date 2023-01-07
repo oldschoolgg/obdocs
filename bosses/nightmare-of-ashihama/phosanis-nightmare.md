@@ -27,7 +27,7 @@ To kill Phosani's Nightmare, use `/k`` `**`name:`**` ``Phosani's Nightmare`
 
 Phosani boosts are applied from either your bank or equipped gear.
 
-You must use the tablet for the boost to apply: `/minion use`` `**`item:`**`Slepey tablet`
+You must use the tablet for the boost to apply: `/use`` `**`item:`**`Slepey tablet`
 
 ![](<../../.gitbook/assets/Elder maul.png>) 3% for Elder maul
 

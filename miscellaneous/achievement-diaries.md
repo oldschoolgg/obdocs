@@ -69,6 +69,9 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 
 * **Hard**
   * 2x Mort myre fungi collection
+  * 50% more prayer xp during Shades of Mort'ton
+* **Elite**
+  * 50% more firemaking xp during Shades of Mort'ton
 
 ### Western Provinces Diary
 
