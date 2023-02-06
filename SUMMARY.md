@@ -37,6 +37,8 @@
 * [Theatre of Blood (ToB)](raids/theatre-of-blood/README.md)
   * [TOB - Hard Mode](raids/theatre-of-blood/tob-hard-mode.md)
   * [ToB - Theory](raids/theatre-of-blood/tob-theory.md)
+* [Tombs of Amascut (ToA)](raids/tombs-of-amascut-toa/README.md)
+  * [ToA Gear Setups](raids/tombs-of-amascut-toa/toa-gear-setups.md)
 
 ## Skills
 

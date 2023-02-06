@@ -55,6 +55,13 @@ Please keep in mind that these are just recommendations, you are not restricted 
 
 ### Boosts
 
+Higher Kc makes raids faster. Here is the maximum kc that will give a boost
+
+| Difficulty | Solo Kc | Mass Kc |
+| ---------- | ------- | ------- |
+| Normal     | 450     | 200     |
+| Challenge  | 100     | 75      |
+
 Specific items will give a hidden speed boost to your raids, they **DO NOT** need to be equipped and the affect will apply from your bank.
 
 The item with the highest boost that you currently own from each line will be applied.
@@ -79,7 +86,7 @@ The item with the highest boost that you currently own from each line will be ap
 
 ### Loot
 
-All the same loot as from Old School RuneScape are available on Old School Bot.&#x20;
+All the same loot from Old School RuneScape is available on Old School Bot.&#x20;
 
 Unique Chambers of Xeric (regular) loot can be viewed [here](https://oldschool.runescape.wiki/w/Chambers\_of\_Xeric#Unique\_drop\_table)
 
