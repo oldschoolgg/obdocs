@@ -27,7 +27,7 @@ You can kill shades by using the `/k` command. When burned, each shade will give
 
 ## Burning Shade Remains
 
-You can use just about any type of logs for this minigame. Certain logs can only be used for certain shades. For example, using a redwood log will allow you to burn any type of shade remain, but a regular log will only allow you to burn Loar and Phrin shade remains. Using a higher tier log will also yield more xp for burning lower level shades. Refer to the table below.
+Certain logs can only be used for certain shades. For example, using a redwood log will allow you to burn any type of shade remain, but a regular log will only allow you to burn Loar and Phrin shade remains. Using a higher tier log will also yield more xp for burning lower level shades. Refer to the table below.
 
 |                  |                                                                                                |                             |
 | ---------------- | :--------------------------------------------------------------------------------------------: | :-------------------------: |
@@ -45,7 +45,7 @@ You can use just about any type of logs for this minigame. Certain logs can only
 
 ## Rewards
 
-You can loot the chests by using the keys given to you by burning the shades. There are 5 types of chests to open and only the corresponding key will open that chest. You can only get the sought-after locks from their corresponding chests. Chests can be opened with the `/open` command.
+You can loot chests by using the keys given to you from burning the shades. There are 5 types of chests to open and only the corresponding key will open that chest. You can only get the sought-after locks from their corresponding chests. Chests can be opened with the `/open` command.
 
 _There is a 1/2 chance to obtain the Flamtaer bag from any level chest._
 
@@ -137,8 +137,8 @@ In order to create the Bronze coffin, you first need to purchase the Broken coff
 
 Following this, every time you obtain the next set of locks, you can create the next coffin tier. Each new tier provides an additional minute to your Shades of Mort'ton trip times when equipped in any setup. You cannot skip upgrades, they must be acquired sequentially.
 
-* Bronze coffin: +1 minute
-* Steel coffin: +2 minutes
-* Black coffin: +3 minutes
-* Silver coffin: +4 minutes
-* Gold coffin: +5 minutes
+* Bronze coffin: No boost
+* Steel coffin: +1 minute
+* Black coffin: +2 minutes
+* Silver coffin: +3 minutes
+* Gold coffin: +4 minutes
