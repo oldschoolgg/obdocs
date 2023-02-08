@@ -13,18 +13,17 @@ There are several boosts available which apply to all runes except blood and sou
 
 ## Pouches
 
-You can create Runecrafting pouches using `/create`, they require different crafting levels based on the tier, as well as leather. Similarly to in-game, higher tier pouches also require higher Runecrafting levels to use. These boost the amount of essence you can carry in 1 inventory, increasing XP/Hr.
+You can create Runecrafting pouches using `/create` with each requiring different crafting levels to create. Similarly to in-game, higher tier pouches also require higher Runecrafting levels to use. These boost the amount of essence you can carry in 1 inventory, increasing XP/Hr.
 
-| **Pouch**    | **Crafting Lvl Required** | **Rc'ing Lvl Required** | **Leather Required** |
-| ------------ | ------------------------- | ----------------------- | -------------------- |
-| Small Pouch  | 1                         | 1                       | 10                   |
-| Medium Pouch | 10                        | 25                      | 20                   |
-| Large Pouch  | 20                        | 50                      | 30                   |
-| Giant Pouch  | 30                        | 75                      | 40                   |
+| **Pouch**                                            | **Crafting Lvl Required** | **Rc'ing Lvl Required** |
+| ---------------------------------------------------- | ------------------------- | ----------------------- |
+| Small Pouch                                          | 1                         | 1                       |
+| Medium Pouch                                         | 10                        | 25                      |
+| Large Pouch                                          | 20                        | 50                      |
+| Giant Pouch                                          | 30                        | 75                      |
+| Colossal Pouch<mark style="color:red;">**\***</mark> | 56                        | 85                      |
 
-## Tiaras
-
-Crafting tiaras are another method of runecrafting training, albiet an incredibly slow method. Tiaras don't have any use within the bot, except for being stored in [STASH units](../construction/stash-units.md). They can be created through the `/runecraft` command.
+<mark style="color:red;">**\***</mark> - Requires an Abyssal needle and one of each lower tier pouch to create.
 
 ## Regular Runes
 
@@ -44,6 +43,12 @@ Crafting tiaras are another method of runecrafting training, albiet an incredibl
 | Death    |         65         |
 | Wrath    |         95         |
 
+## Multiple Runes
+
+Just like in OSRS, certain levels will grant you multiple of some runes. Combination runes are never multiplied.
+
+![](../../.gitbook/assets/rc\_multiple\_runes.png)
+
 ## Combination Runes
 
 **Note for Lava runes ONLY:** You can use the **`usestams:`**`False` option to send your minion runecrafting without using stamina potions. However, you will runecraft 3x slower than usual.
@@ -60,8 +65,6 @@ It's recommended to equip a staff in your skilling setup to provide infinite run
 | Steam    | 19                 |
 | Lava     | 23                 |
 
-## Multiple Runes
+## Tiaras
 
-Just like in OSRS, certain levels will grant you multiple of some runes. Combination runes are never multiplied.
-
-![](../../.gitbook/assets/rc\_multiple\_runes.png)
+Crafting tiaras are a method of runecrafting training, albeit an incredibly slow method. Tiaras don't have any use within the bot, except for being stored in [STASH units](../construction/stash-units.md). They can be created through the `/runecraft` command.

@@ -8,7 +8,7 @@ To start a game, use&#x20;
 
 To start a run with combination runes, use
 
-* `/minigames gotr start combination_runes:True`
+* `/minigames gotr start`` `**`combination_runes:`**`True`
 
 Runecrafting xp scales from mined fragments, runecrafting level and barriers/guardians.\
 Crafting xp scales with barriers/guardians.\

@@ -1,13 +1,13 @@
 # Woodcutting
 
-You can train Woodcutting using  `/chop`` `**`name:`**`<logs>`. If no quantity is specified, it will default to a full trip. Using the powerchop option will result in no logs being obtained, but provides significantly faster woodcutting xp rates.
+You can train Woodcutting using `/chop`` `**`name:`**`[logs]`. If no quantity is specified, it will default to a full trip. Using the powerchop option will result in no logs being obtained, but provides significantly faster woodcutting xp rates.
 
 * `/chop`` `**`name:`**`Willow logs`` `**`quantity:`**`50`
 * `/chop`` `**`name:`**`Teak logs`` `**`powerchop:`**`true`
 
 ## Axes
 
-All axes in the bot will provide a specific increase to your chance of chopping logs (i.e. chopping speed). The best axe to use is a Crystal axe (Lvl 71) with the second-best being a Dragon, Infernal, or 3rd Age axe (Lvl 61). The Crystal axe does not degrade and the Infernal axe does not burn logs while chopping. Axes do not need to be equipped for the bonus to apply.
+All axes in the bot will provide a specific increase to your chance of chopping logs (i.e. chopping speed). The best axe to use is a Crystal axe (Lvl 71) with the second-best being a Dragon, Infernal, or 3rd Age axe (Lvl 61). Gilded axes perform the same as a rune axe. The Crystal axe does not degrade and the Infernal axe does not burn logs while chopping. Axes do not need to be equipped for the bonus to apply.
 
 ## Woodcutting Guild
 
@@ -32,6 +32,8 @@ The Lumberjack outfit can be obtained from the [Temple Trekking](https://wiki.ol
 * 2.5% - Full outfit equipped in skilling setup
 
 ## Logs
+
+This table assumes no powerchopping is active.
 
 | **Log Type**                                  | **Required level** | **Experience** | **XP/Hr. @ 99** |
 | --------------------------------------------- | :----------------: | :------------: | :-------------: |

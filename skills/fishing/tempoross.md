@@ -25,16 +25,16 @@ The 3 harpoons to choose from depend on if you're wanting xp or rewards. Remembe
 
 The following table assumes you have the full KC boost and outfit equipped. _These xp rates are approximate and may vary slighty._
 
-|       |                 |                         |             |
-| ----- | --------------- | ----------------------- | ----------- |
-| Level | Crystal Harpoon | Infernal/Dragon Harpoon | No Harpoon  |
-| 50    | -               | -                       | 32,000 xp/h |
-| 61    | -               | -                       | 39,000 xp/h |
-| 71    | 69,000 xp/h     | -                       | 46,700 xp/h |
-| 75    | 72,000 xp/h     | 56,000 xp/h             | 49,500 xp/h |
-| 80    | 78,000 xp/h     | 60,000 xp/h             | 53,000 xp/h |
-| 90    | 88,000 xp/h     | 68,000 xp/h             | 60,000 xp/h |
-| 99    | 98,000 xp/h     | 75,000 xp/h             | 67,000 xp/h |
+|           |                     |                             |                |
+| --------- | ------------------- | --------------------------- | -------------- |
+| **Level** | **Crystal Harpoon** | **Infernal/Dragon Harpoon** | **No Harpoon** |
+| 50        | -                   | -                           | 32,000 xp/h    |
+| 61        | -                   | 45,250 xp/h (dragon)        | 39,000 xp/h    |
+| 71        | 69,000 xp/h         | 53,250 xp/h (dragon)        | 46,700 xp/h    |
+| 75        | 72,000 xp/h         | 56,000 xp/h                 | 49,500 xp/h    |
+| 80        | 78,000 xp/h         | 60,000 xp/h                 | 53,000 xp/h    |
+| 90        | 88,000 xp/h         | 68,000 xp/h                 | 60,000 xp/h    |
+| 99        | 98,000 xp/h         | 76,000 xp/h                 | 67,000 xp/h    |
 
 ## Rewards
 

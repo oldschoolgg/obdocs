@@ -28,11 +28,14 @@ The Magic fang can be used to create 2 different staves (requires 59 crafting) a
 
 ![](<../.gitbook/assets/Serpentine visage.png>) **Serpentine visage**
 
-The Serpentine helm can be crafted from the visage (requires 52 crafting), however, currently provides _no boosts_ anywhere within the bot. It also _cannot_ be charged.
+The Serpentine helm can be crafted from the visage (requires 52 crafting). It is currently only used at ToA for replacing the need for Sanfews while charged and equipped.
 
 The helm can be created with the following command:
 
-* `/craft`` `**`name:`**` ``Serpentine helm (uncharged)`
+* **To create the helm:**
+  * `/craft`` `**`name:`**` ``Serpentine helm (uncharged)`
+* **To charge the helm**
+  * `/minion charge`` `**`item:`**`Serpentine helm`` `**`amount:`**`X`
 
 ![](<../.gitbook/assets/Magma mutagen.png>) ![](<../.gitbook/assets/Tanzanite mutagen.png>) **Magma/Tanzanite mutagens**
 

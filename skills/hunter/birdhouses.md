@@ -14,7 +14,7 @@ To check to see if your birdhouses are ready, use:
 
 ## Boosts
 
-* 10% for full graceful equipped in _skilling setup_
+* 10% for full graceful equipped in any setup
 
 ## Requirements
 
@@ -56,11 +56,11 @@ There are a number of useful things you can collect from your birdhouse runs. Th
 * Ring jewellery - any between sapphire-diamond (lower tier more common)
 * Seeds - only tree and fruit tree seeds available (lower tier more common)
 * Bird eggs - all colours are equal chance
-* Clue scroll - beginner-elite tiers (lower tier more common)
+* Clue scroll - beginner-elite tiers
 
 ## Odds Of Each Nest Type
 
-You have a 50/50 chance at hitting the nest table when dismantling your birdhouses. If you hit the table, you then receive a random amount of nests between 1-9, depending on the birdhouse tier.
+You have a 50/50 chance at hitting the nest table when dismantling each birdhouse. If you hit the table, you then receive a random amount of nests, depending on the birdhouse tier.
 
 |                     |                          |
 | ------------------- | :----------------------: |
