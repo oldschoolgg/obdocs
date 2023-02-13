@@ -12,7 +12,7 @@ To start a Tombs of Amascut raid, use:
 
 * `/raid toa start raid_level:`&#x20;
 
-Solo Tombs of Amascut requires 1 KC for every level of invocation. E.g. a 500 solo needs 50 kc
+Solo Tombs of Amascut requires 1 KC for every 10 levels of invocation. E.g. a 500 solo needs 50 kc
 
 ## Requirements
 
@@ -50,16 +50,16 @@ Higher levels will take longer but offer better chances at uniques.&#x20;
 
 ### Osmumten's Fang <img src="../../.gitbook/assets/Osmumten&#x27;s_fang.png" alt="" data-size="line">
 
-* When equipped in melee setup, provides the best melee boost to ToA
+* When equipped in melee setup, provides the best melee boost to **Expert** ToA runs.
 
 ### Lightbearer <img src="../../.gitbook/assets/Lightbearer.png" alt="" data-size="line">
 
-* Provides an invisible 5% speed boost to your ToA trips. Does not need to be equipped
+* Provides an invisible 5% speed boost to your ToA trips. Does not need to be equipped.
 
 ### Tumeken's Shadow <img src="../../.gitbook/assets/Tumeken&#x27;s_shadow.png" alt="" data-size="line">&#x20;
 
 * Can be charged with chaos and soul runes.
-* Provides a massive boost to ToA when equipped in magic setup.
+* Provides a 25% speed boost to ToA when equipped in magic setup.
 * Requires 85 magic to equip.
 * `/minion charge`` `**`item:`**` ``Tumeken's shadow`` `**`amount:`**` ``100`
 
