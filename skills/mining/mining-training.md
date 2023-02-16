@@ -2,14 +2,38 @@
 
 ## Fastest Route to 99
 
-1-15: Copper/Tin&#x20;
+This is the fastest method to obtain 99 mining. It yields almost no profit since it's all done via powermining.
 
-15-50: Iron&#x20;
+1-15: Powermine Copper/Tin\
+15-45: Powermine Iron\
+45-99: Powermine Granite
 
-50-99: Volcanic Mine
+While you can obtain the prospector's outfit by mining gold ore for nuggets (fastest method), the time spent to obtain the outfit is negligible against overall time to get to 99.
 
-It's recommended to get the prospector's outfit by mining gold if you plan on doing a lot of mining. For Volcanic Mine, you should get a crystal pickaxe as soon as possible as it provides a massive (50%) boost.
+## Profitable Route to 99
 
-You can create a crystal pickaxe with `/create`` `**`item:`**`Crystal pickaxe`. You can obtain a crystal tool seed from [Zalcano](../../minigames/zalcano.md).
+1-15: Powermine Copper/Tin\
+15-37: Powermine Iron\
+37-50: Mine Volcanic ash\
+50-71: Mine Iron (For use of Crystal pickaxe)\
+**PICK N MIX UNTIL 99**\
+****Mine Gold ore (fastest and quite profitable)\
+Mine Gem rocks (best pet chance but much less profitable)\
+Mine Amethyst from 92-99 (with expert mining gloves)\
+Zalcano (12-16k xp/hr)
 
-![\*boosts from pickaxes are out of date](../../.gitbook/assets/miningxp.png)
+## Xp/Hr - Powermining
+
+The following table assumes you have all possible boosts starting from their respective levels.
+
+<figure><img src="../../.gitbook/assets/Mining_Rates_Powermining.png" alt=""><figcaption></figcaption></figure>
+
+## Xp/Hr - Regular
+
+The following table assumes you have all possible boosts starting from their respective levels.
+
+<figure><img src="../../.gitbook/assets/Mining_Rates_Regular.png" alt=""><figcaption></figcaption></figure>
+
+## Xp/Hr - Gold + Silver With 99 Crafting
+
+<figure><img src="../../.gitbook/assets/Mining_Rates_Gold_Silver.png" alt=""><figcaption></figcaption></figure>
