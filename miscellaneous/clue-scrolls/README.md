@@ -22,7 +22,7 @@ Killing \~100 guards at a time with a cannon is an alternative for slightly slow
 
 ### Hard Clues
 
-As many hard clues come passively, doing slayer with a good [blocklist](../skills/slayer/) is the recommended way to obtain hard clues, as superiors will result in quite a few totem pieces for the guaranteed hard clues from skotizo.
+As many hard clues come passively, doing slayer with a good [blocklist](../../skills/slayer/) is the recommended way to obtain hard clues, as superiors will result in quite a few totem pieces for the guaranteed hard clues from skotizo.
 
 If you'd rather not do slayer, the best method for hard clues/hr is to barrage Warped Jellies.
 
