@@ -79,9 +79,9 @@ Ring of Dueling `/craft name:Emerald ring` `/activities enchant name:Emerald rin
 
 Games necklace(8) `/craft name:Sapphire necklace` `/activities enchant name:Sapphire necklace`
 
-Skills necklace(4) `/craft name:Dragonstone necklace` `/activities enchant name:Dragonstone necklace` `/activities cast spell:Recharge Skills Necklace`
+Skills necklace(4) (min quantity of 25 needed for final step)`/craft name:Dragon necklace` `/activities enchant name:Dragon necklace` `/activities cast spell:Recharge Skills Necklace`
 
-Combat Bracelet(4) `/craft name:Dragonstone bracelet` `/activities enchant name:Dragonstone bracelet` `/activities cast spell:Recharge Combat Bracelet`
+Combat Bracelet(4) (min quantity of 25 needed for final step) `/craft name:Dragonstone bracelet` `/activities enchant name:Dragonstone bracelet` `/activities cast spell:Recharge Combat Bracelet`
 
 Ring of wealth (5) (min quantity of 26 needed for final step)`/craft name:Dragonstone ring` `/activities enchant name:Dragonstone ring` `/activities charge item:Ring of wealth`
 
