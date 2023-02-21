@@ -27,7 +27,7 @@ From level 52 agility, the player may train agility using the command `/minigame
 
 The Brimhaven Agility Arena rewards the player with Agility tickets which can be used to purchase cosmetic rewards or agility XP, using the command `/minigames agility_arena start`.
 
-### [Agility Pyramid](./#agility-pyramid)
+### [Agility Pyramid](agility-pyramid.md)
 
 Starting at 30 agility, you can train agility here while making some gp on the side. Each successful lap gives 10k gp, however, the fail rate is substantially higher below level 40 agility.&#x20;
 

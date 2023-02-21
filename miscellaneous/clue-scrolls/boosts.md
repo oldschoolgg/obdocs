@@ -1,5 +1,9 @@
 # Boosts
 
+{% hint style="danger" %}
+<mark style="color:red;">**THESE BOOSTS ARE ONLY LIVE IN BSO. COMING TO OSB SOON.**</mark>
+{% endhint %}
+
 ## Global Boosts
 
 * Max Cape - 10% **or** Construction cape - 6%
@@ -50,7 +54,7 @@
 | --------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | Max cape (combined varients won't work) | `/buy name:Max cape`                                                | 99 all skills                                                                                       |
 | Construction Cape                       | `/buy name:Construction cape`                                       | 99 Construction                                                                                     |
-| Jewellery box                           | See below                                                           |                                                                                                     |
+| Jewellery box                           | [See below](boosts.md#jewellery-box)                                |                                                                                                     |
 | Achievement diary cape                  | `/buy name: Achievement diary cape`                                 | All elite diarys complete                                                                           |
 | Kandarin headgear 4                     | `/buy name: Kandarin headgear 4`                                    | Kandarin elite diary complete                                                                       |
 | Fremennik sea boots 4                   | `/buy name: Fremennik sea boots 4`                                  | Fremennik elite diary complete                                                                      |
@@ -61,7 +65,7 @@
 | Pharaoh's sceptre                       | [Pyramid plunder](../../skills/thieving/pyramid-plunder.md#rewards) |                                                                                                     |
 | Ring of the elements                    | `/buy name:Ring of the elements`                                    | 400 Abyssal pearls from [Guardians of the Rift](../../skills/runecrafting/guardians-of-the-rift.md) |
 
-### Jewellery box
+## Jewellery box
 
 Create jewellery boxes with `/poh build name:[tier] jewellery box`
 
@@ -83,9 +87,9 @@ Skills necklace(4) (min quantity of 25 needed for final step)`/craft name:Dragon
 
 Combat Bracelet(4) (min quantity of 25 needed for final step) `/craft name:Dragonstone bracelet` `/activities enchant name:Dragonstone bracelet` `/activities cast spell:Recharge Combat Bracelet`
 
-Ring of wealth (5) (min quantity of 26 needed for final step)`/craft name:Dragonstone ring` `/activities enchant name:Dragonstone ring` `/activities charge item:Ring of wealth`
+Ring of wealth (5) (min quantity of 25 needed for final step)`/craft name:Dragonstone ring` `/activities enchant name:Dragonstone ring` `/activities charge item:Ring of wealth`
 
-Amulet of glory(4) (min quantity of 26 needed for final step) `/craft name:Dragonstone amulet (u)` `/craft name:Dragonstone amulet` `/activities enchant name:Dragonstone amulet` `/activities cast spell:Recharge Glory`
+Amulet of glory(4) (min quantity of 25 needed for final step) `/craft name:Dragonstone amulet (u)` `/craft name:Dragonstone amulet` `/activities enchant name:Dragonstone amulet` `/activities cast spell:Recharge Glory`
 
 
 

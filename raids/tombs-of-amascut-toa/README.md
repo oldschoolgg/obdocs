@@ -17,10 +17,13 @@ Solo Tombs of Amascut requires 1 KC for every 10 levels of invocation. E.g. a 50
 ## Requirements
 
 * 90+ Attack/Strength/Defence/Ranged/Magic/Prayer
-* 10 Saradomin Brew(4), 5 Super Restore (4), 1 Ranging Potion(4), 1 Super Combat Potion(4), 1 Sanfew Serum(4). Sanfew Serum can be ignored with the use of a charged Serpentine Helm
+* 10 Saradomin Brew(4), 5 Super Restore (4), 1 Ranging Potion(4), 1 Super Combat Potion(4), 1 Sanfew Serum(4). Sanfew Serum can be ignored by equipping a charged Serpentine Helm
 * Zamorakian Hasta, Ghrazi Rapier, OR Osmumten's Fang in melee
+* Fire cape OR Infernal cape in melee
 * Twisted Bow OR Bow of Faedhinen (c) in range
+  * Minimum of 150 arrows equipped if using Twisted bow.
 * Charged Blowpipe in bank
+  * Minimum of 150 darts and 1,000 scales within Blowpipe.
 
 View the best in slot and alternate gear setups for ToA [here](toa-gear-setups.md).
 
