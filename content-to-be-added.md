@@ -9,8 +9,8 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * ToB Hard Mode page
 * Revamp skill guides with xp/hr
 * Mention that you get free T1 perks for maxing on both OSB & BSO somewhere
-* Mining training page re-write
 * ToA flesh-out
-* ToA gear setups
 * Best pet methods
-* Confirm pyramid agility xp rates (xp rates just taken from osrs wiki atm)
+* LMS minigame page
+* Giants foundry minigame page
+* Charging items page

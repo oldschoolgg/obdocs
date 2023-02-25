@@ -18,13 +18,15 @@ Even though you can start at level 30, it is recommended to wait until at least 
 
 ## Xp/Hour
 
-The base xp for completing one lap is 722xp. However, depending on your agility level, and the amount of successfully completed laps you do, the xp can heavily vary.&#x20;
+The base xp for completing one lap is 722xp. However, depending on your agility level, and the amount of failures you endure throughout your trip, the xp can slightly vary.&#x20;
 
-The formula for a successful lap at the agility pyramid is `722 + (300 + (AgilLvl * 8))`
+The formula for a perfect lap at the agility pyramid is `722 + (300 + (AgilLvl * 8))`
 
-These rates are taken directly from the OSRS wiki are are subject to some minor variation:
-
-* Level 55–60: 25,000–30,000
-* Level 67–70: 33,000–37,000
-* Level 75: 42,100
-* Level 88–99: 44,700
+* Level 30 - 19k
+* Level 40 - 31k
+* Level 50 - 37k
+* Level 60 - 43k
+* Level 70 - 45k
+* Level 80 - 47k
+* Level 90 - 50k
+* Level 99 - 52k
