@@ -1,9 +1,5 @@
 # Boosts
 
-{% hint style="danger" %}
-<mark style="color:red;">**THESE BOOSTS ARE ONLY LIVE IN BSO. COMING TO OSB SOON.**</mark>
-{% endhint %}
-
 ## Global Boosts
 
 * Max Cape - 10% **or** Construction cape - 6%
