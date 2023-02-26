@@ -75,21 +75,36 @@ You must create in order and upgrade, below are tiers and materials:
 * Fancy(86 Construction): 20x Skills necklace(4), 20x Combat bracelet(4), 1x Gold leaf
 * Ornate(91 Construction): 20x Amulet of glory(4), 2x Gold leaf, 1x Ring of wealth (5)
 
+### Commands for Ornate Jewellery Box
+
+_The recharge spell has a minimum of quantity of 25 so we'll be creating 25 of the dragonstone items (26 for RoW)._
+
 Bolt of cloth `/buy name:Bolt of cloth`&#x20;
 
 Gold Leaf `/buy name:Gold leaf quantity:3`
 
-Ring of Dueling `/craft name:Emerald ring` `/activities enchant name:Emerald ring`
+Ring of Dueling `/craft name:Emerald ring quantity:20` \
+`/activities enchant name:Emerald ring quantity:20`
 
-Games necklace(8) `/craft name:Sapphire necklace` `/activities enchant name:Sapphire necklace`
+Games necklace(8) `/craft name:Sapphire necklace quantity:20` \
+`/activities enchant name:Sapphire necklace quantity:20`
 
-Skills necklace(4) (min quantity of 25 needed for final step)`/craft name:Dragon necklace` `/activities enchant name:Dragon necklace` `/activities cast spell:Recharge Skills Necklace`
+Skills necklace(4) `/craft name:Dragon necklace quantity:25` \
+`/activities enchant name:Dragon necklace quantity:25` \
+`/activities cast spell:Recharge Skills Necklace quantity:1`
 
-Combat Bracelet(4) (min quantity of 25 needed for final step) `/craft name:Dragonstone bracelet` `/activities enchant name:Dragonstone bracelet` `/activities cast spell:Recharge Combat Bracelet`
+Combat Bracelet(4) `/craft name:Dragonstone bracelet quantity:25` \
+`/activities enchant name:Dragonstone bracelet quantity:25` \
+`/activities cast spell:Recharge Combat Bracelet quantity:1`
 
-Ring of wealth (5) (min quantity of 25 needed for final step)`/craft name:Dragonstone ring` `/activities enchant name:Dragonstone ring` `/activities charge item:Ring of wealth`
+Ring of wealth (5) `/craft name:Dragonstone ring quantity:26` \
+`/activities enchant name:Dragonstone ring quantity:26` \
+`/activities charge item:Ring of wealth quantity:1`
 
-Amulet of glory(4) (min quantity of 25 needed for final step) `/craft name:Dragonstone amulet (u)` `/craft name:Dragonstone amulet` `/activities enchant name:Dragonstone amulet` `/activities cast spell:Recharge Glory`
+Amulet of glory(4) `/craft name:Dragonstone amulet (u) quantity:25` \
+`/craft name:Dragonstone amulet quantity:25` \
+`/activities enchant name:Dragonstone amulet quantity:25` \
+`/activities cast spell:Recharge Glory quantity:1`
 
 
 
