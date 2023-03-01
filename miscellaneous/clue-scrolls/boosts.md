@@ -73,7 +73,7 @@ You must create in order and upgrade, below are tiers and materials:
 
 ### Commands for Ornate Jewellery Box
 
-_The recharge spell has a minimum of quantity of 25 so we'll be creating 25 of the dragonstone items (26 for RoW)._
+_The recharge spell has a minimum quantity of 25, so we'll be creating 25 of the dragonstone items (26 for RoW)._
 
 Bolt of cloth `/buy name:Bolt of cloth`&#x20;
 
