@@ -38,7 +38,7 @@
 ## Easy clues
 
 * Achievement diary cape - 10%
-* Ring of the elements - 10%
+* Ring of the elements - 6%
 
 ## Beginner clues
 
