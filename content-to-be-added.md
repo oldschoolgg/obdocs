@@ -12,5 +12,4 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * ToA flesh-out
 * Best pet methods
 * LMS minigame page
-* Giants foundry minigame page
 * Charging items page

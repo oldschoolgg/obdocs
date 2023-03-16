@@ -114,6 +114,7 @@
 * [Castle Wars](minigames/castle-wars.md)
 * [Creature Creation](minigames/creature-creation.md)
 * [Gauntlet](minigames/gauntlet.md)
+* [Giant's Foundry](minigames/giants-foundry.md)
 * [Gnome Restaurant](minigames/gnome-restaurant.md)
 * [Last Man Standing](minigames/last-man-standing.md)
 * [Pest Control](minigames/pest-control.md)

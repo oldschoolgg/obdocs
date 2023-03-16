@@ -30,30 +30,28 @@ An alternative method to train smithing is through use of the blast furnace. At 
 
 ### Items Requiring Smithing
 
-You can smith most items from the main game for xp, at exactly the same xp rates. You can see a full list of smithables by by visiting the [OSRS Smithing Wiki page.](https://oldschool.runescape.wiki/w/Smithing#Smithing)&#x20;
+The bot also mimics some of the more useful smithables that require a certain smithing level in the real game too. Here is a list of those items.
 
-The bot also mimics some of the more useful creatables that require a certain smithing level in the real game too. Here is a list of those items.
-
-|                                 |                    |                                                                      |
-| ------------------------------- | :----------------: | -------------------------------------------------------------------- |
-| **Item**                        | **Level Required** | **Additional Notes**                                                 |
-| Gold helmet                     |         50         | Requires 4qp                                                         |
-| Gold bowl                       |         50         | Requires 111qp                                                       |
-| Dragon sq shield                |         60         | Requires 111qp                                                       |
-| Dragon kiteshield               |         75         | Requires 205qp + Dragon Sq + Dragon Metal Shard + Dragon Metal Slice |
-| Crystal pickaxe                 |         76         | Requires 76 crafting + Dragon Pickaxe + Crystal Tool Seed            |
-| Crystal harpoon                 |         76         | Requires 76 crafting + Dragon Harpoon + Crystal Tool Seed            |
-| Crystal axe                     |         76         | Requires 76 crafting + Dragon Axe + Crystal Tool Seed                |
-| Crystal halberd                 |         78         | Requires 78 crafting                                                 |
-| Enhanced crystal key            |         80         | Requires 80 crafting + 10 Crystal Shard + 1 Crystal Key              |
-| Godsword blade                  |         80         | Requires 1 of each Godsword Shard                                    |
-| Blade of saeldor (uncharged)    |         82         | Requires 82 crafting                                                 |
-| Bow of faerdhinen (uncharged)   |         82         | Requires 82 crafting                                                 |
-| Infernal pickaxe                |         85         | Requires Smouldering Stone + Dragon Pickaxe                          |
-| Arcane spirit shield            |         85         | Requires 90 prayer                                                   |
-| Spectral spirit shield          |         85         | Requires 90 prayer                                                   |
-| Elysian spirit shield           |         85         | Requires 90 prayer                                                   |
-| Dragon platebody                |         90         | Requires 205qp                                                       |
-| Uncharged dragonfire ward       |         90         |                                                                      |
-| Uncharged dragonfire shield     |         90         |                                                                      |
-| Uncharged ancient wyvern shield |         90         |                                                                      |
+|                                 |                    |                                                                           |
+| ------------------------------- | :----------------: | ------------------------------------------------------------------------- |
+| **Item**                        | **Level Required** | **Additional Notes**                                                      |
+| Gold helmet                     |         50         | Requires 4qp                                                              |
+| Gold bowl                       |         50         | Requires 111qp                                                            |
+| Dragon sq shield                |         60         | Requires 111qp                                                            |
+| Dragon kiteshield               |         75         | Requires 205qp + Dragon sq + Dragon metal shard + Dragon metal slice      |
+| Crystal pickaxe                 |         76         | Requires 76 crafting + Dragon pickaxe + Crystal tool seed                 |
+| Crystal harpoon                 |         76         | Requires 76 crafting + Dragon harpoon + Crystal tool seed                 |
+| Crystal axe                     |         76         | Requires 76 crafting + Dragon axe + Crystal tool seed                     |
+| Crystal halberd                 |         78         | Requires 78 crafting                                                      |
+| Enhanced crystal key            |         80         | Requires 80 crafting + 10 Crystal shard + 1 Crystal key                   |
+| Godsword blade                  |         80         | Requires 1 of each Godsword shard                                         |
+| Blade of saeldor (uncharged)    |         82         | Requires 82 crafting                                                      |
+| Bow of faerdhinen (uncharged)   |         82         | Requires 82 crafting                                                      |
+| Infernal pickaxe                |         85         | Requires Smouldering stone + Dragon pickaxe                               |
+| Arcane spirit shield            |         85         | Requires 90 prayer                                                        |
+| Spectral spirit shield          |         85         | Requires 90 prayer                                                        |
+| Elysian spirit shield           |         85         | Requires 90 prayer                                                        |
+| Dragon platebody                |         90         | Requires 205qp + Dragon chainbody + Dragon metal shard+ Dragon metal lump |
+| Uncharged dragonfire ward       |         90         |                                                                           |
+| Uncharged dragonfire shield     |         90         |                                                                           |
+| Uncharged ancient wyvern shield |         90         |                                                                           |
