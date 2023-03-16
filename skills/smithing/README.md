@@ -7,7 +7,15 @@ You can train smithing by using `/smelt` and `/smith` commands.
 * `/smelt`` `**`name:`**`Runite bar`` `**`quantity:`**`1`
 * `/smith`` `**`name:`**`Adamant dart tip`` `**`quantity:`**`100`
 
-### Bars
+## Smiths' Uniform
+
+The Smiths' uniform can be purchased with reputation from the [Giant's Foundry](giants-foundry.md) minigame. When equipped in the skilling setup, it provides the following boosts:
+
+* 15% speed boost to Giant's foundry minigame
+* 1 tick (0.6 second) speed boost to any smithable item
+  * It is somewhat complicated to explain the math behind this, but just know that your trip times will be slightly faster.
+
+## Bars
 
 |    **Bar**   | **Required level** | **Experience** |   **Materials needed**  |
 | :----------: | :----------------: | :------------: | :---------------------: |
@@ -24,11 +32,11 @@ You can train smithing by using `/smelt` and `/smith` commands.
 
 **\*\*** - Equipping [goldsmith gauntlets](https://wiki.oldschool.gg/miscellaneous/buyables) increases the gold bar xp from 22.5 to 56.2.
 
-### Blast Furnace
+## Blast Furnace
 
 An alternative method to train smithing is through use of the blast furnace. At the blast furnace you can expect to make more bars/hr and in turn, expect higher xp/hr. See the [blast furnace page](https://wiki.oldschool.gg/skills/smithing/blast-furnace) for specifics.
 
-### Items Requiring Smithing
+## Items Requiring Smithing
 
 The bot also mimics some of the more useful smithables that require a certain smithing level in the real game too. Here is a list of those items.
 

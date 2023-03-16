@@ -12,8 +12,8 @@ To start a trip of Giant's Foundry, use:
 
 ## Boosts
 
-* 15% speed boost for Smiths' outfit
-* Higher average mould score for 80+ Smithing
+* 15% speed boost for Smiths' outfit (<mark style="color:red;">**MUST**</mark> be equipped in skilling)
+* Higher average mould score for 80+ Smithing (meaning higher xp + reputation)
 
 ## Choosing An Alloy
 
@@ -41,9 +41,15 @@ If you run the following command, you will see your overall foundry stats.
 
 * `/minigames giants_foundry stats`
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-Here you will see your total unique weapons made. There are 1,331 possible weapons to create, with each weapon having an equal chance to be created. The type of alloy does not affect the chances of which weapon will be made. This means that using lower tier bars is considerably more cost effective. There is no CL for these weapons, it's purely just a statistic.
+Here you will see your total unique weapons made. There are 1,331 possible weapons to create, with each weapon having an equal chance to be created. The type of alloy does not affect the chances of which weapon will be made. This means that using lower tier bars is considerably more cost effective if you're wanting to collect all unique weapons. There is no CL for these weapons, it's purely just a statistic.
+
+## XP/Hour
+
+With the full outfit and 80+ smithing, when using addy+rune alloys, you can expect to see between 240-270k xp/h.&#x20;
+
+With the full outfit and 80+ smithing, when using mith+addy alloys, you can expect to see between 190-210k xp/h.
 
 ## Rewards
 
