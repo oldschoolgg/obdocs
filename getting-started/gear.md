@@ -57,16 +57,20 @@ The `/gearpresets` command gives you the ability to save a particular gear setup
 
 ### Global Gear Presets
 
-Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup. These do no count towards the total numbers of presets that are available to you.
+Along with the ability to make your own presets there are some global presets available to you at the start such as the "Graceful" preset which will equip full graceful in the specified gear setup. These do not count towards the total numbers of presets that are available to you.
 
 * Graceful
-* Pyro
 * Carpenter
 * Rogue
-* Clue
+* Clue\_hunter
 * Angler
+* Spirit\_angler
+* Pyromancer
 * Prospector
 * Lumberjack
+* Farmer
+* Runecraft
+* Smith
 
 ## BiS Gear
 

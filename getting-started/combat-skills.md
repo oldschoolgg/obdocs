@@ -1,7 +1,5 @@
 # Combat Training
 
-Overview of how to train Magic, Range, Attack, Strength, Defence, and Hitpoints through PvM
-
 While strength can be leveled through barbarian fishing and magic has various non-combat applications, PvM is a more efficient and profitable way to level up your combat stats.&#x20;
 
 By using the `/minion train` command, you can select which style of combat you would like to level. Here is a list of all possible combat styles:
@@ -20,7 +18,9 @@ By using the `/minion train` command, you can select which style of combat you w
 
 **Note:** Hitpoints xp is gained alongside any combat style and cannot be selected as a primary training focus.&#x20;
 
-You can leave this in the default mode where your style will change depending on the mob you are attacking, or you can specify a specific combat skill to train in. The amount of xp you gain is based off of the hitpoints of the monster you're killing, and the hourly rate can vary from monster to monster. Fire giants offer the fastest combat experience in the game, but their lack of profitable drops can mean it may be preferable to train on other monsters.
+You can leave this in the default mode where your style will change depending on the mob you are attacking, or you can specify a specific combat skill to train in. You cannot change it back to the default mode, however, there is no real need to as it provides no benefits over other styles.&#x20;
+
+The amount of xp you gain is based off of the hitpoints of the monster you're killing, and the hourly rate can vary from monster to monster. Giant spiders, Fire giants, and Greater nechryaels offer the fastest combat experience in the game, but it is advisable to train combat stats alongside slayer.
 
 ## Food
 

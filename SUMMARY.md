@@ -140,6 +140,7 @@
 * [God Capes](miscellaneous/god-capes.md)
 * [Hall of Fame](miscellaneous/bot-firsts.md)
 * [Kourend Favour](miscellaneous/kourend-favour.md)
+* [Nightmare Zone](miscellaneous/nightmare-zone.md)
 * [Offering](miscellaneous/offering.md)
 * [Questing](miscellaneous/questing.md)
 * [Tears of Guthix](miscellaneous/tears-of-guthix.md)

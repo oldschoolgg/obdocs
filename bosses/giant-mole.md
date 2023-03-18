@@ -10,7 +10,7 @@ You can turn in mole parts for nest boxes with the `/sell` command. To sell all 
 ``![](<../.gitbook/assets/Mole skin.png>)`/sell`` `**`items:`**` ``100 mole skin`
 
 {% hint style="danger" %}
-There is <mark style="color:red;">NO COMFIRMATION</mark> for this /sell command.
+There is <mark style="color:red;">NO CONFIRMATION</mark> for this /sell command.
 {% endhint %}
 
 You can also use `/sell`` `**`filter:`**`mole` to sell all at once.
