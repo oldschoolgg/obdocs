@@ -63,7 +63,7 @@
 
 ## Jewellery box
 
-Create jewellery boxes with `/poh build name:[tier] jewellery box`
+Create jewellery boxes with `/poh build`` `**`name:`**`[tier] jewellery box`
 
 You must create in order and upgrade, below are tiers and materials:
 
@@ -75,32 +75,32 @@ You must create in order and upgrade, below are tiers and materials:
 
 _The recharge spell has a minimum quantity of 25, so we'll be creating 25 of the dragonstone items (26 for RoW)._
 
-Bolt of cloth `/buy name:Bolt of cloth`&#x20;
+Bolt of cloth `/buy`` `**`name:`**`Bolt of cloth`&#x20;
 
-Gold Leaf `/buy name:Gold leaf quantity:3`
+Gold Leaf `/buy`` `**`name:`**`Gold leaf quantity:3`
 
-Ring of Dueling `/craft name:Emerald ring quantity:20` \
-`/activities enchant name:Emerald ring quantity:20`
+Ring of Dueling `/craft`` `**`name:`**`Emerald ring`` `**`quantity:`**`20` \
+`/activities enchant`` `**`name:`**`Emerald ring`` `**`quantity:`**`20`
 
-Games necklace(8) `/craft name:Sapphire necklace quantity:20` \
-`/activities enchant name:Sapphire necklace quantity:20`
+Games necklace(8) `/craft`` `**`name:`**`Sapphire necklace`` `**`quantity:`**`20` \
+`/activities enchant`` `**`name:`**`Sapphire necklace`` `**`quantity:`**`20`
 
-Skills necklace(4) `/craft name:Dragon necklace quantity:25` \
-`/activities enchant name:Dragon necklace quantity:25` \
-`/activities cast spell:Recharge Skills Necklace quantity:1`
+Skills necklace(4) `/craft`` `**`name:`**`Dragon necklace`` `**`quantity:`**`25` \
+`/activities enchant`` `**`name:`**`Dragon necklace`` `**`quantity:`**`25` \
+`/activities cast`` `**`spell:`**`Recharge Skills Necklace`` `**`quantity:`**`1`
 
-Combat Bracelet(4) `/craft name:Dragonstone bracelet quantity:25` \
-`/activities enchant name:Dragonstone bracelet quantity:25` \
-`/activities cast spell:Recharge Combat Bracelet quantity:1`
+Combat Bracelet(4) `/craft`` `**`name:`**`Dragonstone bracelet`` `**`quantity:`**`25` \
+`/activities enchant`` `**`name:`**`Dragonstone bracelet`` `**`quantity:`**`25` \
+`/activities cast`` `**`spell:`**`Recharge Combat Bracelet`` `**`quantity:`**`1`
 
-Ring of wealth (5) `/craft name:Dragonstone ring quantity:26` \
-`/activities enchant name:Dragonstone ring quantity:26` \
-`/activities charge item:Ring of wealth quantity:1`
+Ring of wealth (5) `/craft`` `**`name:`**`Dragonstone ring`` `**`quantity:`**`26` \
+`/activities enchant`` `**`name:`**`Dragonstone ring`` `**`quantity:`**`26` \
+`/activities charge`` `**`item:`**`Ring of wealth`` `**`quantity:`**`1`
 
-Amulet of glory(4) `/craft name:Dragonstone amulet (u) quantity:25` \
-`/craft name:Dragonstone amulet quantity:25` \
-`/activities enchant name:Dragonstone amulet quantity:25` \
-`/activities cast spell:Recharge Glory quantity:1`
+Amulet of glory(4) `/craft`` `**`name:`**`Dragonstone amulet (u)`` `**`quantity:`**`25` \
+`/craft`` `**`name:`**`Dragonstone amulet`` `**`quantity:`**`25` \
+`/activities enchant`` `**`name:`**`Dragonstone amulet`` `**`quantity:`**`25` \
+`/activities cast`` `**`spell:`**`Recharge Glory`` `**`quantity:`**`1`
 
 
 

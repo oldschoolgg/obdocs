@@ -52,9 +52,9 @@ There are a number of useful things you can collect from your birdhouse runs. Th
 
 * Bird nests - higher level birdhouses will give more nests on average
 * Feathers - between 10-100 per any tier birdhouse
-* Raw bird meat - between 1-3/4/5 depending on birdhouse tier
+* Raw bird meat - between 1-5 depending on birdhouse tier
 * Ring jewellery - any between sapphire-diamond (lower tier more common)
-* Seeds - only tree and fruit tree seeds available (lower tier more common)
+* Seeds - only tree and fruit tree seeds (lower tier more common)
 * Bird eggs - all colours are equal chance
 * Clue scroll - beginner-elite tiers
 
@@ -87,9 +87,13 @@ Weirdly, if you don't receive any clues from the initial roll, you have a 1/1000
 
 ## Bird Eggs
 
-These can be sacrificed at the shrine where you have a chance at receiving pieces of the Evil chicken outfit. Each piece is 1/300 chance, and there is no set order in which you receive the pieces of the oufit.
+These can be offered to the shrine where you have a chance at receiving pieces of the Evil chicken outfit. Each piece is 1/300 chance, and there is no set order in which you receive the pieces of the oufit.
 
 To offer the eggs, use `/offer`` `**`name:`**` ``[colour] bird egg`
 
 **NOTE:** You will receive 100 prayer xp per egg offered.
+
+As of 23rd Oct 2022, tracking was added to view the amount of eggs offered. Tracking only tracks the eggs offered after this date. To view how many you have offered, use:
+
+* `/data`` `**`name:`**` ``Bird Eggs Offered`
 

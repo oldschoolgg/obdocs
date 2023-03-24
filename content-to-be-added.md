@@ -11,5 +11,4 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * Mention that you get free T1 perks for maxing on both OSB & BSO somewhere
 * ToA flesh-out
 * Best pet methods
-* LMS minigame page
 * Charging items page

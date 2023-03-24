@@ -13,11 +13,15 @@
 
 [Tempoross](tempoross.md) is a good option instead of Barbarian Fishing once you have obtained a crystal tool seed from Zalcano and a Dragon harpoon from Wyrms or Tempoross to create a crystal harpoon. Requires 35 fishing.
 
+### Best Pet Chance
+
+Currently, the fastest method is fishing karambwans.
+
 ### Additional Information:
 
 [Aerial Fishing](aerial-fishing.md) when at least 43 fishing/35 hunter, this is much better than doing Hunting or Fishing on their own for training if you're looking to get 99 in both.
 
-**Collection Log Slots obtainable by Fishing**
+### **Collection Log Slots obtainable by Fishing**
 
 Bass (Big Bass), Swordfish (Big Swordfish), Shark (Big Shark), [Fishing Trawler](fishing-trawler.md) (Angler outfit), [Aerial Fishing](aerial-fishing.md) (3 Rods+Golden Tench+Fish Sack).
 
