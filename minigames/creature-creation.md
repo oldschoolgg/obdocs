@@ -23,6 +23,6 @@ All of the following boosts will work from the bank (i.e. don't need to be equip
 
 To kill any of the hybrid monsters, use the `/k` command. Each monster requires both ingredients and when killed, will give a various number of one ingredient that was used. Each hybrid monster may drop a specific type of satchel and all have a 1/10 chance to drop the Tea flask.
 
-E.g. `/k`` `**`name:`**`cowhide`
+E.g. `/k`` `**`name:`**`Unicow`
 
 ![](../.gitbook/assets/creature\_creation.png)
