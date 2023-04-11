@@ -34,6 +34,7 @@
 ## Medium clues
 
 * Ring of the elements - 8%
+* **Mounted in PoH:** Xeric Talisman - 2%
 
 ## Easy clues
 
