@@ -35,7 +35,7 @@ You must use the tablet for the boost to apply: `/use`` `**`item:`**`Slepey tabl
 
 ![](<../../.gitbook/assets/Harmonised nightmare staff.png>)  3% for Harmonised nightmare staff
 
-![](<../../.gitbook/assets/Slepey tablet.png>)   15% for Slepey tablet
+![](<../../.gitbook/assets/Slepey tablet.png>)   15% for Slepey tablet (guaranteed at 100KC at either Phosani's- or regular Nightmare)
 
 ![](<../../.gitbook/assets/Worn equipment.png>)  Up to 13.2% for melee gear (see below)
 

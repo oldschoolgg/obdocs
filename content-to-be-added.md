@@ -12,3 +12,4 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * ToA flesh-out
 * Best pet methods
 * Charging items page
+* ToB Solo info
