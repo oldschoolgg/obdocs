@@ -21,7 +21,8 @@ To start the minigame, use `/minigames gnome_restaurant start`
   * [Amulet of eternal glory](https://wiki.oldschool.gg/skills/magic/fountain-of-rune)
 
 {% hint style="info" %}
-If you have an eternal glory, you will never use amulet of glory (6).
+If you have an eternal glory, you will never use amulet of glory (6).\
+If you have a jewellery box in your POH, you won't consume jewellery.
 {% endhint %}
 
 ### **Jewellery Items**
