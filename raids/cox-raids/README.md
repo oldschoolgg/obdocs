@@ -59,8 +59,8 @@ Higher Kc makes raids faster. Here is the maximum kc that will give a boost
 
 | Difficulty | Solo Kc | Mass Kc |
 | ---------- | ------- | ------- |
-| Normal     | 450     | 200     |
-| Challenge  | 100     | 75      |
+| Normal     | 250     | 400     |
+| Challenge  | 75      | 100     |
 
 Specific items will give a hidden speed boost to your raids, they **DO NOT** need to be equipped and the affect will apply from your bank.
 
