@@ -138,6 +138,7 @@
 * [Clue Scrolls](miscellaneous/clue-scrolls/README.md)
   * [Boosts](miscellaneous/clue-scrolls/boosts.md)
 * [God Capes](miscellaneous/god-capes.md)
+* [Grand Exchange](miscellaneous/grand-exchange.md)
 * [Hall of Fame](miscellaneous/bot-firsts.md)
 * [Kourend Favour](miscellaneous/kourend-favour.md)
 * [Nightmare Zone](miscellaneous/nightmare-zone.md)
