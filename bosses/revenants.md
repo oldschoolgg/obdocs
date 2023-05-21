@@ -17,11 +17,11 @@ Like aforementioned, you will use the wildy setup for killing revs. You CAN lose
 
 **Note:** If you do revs while and get _smited_, you will lose your entire wildy setup regardless of value/items.
 
-### **Smite Chance** <img src="../.gitbook/assets/Smite.png" alt="" data-size="line">****
+### **Smite Chance** <img src="../.gitbook/assets/Smite.png" alt="" data-size="line">
 
 You have a 1/300 chance to be smited while on a trip. However, if you do not have 5x prayer potion(4), which _you will warned about before embarking_, you have a 1/20 chance to be smited.
 
-### **Death Chance** ![](<../.gitbook/assets/Skull (status) icon.png>)****
+### **Death Chance** ![](<../.gitbook/assets/Skull (status) icon.png>)
 
 Your total death chance is calculated on your **magic defence stat** and your **defence level**. _You always have a minimum base 5% chance to die._ The lowest you can get your total death chance to is 10%.&#x20;
 
@@ -67,7 +67,7 @@ Bracelets of ethereum can be charged (requires 2000 ether) but offers no benefit
 * `/create`` `**`item:`**`bracelet of ethereum`
 * `/create`` `**`item:`**`revenant ether`
 
-#### **Wildy Weapons** ![](<../.gitbook/assets/Viggora's chainmace.png>) **** ![](<../.gitbook/assets/Craw's bow.png>) ![](<../.gitbook/assets/Thammaron's sceptre.png>)
+#### **Wildy Weapons** ![](<../.gitbook/assets/Viggora's chainmace.png>) ![](<../.gitbook/assets/Craw's bow.png>) ![](<../.gitbook/assets/Thammaron's sceptre.png>)
 
 These weapons can be charged which will provide boosts at revs themselves and many other wildy bosses. It costs 7000 ether to charge a wildy weapon. To check the boosts which these items give, please visit the [Boosts & Requirements page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)
 

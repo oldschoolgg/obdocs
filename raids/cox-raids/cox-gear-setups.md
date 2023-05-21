@@ -1,4 +1,4 @@
-# Gear Setups
+# CoX Gear Setups
 
 ## Overview
 
@@ -15,17 +15,33 @@ If you are below 50% of the reference strength bonus, (75) your gear score is ha
 
 ### Reference Setup
 
-![](../../.gitbook/assets/Cox\_melee\_bis.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/Cox_melee_bis.png" alt="">
+
+</div>
 
 ### Alternative Setups
 
-![](https://media.discordapp.net/attachments/847902471271874580/938138879985352744/osbot-8.png)
+<div align="left">
 
-![](https://media.discordapp.net/attachments/847902471271874580/938138182782947348/osbot-7.png)
+<img src="https://media.discordapp.net/attachments/847902471271874580/938138879985352744/osbot-8.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="https://media.discordapp.net/attachments/847902471271874580/938138182782947348/osbot-7.png" alt="">
+
+</div>
 
 An alternative way to get 100% with an Elder Maul although you still require either a Inquisitor's Hauberk or Plateskirt.
 
-![](<../../.gitbook/assets/coxmeleegs (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/coxmeleegs (1).png" alt="">
+
+</div>
 
 This setup will give a gear score of 99.7%, as it has slightly less slash attack compared to the reference setup's crush attack.
 
@@ -36,11 +52,19 @@ If you are below 50% of the reference gear's range strength (44.5), your gear sc
 
 ### Reference Setup
 
-![](<../../.gitbook/assets/coxrange (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/coxrange (1).png" alt="">
+
+</div>
 
 ### Alternative Setup
 
-![](../../.gitbook/assets/coxrangealt.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/coxrangealt.png" alt="">
+
+</div>
 
 Although the twisted bow is equipped in the reference setup, you are not actually required to equip it in order for it to apply a boost to your overall score. Due to this, and due to the twisted bow's mediocre offensive stats, it is trivial to create a setup that will give 100% gear score. This setup is effectively the bare minimum to reach 100%.
 
@@ -51,7 +75,11 @@ If you are below 50% of the reference gear's magic damage, (19%) your gear score
 
 ### Reference Setup
 
-![](../../.gitbook/assets/coxmagereference.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/coxmagereference.png" alt="">
+
+</div>
 
 Due to this setup having the maximum magic damage, as well as close to the maximum magic attack, it is difficult to find alternative setups that would still give 100% gear score, and impossible to obtain 100% gear score without ancestral robes.\
 \
@@ -59,6 +87,10 @@ The harmonised nightmare staff can be replaced with a kodai wand, a staff of the
 
 ### Alternative Setup
 
-![](../../.gitbook/assets/coxmageahrims.png)
+<div align="left">
+
+<img src="../../.gitbook/assets/coxmageahrims.png" alt="">
+
+</div>
 
 This setup requires no rewards from the Chambers of Xeric, and provides a gear score of 97.3%

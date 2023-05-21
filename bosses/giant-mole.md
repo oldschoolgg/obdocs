@@ -7,7 +7,7 @@ description: Magna's favourite Boss
 You can turn in mole parts for nest boxes with the `/sell` command. To sell all at once, don't include any number.
 
 ![](<../.gitbook/assets/Mole claw.png>) `/sell`` `**`items:`**` ``50 mole claw`\
-``![](<../.gitbook/assets/Mole skin.png>)`/sell`` `**`items:`**` ``100 mole skin`
+![](<../.gitbook/assets/Mole skin.png>)`/sell`` `**`items:`**` ``100 mole skin`
 
 {% hint style="danger" %}
 There is <mark style="color:red;">NO CONFIRMATION</mark> for this /sell command.

@@ -14,7 +14,7 @@ You can set birdhouse traps to collect various seeds, rings, and eggs. This can 
 
 **Optimal route for active hunter XP**\
 _Numbers may not be accurate if you're unlucky with RNG_\
-__`/hunt`` `**`name:`**`Polar kebbit`` `**`quantity:`**`23` (to 7+)\
+`/hunt`` `**`name:`**`Polar kebbit`` `**`quantity:`**`23` (to 7+)\
 `/hunt`` `**`name:`**`Feldip weasel` (to 16+)\
 `/hunt`` `**`name:`**`Ruby harvest` (to 25+) (hunt 20 more if needed)\
 `/hunt`` `**`name:`**`Sapphire glacialis`` `**`quantity:`**`200` (to 29+)\

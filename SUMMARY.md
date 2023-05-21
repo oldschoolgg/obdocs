@@ -87,6 +87,7 @@
 * [Mining](skills/mining/README.md)
   * [Mining Training](skills/mining/mining-training.md)
   * [Volcanic Mine](skills/mining/volcanic-mine.md)
+  * [Zalcano](skills/mining/zalcano.md)
   * [Shooting stars](skills/mining/shooting-stars.md)
 * [Prayer](skills/prayer/README.md)
   * [Prayer Training](skills/prayer/prayer-training.md)
@@ -104,6 +105,7 @@
   * [Blast Furnace](skills/smithing/blast-furnace.md)
   * [Giant's Foundry](skills/smithing/giants-foundry.md)
 * [Thieving](skills/thieving/README.md)
+  * [Rogues Den](skills/thieving/rogues-den.md)
   * [Pyramid Plunder](skills/thieving/pyramid-plunder.md)
 * [Woodcutting](skills/woodcutting/README.md)
   * [Woodcutting Training](skills/woodcutting/woodcutting-training.md)
@@ -118,13 +120,11 @@
 * [Gnome Restaurant](minigames/gnome-restaurant.md)
 * [Last Man Standing](minigames/last-man-standing.md)
 * [Pest Control](minigames/pest-control.md)
-* [Rogues Den](minigames/rogues-den.md)
 * [Shades Of Mort'ton](minigames/shades-of-mortton.md)
 * [Soul Wars](minigames/soul-wars.md)
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Trouble Brewing](minigames/trouble-brewing.md)
 * [Warriors Guild](minigames/warriors-guild.md)
-* [Zalcano](minigames/zalcano.md)
 
 ## Miscellaneous
 

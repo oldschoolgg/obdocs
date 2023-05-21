@@ -22,7 +22,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
     * **Efficient**: Use with `always cannon` for the most efficient tasks for Slayer XP.
     * **Boss**: Kills the boss variant or similar, (e.g. Demonic gorillas for Black demon
 
-    ****
+
 *   **Skip your current task:**
 
     * `/slayer manage`` `**`command:`**`skip` - Costs 30 slayer points
@@ -77,7 +77,7 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
     * You will gain half xp for hard diary completion, or full xp for elite diary completion.
     * It must be charged with death runes: `/minion charge`` `**`item:`**` ``Ash sanctifier`
 
-    ****
+
 
     \
 

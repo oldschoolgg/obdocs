@@ -50,6 +50,6 @@ Starting at 30 agility, you can train agility here while making some gp on the s
 | Rellekka                                              | 80                 | 780            | 51           | 55,000    | 14                    |
 | Ardougne                                              | 90                 | 793            | 45.6         | 62,600    | 24                    |
 
-<mark style="color:red;">**\***</mark>** ** - You will receive 10,000gp for each completed lap of the Agility Pyramid.
+<mark style="color:red;">**\***</mark> - You will receive 10,000gp for each completed lap of the Agility Pyramid.
 
 <mark style="color:red;">**\*\***</mark> - You will receive 15 crystal shards per hour from the Prifddinas agility course.

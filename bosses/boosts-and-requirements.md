@@ -34,7 +34,7 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 &#x20;<img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">Armadyl Chainskirt
 
-****
+
 
 **Boosts**
 
@@ -46,7 +46,7 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 {% tab title="General Graardor" %}
 **Requirements**
 
-****<img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
+<img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
 &#x20;<img src="../.gitbook/assets/strength_icon.png" alt="" data-size="line">  70 Strength
 
@@ -70,7 +70,7 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 &#x20;<img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">Armadyl Chainskirt
 
-****
+
 
 **Boosts**
 
@@ -145,7 +145,7 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Guthan's\_helm.png) Guthan's Helm
 
-&#x20; ****  ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
+&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
 
 &#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's Chainskirt
 
@@ -173,7 +173,7 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Guthan's\_helm.png) Guthan's Helm
 
-&#x20; ****  ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
+&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
 
 &#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's Chainskirt
 
@@ -199,7 +199,7 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Guthan's\_helm.png) Guthan's Helm
 
-&#x20; ****  ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
+&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
 
 &#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's Chainskirt
 
@@ -376,7 +376,7 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 ![](../.gitbook/assets/Antidote++\(4\).png)1 Antidote++ (4) per \~12 kills **OR** ![](../.gitbook/assets/Anti-venom\(4\).png) 1 Anti-venom (4) per \~12 kills **OR** ![](../.gitbook/assets/Anti-venom+\(4\).png) 1 Anti-venom+ (4) per \~15 kills
 
-&#x20;****&#x20;
+&#x20;&#x20;
 
 **Boosts**
 
@@ -406,7 +406,7 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 **Boosts**
 
-10% for ![](../.gitbook/assets/Spectral\_spirit\_shield.png) **** Spectral Spirit Shield
+10% for ![](../.gitbook/assets/Spectral\_spirit\_shield.png) Spectral Spirit Shield
 
 5% for ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos Chestplate **OR** 8% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's Hauberk
 
@@ -422,7 +422,7 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 ![](../.gitbook/assets/Brittle\_key.png) Brittle key
 
-****
+
 
 **Boosts**
 
@@ -438,13 +438,13 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 ![](../.gitbook/assets/20px-Slayer\_icon.png) 87 Slayer
 
-****![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** ![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** ![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
 
 
 **Boosts**
 
-5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** 8% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 10% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 10% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 12% for the![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** 15% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 8% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 10% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 10% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 12% for the![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** 15% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
 3% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued Heart
 
@@ -456,17 +456,17 @@ _**Note**: Tridents cannot currently be manually charged._
 
 ![](../.gitbook/assets/20px-Slayer\_icon.png) 93 Slayer
 
-****
+
 
 **Boosts**
 
-5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) **** Trident of the Seas **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 6% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 6% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 8% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 6% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 6% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 8% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
 3% for ![](../.gitbook/assets/Dragon\_dagger.png) Dragon Dagger **OR** 8% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
 
 5% for ![](../.gitbook/assets/Occult\_necklace.png) Occult Necklace
 
-5% for **** ![](../.gitbook/assets/Imbued\_heart.png) Imbued Heart
+5% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued Heart
 
 3% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral Robe Top
 
@@ -504,7 +504,7 @@ None
 {% tab title="Skotizo" %}
 **Requirements**
 
-****![](../.gitbook/assets/Dark\_totem.png) **** 1 Dark Totem (consumed every kill)
+![](../.gitbook/assets/Dark\_totem.png) 1 Dark Totem (consumed every kill)
 
 
 
@@ -592,7 +592,7 @@ None
 
 **Boosts**
 
-6% for **** <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** 10% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow\
+6% for <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** 10% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow\
 15% for ![](../.gitbook/assets/Dragon\_hunter\_lance.png) Dragon Hunter Lance (when training melee) **OR** 15% for ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon Hunter Crossbow (when training range)
 {% endtab %}
 {% endtabs %}
@@ -644,7 +644,7 @@ Minimum 80 Crush Attack
 
 
 **Boosts**\
-****See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) for boosts and more information.
+See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) for boosts and more information.
 {% endtab %}
 
 {% tab title="Rabbit" %}
@@ -693,7 +693,7 @@ None\
 
 <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line"> Armadyl Chestplate
 
-&#x20; ****  <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">  Armadyl Chainskirt
+&#x20; <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">  Armadyl Chainskirt
 
 
 
@@ -703,7 +703,7 @@ None\
 
 16% for ![](../.gitbook/assets/Salve\_amulet\(i\).png) Salve Amulet (i) **OR** 20% for ![](../.gitbook/assets/Salve\_amulet\(ei\).png) Salve Amulet (ei)
 
-8% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws **OR** 13% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line">Bandos Godsword **OR** 13% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line">Dragon Warhammer **OR** 18% **** for <img src="../.gitbook/assets/zcb.png" alt="" data-size="line"> Zaryte Crossbow
+8% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws **OR** 13% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line">Bandos Godsword **OR** 13% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line">Dragon Warhammer **OR** 18% for <img src="../.gitbook/assets/zcb.png" alt="" data-size="line"> Zaryte Crossbow
 {% endtab %}
 
 {% tab title="Zulrah" %}

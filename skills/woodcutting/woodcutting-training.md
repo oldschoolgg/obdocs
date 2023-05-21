@@ -10,8 +10,8 @@
 92 - 99: `/chop`` `**`name:`**`Teak Logs`` `**`powerchop:`**`True`\
 
 
-****![](../../.gitbook/assets/Beaver.png) **If going for pet, powerchop Teak logs for best odds.**\
-****
+![](../../.gitbook/assets/Beaver.png) **If going for pet, powerchop Teak logs for best odds.**\
+
 
 The following table represents xp rates per hour WITHOUT powerchopping.
 

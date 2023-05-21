@@ -23,11 +23,23 @@ If you are a main account, you can sell duplicate items in #grand-exchange or us
 
 #### Post-Barrows Gear
 
-![](../.gitbook/assets/beginnergearmelee.png)
+<div align="left">
 
-![](../.gitbook/assets/beginnergearrange.png)
+<img src="../.gitbook/assets/beginnergearmelee.png" alt="">
 
-![](../.gitbook/assets/beginnergearmage.png)
+</div>
+
+<div align="left">
+
+<img src="../.gitbook/assets/beginnergearrange.png" alt="">
+
+</div>
+
+<div align="left">
+
+<img src="../.gitbook/assets/beginnergearmage.png" alt="">
+
+</div>
 
 This is the gear you should equip after finishing barrows. If you have other items that would fit in these setups, (dks rings, amulets of glory/fury, god books, ava's accumulator, mage arena cape, fire cape, etc.), feel free to equip those as well. This gear should be sufficient for you to kill monsters that use food without melting through it.\
 (If you purchased a Bandos godsword earlier, equip it in your melee setup instead of a Dharok's greataxe)

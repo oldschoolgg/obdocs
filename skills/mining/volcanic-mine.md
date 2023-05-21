@@ -26,7 +26,7 @@ These costs can be reduced with:
 Boosts must be equipped in the skilling setup.
 
 * 30% more points & XP for 61+ mining and dragon pickaxe
-* 50% more points & XP for 71+ mining and [crystal pickaxe](../../minigames/zalcano.md)
+* 50% more points & XP for 71+ mining and [crystal pickaxe](zalcano.md)
 * 2.5% XP for full prospector
 
 If you have all the boosts you should get the following message upon starting a trip. Supply usage can vary depending on your maximum trip length.

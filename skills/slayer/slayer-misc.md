@@ -7,10 +7,10 @@ description: For all the random stuff people keep asking
 ### FAQ
 
 **Q: How do I use an unsired / Chewed bones?**\
-****A: `/offer`` `**`name:`**` ``Unsired` and  `/offer`` `**`name:`**` ``Chewed bones`
+A: `/offer`` `**`name:`**` ``Unsired` and  `/offer`` `**`name:`**` ``Chewed bones`
 
 **Q: What unlocks should I prioritise?**\
-****A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask. ****&#x20;
+A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask.&#x20;
 
 **Q: How do I unlock/create a slayer helm?**\
 A:  `/slayer rewards unlock`` `**`unlockable:`**`Malevolent Masquerade` followed by `/create`` `**`item:`**`Slayer helmet` or  `/create`` `**`item:`**` ``Slayer helmet (i)`. This isn't needed as a black mask can be used for the same boost.
@@ -42,20 +42,32 @@ Individual gear bonuses (e.g. ranged attack, slash defence, etc.) cap at 95% of 
 
 #### Melee
 
-![If you dont have Justiciar you can use Torags, Justiciar just gives a 6.5% food reduction](<../../.gitbook/assets/osbot (4).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/osbot (4).png" alt="If you dont have Justiciar you can use Torags, Justiciar just gives a 6.5% food reduction">
+
+</div>
 
 Currently, only your **slash attack** is taken into account. The 95% threshold for slash attack is 172.9.\
 If you do Jad tasks, it is best to equip a Saradomin Godsword. Otherwise, any godsword can be used, as they all have the same stats.
 
 #### Range
 
-![](<../../.gitbook/assets/osbot (5) (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/osbot (5) (1).png" alt="">
+
+</div>
 
 The 95% threshold for ranged attack is 233.7.
 
 #### Mage
 
-![](<../../.gitbook/assets/osbot (1).png>)
+<div align="left">
+
+<img src="../../.gitbook/assets/osbot (1).png" alt="">
+
+</div>
 
 The 95% threshold for magic attack is 168.15.
 

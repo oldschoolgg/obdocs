@@ -17,7 +17,7 @@ While you can obtain the prospector's outfit by mining gold ore for nuggets (fas
 37-50: Mine Volcanic ash\
 50-71: Mine Iron (For use of Crystal pickaxe)\
 **PICK N MIX UNTIL 99**\
-****Mine Gold ore (fastest and quite profitable)\
+Mine Gold ore (fastest and quite profitable)\
 Mine Gem rocks (best pet chance but much less profitable)\
 Mine Amethyst from 92-99 (with expert mining gloves)\
 Zalcano (12-16k xp/hr)
