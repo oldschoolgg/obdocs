@@ -125,6 +125,7 @@
 * [Temple Trekking](minigames/temple-trekking.md)
 * [Trouble Brewing](minigames/trouble-brewing.md)
 * [Warriors Guild](minigames/warriors-guild.md)
+* [Skilling Minigames](minigames/skilling-minigames.md)
 
 ## Miscellaneous
 
