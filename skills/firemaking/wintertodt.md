@@ -14,11 +14,11 @@ You can train Firemaking via the Wintertodt minigame using the command below. Yo
 ## Boosts
 
 * Up to 10% for your Woodcutting level (0.1% each level)
-* Up to 37.5% food reduction for warm clothing
+* Up to 37.5% food reduction for warm clothing equipped in the skilling setup
 
 ## Warm Clothing
 
-While optional, it is highly advised to wear **at least 4 pieces** of warm clothing to reduce your food consumption by up to 37.5%. This will take your food consumption down from 160hp/kill, to 100hp/kill. The easiest warm gear you can obtain on the bot is Clue hunter, to do this see [Crack The Clue](../../miscellaneous/crack-the-clue.md). Warm clothes can be a combination of anything from the following list:
+While optional, it is highly advised to wear **at least 4 pieces** of warm clothing in your skilling setup to reduce your food consumption by up to 37.5%. This will take your food consumption down from 160hp/kill, to 100hp/kill. The easiest warm gear you can obtain on the bot is Clue hunter, to do this see [Crack The Clue](../../miscellaneous/crack-the-clue.md). Warm clothes can be a combination of anything from the following list:
 
 <details>
 
