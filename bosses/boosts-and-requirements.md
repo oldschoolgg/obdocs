@@ -229,7 +229,8 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Verac's\_helm.png)  Verac's Helm
 
-![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard\
+![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard
+
 &#x20;![](../.gitbook/assets/Verac's\_plateskirt.png) Verac's Plateskirt
 
 &#x20;![](../.gitbook/assets/Verac's\_flail.png)  Verac's Chainmace
@@ -268,7 +269,8 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Verac's\_helm.png)  Verac's Helm
 
-![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard\
+![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard
+
 &#x20;![](../.gitbook/assets/Verac's\_plateskirt.png) Verac's Plateskirt
 
 &#x20;![](../.gitbook/assets/Verac's\_flail.png)  Verac's Chainmace
@@ -287,7 +289,8 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Verac's\_helm.png)  Verac's Helm
 
-![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard\
+![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard
+
 &#x20;![](../.gitbook/assets/Verac's\_plateskirt.png) Verac's Plateskirt
 
 &#x20;![](../.gitbook/assets/Verac's\_flail.png)  Verac's Chainmace
@@ -647,6 +650,44 @@ Minimum 80 Crush Attack
 See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) for boosts and more information.
 {% endtab %}
 
+{% tab title="Phantom Muspah" %}
+**Requirements**
+
+Tumeken's shadow (15%) OR Sanguinesti staff (10%) OR Trident of the swamp (5%)
+
+&#x20;\- Staffs must be equipped and charged with appropriate runes for boost to apply
+
+
+
+**Boosts**
+
+2% for Imbued heart OR 4% for Saturated heart
+
+10% for Twisted bow
+
+6% for Amethyst arrows OR 10% for Dragon arrows
+
+3% for Masori body OR 6% for Masori body (f)
+
+3% for Masori chaps OR 6% for Masori chaps (f)
+
+6% for Sanguinesti staff OR 11% for Tumeken's shadow
+
+6% for Ancestral robe top
+
+6% for Ancestral robe bottom
+
+3% for Ava's assembler
+
+3% for Zaryte vambraces
+
+3% for Pegasian boots
+
+3% for Eternal boots
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
 {% tab title="Rabbit" %}
 **Requirements**
 
@@ -663,9 +704,7 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 None\
 
 {% endtab %}
-{% endtabs %}
 
-{% tabs %}
 {% tab title="Sarachnis" %}
 **Requirements**
 
@@ -703,7 +742,7 @@ None\
 
 16% for ![](../.gitbook/assets/Salve\_amulet\(i\).png) Salve Amulet (i) **OR** 20% for ![](../.gitbook/assets/Salve\_amulet\(ei\).png) Salve Amulet (ei)
 
-8% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws **OR** 13% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line">Bandos Godsword **OR** 13% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line">Dragon Warhammer **OR** 18% for <img src="../.gitbook/assets/zcb.png" alt="" data-size="line"> Zaryte Crossbow
+8% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws **OR** 13% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line"> Bandos Godsword **OR** 13% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line"> Dragon Warhammer **OR** 18% for <img src="../.gitbook/assets/zcb.png" alt="" data-size="line"> Zaryte Crossbow
 {% endtab %}
 
 {% tab title="Zulrah" %}

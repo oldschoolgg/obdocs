@@ -1,6 +1,6 @@
 # Questing
 
-There are various activities within the bot that require a specific amount of quest points to access. These requirements mimic the real requirements in OSRS. Every questing trip is 30 minutes long. The maximum amount of quest points you can currently collect is: 290.
+There are various activities within the bot that require a specific amount of quest points to access. These requirements mimic the real requirements in OSRS. Every questing trip is 30 minutes long. The maximum amount of quest points you can currently collect is: 293.
 
 To start questing, use the following command:
 
@@ -11,7 +11,7 @@ To start questing, use the following command:
 * The amount of quest points given per trip is as follows:
   * 1-3 - Between 1-99QP
   * 1-2 - Between 100-199QP
-  * 1 - Between 200-290QP
+  * 1 - Between 200-293QP
 * It takes approximately \~115 hours to complete the quest cape.
 * If you have level 1 Herblore and complete a questing trip, you have a 50% chance to be given 250xp in Herblore to allow your minion to start the Herblore skill.
 * If you have level 1 Magic and complete a questing trip, you have a 50% chance to be given 325xp in Magic for theoretical completion of Witch's Potion.
@@ -28,102 +28,4 @@ This section will detail the unlocks of certain activities which require quest p
 
 **NOTE -** There are a large number of buyables that require quest points to purchase that will not be listed here. Please check out the _quest items_ on the [buyables page](buyables.md) for more info.
 
-|                                     |                           |
-| ----------------------------------- | :-----------------------: |
-| **Activity/Item**                   | **Required Quest Points** |
-| Mazchna slayer master               |             1             |
-| Fishing Minnows                     |             1             |
-| Additional Herb patch (Canifis)     |             1             |
-| Killing Dagannoths (not DKs)        |             2             |
-| Using Box traps                     |             2             |
-| Chaeldar slayer master              |             3             |
-| Crafting/Setting Birdhouses         |             3             |
-| Additional Bush patch               |             3             |
-| Unlock Seaweed patches              |             3             |
-| Unlock Hardwood patches             |             3             |
-| Creating Zammy hasta                |             3             |
-| Killing Zygomites                   |             3             |
-| Killing Spiritual mage/ranger       |             3             |
-| Killing Fossil island wyverns       |             3             |
-| Hunting Herbiboar                   |             3             |
-| Collecting Snake week               |             3             |
-| Killing Killerwatts                 |             4             |
-| Killing Brine rats                  |             4             |
-| Creating Gold helmet                |             4             |
-| Creating Neitiznot shield           |             4             |
-| Buying a Cannon                     |             5             |
-| Creating God Books                  |             5             |
-| Runecrafting Cosmic runes           |             5             |
-| KIlling Fever spiders               |             7             |
-| Killing Scarab mages                |             7             |
-| Offering Long/Curved bones          |             8             |
-| Killing Molanisks                   |             8             |
-| The Nightmare                       |             10            |
-| Runecrafting Law runes              |             10            |
-| Runecrafting Death runes            |             10            |
-| Additional Herb patch (Trollheim)   |             10            |
-| Killing Jungle horrors              |             11            |
-| Killing Cave horrors                |             11            |
-| KIlling Suqahs                      |             12            |
-| Killing Elf warriors                |             12            |
-| Killing Dust devils                 |             12            |
-| Buying Canifis clothing             |             15            |
-| Fishing Raw karambwanji             |             15            |
-| Additional Herb patch (Harm island) |             15            |
-| Collecting White berries            |             22            |
-| Killing Dark beasts                 |             24            |
-| Buying Goldsmith gauntlets          |             25            |
-| Buying Cooking gauntlets            |             25            |
-| Buying Iban's staff                 |             30            |
-| Creating Ava's Accumulator          |             30            |
-| Collecting Buckets of sand          |             30            |
-| Additional Herb patch (Weiss)       |             31            |
-| Collecting Mort myre fungus         |             32            |
-| Additional Flower patch             |             33            |
-| Unlock Crystal tree patch           |             33            |
-| Killing dragons (except rune/addy)  |             34            |
-| Buying Anti-dragon shield           |             35            |
-| Creature Creation                   |             35            |
-| Fishing Raw anglerfish              |             40            |
-| Buying Magic secateurs              |             40            |
-| Tears of Guthix                     |             43            |
-| All castables (except teleports)    |             50            |
-| Plank-making boost (Wc guild)       |             50            |
-| Fremennik diary                     |             50            |
-| Buying Fremennik clothing           |             55            |
-| Buying Salve amulet                 |             58            |
-| Unlock Hosidius farm patch          |             60            |
-| Collecting Snape grass              |             72            |
-| Killing any GWD boss                |             75            |
-| Creating Ivandis flail              |             75            |
-| Killing Zulrah                      |             75            |
-| Ape Atoll Agility course            |             82            |
-| Fishing Raw monkfish                |            100            |
-| Collecting Tarn's diary             |            100            |
-| Elite Ardougne diary                |            107            |
-| Buying Shield right half            |            111            |
-| Creating Dragon sq shield           |            111            |
-| Creating Gold bowl                  |            111            |
-| Killing Shadow Warriors             |            111            |
-| Creating Blisterwood flail          |            125            |
-| Zalcano                             |            150            |
-| Creating Crystal items              |            150            |
-| Reverting Crystal items             |            150            |
-| Buying Barrows gloves               |            175            |
-| Hunting Maniacal monkey             |            175            |
-| Gauntlet                            |            200            |
-| Runecrafting Wrath runes            |            200            |
-| Pickpocketing Elves                 |            200            |
-| Buying Dragon metal shard           |            205            |
-| Mixing Super antifires              |            205            |
-| Mixing Extended super antifires     |            205            |
-| Prifddinas rooftop course           |            205            |
-| Creating Ava's assembler            |            205            |
-| Creating Dragon kiteshield          |            205            |
-| Creating Dragon platebody           |            205            |
-| Killing Prifddinas Rabbit           |            205            |
-| Vorkath                             |            205            |
-| Killing Adamant dragons             |            205            |
-| Killing Rune dragons                |            205            |
-| Elite Lumbridge & Draynor diary     |            290            |
-| Buying Quest point cape             |            290            |
+<table><thead><tr><th width="150"></th><th width="163.91817736403726" align="center"></th></tr></thead><tbody><tr><td><strong>Activity/Item</strong></td><td align="center"><strong>Required Quest Points</strong></td></tr><tr><td>Mazchna slayer master</td><td align="center">1</td></tr><tr><td>Fishing Minnows</td><td align="center">1</td></tr><tr><td>Additional Herb patch (Canifis)</td><td align="center">1</td></tr><tr><td>Killing Dagannoths (not DKs)</td><td align="center">2</td></tr><tr><td>Using Box traps</td><td align="center">2</td></tr><tr><td>Chaeldar slayer master</td><td align="center">3</td></tr><tr><td>Crafting/Setting Birdhouses</td><td align="center">3</td></tr><tr><td>Additional Bush patch</td><td align="center">3</td></tr><tr><td>Unlock Seaweed patches</td><td align="center">3</td></tr><tr><td>Unlock Hardwood patches</td><td align="center">3</td></tr><tr><td>Creating Zammy hasta</td><td align="center">3</td></tr><tr><td>Killing Zygomites</td><td align="center">3</td></tr><tr><td>Killing Spiritual mage/ranger</td><td align="center">3</td></tr><tr><td>Killing Fossil island wyverns</td><td align="center">3</td></tr><tr><td>Hunting Herbiboar</td><td align="center">3</td></tr><tr><td>Collecting Snake week</td><td align="center">3</td></tr><tr><td>Killing Killerwatts</td><td align="center">4</td></tr><tr><td>Killing Brine rats</td><td align="center">4</td></tr><tr><td>Creating Gold helmet</td><td align="center">4</td></tr><tr><td>Creating Neitiznot shield</td><td align="center">4</td></tr><tr><td>Buying a Cannon</td><td align="center">5</td></tr><tr><td>Creating God Books</td><td align="center">5</td></tr><tr><td>Runecrafting Cosmic runes</td><td align="center">5</td></tr><tr><td>KIlling Fever spiders</td><td align="center">7</td></tr><tr><td>Killing Scarab mages</td><td align="center">7</td></tr><tr><td>Offering Long/Curved bones</td><td align="center">8</td></tr><tr><td>Killing Molanisks</td><td align="center">8</td></tr><tr><td>The Nightmare</td><td align="center">10</td></tr><tr><td>Runecrafting Law runes</td><td align="center">10</td></tr><tr><td>Runecrafting Death runes</td><td align="center">10</td></tr><tr><td>Additional Herb patch (Trollheim)</td><td align="center">10</td></tr><tr><td>Killing Jungle horrors</td><td align="center">11</td></tr><tr><td>Killing Cave horrors</td><td align="center">11</td></tr><tr><td>KIlling Suqahs</td><td align="center">12</td></tr><tr><td>Killing Elf warriors</td><td align="center">12</td></tr><tr><td>Killing Dust devils</td><td align="center">12</td></tr><tr><td>Buying Canifis clothing</td><td align="center">15</td></tr><tr><td>Fishing Raw karambwanji</td><td align="center">15</td></tr><tr><td>Additional Herb patch (Harm island)</td><td align="center">15</td></tr><tr><td>Collecting White berries</td><td align="center">22</td></tr><tr><td>Killing Dark beasts</td><td align="center">24</td></tr><tr><td>Buying Goldsmith gauntlets</td><td align="center">25</td></tr><tr><td>Buying Cooking gauntlets</td><td align="center">25</td></tr><tr><td>Buying Iban's staff</td><td align="center">30</td></tr><tr><td>Creating Ava's Accumulator</td><td align="center">30</td></tr><tr><td>Collecting Buckets of sand</td><td align="center">30</td></tr><tr><td>Additional Herb patch (Weiss)</td><td align="center">31</td></tr><tr><td>Collecting Mort myre fungus</td><td align="center">32</td></tr><tr><td>Additional Flower patch</td><td align="center">33</td></tr><tr><td>Unlock Crystal tree patch</td><td align="center">33</td></tr><tr><td>Killing dragons (except rune/addy)</td><td align="center">34</td></tr><tr><td>Buying Anti-dragon shield</td><td align="center">35</td></tr><tr><td>Creature Creation</td><td align="center">35</td></tr><tr><td>Fishing Raw anglerfish</td><td align="center">40</td></tr><tr><td>Buying Magic secateurs</td><td align="center">40</td></tr><tr><td>Tears of Guthix</td><td align="center">43</td></tr><tr><td>All castables (except teleports)</td><td align="center">50</td></tr><tr><td>Plank-making boost (Wc guild)</td><td align="center">50</td></tr><tr><td>Fremennik diary</td><td align="center">50</td></tr><tr><td>Buying Fremennik clothing</td><td align="center">55</td></tr><tr><td>Buying Salve amulet</td><td align="center">58</td></tr><tr><td>Unlock Hosidius farm patch</td><td align="center">60</td></tr><tr><td>Collecting Snape grass</td><td align="center">72</td></tr><tr><td>Killing any GWD boss</td><td align="center">75</td></tr><tr><td>Creating Ivandis flail</td><td align="center">75</td></tr><tr><td>Killing Zulrah</td><td align="center">75</td></tr><tr><td>Ape Atoll Agility course</td><td align="center">82</td></tr><tr><td>Fishing Raw monkfish</td><td align="center">100</td></tr><tr><td>Collecting Tarn's diary</td><td align="center">100</td></tr><tr><td>Elite Ardougne diary</td><td align="center">107</td></tr><tr><td>Buying Shield right half</td><td align="center">111</td></tr><tr><td>Creating Dragon sq shield</td><td align="center">111</td></tr><tr><td>Creating Gold bowl</td><td align="center">111</td></tr><tr><td>Killing Shadow Warriors</td><td align="center">111</td></tr><tr><td>Creating Blisterwood flail</td><td align="center">125</td></tr><tr><td>Zalcano</td><td align="center">150</td></tr><tr><td>Creating Crystal items</td><td align="center">150</td></tr><tr><td>Reverting Crystal items</td><td align="center">150</td></tr><tr><td>Buying Barrows gloves</td><td align="center">175</td></tr><tr><td>Hunting Maniacal monkey</td><td align="center">175</td></tr><tr><td>Gauntlet </td><td align="center">200</td></tr><tr><td>Runecrafting Wrath runes</td><td align="center">200</td></tr><tr><td>Pickpocketing Elves</td><td align="center">200</td></tr><tr><td>Buying Dragon metal shard</td><td align="center">205</td></tr><tr><td>Mixing Super antifires</td><td align="center">205</td></tr><tr><td>Mixing Extended super antifires</td><td align="center">205</td></tr><tr><td>Prifddinas rooftop course</td><td align="center">205</td></tr><tr><td>Creating Ava's assembler</td><td align="center">205</td></tr><tr><td>Creating Dragon kiteshield</td><td align="center">205</td></tr><tr><td>Creating Dragon platebody</td><td align="center">205</td></tr><tr><td>Killing Prifddinas Rabbit</td><td align="center">205</td></tr><tr><td>Vorkath</td><td align="center">205</td></tr><tr><td>Killing Adamant dragons</td><td align="center">205</td></tr><tr><td>Killing Rune dragons</td><td align="center">205</td></tr><tr><td>Elite Lumbridge &#x26; Draynor diary</td><td align="center">293</td></tr><tr><td>Buying Quest point cape</td><td align="center">293</td></tr></tbody></table>

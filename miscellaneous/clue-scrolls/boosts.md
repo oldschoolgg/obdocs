@@ -10,6 +10,7 @@
 
 * Achievement diary cape - 10%
 * Kandarin headgear 4 - 6% (Doesn't stack with Achievement diary cape)
+* Music cape - 5%
 * Eternal teleport crystal - 3%
 * Toxic blowpipe - 2%
 * Dragon claws - 1%
@@ -47,20 +48,7 @@
 
 ## Sources
 
-| Item                                    | Source                                                              | Req                                                                                                 |
-| --------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Max cape (combined varients won't work) | `/buy name:Max cape`                                                | 99 all skills                                                                                       |
-| Construction Cape                       | `/buy name:Construction cape`                                       | 99 Construction                                                                                     |
-| Jewellery box                           | [See below](boosts.md#jewellery-box)                                |                                                                                                     |
-| Achievement diary cape                  | `/buy name: Achievement diary cape`                                 | All elite diarys complete                                                                           |
-| Kandarin headgear 4                     | `/buy name: Kandarin headgear 4`                                    | Kandarin elite diary complete                                                                       |
-| Fremennik sea boots 4                   | `/buy name: Fremennik sea boots 4`                                  | Fremennik elite diary complete                                                                      |
-| Wilderness sword 3                      | `/buy name: Wilderness sword 3`                                     | Wilderness hard diary complete                                                                      |
-| Eternal teleport crystal                | `/create name: Eternal teleport crystal`                            | 150 QP, 80 Smithing, 80 Crafting. 100 Crystal shard, 1 Enhanced crystal teleport seed               |
-| Blowpipe                                | [See Zulrah page for creation](../../bosses/zulrah.md#unique-items) |                                                                                                     |
-| Dragon claws                            | [Chambers of Xeric](../../raids/cox-raids/#loot)                    |                                                                                                     |
-| Pharaoh's sceptre                       | [Pyramid plunder](../../skills/thieving/pyramid-plunder.md#rewards) |                                                                                                     |
-| Ring of the elements                    | `/buy name:Ring of the elements`                                    | 400 Abyssal pearls from [Guardians of the Rift](../../skills/runecrafting/guardians-of-the-rift.md) |
+<table><thead><tr><th width="210.33333333333331">Item</th><th width="258">Source</th><th>Req</th></tr></thead><tbody><tr><td>Max cape (combined varients won't work)</td><td><code>/buy name:Max cape</code></td><td>99 all skills</td></tr><tr><td>Construction cape</td><td><code>/buy name:Construction cape</code></td><td>99 Construction</td></tr><tr><td>Music cape</td><td><code>/buy name:Music cape</code></td><td>See <a href="../music-cape.md">Music cape</a> page for reqs</td></tr><tr><td>Jewellery box</td><td><a href="boosts.md#jewellery-box">See below</a></td><td></td></tr><tr><td>Achievement diary cape</td><td><code>/buy name: Achievement diary cape</code></td><td>All elite diarys complete</td></tr><tr><td>Kandarin headgear 4</td><td><code>/buy name: Kandarin headgear 4</code></td><td>Kandarin elite diary complete</td></tr><tr><td>Fremennik sea boots 4</td><td><code>/buy name: Fremennik sea boots 4</code></td><td>Fremennik elite diary complete</td></tr><tr><td>Wilderness sword 3</td><td><code>/buy name: Wilderness sword 3</code></td><td>Wilderness hard diary complete</td></tr><tr><td>Eternal teleport crystal </td><td><code>/create name: Eternal teleport crystal</code></td><td>150 QP, 80 Smithing, 80 Crafting. 100 Crystal shard, 1 Enhanced crystal teleport seed </td></tr><tr><td>Blowpipe</td><td><a href="../../bosses/zulrah.md#unique-items">See Zulrah page for creation</a></td><td></td></tr><tr><td>Dragon claws</td><td><a href="../../raids/cox-raids/#loot">Chambers of Xeric</a></td><td></td></tr><tr><td>Pharaoh's sceptre</td><td><a href="../../skills/thieving/pyramid-plunder.md#rewards">Pyramid plunder</a></td><td></td></tr><tr><td>Ring of the elements</td><td><code>/buy name:Ring of the elements</code></td><td>400 Abyssal pearls from <a href="../../skills/runecrafting/guardians-of-the-rift.md">Guardians of the Rift</a></td></tr></tbody></table>
 
 ## Jewellery box
 
