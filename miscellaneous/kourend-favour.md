@@ -6,14 +6,7 @@ For Shayzien and Arceeus favour you can use the argument `no_stams:True`, this w
 
 The below table shows a summary of stat and item requirements, along with time to complete 100% favour.&#x20;
 
-|                |                                                      |                                                                            |                         |
-| -------------- | ---------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------- |
-| **House Name** | **Required Items**                                   | **Required Stats**                                                         | **Time For Completion** |
-| Arceuus        | 2 x Stamina potion(4)                                | None                                                                       | 60 minutes              |
-| Hosidius       | <p>950 Compost<br>950 Saltpetre</p>                  | None                                                                       | 40 minutes              |
-| Lovakengj      | None                                                 | <p>65 Mining<br>73 Smithing</p>                                            | 200 minutes             |
-| Piscarilius    | <p>45 Plank<br>25 Steel Bar</p>                      | <p>30 Crafting<br>15 Hunter</p>                                            | 120 minutes             |
-| Shayzien       | <p>2 x Stamina potion(4)<br>2 x Prayer potion(4)</p> | <p>50 Attack<br>50 Strength<br>50 Defence<br>50 Hitpoints<br>43 Prayer</p> | 60 minutes              |
+<table><thead><tr><th width="161"></th><th></th><th width="185"></th><th></th></tr></thead><tbody><tr><td><strong>House Name</strong></td><td><strong>Required Items</strong></td><td><strong>Required Stats</strong></td><td><strong>Time For Completion</strong></td></tr><tr><td>Arceuus</td><td>2 x Stamina potion(4)</td><td>None</td><td>60 minutes</td></tr><tr><td>Hosidius</td><td>950 Compost<br>950 Saltpetre</td><td>None</td><td>40 minutes</td></tr><tr><td>Lovakengj</td><td>None</td><td>65 Mining<br>73 Smithing</td><td>200 minutes</td></tr><tr><td>Piscarilius</td><td>45 Plank<br>25 Steel Bar</td><td>30 Crafting<br>15 Hunter</td><td>120 minutes</td></tr><tr><td>Shayzien</td><td>2 x Stamina potion(4)<br>2 x Prayer potion(4)</td><td>50 Attack<br>50 Strength<br>50 Defence<br>50 Hitpoints<br>43 Prayer</td><td>60 minutes</td></tr></tbody></table>
 
 ## Activities Requiring Favour
 

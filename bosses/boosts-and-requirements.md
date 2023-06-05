@@ -441,15 +441,15 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 ![](../.gitbook/assets/20px-Slayer\_icon.png) 87 Slayer
 
-![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** ![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** ![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the Swamp **OR** ![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti Staff **OR** ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
 
 
 **Boosts**
 
-5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 8% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 10% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 10% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 12% for the![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** 15% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 8% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 10% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 10% for the![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the Swamp **OR** 12% for the![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti Staff **OR** 15% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
-3% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued Heart
+3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart
 
 _**Note**: Tridents cannot currently be manually charged._
 {% endtab %}
@@ -463,13 +463,13 @@ _**Note**: Tridents cannot currently be manually charged._
 
 **Boosts**
 
-5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 6% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 6% for the![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the Swamp **OR** 8% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 6% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 6% for the![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the Swamp **OR** 8% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
 3% for ![](../.gitbook/assets/Dragon\_dagger.png) Dragon Dagger **OR** 8% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
 
 5% for ![](../.gitbook/assets/Occult\_necklace.png) Occult Necklace
 
-5% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued Heart
+5% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart
 
 3% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral Robe Top
 
@@ -651,39 +651,37 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 {% endtab %}
 
 {% tab title="Phantom Muspah" %}
-**Requirements**
+**Requirements **<mark style="color:red;">**(Must be equipped in magic setup and charged)**</mark>
 
-Tumeken's shadow (15%) OR Sanguinesti staff (10%) OR Trident of the swamp (5%)
-
-&#x20;\- Staffs must be equipped and charged with appropriate runes for boost to apply
+<img src="../.gitbook/assets/Tumeken&#x27;s_shadow (1).png" alt="" data-size="original"> Tumeken's shadow **OR** ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti staff **OR** ![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the swamp
 
 
 
-**Boosts**
+**Boosts **<mark style="color:red;">**(Must be equipped in respective setup)**</mark>
 
-2% for Imbued heart OR 4% for Saturated heart
+2% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued heart **OR** 4% for ![](../.gitbook/assets/Saturated\_heart.png) Saturated heart
 
-10% for Twisted bow
+10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow
 
-6% for Amethyst arrows OR 10% for Dragon arrows
+6% for ![](../.gitbook/assets/Amethyst\_arrow\_5.png) Amethyst arrows **OR** 10% for ![](../.gitbook/assets/Dragon\_arrow\_5.png) Dragon arrows
 
-3% for Masori body OR 6% for Masori body (f)
+3% for ![](../.gitbook/assets/Masori\_body.png) Masori body **OR** 6% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f)
 
-3% for Masori chaps OR 6% for Masori chaps (f)
+3% for ![](../.gitbook/assets/Masori\_chaps.png) Masori chaps **OR** 6% for ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps (f)
 
-6% for Sanguinesti staff OR 11% for Tumeken's shadow
+6% for ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti staff **OR** 11% for ![](<../.gitbook/assets/Tumeken's\_shadow (1).png>) Tumeken's shadow
 
-6% for Ancestral robe top
+6% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral robe top
 
-6% for Ancestral robe bottom
+6% for ![](../.gitbook/assets/Ancestral\_robe\_bottom.png) Ancestral robe bottom
 
-3% for Ava's assembler
+3% for ![](../.gitbook/assets/Ava's\_assembler.png) Ava's assembler
 
-3% for Zaryte vambraces
+3% for ![](../.gitbook/assets/Zaryte\_vambraces.png) Zaryte vambraces
 
-3% for Pegasian boots
+3% for ![](../.gitbook/assets/Pegasian\_boots.png) Pegasian boots
 
-3% for Eternal boots
+3% for ![](../.gitbook/assets/Eternal\_boots.png) Eternal boots
 {% endtab %}
 {% endtabs %}
 
@@ -758,13 +756,13 @@ None\
 
 2% for <img src="../.gitbook/assets/Magic_shortbow.png" alt="" data-size="line"> Magic Shortbow **OR** 3% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of Faerdhinen (c) **OR** 4% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic Blowpipe **OR** 5% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
 
-1% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's Staff **OR** 2% for ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas (full) **OR** 4% for ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti Staff **OR** 5% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff&#x20;
+1% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's Staff **OR** 2% for ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas (full) **OR** 4% for ![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti Staff **OR** 5% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff&#x20;
 
 4% for <img src="../.gitbook/assets/170px-pegasian_boots_detail.png" alt="" data-size="line"> Pegasian Boots **OR** 2% for <img src="../.gitbook/assets/ranger-boots.png" alt="" data-size="line"> Ranger Boots
 
 3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
 
-3% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued Heart
+3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart
 
 2% for ![](../.gitbook/assets/Ancestral\_hat.png) Ancestral Hat
 

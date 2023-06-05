@@ -25,14 +25,7 @@ Much like ensouled heads, you can obtain demonic ashes through slayer and other 
 * They can be **offered** through the use of the `/activities cast`` `**`spell:`**` ``Demonic offering` command which will grant various amounts of prayer xp depending on the type of the ashes offered.
 * They can be **scattered** through the use of the `/activities scatter`` `**`name:`** command. This requires no items or runes. It gives the full xp regardless of the diary level completed.
 
-|                   |                            |                              |                                                         |
-| ----------------- | :------------------------: | ---------------------------- | :-----------------------------------------------------: |
-| **Type of Ashes** | **Xp Received (Offering)** | **Xp Received (Scattering)** |               **Spell cost per offering**               |
-| Fiendish ashes    |             90             | 10                           |  <p>1 Soul Rune<br>1 Wrath Rune<br>3 Fiendish ashes</p> |
-| Vile ashes        |             225            | 25                           |    <p>1 Soul Rune<br>1 Wrath Rune<br>3 Vile ashes</p>   |
-| Malicious ashes   |             585            | 65                           | <p>1 Soul Rune<br>1 Wrath Rune<br>3 Malicious ashes</p> |
-| Abyssal ashes     |             765            | 85                           |  <p>1 Soul Rune<br>1 Wrath Rune<br>3 Abyssal ashes</p>  |
-| Infernal ashes    |             990            | 110                          |  <p>1 Soul Rune<br>1 Wrath Rune<br>3 Infernal ashes</p> |
+<table><thead><tr><th width="187"></th><th width="152" align="center"></th><th width="149" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Type of Ashes</strong></td><td align="center"><strong>Xp Received (Offering)</strong></td><td align="center"><strong>Xp Received (Scattering)</strong></td><td><strong>Spell cost per offering</strong></td></tr><tr><td>Fiendish ashes</td><td align="center">90</td><td align="center">10</td><td>1 Soul Rune<br>1 Wrath Rune<br>3 Fiendish ashes</td></tr><tr><td>Vile ashes</td><td align="center">225</td><td align="center">25</td><td>1 Soul Rune<br>1 Wrath Rune<br>3 Vile ashes</td></tr><tr><td>Malicious ashes</td><td align="center">585</td><td align="center">65</td><td>1 Soul Rune<br>1 Wrath Rune<br>3 Malicious ashes</td></tr><tr><td>Abyssal ashes</td><td align="center">765</td><td align="center">85</td><td>1 Soul Rune<br>1 Wrath Rune<br>3 Abyssal ashes</td></tr><tr><td>Infernal ashes</td><td align="center">990</td><td align="center">110</td><td>1 Soul Rune<br>1 Wrath Rune<br>3 Infernal ashes</td></tr></tbody></table>
 
 ## Ash Sanctifier
 

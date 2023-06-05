@@ -12,45 +12,7 @@ To use any of the following spells, use the `/activities cast` command.
 
 * E.g. `/activities cast`` `**`spell:`**` ``Camelot Teleport`` `**`quantity:`**` ``100`
 
-|                                                        |                     |                            |
-| ------------------------------------------------------ | :-----------------: | -------------------------- |
-| **Spell**                                              | **Levels Required** | **Notes**                  |
-| Bones to bananas                                       |       15 Magic      | Converts 25 bones/cast     |
-| Varrock teleport                                       |       25 Magic      | -                          |
-| Lumbridge teleport                                     |       31 Magic      | -                          |
-| Falador teleport                                       |       37 Magic      | -                          |
-| Camelot teleport                                       |       45 Magic      | -                          |
-| Spin flax                                              | 76 Magic + 10 Craft | Spins 5 flax/cast          |
-| Tan green dragon leather                               |       78 Magic      | Tans 5 green d'hide/cast   |
-| Tan blue dragon leather                                |       78 Magic      | Tans 5 blue d'hide/cast    |
-| Tan red dragon leather                                 |       78 Magic      | Tans 5 red d'hide/cast     |
-| Tan black dragon leather                               |       78 Magic      | Tans 5 black d'hide/cast   |
-| String gold                                            |  80 Magic + 8 Craft | Strings 1 item/cast        |
-| String sapphire                                        | 80 Magic + 24 Craft | Strings 1 item/cast        |
-| String emerald                                         | 80 Magic + 31 Craft | Strings 1 item/cast        |
-| String ruby                                            | 80 Magic + 50 Craft | Strings 1 item/cast        |
-| String diamond                                         | 80 Magic + 70 Craft | Strings 1 item/cast        |
-| String dragonstone                                     | 80 Magic + 80 Craft | Strings 1 item/cast        |
-| String onyx                                            | 80 Magic + 90 Craft | Strings 1 item/cast        |
-| Plank make logs                                        |       86 Magic      | Costs 70gp/plank           |
-| Plank make oak                                         |       86 Magic      | Costs 175gp/plank          |
-| Plank make teak                                        |       86 Magic      | Costs 350gp/plank          |
-| Plank make mahogany                                    |       86 Magic      | Costs 1050gp/plank         |
-| Recharge glory                                         |       89 Magic      | Recharges 25 items/cast    |
-| Recharge combat bracelet                               |       89 Magic      | Recharges 25 items/cast    |
-| Recharge skills necklace                               |       89 Magic      | Recharges 25 items/cast    |
-| Superglass make giant seaweed                          | 77 Magic + 61 Craft | Makes 29 molten glass/cast |
-| Superglass make seaweed                                | 77 Magic + 61 Craft | Makes 17 molten glass/cast |
-| Superglass make soda ash                               | 77 Magic + 61 Craft | Makes 17 molten glass/cast |
-| Charge water orb<mark style="color:red;">**\***</mark> |       56 Magic      | 20% boost for graceful     |
-| Charge earth orb                                       |       60 Magic      | 20% boost for graceful     |
-| Charge fire orb<mark style="color:red;">**\***</mark>  |       63 Magic      | 20% boost for graceful     |
-| Charge air orb                                         |       66 Magic      | 20% boost for graceful     |
-| Demonic offering fiendish                              |       84 Magic      | Offers 3 fiendish ashes    |
-| Demonic offering vile                                  |       84 Magic      | Offers 3 vile ashes        |
-| Demonic offering malicious                             |       84 Magic      | Offers 3 malicious ashes   |
-| Demonic offering abyssal                               |       84 Magic      | Offers 3 abyssal ashes     |
-| Demonic offering infernal                              |       84 Magic      | Offers 3 infernal ashes    |
+<table><thead><tr><th width="255.25648323551906"></th><th width="153" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Spell</strong></td><td align="center"><strong>Levels Required</strong></td><td><strong>Notes</strong></td></tr><tr><td>Bones to bananas</td><td align="center">15 Magic</td><td>Converts 25 bones/cast</td></tr><tr><td>Varrock teleport</td><td align="center">25 Magic</td><td>-</td></tr><tr><td>Lumbridge teleport</td><td align="center">31 Magic</td><td>-</td></tr><tr><td>Falador teleport</td><td align="center">37 Magic</td><td>-</td></tr><tr><td>Camelot teleport</td><td align="center">45 Magic</td><td>-</td></tr><tr><td>Spin flax</td><td align="center">76 Magic + 10 Craft</td><td>Spins 5 flax/cast</td></tr><tr><td>Tan green dragon leather</td><td align="center">78 Magic</td><td>Tans 5 green d'hide/cast</td></tr><tr><td>Tan blue dragon leather</td><td align="center">78 Magic</td><td>Tans 5 blue d'hide/cast</td></tr><tr><td>Tan red dragon leather</td><td align="center">78 Magic</td><td>Tans 5 red d'hide/cast</td></tr><tr><td>Tan black dragon leather</td><td align="center">78 Magic</td><td>Tans 5 black d'hide/cast</td></tr><tr><td>String gold</td><td align="center">80 Magic + 8 Craft</td><td>Strings 1 item/cast</td></tr><tr><td>String sapphire</td><td align="center">80 Magic + 24 Craft</td><td>Strings 1 item/cast</td></tr><tr><td>String emerald</td><td align="center">80 Magic + 31 Craft</td><td>Strings 1 item/cast</td></tr><tr><td>String ruby</td><td align="center">80 Magic + 50 Craft</td><td>Strings 1 item/cast</td></tr><tr><td>String diamond</td><td align="center">80 Magic + 70 Craft</td><td>Strings 1 item/cast</td></tr><tr><td>String dragonstone</td><td align="center">80 Magic + 80 Craft</td><td>Strings 1 item/cast</td></tr><tr><td>String onyx</td><td align="center">80 Magic + 90 Craft</td><td>Strings 1 item/cast</td></tr><tr><td>Plank make logs</td><td align="center">86 Magic</td><td>Costs 70gp/plank</td></tr><tr><td>Plank make oak</td><td align="center">86 Magic</td><td>Costs 175gp/plank</td></tr><tr><td>Plank make teak</td><td align="center">86 Magic</td><td>Costs 350gp/plank</td></tr><tr><td>Plank make mahogany</td><td align="center">86 Magic</td><td>Costs 1050gp/plank</td></tr><tr><td>Recharge glory</td><td align="center">89 Magic</td><td>Recharges 25 items/cast</td></tr><tr><td>Recharge combat bracelet</td><td align="center">89 Magic</td><td>Recharges 25 items/cast</td></tr><tr><td>Recharge skills necklace</td><td align="center">89 Magic</td><td>Recharges 25 items/cast</td></tr><tr><td>Superglass make giant seaweed</td><td align="center">77 Magic + 61 Craft</td><td>Makes 29 molten glass/cast</td></tr><tr><td>Superglass make seaweed</td><td align="center">77 Magic + 61 Craft</td><td>Makes 17 molten glass/cast</td></tr><tr><td>Superglass make soda ash</td><td align="center">77 Magic + 61 Craft</td><td>Makes 17 molten glass/cast</td></tr><tr><td>Charge water orb<mark style="color:red;"><strong>*</strong></mark></td><td align="center">56 Magic</td><td>20% boost for graceful</td></tr><tr><td>Charge earth orb</td><td align="center">60 Magic</td><td>20% boost for graceful</td></tr><tr><td>Charge fire orb<mark style="color:red;"><strong>*</strong></mark></td><td align="center">63 Magic</td><td>20% boost for graceful</td></tr><tr><td>Charge air orb</td><td align="center">66 Magic</td><td>20% boost for graceful</td></tr><tr><td>Demonic offering fiendish</td><td align="center">84 Magic</td><td>Offers 3 fiendish ashes</td></tr><tr><td>Demonic offering vile</td><td align="center">84 Magic</td><td>Offers 3 vile ashes</td></tr><tr><td>Demonic offering malicious</td><td align="center">84 Magic</td><td>Offers 3 malicious ashes</td></tr><tr><td>Demonic offering abyssal</td><td align="center">84 Magic</td><td>Offers 3 abyssal ashes</td></tr><tr><td>Demonic offering infernal</td><td align="center">84 Magic</td><td>Offers 3 infernal ashes</td></tr></tbody></table>
 
 {% hint style="info" %}
 <mark style="color:red;">**\***</mark> Also gains additional boosts from 70 Agility (44% boost) and 80 Agility (52% boost).
@@ -64,29 +26,7 @@ To enchant any jewellery or bolts, use the `/activities enchant` command.
 
 * E.g.  `/activities enchant`` `**`name:`**` ``Emerald ring`` `**`quantity:`**` ``100`
 
-|               |                    |                          |                     |
-| ------------- | ------------------ | :----------------------: | :-----------------: |
-| **Jewellery** | **Level Required** |         **Bolts**        | **Levels Required** |
-| Opal          | 7                  |        Opal bolts        |          4          |
-| Sapphire      | 7                  |      Sapphire bolts      |          7          |
-| Jade          | 27                 |        Pearl bolts       |          24         |
-| Emerald       | 27                 |       Emerald bolts      |          27         |
-| Topaz         | 49                 |        Topaz bolts       |          29         |
-| Ruby          | 49                 |        Ruby bolts        |          49         |
-| Diamond       | 57                 |       Diamond bolts      |          57         |
-| Dragonstone   | 68                 |     Dragonstone bolts    |          68         |
-| Onyx          | 87                 |        Onyx bolts        |          87         |
-| Zenyte        | 93                 |     **Dragon Bolts**     |                     |
-|               |                    |     Opal dragon bolts    |          4          |
-|               |                    |   Sapphire dragon bolts  |          7          |
-|               |                    |     Jade dragon bolts    |          14         |
-|               |                    |    Pearl dragon bolts    |          24         |
-|               |                    |   Emerald dragon bolts   |          27         |
-|               |                    |    Topas dragon bolts    |          49         |
-|               |                    |     Ruby dragon bolts    |          49         |
-|               |                    |   Diamond dragon bolts   |          57         |
-|               |                    | Dragonstone dragon bolts |          68         |
-|               |                    |     Onyx dragon bolts    |          87         |
+<table><thead><tr><th width="158"></th><th width="159" align="center"></th><th width="231.16216216216213"></th><th align="center"></th></tr></thead><tbody><tr><td><strong>Jewellery</strong></td><td align="center"><strong>Level Required</strong></td><td><strong>Bolts</strong></td><td align="center"><strong>Levels Required</strong></td></tr><tr><td>Opal</td><td align="center">7</td><td>Opal bolts</td><td align="center">4</td></tr><tr><td>Sapphire</td><td align="center">7</td><td>Sapphire bolts</td><td align="center">7</td></tr><tr><td>Jade</td><td align="center">27</td><td>Pearl bolts</td><td align="center">24</td></tr><tr><td>Emerald</td><td align="center">27</td><td>Emerald bolts</td><td align="center">27</td></tr><tr><td>Topaz</td><td align="center">49</td><td>Topaz bolts</td><td align="center">29</td></tr><tr><td>Ruby </td><td align="center">49</td><td>Ruby bolts</td><td align="center">49</td></tr><tr><td>Diamond</td><td align="center">57</td><td>Diamond bolts</td><td align="center">57</td></tr><tr><td>Dragonstone</td><td align="center">68</td><td>Dragonstone bolts</td><td align="center">68</td></tr><tr><td>Onyx</td><td align="center">87</td><td>Onyx bolts</td><td align="center">87</td></tr><tr><td>Zenyte</td><td align="center">93</td><td><strong>Dragon Bolts</strong></td><td align="center"></td></tr><tr><td></td><td align="center"></td><td>Opal dragon bolts</td><td align="center">4</td></tr><tr><td></td><td align="center"></td><td>Sapphire dragon bolts</td><td align="center">7</td></tr><tr><td></td><td align="center"></td><td>Jade dragon bolts</td><td align="center">14</td></tr><tr><td></td><td align="center"></td><td>Pearl dragon bolts</td><td align="center">24</td></tr><tr><td></td><td align="center"></td><td>Emerald dragon bolts</td><td align="center">27</td></tr><tr><td></td><td align="center"></td><td>Topas dragon bolts</td><td align="center">49</td></tr><tr><td></td><td align="center"></td><td>Ruby dragon bolts</td><td align="center">49</td></tr><tr><td></td><td align="center"></td><td>Diamond dragon bolts</td><td align="center">57</td></tr><tr><td></td><td align="center"></td><td>Dragonstone dragon bolts</td><td align="center">68</td></tr><tr><td></td><td align="center"></td><td>Onyx dragon bolts</td><td align="center">87</td></tr></tbody></table>
 
 * To view what each piece of jewellery turns into, visit the [OSRS Enchanting Spells](https://oldschool.runescape.wiki/w/Enchantment\_spells#Enchanted\_gold\_and\_silver\_jewellery) wiki page.
 
