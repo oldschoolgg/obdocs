@@ -13,3 +13,5 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * Best pet methods
 * Charging items page
 * ToB Solo info
+* Motherlode mine page under Mining skill
+* Puro Puro page

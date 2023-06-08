@@ -17,16 +17,7 @@ The Smiths' uniform can be purchased with reputation from the [Giant's Foundry](
 
 ## Bars
 
-|    **Bar**   | **Required level** | **Experience** |   **Materials needed**  |
-| :----------: | :----------------: | :------------: | :---------------------: |
-|    Bronze    |          1         |       6.2      |       Tin + Copper      |
-|  Iron**\***  |         15         |      12.5      |         Iron ore        |
-|    Silver    |         20         |      13.7      |        Silver ore       |
-|     Steel    |         30         |      17.5      |    Iron ore + 2 coal    |
-| Gold**\*\*** |         40         |      22.5      |         Gold ore        |
-|    Mithril   |         50         |       30       |   Mithril ore + 4 coal  |
-|  Adamantite  |         70         |      37.5      | Adamantite ore + 6 coal |
-|    Runite    |         85         |       50       |   Runite ore + 8 coal   |
+<table data-header-hidden><thead><tr><th align="center">Bar</th><th align="center">Required level</th><th width="150" align="center">Experience</th><th align="center">Materials needed</th></tr></thead><tbody><tr><td align="center"><strong>Bar</strong></td><td align="center"><strong>Required level</strong></td><td align="center"><strong>Experience</strong></td><td align="center"><strong>Materials needed</strong></td></tr><tr><td align="center">Bronze</td><td align="center">1</td><td align="center">6.2</td><td align="center">Tin + Copper</td></tr><tr><td align="center">Iron<strong>*</strong></td><td align="center">15</td><td align="center">12.5</td><td align="center">Iron ore</td></tr><tr><td align="center">Silver</td><td align="center">20</td><td align="center">13.7</td><td align="center">Silver ore</td></tr><tr><td align="center">Steel</td><td align="center">30</td><td align="center">17.5</td><td align="center">Iron ore + 2 coal</td></tr><tr><td align="center">Gold<strong>**</strong></td><td align="center">40</td><td align="center">22.5</td><td align="center">Gold ore</td></tr><tr><td align="center">Mithril</td><td align="center">50</td><td align="center">30</td><td align="center">Mithril ore + 4 coal</td></tr><tr><td align="center">Adamantite</td><td align="center">70</td><td align="center">37.5</td><td align="center">Adamantite ore + 6 coal</td></tr><tr><td align="center">Runite</td><td align="center">85</td><td align="center">50</td><td align="center">Runite ore + 8 coal</td></tr></tbody></table>
 
 **\*** - Has a 50% chance to fail in a regular furnace. Ring of forging does NOT work.
 
@@ -40,26 +31,4 @@ An alternative method to train smithing is through use of the blast furnace. At 
 
 The bot also mimics some of the more useful smithables that require a certain smithing level in the real game too. Here is a list of those items.
 
-|                                 |                    |                                                                           |
-| ------------------------------- | :----------------: | ------------------------------------------------------------------------- |
-| **Item**                        | **Level Required** | **Additional Notes**                                                      |
-| Gold helmet                     |         50         | Requires 4qp                                                              |
-| Gold bowl                       |         50         | Requires 111qp                                                            |
-| Dragon sq shield                |         60         | Requires 111qp                                                            |
-| Dragon kiteshield               |         75         | Requires 205qp + Dragon sq + Dragon metal shard + Dragon metal slice      |
-| Crystal pickaxe                 |         76         | Requires 76 crafting + Dragon pickaxe + Crystal tool seed                 |
-| Crystal harpoon                 |         76         | Requires 76 crafting + Dragon harpoon + Crystal tool seed                 |
-| Crystal axe                     |         76         | Requires 76 crafting + Dragon axe + Crystal tool seed                     |
-| Crystal halberd                 |         78         | Requires 78 crafting                                                      |
-| Enhanced crystal key            |         80         | Requires 80 crafting + 10 Crystal shard + 1 Crystal key                   |
-| Godsword blade                  |         80         | Requires 1 of each Godsword shard                                         |
-| Blade of saeldor (uncharged)    |         82         | Requires 82 crafting                                                      |
-| Bow of faerdhinen (uncharged)   |         82         | Requires 82 crafting                                                      |
-| Infernal pickaxe                |         85         | Requires Smouldering stone + Dragon pickaxe                               |
-| Arcane spirit shield            |         85         | Requires 90 prayer                                                        |
-| Spectral spirit shield          |         85         | Requires 90 prayer                                                        |
-| Elysian spirit shield           |         85         | Requires 90 prayer                                                        |
-| Dragon platebody                |         90         | Requires 205qp + Dragon chainbody + Dragon metal shard+ Dragon metal lump |
-| Uncharged dragonfire ward       |         90         |                                                                           |
-| Uncharged dragonfire shield     |         90         |                                                                           |
-| Uncharged ancient wyvern shield |         90         |                                                                           |
+<table><thead><tr><th></th><th width="154.24697754749573" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Item</strong></td><td align="center"><strong>Level Required</strong></td><td><strong>Additional Notes</strong></td></tr><tr><td>Gold helmet</td><td align="center">50</td><td>Requires 4qp</td></tr><tr><td>Gold bowl</td><td align="center">50</td><td>Requires 111qp</td></tr><tr><td>Dragon sq shield</td><td align="center">60</td><td>Requires 111qp</td></tr><tr><td>Dragon kiteshield</td><td align="center">75</td><td>Requires 205qp + Dragon sq + Dragon metal shard + Dragon metal slice</td></tr><tr><td>Crystal pickaxe</td><td align="center">76</td><td>Requires 76 crafting + Dragon pickaxe + Crystal tool seed</td></tr><tr><td>Crystal harpoon</td><td align="center">76</td><td>Requires 76 crafting + Dragon harpoon + Crystal tool seed</td></tr><tr><td>Crystal axe</td><td align="center">76</td><td>Requires 76 crafting + Dragon axe + Crystal tool seed</td></tr><tr><td>Crystal halberd</td><td align="center">78</td><td>Requires 78 crafting</td></tr><tr><td>Enhanced crystal key</td><td align="center">80</td><td>Requires 80 crafting + 10 Crystal shard + 1 Crystal key</td></tr><tr><td>Godsword blade</td><td align="center">80</td><td>Requires 1 of each Godsword shard</td></tr><tr><td>Blade of saeldor (uncharged)</td><td align="center">82</td><td>Requires 82 crafting</td></tr><tr><td>Bow of faerdhinen (uncharged)</td><td align="center">82</td><td>Requires 82 crafting</td></tr><tr><td>Infernal pickaxe</td><td align="center">85</td><td>Requires Smouldering stone + Dragon pickaxe</td></tr><tr><td>Arcane spirit shield</td><td align="center">85</td><td>Requires 90 prayer</td></tr><tr><td>Spectral spirit shield</td><td align="center">85</td><td>Requires 90 prayer</td></tr><tr><td>Elysian spirit shield</td><td align="center">85</td><td>Requires 90 prayer</td></tr><tr><td>Dragon platebody</td><td align="center">90</td><td>Requires 205qp + Dragon chainbody + Dragon metal shard+ Dragon metal lump</td></tr><tr><td>Uncharged dragonfire ward</td><td align="center">90</td><td></td></tr><tr><td>Uncharged dragonfire shield</td><td align="center">90</td><td></td></tr><tr><td>Uncharged ancient wyvern shield</td><td align="center">90</td><td></td></tr></tbody></table>

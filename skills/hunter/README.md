@@ -95,18 +95,7 @@ You can create hunter gear with the `/create` command. This serves no purpose ot
 
 E.g. `/create`` `**`item:`**`Polar camouflage gear`` `**`quantity:`**`1`
 
-| **Set name**             | **Required Materials**                |
-| ------------------------ | ------------------------------------- |
-| Polar camouflage gear    | 4x Polar kebbit fur                   |
-| Woodland camouflage gear | 4x Common kebbit fur                  |
-| Jungle camouflage gear   | 4x Feldip weasel fur                  |
-| Desert camouflage gear   | 4x Desert devil fur                   |
-| Larupia hunter gear      | 1x Larupia fur + 2x Tatty larupia fur |
-| Graahk hunter gear       | 1x Graahk fur + 2x Tatty graahk fur   |
-| Kyatt hunter gear        | 1x Kyatt fur + 2x Tatty kyatt fur     |
-| Spotted cape             | 2x Spotted kebbit fur                 |
-| Spottier cape            | 2x Dashing kebbit fur                 |
-| Gloves of silence        | 2x Dark kebbit fur                    |
+<table data-header-hidden><thead><tr><th width="202.7135875336512"></th><th></th></tr></thead><tbody><tr><td><strong>Set name</strong></td><td><strong>Required Materials</strong></td></tr><tr><td>Polar camouflage gear</td><td>4x Polar kebbit fur</td></tr><tr><td>Woodland camouflage gear</td><td>4x Common kebbit fur</td></tr><tr><td>Jungle camouflage gear</td><td>4x Feldip weasel fur</td></tr><tr><td>Desert camouflage gear</td><td>4x Desert devil fur</td></tr><tr><td>Larupia hunter gear</td><td>1x Larupia fur + 2x Tatty larupia fur</td></tr><tr><td>Graahk hunter gear</td><td>1x Graahk fur + 2x Tatty graahk fur</td></tr><tr><td>Kyatt hunter gear</td><td>1x Kyatt fur + 2x Tatty kyatt fur</td></tr><tr><td>Spotted cape</td><td>2x Spotted kebbit fur</td></tr><tr><td>Spottier cape</td><td>2x Dashing kebbit fur</td></tr><tr><td>Gloves of silence</td><td>2x Dark kebbit fur</td></tr></tbody></table>
 
 ## Other Hunter Activities
 

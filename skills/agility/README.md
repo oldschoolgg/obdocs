@@ -33,22 +33,7 @@ Starting at 30 agility, you can train agility here while making some gp on the s
 
 ## Courses
 
-| **Course**                                            | **Required Level** | **XP Per Lap** | **Lap Time** | **Xp/Hr** | **Marks of Grace/Hr** |
-| ----------------------------------------------------- | ------------------ | -------------- | ------------ | --------- | --------------------- |
-| Gnome Stronghold                                      | 1                  | 88             | 34           | 9,320     | 0                     |
-| Draynor Village                                       | 10                 | 120            | 43.2         | 10,000    | 12                    |
-| Al Kharid                                             | 20                 | 180            | 64.8         | 10,000    | 8                     |
-| Varrock                                               | 30                 | 238            | 66           | 13,000    | 12                    |
-| Penguin Agility                                       | 30                 | 540            | 65.6         | 29,160    | 0                     |
-| Agility Pyramid<mark style="color:red;">**\***</mark> | 30                 | Varies         | 125.1        | Varies    | 0                     |
-| Canifis                                               | 40                 | 240            | 75           | 19,200    | 19                    |
-| Ape Atoll                                             | 48                 | 580            | 45           | 46,400    | 0                     |
-| Falador                                               | 50                 | 440            | 58.2         | 27,200    | 13                    |
-| Seers Village                                         | 60                 | 570            | 44.4         | 46,200    | 12                    |
-| Pollnivneach                                          | 70                 | 890            | 61.2         | 52,300    | 9                     |
-| Prifddinas<mark style="color:red;">**\*\***</mark>    | 75                 | 1340           | 74           | 65,180    | 0                     |
-| Rellekka                                              | 80                 | 780            | 51           | 55,000    | 14                    |
-| Ardougne                                              | 90                 | 793            | 45.6         | 62,600    | 24                    |
+<table data-header-hidden><thead><tr><th width="194">Course</th><th width="170">Required Level</th><th width="124">XP Per Lap</th><th width="106">Lap Time</th><th width="98">Xp/Hr</th><th width="200">Marks of Grace/Hr</th></tr></thead><tbody><tr><td><strong>Course</strong></td><td><strong>Required Level</strong></td><td><strong>XP Per Lap</strong></td><td><strong>Lap Time</strong></td><td><strong>Xp/Hr</strong></td><td><strong>Marks of Grace/Hr</strong></td></tr><tr><td>Gnome Stronghold</td><td>1</td><td>88</td><td>34</td><td>9,320</td><td>0</td></tr><tr><td>Draynor Village</td><td>10</td><td>120</td><td>43.2</td><td>10,000</td><td>12</td></tr><tr><td>Al Kharid</td><td>20</td><td>180</td><td>64.8</td><td>10,000</td><td>8</td></tr><tr><td>Varrock</td><td>30</td><td>238</td><td>66</td><td>13,000</td><td>12</td></tr><tr><td>Penguin Agility</td><td>30</td><td>540</td><td>65.6</td><td>29,160</td><td>0</td></tr><tr><td>Agility Pyramid<mark style="color:red;"><strong>*</strong></mark></td><td>30</td><td>Varies</td><td>125.1</td><td>Varies</td><td>0</td></tr><tr><td>Canifis</td><td>40</td><td>240</td><td>75</td><td>19,200</td><td>19</td></tr><tr><td>Ape Atoll</td><td>48</td><td>580</td><td>45</td><td>46,400</td><td>0</td></tr><tr><td>Falador</td><td>50</td><td>440</td><td>58.2</td><td>27,200</td><td>13</td></tr><tr><td>Seers Village</td><td>60</td><td>570</td><td>44.4</td><td>46,200</td><td>12</td></tr><tr><td>Pollnivneach</td><td>70</td><td>890</td><td>61.2</td><td>52,300</td><td>9</td></tr><tr><td>Prifddinas<mark style="color:red;"><strong>**</strong></mark></td><td>75</td><td>1340</td><td>74</td><td>65,180</td><td>0</td></tr><tr><td>Rellekka</td><td>80</td><td>780</td><td>51</td><td>55,000</td><td>14</td></tr><tr><td>Ardougne</td><td>90</td><td>793</td><td>45.6</td><td>62,600</td><td>24</td></tr></tbody></table>
 
 <mark style="color:red;">**\***</mark> - You will receive 10,000gp for each completed lap of the Agility Pyramid.
 

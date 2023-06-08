@@ -38,19 +38,4 @@ Your chance of survival during the fightcaves is calculated based on your number
 
 The chance of survival is shown in the table below.
 
-| Attempts | Survival (Without SGS) | Survival (With SGS) |
-| -------- | ---------------------- | ------------------- |
-| 0        | 0.9%                   | 0.9%                |
-| 1        | 0.9%                   | 0.9%                |
-| 2        | 23.4%                  | 24.4%               |
-| 3        | 37.7%                  | 39.4%               |
-| 4        | 48.9%                  | 51%                 |
-| 5        | 57%                    | 59.4%               |
-| 6        | 63.7%                  | 66.3%               |
-| 7        | 68.4%                  | 71.3%               |
-| 8        | 73.2%                  | 76.2%               |
-| 9        | 77.9%                  | 81.2%               |
-| 10       | 81.7%                  | 85.1%               |
-| 11       | 84.6%                  | 88.1%               |
-| 12       | 87.4%                  | 91.1%               |
-| 13       | 90.3%                  | 94.1%               |
+<table><thead><tr><th width="158">Attempts</th><th>Survival (Without SGS)</th><th>Survival (With SGS)</th></tr></thead><tbody><tr><td>0</td><td>0.9%</td><td>0.9%</td></tr><tr><td>1</td><td>0.9%</td><td>0.9%</td></tr><tr><td>2</td><td>23.4%</td><td>24.4%</td></tr><tr><td>3</td><td>37.7%</td><td>39.4%</td></tr><tr><td>4</td><td>48.9%</td><td>51%</td></tr><tr><td>5</td><td>57%</td><td>59.4%</td></tr><tr><td>6</td><td>63.7%</td><td>66.3%</td></tr><tr><td>7</td><td>68.4%</td><td>71.3%</td></tr><tr><td>8</td><td>73.2%</td><td>76.2%</td></tr><tr><td>9</td><td>77.9%</td><td>81.2%</td></tr><tr><td>10</td><td>81.7%</td><td>85.1%</td></tr><tr><td>11</td><td>84.6%</td><td>88.1%</td></tr><tr><td>12</td><td>87.4%</td><td>91.1%</td></tr><tr><td>13</td><td>90.3%</td><td>94.1%</td></tr></tbody></table>

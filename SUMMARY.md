@@ -142,6 +142,7 @@
 * [Grand Exchange](miscellaneous/grand-exchange.md)
 * [Hall of Fame](miscellaneous/bot-firsts.md)
 * [Kourend Favour](miscellaneous/kourend-favour.md)
+* [Music Cape](miscellaneous/music-cape.md)
 * [Nightmare Zone](miscellaneous/nightmare-zone.md)
 * [Offering](miscellaneous/offering.md)
 * [Questing](miscellaneous/questing.md)
