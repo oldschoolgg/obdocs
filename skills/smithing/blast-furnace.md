@@ -25,7 +25,7 @@ Smelting bars at the blast furnace is faster than smelting bars normally, and th
 
 * 60% boost for Coal bag (only applies to bars that require coal)
 * 7.5% time penalty if full graceful not equipped (in any [gear setup](../../getting-started/gear.md))
-* Goldsmith gauntlets boosts xp from smelting gold ore from 22.5 to 56.2 xp/bar
+* Goldsmith gauntlets boosts xp from smelting gold ore from 22.5 to 56.2 xp/bar (Must be equipped in any [gear setup](../../getting-started/gear.md))
 
 ### Bars
 
