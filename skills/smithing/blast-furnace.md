@@ -12,7 +12,7 @@ The Blast Furnace costs 216,000 gp/hr to use, or 72,000 gp/hr if your minion is 
 
 Smelting bars at the blast furnace is faster than smelting bars normally, and the amount of coal needed to smelt bars is halved.
 
-### Requirements
+## Requirements
 
 * 12 Crafting
 * 16 Firemaking
@@ -21,23 +21,23 @@ Smelting bars at the blast furnace is faster than smelting bars normally, and th
 * 20 Smithing
 * 13 Thieving
 
-### Boosts
+## Boosts
 
 * 60% boost for Coal bag (only applies to bars that require coal)
 * 7.5% time penalty if full graceful not equipped (in any [gear setup](../../getting-started/gear.md))
-* Goldsmith gauntlets boosts xp from smelting gold ore from 22.5 to 56.2 xp/bar
+* Goldsmith gauntlets (22.5 to 56.2 xp/bar) <mark style="color:red;">**- MUST BE EQUIPPED IN ANY SETUP!**</mark>
 
-### Bars
+## Bars
 
-| **Bar**    | **Required level** | **Materials needed**    |
-| ---------- | :----------------: | ----------------------- |
-| Bronze     |          1         | Tin + Copper            |
-| Iron**\*** |         15         | Iron ore                |
-| Silver     |         20         | Silver ore              |
-| Steel      |         30         | Iron ore + 1 coal       |
-| Gold       |         40         | Gold ore                |
-| Mithril    |         50         | Mithril ore + 2 coal    |
-| Adamantite |         70         | Adamantite ore + 3 coal |
-| Runite     |         85         | Runite ore + 4 coal     |
+| **Bar**                                    | **Required level** | **Materials needed**    |
+| ------------------------------------------ | :----------------: | ----------------------- |
+| Bronze                                     |          1         | Tin + Copper            |
+| Iron<mark style="color:red;">**\***</mark> |         15         | Iron ore                |
+| Silver                                     |         20         | Silver ore              |
+| Steel                                      |         30         | Iron ore + 1 coal       |
+| Gold                                       |         40         | Gold ore                |
+| Mithril                                    |         50         | Mithril ore + 2 coal    |
+| Adamantite                                 |         70         | Adamantite ore + 3 coal |
+| Runite                                     |         85         | Runite ore + 4 coal     |
 
-\* - Iron ore has a success rate of 100% at the Blast furnace.
+<mark style="color:red;">\*</mark> - Iron ore has a success rate of 100% at the Blast furnace.

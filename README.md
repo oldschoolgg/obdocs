@@ -40,7 +40,7 @@ Tier 3 patrons or above receive 3 times the bonus to their trip length from sacr
 
 ## Bank Backgrounds
 
-You can change your bank background using `/minion bankbg`` `**`name:`** . The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and have certain items in your collection log. They are supposed to be difficult to obtain.
+You can change your bank background using `/minion bankbg`` `**`name:`** . The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and have certain items in your collection log. They are supposed to be difficult to obtain.&#x20;
 
 To see all available backgrounds, please visit the [bank backgrounds page](getting-started/bank-background.md).
 
@@ -51,13 +51,13 @@ Click on the bank bg name to see what it looks like.
 | [Bandos](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/7.jpg?raw=true)          | 100m    | All 5 Godswords                                 | All GWD Items (Including pets & Nex)                       |
 | [Corporeal Beast](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/8.jpg?raw=true) | 100m    | 1 of each Elysian/Spectral/Arcane Spirit Shield | All Corp Items (Including pet and 4x spirit shield/elixir) |
 | [Nightmare](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/10.jpg)               | 100m    | All 3 Orbs                                      | All Nightmare Items                                        |
-| [Casket](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/13.jpg?raw=true)                   | 100m    |                                                 | Large spade, Clueless scroll, Heavy casket, Scroll sack    |
+| [Casket](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/9.jpg?raw=true)                    | 100m    |                                                 | Large spade, Clueless scroll, Heavy casket, Scroll sack    |
 
 ### Patron-only bank backgrounds
 
 These backgrounds are only available for purchase and usage by patrons.
 
-Some of these also have an item cost/collection log requirement. You can view these by trying to purchase the background with `/minion bankbg`.
+Some of these also have an item cost/collection log requirement. You can view these by trying to purchase the background with `/minion bankbg`. /
 
 | Name                                                                                                                                 | GP Cost          | Patron Tier |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------- |

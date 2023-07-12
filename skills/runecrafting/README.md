@@ -8,20 +8,20 @@ There are several boosts available which apply to all runes except blood and sou
 
 * 5% for 60+ Agility **OR** 10% for 90+ Agility
 * 10% for Graceful (equipped in any setup)
-* 1% for Ring of endurance (both versions work and it can be equipped or in bank)
+* 1% for Ring of endurance <mark style="color:red;">**(must be charged, works from bank)**</mark>
 * 3% for Runecrafting cape
 
 ## Pouches
 
-You can create Runecrafting pouches using `/create` with each requiring different crafting levels to create. Similarly to in-game, higher tier pouches also require higher Runecrafting levels to use. These boost the amount of essence you can carry in 1 inventory, increasing XP/Hr.
+You can create Runecrafting pouches using `/create`. Similarly to in-game, higher tier pouches also require higher Runecrafting levels to use. These boost the amount of essence you can carry in 1 inventory, increasing XP/Hr.
 
-| **Pouch**                                            | **Crafting Lvl Required** | **Rc'ing Lvl Required** |
-| ---------------------------------------------------- | ------------------------- | ----------------------- |
-| Small Pouch                                          | 1                         | 1                       |
-| Medium Pouch                                         | 10                        | 25                      |
-| Large Pouch                                          | 20                        | 50                      |
-| Giant Pouch                                          | 30                        | 75                      |
-| Colossal Pouch<mark style="color:red;">**\***</mark> | 56                        | 85                      |
+| **Pouch**                                            | **Rc'ing Lvl Required To Use** |
+| ---------------------------------------------------- | ------------------------------ |
+| Small Pouch                                          | 1                              |
+| Medium Pouch                                         | 25                             |
+| Large Pouch                                          | 50                             |
+| Giant Pouch                                          | 75                             |
+| Colossal Pouch<mark style="color:red;">**\***</mark> | 85 + 56 Crafting               |
 
 <mark style="color:red;">**\***</mark> - Requires an Abyssal needle and one of each lower tier pouch to create.
 
@@ -45,13 +45,13 @@ You can create Runecrafting pouches using `/create` with each requiring differen
 
 ## Multiple Runes
 
-Just like in OSRS, certain levels will grant you multiple of some runes. Combination runes are never multiplied.
+Just like in OSRS, certain levels will grant you multiple of regular runes. Combination runes are never multiplied.
 
 ![](../../.gitbook/assets/rc\_multiple\_runes.png)
 
 ## Combination Runes
 
-**Note for Lava runes ONLY:** You can use the **`usestams:`**`False` option to send your minion runecrafting without using stamina potions. However, you will runecraft 3x slower than usual.
+<mark style="color:red;">**Note for Lava runes ONLY:**</mark> You can use the **`usestams:`**`False` option to send your minion runecrafting without using stamina potions. However, you will runecraft 3x slower than usual.
 
 It's recommended to equip a staff in your skilling setup to provide infinite runes, for example a fire staff when crafting lava runes.
 
@@ -68,3 +68,5 @@ It's recommended to equip a staff in your skilling setup to provide infinite run
 ## Tiaras
 
 Crafting tiaras are a method of runecrafting training, albeit an incredibly slow method. Tiaras don't have any use within the bot, except for being stored in [STASH units](../construction/stash-units.md). They can be created through the `/runecraft` command.
+
+Tiaras don't have any level requirements for creating them. However, some tiaras including Cosmic, Death, Law & Wrath tiaras need 5, 10, 10 & 200qp respectively.
