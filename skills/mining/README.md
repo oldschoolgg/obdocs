@@ -11,17 +11,17 @@ All pickaxes in the bot will provide a specific increase to your chance of minin
 
 ## Mining Guild
 
-If you have at least 60 Mining, the ore you are mining provides nuggets or minerals, and the rock is located within the Mining guild, you will gain an invisible +7 mining levels. This will grant a small increase to the speed in which you will mine ores. This boost does not let you use higher level pickaxes or mine higher level ores.
+If you have at least 60 Mining, the ore you are mining provides  minerals, and the rock is located within the Mining guild, you will gain an invisible +7 mining levels. This will grant a small increase to the speed in which you will mine ores. This boost does not let you use higher level pickaxes or mine higher level ores.
 
 * **Ores in Guild** - Iron, Coal, Gold, Mithril, Adamant, Runite, Amethyst
 
 ## Powermining
 
-Using this filter when mining ores allows your minion to reach much higher xp rates, at the expense of not receiving any ores from your trip. For ironmen, it may be beneficial to mine normally so they can use the ores for early smithing or crafting levels. You will still receive nuggets, minerals and clues when powermining.
+Using this filter when mining ores allows your minion to reach much higher xp rates, at the expense of not receiving any ores from your trip. For ironmen, it may be beneficial to mine normally so they can use the ores for early smithing or crafting levels. You will still receive minerals and clues when powermining.
 
 ## Gold & Silver Ore
 
-If you have 99 crafting, you will get a significant 70% boost to your trip time, due to using the bank at the crafting guild. This applies only when mining gold and silver ores. You will still receive gold nuggets from gold ores.
+If you have 99 crafting, you will get a significant 70% boost to your trip time, due to using the bank at the crafting guild. This applies only when mining gold and silver ores. You cannot recieve gold nuggets from mining gold or silver ores, rather only from motherload mining.
 
 ## Celestial Ring/Signet
 
@@ -42,7 +42,7 @@ The Varrock diary rewards provide a 10% bonus to the amount of ores you will rec
 
 ## Prospector's Outfit
 
-Must be equipped in the skilling setup for the boost to apply.
+Must be equipped in the skilling setup for the boost to apply. Nuggets are only obtained from motherload mining.
 
 | **Item**          | **XP Boost** | **Golden Nugget Cost** |
 | ----------------- | ------------ | ---------------------- |
@@ -56,12 +56,7 @@ Must be equipped in the skilling setup for the boost to apply.
 
 These gloves give the chance to not deplete rocks when mining, effectively speeding up your mining trip. They must be equipped in any setup for the boost to apply.
 
-|                        |                             |                     |
-| ---------------------- | --------------------------- | ------------------- |
-| **Item**               | **Ores Affected**           | **Mineral Cost**    |
-| Mining gloves          | Silver, Coal, Gold          | 60                  |
-| Superior mining gloves | Mithril, Adamant, Runite    | 120                 |
-| Expert mining gloves   | All of the above + Amethyst | 60 + other 2 gloves |
+<table><thead><tr><th width="186.84088134765625"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Item</strong></td><td><strong>Ores Affected</strong></td><td><strong>Mineral Cost</strong></td></tr><tr><td>Mining gloves</td><td>Silver, Coal, Gold</td><td>60</td></tr><tr><td>Superior mining gloves</td><td>Mithril, Adamant, Runite</td><td>120</td></tr><tr><td>Expert mining gloves</td><td>All of the above + Amethyst</td><td>60 + other 2 gloves</td></tr></tbody></table>
 
 ## Unidentified Minerals
 

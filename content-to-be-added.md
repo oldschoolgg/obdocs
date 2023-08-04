@@ -15,3 +15,4 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * ToB Solo info
 * Motherlode mine page under Mining skill
 * Puro Puro page
+* True blood altar (to rc page)

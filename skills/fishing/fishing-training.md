@@ -9,9 +9,13 @@
 `/fish`` `**`name:`**`Trout` from 20-30 (requires feathers)\
 `/fish`` `**`name:`**`Salmon` from 30-58 (requires feathers)\
 **OPTIONAL**: Aerial Fishing (reqs minimum 35 hunter) for Pearl barbarian rod\
-`/fish`` `**`name:`**`Barbarian fishing` from 58-99 (requires feathers)
+`/fish`` `**`name:`**`Barbarian fishing` from 58-71 (requires feathers)
 
-[Tempoross](tempoross.md) is a good option instead of Barbarian Fishing once you have obtained a crystal tool seed from Zalcano and a Dragon harpoon from Wyrms or Tempoross to create a crystal harpoon. Requires 35 fishing.
+`/k name: tempoross` from 71-99 using a crystal harpoon
+
+[Tempoross](tempoross.md) is a faster option instead of Barbarian Fishing once you have obtained a crystal tool seed from Zalcano and a Dragon harpoon from Wyrms or Tempoross to create a crystal harpoon. Requires 35 fishing. It also provides lots of raw food for ironmen.
+
+Alternatively, the cheaper and next best way to reach 99 is to continue Barbarian Fishing.
 
 ### Best Pet Chance
 
