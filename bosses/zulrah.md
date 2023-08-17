@@ -21,7 +21,7 @@ The Blowpipe can be created from the fang (requires 53 fletching) and is an inte
 
 ![](<../.gitbook/assets/Magic fang.png>) **Magic fang**
 
-The Magic fang can be used to create 2 different staves (requires 59 crafting) and both provide boosts to Kraken and Thermy bosses. Once created, these 2 items _cannot_ be reverted. Neither item can be charged.
+The Magic fang can be used to create 2 different staves (requires 59 crafting) and both provide boosts to Kraken and Thermy bosses. Once created, these 2 items _cannot_ be reverted to their base form. You can [charge](../miscellaneous/charging-items.md) only the toxic trident, which gives some benefits in PvM.
 
 * `/create`` `**`item:`**`Toxic staff (uncharged)`
 * `/create`` `**`item:`**`Uncharged toxic trident`

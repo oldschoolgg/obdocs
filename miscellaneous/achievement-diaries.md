@@ -15,7 +15,7 @@ Achievement Diary items can be purchased using the `/buy` command if the respect
 * **Claim the rewards for a Diary:**
   * `/minion achievementdiary`` `**`claim:`**`True`` `**`diary:`**`Falador`
 * **Use an XP lamp:**
-  * `/minion lamp item: antique lamp 1/2/3/4 skill:[skill] quantity:[quantity]`
+  * `/minion lamp`` `**`item:`**` ``antique lamp 1/2/3/4`` `**`skill:`**`[skill]`
 * **Buy the achievement diary cape:**
   * `/buy`` `**`name:`**` ``Achievement diary cape`
 
@@ -36,6 +36,8 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 
 * **Hard**
   * 3.5x faster hide tanning
+* **Elite**
+  * Very small increase to the quality of ores received from [Motherlode mine](../skills/mining/motherlode-mine.md)
 
 ### Kandarin Diary
 
@@ -66,6 +68,8 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
   * 10% additional experience when completing [Tears of Guthix](https://wiki.oldschool.gg/miscellaneous/tears-of-guthix)
 
 ### Morytania Diary
+
+<mark style="color:red;">**Note -**</mark> The 50% boost to runes received from Barrows is already applied at all times
 
 * **Hard**
   * 2x Mort myre fungi collection

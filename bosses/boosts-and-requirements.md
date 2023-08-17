@@ -469,7 +469,7 @@ _**Note**: Tridents cannot currently be manually charged._
 
 5% for ![](../.gitbook/assets/Occult\_necklace.png) Occult Necklace
 
-5% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart
+5% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart/Saturated Heart
 
 3% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral Robe Top
 
@@ -762,7 +762,7 @@ None\
 
 3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
 
-3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart
+3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart/Saturated Heart
 
 2% for ![](../.gitbook/assets/Ancestral\_hat.png) Ancestral Hat
 

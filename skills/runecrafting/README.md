@@ -4,7 +4,7 @@ You can train Runecrafting using `/runecraft`.
 
 ## Boosts
 
-There are several boosts available which apply to all runes except blood and soul runes. You can view the boosts for blood and soul runes on the [Dark Altar page](https://wiki.oldschool.gg/skills/runecrafting/dark-altar).
+There are several boosts available which apply to all runes except blood and soul runes. You can view the boosts for blood and soul runes on the [Dark Altar page](https://wiki.oldschool.gg/skills/runecrafting/dark-altar). The true blood altar uses the same boosts as regular runecrafting.
 
 * 5% for 60+ Agility **OR** 10% for 90+ Agility
 * 10% for Graceful (equipped in any setup)
@@ -27,21 +27,36 @@ You can create Runecrafting pouches using `/create`. Similarly to in-game, highe
 
 ## Regular Runes
 
-| **Rune** | **Required level** |
-| -------- | :----------------: |
-| Air      |          1         |
-| Mind     |          2         |
-| Water    |          5         |
-| Earth    |          9         |
-| Fire     |         14         |
-| Body     |         20         |
-| Cosmic   |         27         |
-| Chaos    |         35         |
-| Astral   |         40         |
-| Nature   |         44         |
-| Law      |         54         |
-| Death    |         65         |
-| Wrath    |         95         |
+| **Rune**                                    | **Required level** |
+| ------------------------------------------- | :----------------: |
+| Air                                         |          1         |
+| Mind                                        |          2         |
+| Water                                       |          5         |
+| Earth                                       |          9         |
+| Fire                                        |         14         |
+| Body                                        |         20         |
+| Cosmic                                      |         27         |
+| Chaos                                       |         35         |
+| Astral                                      |         40         |
+| Nature                                      |         44         |
+| Law                                         |         54         |
+| Death                                       |         65         |
+| Blood<mark style="color:red;">**\***</mark> |         77         |
+| Wrath                                       |         95         |
+
+<mark style="color:red;">**\***</mark> - Blood runes crafted using the true blood altar also require the stats for Sins of the Father quest:
+
+* 62 Woodcutting
+* 60 Fletching
+* 56 Crafting
+* 52 Agility
+* 50 Attack
+* 50 Slayer
+* 49 Magic
+* 40 Herblore
+* 40 Strength
+* 22 Thieving
+* 5 Construction
 
 ## Multiple Runes
 

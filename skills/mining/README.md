@@ -11,17 +11,17 @@ All pickaxes in the bot will provide a specific increase to your chance of minin
 
 ## Mining Guild
 
-If you have at least 60 Mining, the ore you are mining provides  minerals, and the rock is located within the Mining guild, you will gain an invisible +7 mining levels. This will grant a small increase to the speed in which you will mine ores. This boost does not let you use higher level pickaxes or mine higher level ores.
+If you have at least 60 Mining, the ore you are mining provides minerals, and the rock is located within the Mining guild, you will gain an invisible +7 mining levels. This will grant a small increase to the speed in which you will mine ores. This boost does not let you use higher level pickaxes or mine higher level ores. You cannot get gold nuggets from mining within the guild.
 
 * **Ores in Guild** - Iron, Coal, Gold, Mithril, Adamant, Runite, Amethyst
 
 ## Powermining
 
-Using this filter when mining ores allows your minion to reach much higher xp rates, at the expense of not receiving any ores from your trip. For ironmen, it may be beneficial to mine normally so they can use the ores for early smithing or crafting levels. You will still receive minerals and clues when powermining.
+Using this filter when mining ores allows your minion to reach much higher xp rates, at the expense of not receiving any ores from your trip. For ironmen, it may be beneficial to mine normally so they can use the ores for early smithing or crafting levels. You will still receive minerals and clues when powermining. You cannot receive golden nuggets from powermining as it is not allowed in [Motherlode mine](motherlode-mine.md).
 
 ## Gold & Silver Ore
 
-If you have 99 crafting, you will get a significant 70% boost to your trip time, due to using the bank at the crafting guild. This applies only when mining gold and silver ores. You cannot recieve gold nuggets from mining gold or silver ores, rather only from motherload mining.
+If you have 99 crafting, you will get a significant 70% boost to your trip time, due to using the bank at the crafting guild. This applies only when mining gold and silver ores. You cannot recieve gold nuggets from mining gold or silver ores, rather only from [Motherlode mine](motherlode-mine.md).
 
 ## Celestial Ring/Signet
 
@@ -33,7 +33,7 @@ The Mining cape provides a 5% bonus to the amount of ores you will receive. The 
 
 ## Varrock Armour
 
-The Varrock diary rewards provide a 10% bonus to the amount of ores you will receive. Higher tiers of diary completion means higher tier ores are affected. The extra ores received will not give extra xp, however, the bonus effect stacks with the Mining cape. These armours have no effect when powermining. This effect also applies to sandstone and granite. It does not need to be equipped for the bonus to apply.
+The Varrock diary rewards provide a 10% bonus to the amount of ores you will receive. Higher tiers of diary completion means higher tier ores are affected. The extra ores received will not give extra xp, however, the bonus effect stacks with the Mining cape. These armours have no effect when powermining. This effect also applies to sandstone and granite. It does not need to be equipped for the bonus to apply. It also has no effect within Motherlode mine.
 
 * **Varrock Armour 1:** Clay - Coal
 * **Varrock Armour 2:** Clay - Mithril
@@ -42,7 +42,7 @@ The Varrock diary rewards provide a 10% bonus to the amount of ores you will rec
 
 ## Prospector's Outfit
 
-Must be equipped in the skilling setup for the boost to apply. Nuggets are only obtained from motherload mining.
+Must be equipped in the skilling setup for the boost to apply. Nuggets are only obtained from [Motherlode mine](motherlode-mine.md).
 
 | **Item**          | **XP Boost** | **Golden Nugget Cost** |
 | ----------------- | ------------ | ---------------------- |
