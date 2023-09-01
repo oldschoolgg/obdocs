@@ -11,4 +11,8 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * Revamp skill guides with xp/hr
 * ToA flesh-out
 * Best pet methods
-* Puro Puro page
+* CA Achievements + Rewards
+* Bloodbark armour
+* Update CoX gear setups
+* Update pages where shadow and scythe need charges&#x20;
+* Consider adding notes to each boss about whether the gear needs to be equipped or in bank

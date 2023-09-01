@@ -136,7 +136,7 @@ In order to change your bank background you will need to do `/minion bankbg`` `*
 
 ### **How do I revert items?**
 
-In order to revert items you will start by doing `/create`` `**`item:`**` ``revert` and searching for or typing in the item you are looking to revert. For a list of all those items that you can revert make sure you go to our page for [Reverting Items](reverting-items.md)
+In order to revert items you will start by doing `/create`` `**`item:`**` ``revert` and searching for or typing in the item you are looking to revert. For a list of all those items that you can revert make sure you go to our page for [Reverting Items](../miscellaneous/reverting-items.md)
 
 ### How can I claim my free T1 perks after maxing in both bots?
 

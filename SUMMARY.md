@@ -14,12 +14,12 @@
 * [Gear](getting-started/gear.md)
 * [Combat Training](getting-started/combat-skills.md)
 * [Bank Filters](getting-started/bank-filters.md)
-* [Reverting Items](getting-started/reverting-items.md)
 * [Leagues](getting-started/leagues.md)
 
 ## Bosses
 
 * [Boosts & Requirements](bosses/boosts-and-requirements.md)
+* [DT2 Bosses](bosses/dt2-bosses.md)
 * [Fight Caves](bosses/fight-caves/README.md)
   * [Tokkul Shop](bosses/fight-caves/tokkul-shop.md)
 * [Giant Mole](bosses/giant-mole.md)
@@ -149,6 +149,7 @@
 * [Nightmare Zone](miscellaneous/nightmare-zone.md)
 * [Offering](miscellaneous/offering.md)
 * [Questing](miscellaneous/questing.md)
+* [Reverting Items](miscellaneous/reverting-items.md)
 * [Tears of Guthix](miscellaneous/tears-of-guthix.md)
 
 ***

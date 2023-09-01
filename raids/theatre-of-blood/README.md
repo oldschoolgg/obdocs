@@ -17,7 +17,7 @@ You can find a team to do ToB in the official server at discord.gg/ob
 * 90 Attack/Strength/Defence/Range, 94 Magic, 77 Prayer
 * Your best melee/mage gear equipped, and range gear (void highly recommended).&#x20;
 * Enough GP to pay 100k if you die
-* Rune pouch
+* Rune pouch **OR** Divine rune pouch
 * An Abyssal tentacle, Blade of saeldor(c) or Scythe of Vitur, and Fire or Infernal cape, in melee gear.
 * A charged/loaded Toxic blowpipe in your bank, with good darts
 * A magic shortbow or twisted bow in your range gear, with amethyst/rune/dragon arrows.

@@ -5,7 +5,7 @@ coverY: 21.65841584158416
 
 # Chambers of Xeric (CoX)
 
-### Getting Started
+## Getting Started
 
 There are a few things that need to be prefaced before you get started.
 
@@ -16,32 +16,30 @@ To view your current stats and raiding abilities (gear score and death chance), 
 To start a Chambers of Xeric raid, use either:
 
 * `/raid cox start`` `**`type:`**` ``solo`
+  * Solo CoX can be completed at 0kc, however, you are heavily penalised until 50kc. After 50kc, your solo'ing ability will be increased.
 * `/raid cox start`` `**`type:`**` ``mass`
-
-Solo Chambers of Xeric requires 50 KC, so the first 50 must be done within a mass raid, a mass requires minimum of 2 users and has a maximum capacity of 15.
-
-Remember that one user will need 55 Farming and 78 Herblore for the mass!
+  * Mass Cox requires a minimum of 2 users and has a maximum capacity of 15. Remember that one user will need 55 Farming and 78 Herblore for the mass!
 
 See [here](cox-gear-setups.md) for recommended gear setups for the Chambers of Xeric.
 
-### Requirements
+## Requirements
 
 * 80+ Attack/Strength/Defence/Ranged/Magic
 * 70+ Prayer
-* Saradomin Brew(4), Super Restore (4), Stamina Potion(4)
+* Saradomin Brew(4), Super Restore(4), Stamina Potion(4)
 * In a mass, atleast one user needs 55 Farming and 78 Herblore. (If solo, you need these too)
 
 It is highly recommended that you have the best possible Melee, Range and Mage gear you can and to equip them in their respective setups. You can still participate with less than the 'best-in-slot' gear but you will receive less points, increase raid time and increase death chance.
 
 View the best in slot and alternate gear setups for CoX [here](cox-gear-setups.md)
 
-### Potion Usage
+## Potion Usage
 
 When you are first starting out you will be using 7x Saradomin Brew(4), 4x Super Restore(4) and 1x Stamina Potion(4) per mass.
 
 These quantities scale based off KC, Challenge Mode and Mass/Solo, excluding the stamina potion. In Solos you will use one extra Stamina Potion(4).
 
-### Finding a Raid Team
+## Finding a Raid Team
 
 In the [support discord server](http://invite.oldschool.gg/) you will find dedicated channels for Chambers of Xeric.
 
@@ -53,7 +51,7 @@ For regular chambers it's recommended that you use [`#raids-mass-regular`.](http
 
 Please keep in mind that these are just recommendations, you are not restricted to these channels in order to participate in raiding, it is only recommended as finding a group would be much easier.  You can raid in your own discord servers if you would like to.
 
-### Boosts
+## Boosts
 
 Higher Kc makes raids faster. Here is the maximum kc that will give a boost
 
@@ -68,13 +66,17 @@ The item with the highest boost that you currently own from each line will be ap
 
 * Twisted bow (8%) **OR** Bow of faerdhinen (6%) **OR** Dragon hunter crossbow (5%)
 * Dragon hunter lance (3%) **OR** Abyssal tentacle (2%)<mark style="color:red;">**\***</mark>
-* Sanguinesti staff (6%)<mark style="color:red;">**\*\***</mark>
+* Tumeken's shadow (9%)<mark style="color:red;">**\*\***</mark>** OR** Sanguinesti staff (6%)<mark style="color:red;">**\*\*\***</mark>
 * Dragon warhammer (3%) **OR** Bandos godsword (2.5%)
 * Zaryte vambraces (4%) (MUST be equipped in range setup for boost)
 
 <mark style="color:red;">**\***</mark> - Requires at least 200 charges for boost to apply.
 
-<mark style="color:red;">**\*\***</mark> - Requires at least 150 charges for boost to apply.
+<mark style="color:red;">\*\*</mark> - Requires at least 130 charges for boost to apply.
+
+<mark style="color:red;">**\*\*\***</mark> - Requires at least 150 charges for boost to apply.
+
+***
 
 ## Challenge Mode
 

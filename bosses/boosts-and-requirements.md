@@ -16,8 +16,6 @@ You can check the boosts/requirements for a specific boss and by how much by usi
 
 Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
 
-
-
 ### God Wars Dungeon
 
 {% tabs %}
@@ -30,9 +28,9 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Quest\_point\_icon.png)  75 Quest Points
 
-<img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line">Armadyl Chestplate
+<img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line"> Armadyl Chestplate
 
-&#x20;<img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">Armadyl Chainskirt
+&#x20;<img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line"> Armadyl Chainskirt
 
 
 
@@ -179,9 +177,9 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 &#x20;![](../.gitbook/assets/Guthan's\_warspear.png)Guthan's Warspear
 
-&#x20; ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
+&#x20; ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
 
-&#x20;![](../.gitbook/assets/Bandos\_tassets.png) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
+&#x20;![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
 
 
 
@@ -205,9 +203,9 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 &#x20;![](../.gitbook/assets/Guthan's\_warspear.png)Guthan's Warspear
 
-&#x20; ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
+&#x20; ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
 
-&#x20;![](../.gitbook/assets/Bandos\_tassets.png) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
+&#x20;![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
 
 
 
@@ -215,13 +213,17 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 4% for ![](<../.gitbook/assets/Saradomin\_godsword (1).png>) Saradomin Godsword **OR** 6% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
 
-2% for ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos Chestplate
+2% for ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate
 
-2% for ![](../.gitbook/assets/Bandos\_tassets.png) Bandos Tassets
+2% for ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets
 {% endtab %}
 {% endtabs %}
 
 ### Wilderness Bosses
+
+{% hint style="danger" %}
+<mark style="color:red;">**Callisto, Venenatis & Vet'ion are disabled due to the wildy rework coming out soon!**</mark>
+{% endhint %}
 
 {% tabs %}
 {% tab title="Callisto" %}
@@ -367,7 +369,7 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 10% for <img src="../.gitbook/assets/800px-arclight_detail.png" alt="" data-size="line"> Arclight
 
-5% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line">Bandos Godsword **OR** 10% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line">Dragon Warhammer
+5% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line"> Bandos Godsword **OR** 10% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line"> Dragon Warhammer
 
 10% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of Rejuvenation or better
 {% endtab %}
@@ -399,9 +401,9 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Dharok's\_platebody.png) Dharok's Platebody **OR** ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
+![](../.gitbook/assets/Dharok's\_platebody.png) Dharok's Platebody **OR** ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
 
-&#x20; ![](../.gitbook/assets/Dharok's\_platelegs.png)   Dharok's Platelegs **OR** ![](../.gitbook/assets/Bandos\_tassets.png) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
+&#x20; ![](../.gitbook/assets/Dharok's\_platelegs.png)   Dharok's Platelegs **OR** ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
 
 ![](../.gitbook/assets/Zamorakian\_spear.png) Zamorakian Spear **OR** ![](../.gitbook/assets/Zamorakian\_hasta.png) Zamorakian Hasta
 
@@ -411,9 +413,9 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 10% for ![](../.gitbook/assets/Spectral\_spirit\_shield.png) Spectral Spirit Shield
 
-5% for ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos Chestplate **OR** 8% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's Hauberk
+5% for ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate **OR** 8% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's Hauberk
 
-5% for ![](../.gitbook/assets/Bandos\_tassets.png) Bandos Tassets **OR** 8% for ![](../.gitbook/assets/Inquisitor's\_plateskirt.png) Inquisitor's Plateskirt
+5% for ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets **OR** 8% for ![](../.gitbook/assets/Inquisitor's\_plateskirt.png) Inquisitor's Plateskirt
 
 8% for <img src="../.gitbook/assets/800px-arclight_detail.png" alt="" data-size="line"> Arclight **OR** 10% for ![](../.gitbook/assets/Abyssal\_whip.png) Abyssal Whip **OR** 11% for ![](../.gitbook/assets/Abyssal\_tentacle.png) Abyssal Tentacle **OR** 13% for ![](../.gitbook/assets/Abyssal\_bludgeon.png) Abyssal Bludgeon **OR** 15% for ![](../.gitbook/assets/Inquisitor's\_mace.png) Inquisitor's Mace
 {% endtab %}
@@ -449,7 +451,7 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 8% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 10% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 10% for the![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the Swamp **OR** 12% for the![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti Staff **OR** 15% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
 
-3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart
+3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart/Saturated Heart
 
 _**Note**: Tridents cannot currently be manually charged._
 {% endtab %}
@@ -476,6 +478,126 @@ _**Note**: Tridents cannot currently be manually charged._
 2% for ![](../.gitbook/assets/Ancestral\_robe\_bottom.png) Ancestral Robe Bottom
 {% endtab %}
 {% endtabs %}
+
+### Desert Treasure 2 Bosses (Inc. Awakened Version)
+
+{% tabs %}
+{% tab title="The Leviathan" %}
+**Requirements**
+
+![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line"> Armadyl chestplate
+
+<img src="../.gitbook/assets/Masori_chaps_(f).png" alt="" data-size="original"> Masori chaps **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail.png" alt="" data-size="line"> Armadyl chainskirt
+
+
+
+**Boosts **<mark style="color:red;">**(All items must be equipped in RANGE setup for boost to apply)**</mark>
+
+3% for <img src="../.gitbook/assets/Twisted_buckler.png" alt="" data-size="line"> Twisted buckler
+
+3% for <img src="../.gitbook/assets/Zaryte_vambraces.png" alt="" data-size="original"> Zaryte vambraces
+
+3% for <img src="../.gitbook/assets/Pegasian_boots.png" alt="" data-size="original"> Pegasian boots
+
+5% for <img src="../.gitbook/assets/Zaryte_crossbow.png" alt="" data-size="original"> Zaryte crossbow
+
+5% for <img src="../.gitbook/assets/Masori_mask_(f).png" alt="" data-size="original"> Masori mask (f) **OR** 4% for Masori mask
+
+5% for <img src="../.gitbook/assets/Masori_body_(f).png" alt="" data-size="original"> Masori body (f) **OR** 4% for <img src="../.gitbook/assets/Masori_body.png" alt="" data-size="original"> Masori body
+
+5% for <img src="../.gitbook/assets/Masori_chaps_(f).png" alt="" data-size="original"> Masori chaps (f) **OR** 4% for <img src="../.gitbook/assets/Masori_chaps.png" alt="" data-size="original"> Masori chaps
+
+5% for <img src="../.gitbook/assets/Lightbearer.png" alt="" data-size="original"> Lightbearer **OR** 5% for <img src="../.gitbook/assets/Venator_ring.png" alt="" data-size="original"> Venator ring
+{% endtab %}
+
+{% tab title="The Whisperer" %}
+**Requirements**
+
+![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral robe top **OR** ![](../.gitbook/assets/Virtus\_robe\_top.png) Virtus robe top **OR** ![](../.gitbook/assets/Ahrim's\_robetop.png) Ahrim's robetop
+
+<img src="../.gitbook/assets/Ancestral_robe_bottom.png" alt="" data-size="original"> Ancestral robe bottom **OR** ![](../.gitbook/assets/Virtus\_robe\_bottom.png) Virtus robe bottom **OR** ![](../.gitbook/assets/Ahrim's\_robeskirt.png) Ahrim's robeskirt
+
+<img src="../.gitbook/assets/Tumeken&#x27;s_shadow (1).png" alt="" data-size="original"> Tumeken's shadow **OR** ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti staff (must be [charged](../miscellaneous/charging-items.md))
+
+
+
+**Boosts **<mark style="color:red;">**(All items must be equipped in MAGE setup for boost to apply)**</mark>
+
+3% for <img src="../.gitbook/assets/Elidinis&#x27;_ward_(f).png" alt="" data-size="line"> Elidinis' ward (f)
+
+3% for ![](../.gitbook/assets/Tormented\_bracelet.png) Tormented bracelet
+
+3% for <img src="../.gitbook/assets/Eternal_boots.png" alt="" data-size="original"> Eternal boots
+
+5% for <img src="../.gitbook/assets/Tumeken&#x27;s_shadow (1).png" alt="" data-size="original"> Tumeken's shadow
+
+5% for <img src="../.gitbook/assets/Ancestral_hat.png" alt="" data-size="original"> Ancestral hat **OR** 3% for Virtus mask
+
+5% for <img src="../.gitbook/assets/Ancestral_robe_top.png" alt="" data-size="original"> Ancestral robe top **OR** 3% for Virtus robe top
+
+5% for <img src="../.gitbook/assets/Ancestral_robe_bottom.png" alt="" data-size="original"> Ancestral robe bottom **OR** 3% for Virtus robe bottom
+
+5% for <img src="../.gitbook/assets/Lightbearer.png" alt="" data-size="original"> Lightbearer **OR** 5% for <img src="../.gitbook/assets/Magus_ring.png" alt="" data-size="original"> Magus ring
+{% endtab %}
+
+{% tab title="Vardorvis" %}
+**Requirements**
+
+![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos chestplate
+
+![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** ![](../.gitbook/assets/Bandos\_tassets.png) Bandos tassets
+
+
+
+**Boosts  **<mark style="color:red;">**(All items must be equipped in MELEE setup for boost to apply)**</mark>
+
+3% for <img src="../.gitbook/assets/Avernic_defender.png" alt="" data-size="line"> Avernic defender
+
+3% for ![](../.gitbook/assets/Ferocious\_gloves.png) Ferocious gloves
+
+3% for ![](../.gitbook/assets/Primordial\_boots.png) Primordial boots
+
+3% for ![](../.gitbook/assets/Torva\_full\_helm.png) Torva full helm
+
+3% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody
+
+3% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs
+
+5% for <img src="../.gitbook/assets/Bellator_ring.png" alt="" data-size="original"> Bellator ring **OR** 5% for <img src="../.gitbook/assets/Ultor_ring.png" alt="" data-size="original"> Ultor ring
+
+15% for ![](../.gitbook/assets/Scythe\_of\_vitur.png) Scythe of vitur (must be [charged](../miscellaneous/charging-items.md#scythe-of-vitur))
+{% endtab %}
+
+{% tab title="Duke Sucellus" %}
+**Requirements**
+
+![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos chestplate
+
+![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** ![](../.gitbook/assets/Bandos\_tassets.png) Bandos tassets
+
+
+
+**Boosts  **<mark style="color:red;">**(All items must be equipped in MELEE setup for boost to apply)**</mark>
+
+3% for <img src="../.gitbook/assets/Avernic_defender.png" alt="" data-size="line"> Avernic defender
+
+3% for ![](../.gitbook/assets/Ferocious\_gloves.png) Ferocious gloves
+
+3% for ![](../.gitbook/assets/Primordial\_boots.png) Primordial boots
+
+3% for ![](../.gitbook/assets/Torva\_full\_helm.png) Torva full helm
+
+3% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody
+
+3% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs
+
+5% for <img src="../.gitbook/assets/Bellator_ring.png" alt="" data-size="original"> Bellator ring **OR** 5% for <img src="../.gitbook/assets/Ultor_ring.png" alt="" data-size="original"> Ultor ring
+
+15% for ![](../.gitbook/assets/Scythe\_of\_vitur.png) Scythe of vitur (must be [charged](../miscellaneous/charging-items.md#scythe-of-vitur))
+{% endtab %}
+{% endtabs %}
+
+
 
 ### Sporadic Bosses
 

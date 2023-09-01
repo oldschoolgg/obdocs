@@ -11,7 +11,7 @@ To start a trip, use the `/k`` `**`name`**`: (name)`` `**`method:`**` ``none` co
 
 ## Things To Know Before Starting
 
-**Note:** You are auto defaulted to being skulled while doing Revenants now no matter what.
+<mark style="color:red;">**Note: You are auto defaulted to being skulled while doing Revenants. This cannot be changed.**</mark>
 
 Like aforementioned, you will use the wildy setup for killing revs. You CAN lose everything from this setup if unlucky, _**don't equip items you are not willing to lose.**_
 
@@ -69,7 +69,7 @@ Bracelets of ethereum can be charged (requires 2000 ether) but offers no benefit
 
 #### **Wildy Weapons** ![](<../.gitbook/assets/Viggora's chainmace.png>) ![](<../.gitbook/assets/Craw's bow.png>) ![](<../.gitbook/assets/Thammaron's sceptre.png>)
 
-These weapons can be charged which will provide boosts at revs themselves and many other wildy bosses. It costs 7000 ether to charge a wildy weapon. To check the boosts which these items give, please visit the [Boosts & Requirements page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)
+These weapons can be charged which will provide boosts at revs themselves and other wildy bosses. It costs 7000 ether to charge a wildy weapon. To check the boosts which these items give, please visit the [Boosts & Requirements page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)
 
 * `/create`` `**`item:`**`viggora's chainmace`
 * `/create`` `**`item:`**`craw's bow`
@@ -77,9 +77,9 @@ These weapons can be charged which will provide boosts at revs themselves and ma
 
 #### **Ancient Items** ![](<../.gitbook/assets/Ancient emblem.png>) ![](<../.gitbook/assets/Ancient totem.png>) ![](<../.gitbook/assets/Ancient statuette.png>) ![](<../.gitbook/assets/Ancient medallion.png>) ![](<../.gitbook/assets/Ancient effigy.png>) ![](<../.gitbook/assets/Ancient relic.png>)
 
-You can sell the ancient items for the same value as in OSRS. Use the `+sell` command. This can't be done if your minion is busy.
+You can sell the ancient items for the same value as in OSRS. Use the `/sell` command.&#x20;
 
-* E.g.  `+sell ancient relic`
+* `/sell`` `**`items:`**` ``1 Ancient totem`
 
 |                   |              |
 | ----------------- | :----------: |

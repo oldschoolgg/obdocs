@@ -113,3 +113,15 @@ Most items **cannot** be manually reverted, meaning you need to use the item con
 **Provides boosts to -** Zulrah, Muspah, Kraken, Thermy, and general PvM when equipped in mage
 
 **Charges consumed -** 1 charge for every 40hp of a monster/boss when using mage
+
+***
+
+## **Scythe of Vitur** ![](../.gitbook/assets/Scythe\_of\_vitur.png)
+
+**Charged with -** Blood runes & Vial of blood (300 Blood runes & 1 Vial of blood per 100 charges)
+
+**Revertible -** Yes, but no blood runes or vials are returned
+
+**Provides boosts to -** ToB, GGs, Sarachnis, Duke, Vardorvis, general PvM when equipped in melee
+
+**Charges consumed -** 1 charge for every 40hp of a monster/boss when using melee
