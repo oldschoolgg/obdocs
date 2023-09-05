@@ -35,8 +35,8 @@ You can do temple trekking by using `/minigames temple_trek start` and then choo
 ### **Ivandis/Blisterwood Flail**
 
 * `/craft`` `**`name:`**`Silver sickle`
-* `/create`` `**`item:`**`Ivandis Flail` - Requires Silver sickle + cut emerald
-* `/create`` `**`item:`**`Blisterwood Flail` - Requires Silver sickle + cut ruby
+* `/create`` `**`item:`**`Ivandis Flail` - Requires Silver sickle + cut emerald  (requires 75 QP and relevant quest skills)
+* `/create`` `**`item:`**`Blisterwood Flail` - Requires Ivandis Flail + cut ruby (requires 125 QP and relevant quest skills)
 
 ### Salve Amulet (e)
 
