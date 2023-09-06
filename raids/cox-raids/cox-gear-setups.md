@@ -10,14 +10,15 @@ This list shows the reference setups, as well as some alternative setups that ca
 
 ## Melee
 
-Your melee gear score is based on your highest melee attack bonus, (slash attack, crush attack, stab attack) your melee strength, your defensive stats, and your prayer bonus.\
-If you are below 50% of the reference strength bonus, (75) your gear score is halved.
+Your melee gear score is based on your highest melee attack bonus, (slash attack, crush attack, stab attack) your melee strength, your defensive stats, and your prayer bonus.&#x20;
+
+_If you are below 50% of the reference strength bonus, (78) your gear score is halved._
 
 ### Reference Setup
 
 <div align="left">
 
-<img src="../../.gitbook/assets/Cox_melee_bis.png" alt="">
+<figure><img src="../../.gitbook/assets/Cox_Max_Melee_Sept2023.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -45,16 +46,19 @@ An alternative way to get 100% with an Elder Maul although you still require eit
 
 This setup will give a gear score of 99.7%, as it has slightly less slash attack compared to the reference setup's crush attack.
 
+***
+
 ## Range
 
-Your range gear score is based on your range attack bonus, your defensive bonuses, your ranged and melee strength, and your prayer bonus.\
-If you are below 50% of the reference gear's range strength (44.5), your gear score is halved.
+Your range gear score is based on your range attack bonus, your defensive bonuses, your ranged and melee strength, and your prayer bonus.&#x20;
+
+_If you are below 50% of the reference gear's range strength (45.5), your gear score is halved._
 
 ### Reference Setup
 
 <div align="left">
 
-<img src="../../.gitbook/assets/coxrange (1).png" alt="">
+<figure><img src="../../.gitbook/assets/Cox_Max_Range_Sept2023.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -68,16 +72,19 @@ If you are below 50% of the reference gear's range strength (44.5), your gear sc
 
 Although the twisted bow is equipped in the reference setup, you are not actually required to equip it in order for it to apply a boost to your overall score. Due to this, and due to the twisted bow's mediocre offensive stats, it is trivial to create a setup that will give 100% gear score. This setup is effectively the bare minimum to reach 100%.
 
+***
+
 ## Mage
 
-Your mage gear score is based on your magic attack, your defensive bonuses, your magic dmg, and prayer bonus.\
-If you are below 50% of the reference gear's magic damage, (19%) your gear score is halved.
+Your mage gear score is based on your magic attack, your defensive bonuses, your magic dmg, and prayer bonus.
+
+_If you are below 50% of the reference gear's magic damage, (20%) your gear score is halved._
 
 ### Reference Setup
 
 <div align="left">
 
-<img src="../../.gitbook/assets/coxmagereference.png" alt="">
+<figure><img src="../../.gitbook/assets/Cox_Max_Mage_Sept2023.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

@@ -1,9 +1,34 @@
----
-description: Still in the making...
----
+# ToB Gear Setups
 
-# ToB - Hard Mode
+## Overview
 
-Hard mode is much the same as normal mode. Previously the boost max score was above 100% but is now capped at 100% in line with normal mode.&#x20;
+The BiS gear for each combat style are listed here. There are some gear changes that can be made in order to still achieve the highest speed boost for your ToB team. You can read more about how gear affects speed boosts in the [ToB Theory page](tob-theory.md).
 
-For Hard mode, the entire team must have 100% boost score to achieve the fastest times. You can use rune arrows whilst maintaining 100% boost score (99.5% gear score) however dragon darts must be used for 100% boost regardless of arrows.
+## Melee
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Tob_Max_Melee_Sept2023.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+***
+
+## Range
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Tob_Max_Range_Sept2023.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+***
+
+## Mage
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/Tob_Max_Mage_Sept2023.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+

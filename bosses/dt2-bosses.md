@@ -86,6 +86,6 @@ This enormous 2-handed axe can be created by obtaining a specific piece from eac
 
 These tablets are dropped rather commonly from the bosses and can be consumed by doing: `/use`` `**`item:`**. However, using these tablets currently gives no boosts to the DT2 bosses.
 
-### Ancient Quartz ![](../.gitbook/assets/Shadow\_quartz.png) ![](../.gitbook/assets/Blood\_quartz.png) ![](../.gitbook/assets/Ice\_quartz.png) ![](../.gitbook/assets/Smoke\_quartz.png)
+### Ancient Quartzes ![](../.gitbook/assets/Shadow\_quartz.png) ![](../.gitbook/assets/Blood\_quartz.png) ![](../.gitbook/assets/Ice\_quartz.png) ![](../.gitbook/assets/Smoke\_quartz.png)
 
 These quartzes are dropped rather commonly from the bosses but currently serve no use within the bot. You cannot use them to open the ancient chest.

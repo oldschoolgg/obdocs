@@ -9,6 +9,8 @@ To start a trip, use the `/k`` `**`name`**`: (name)`` `**`method:`**` ``none` co
 
 **Note:** If you try to put any other method outside of none it will auto default you to using the range method as you can not barrage/burst or cannon revs.
 
+***
+
 ## Things To Know Before Starting
 
 <mark style="color:red;">**Note: You are auto defaulted to being skulled while doing Revenants. This cannot be changed.**</mark>
@@ -54,9 +56,13 @@ The highest attack boost you can obtain is 25%. The maximum style bonuses are li
 
 * Attack boost = (94/246 \* 100) / 4 = 9.55% bonus
 
+***
+
 ## Boosts
 
 * 35% boost for equipping a charged wildy weapon (**must be equipped in wildy setup**)
+
+***
 
 ## Uniques
 

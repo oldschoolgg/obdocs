@@ -2,7 +2,7 @@
 
 You can do temple trekking by using `/minigames temple_trek start` and then choosing a difficulty.
 
-### Requirements
+## Requirements
 
 **All difficulties:** 30 QP
 
@@ -24,29 +24,29 @@ You can do temple trekking by using `/minigames temple_trek start` and then choo
 * Any melee attak stat: 30
 * All melee defence stats: 150
 
-### Boosts
+## Boosts
 
 * Graceful: -15% penalty if not equipped
-* 1% faster trip time per 25 treks completed, maxes out at 10% (250KC)
+* 1% faster trip time per 25 treks completed, maxes out at 10% (250kc)
 * Morytania Hard Diary: 15%
 * Ivandis Flail: 10% **OR** Blisterwood Flail 15%
 * Salve amulet (e) 5% **OR** Salve amulet (ei) 5%
 
-### **Ivandis/Blisterwood Flail**
+## **Ivandis/Blisterwood Flail**
 
-* `/craft`` `**`name:`**`Silver sickle`
-* `/create`` `**`item:`**`Ivandis Flail` - Requires Silver sickle + cut emerald
-* `/create`` `**`item:`**`Blisterwood Flail` - Requires Silver sickle + cut ruby
+1. `/craft`` `**`name:`**`Silver sickle`
+2. `/create`` `**`item:`**`Ivandis Flail` - Requires Silver sickle + cut emerald
+3. `/create`` `**`item:`**`Blisterwood Flail` - Requires Ivandis flail + cut ruby
 
-### Salve Amulet (e)
+## Salve Amulet (e)
 
-First buy the salve amulet for 200,000GP using `/buy`` `**`name:`**` ``Salve amulet`.\
-Then [collect](../miscellaneous/collecting.md) Tarn's diary using `/activites collect`` `**`item:`**`Tarn's diary`.\
-Finally create the salve amulet (e) using `/create`` `**`item:`**`Salve amulet (e)`.
+1. `/buy`` `**`name:`**` ``Salve amulet`
+2. `/activites collect`` `**`item:`**`Tarn's diary` - cannot specify quantity
+3. `/create`` `**`item:`**`Salve amulet (e)`
 
 Although the salve amulet (e) can be [imbued](soul-wars.md#imbueables), the imbued salve amulet (ei) still only provides the same 5% bonus as the unimbued version.
 
-### Rewards
+## Rewards
 
 To buy rewards with your tokens, use `/minigames temple_trek buy`
 

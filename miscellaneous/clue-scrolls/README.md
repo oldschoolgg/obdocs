@@ -6,9 +6,9 @@ description: Guide for hunting clue scrolls
 
 ### Beginner Clues
 
-Obor/Bryophyta for guaranteed beginners
+Obor/Bryophyta for guaranteed beginners (requires Giant key/Mossy key respectively).
 
-Alternatively can kill men/goblins for easies and beginners
+Alternatively can kill men/goblins for easies and beginners. It is advised to send shorter trips.
 
 ### Easy Clues
 
@@ -32,4 +32,15 @@ Elite clues generally come passively through pvm, as virtually every boss drops 
 
 ### Master Clues
 
-Master clues can be created using an easy, medium, hard, and elite clue scroll. This is generally not recommended, as getting masters passively through other clue completions is a much more efficient way to obtain them, due to the length of time required to obtain the elite clues especially, it's usually better to do either mediums or hard clues, and do the masters obtained from those, rather than specifically create master clues.
+Master clues can be created using an easy, medium, hard, and elite clue scroll.&#x20;
+
+* `/create`` `**`item:`**`Master clue`
+
+However, this is generally not recommended, as getting masters passively through other clue completions is a much more efficient way to obtain them, especially due to the length of time required to obtain the elite clues. It's usually better to do either mediums or hard clues, and do the masters obtained from those, rather than specifically create master clues.
+
+Chance of master clues from other clues:
+
+* **Easy clues** - 1/50
+* **Medium clues** - 1/30
+* **Hard clues** - 1/15
+* **Elite clues** - 1/5

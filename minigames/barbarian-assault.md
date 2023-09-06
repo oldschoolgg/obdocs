@@ -19,7 +19,7 @@ You have a 1/4 chance per trip for your minion to be chosen as the Fighter role.
 
 **NOTE:** Using Bandos chestplate and tassets with Neitiznot faceguard will give 12.50% boost.
 
-![Highest Melee Strength Bonus Available](../.gitbook/assets/bis\_melee\_str.png)
+<figure><img src="../.gitbook/assets/Highest_Melee_Str_Sept2023.png" alt=""><figcaption><p>Highest Melee Strength Available</p></figcaption></figure>
 
 ### **Honour Level**
 

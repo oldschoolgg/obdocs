@@ -1,5 +1,7 @@
 # Theatre of Blood (ToB)
 
+## Getting Started
+
 The Theatre Of Blood is a high-level raid you can do for some good loot. You get faster, and better, at ToB after more attempts and KC.
 
 You can do the Theatre of Blood using `/raid tob start`
@@ -12,37 +14,32 @@ You can see your KC, attempts and death chances using `/raid tob stats`
 
 You can find a team to do ToB in the official server at discord.gg/ob
 
+***
+
 ## Requirements
 
 * 90 Attack/Strength/Defence/Range, 94 Magic, 77 Prayer
-* Your best melee/mage gear equipped, and range gear (void highly recommended).&#x20;
-* Enough GP to pay 100k if you die
+* High level equipment equipped in Melee/Mage/Range (see [ToB Gear Setups](tob-hard-mode.md))
+* At least 100k gp for potential deaths
 * Rune pouch **OR** Divine rune pouch
-* An Abyssal tentacle, Blade of saeldor(c) or Scythe of Vitur, and Fire or Infernal cape, in melee gear.
+* An Abyssal tentacle<mark style="color:red;">**\***</mark>, Blade of saeldor(c) or Scythe of vitur<mark style="color:red;">**\***</mark>, and Fire or Infernal cape, in melee gear.
 * A charged/loaded Toxic blowpipe in your bank, with good darts
 * A magic shortbow or twisted bow in your range gear, with amethyst/rune/dragon arrows.
 * At least 250 KC and an Infernal cape for Hard mode
 * At least 150 KC before doing duos
 * Super combat potions, ranging potions, brews, restores, blood runes, death runes, water rune
-* Karambwans if you're less than 20 kc
+* 3 Karambwans per kc, if you're less than 20kc
 * 20+ HP healing food (e.g. sharks) (more if less than 20 kc)
-* Vials of blood and extra blood runes if using Scythe
 
-## Gear
+<mark style="color:red;">**\***</mark> _- These items need to be charged. An uncharged scythe will still suffice, however, will only provide a 6% boost compared to the 15% the charged version gives. View_ [_charging items here._](../../miscellaneous/charging-items.md)
 
-This is the best-in-slot gear you can wear - only needed until you reach 95.3% boost score.
-
-![ToB Best-in-slot Melee Gear](../../.gitbook/assets/torvatob.png)
-
-![ToB Best-in-slot Range Gear](<../../.gitbook/assets/osbot (2) (1) (1).png>)
-
-![ToB Best-in-slot Mage Gear](<../../.gitbook/assets/osbot (6).png>)
+***
 
 ## Boosts
 
 ### Speed Boosts
 
-There are no direct speed boosts, these items affect your boost score (see theory section).
+There are no direct speed boosts, these items affect your boost score (see [theory section](tob-theory.md)).
 
 * Better darts directly affect your boost score rather than your gear score.
 * Having more attempts/KC
@@ -57,21 +54,41 @@ There are no direct speed boosts, these items affect your boost score (see theor
 * Having more attempts/KC
 * Having better gear
 
+***
 
+## Hard Mode
 
-## Blowpipe, Abyssal Tentacle, Sanguinesti staff and Scythe of Vitur
+Before you can start hard mode, you will need to complete at least 250 regular mode. Hard mode is much the same as normal mode. Previously, the boost max score was above 100% but is now capped at 100% in line with normal mode.&#x20;
 
-To charge your Blowpipe use:
+For Hard mode, the entire team must have 100% boost score to achieve the fastest times. You can use rune arrows whilst maintaining 100% boost score (99.5% gear score), however, dragon darts must be used for 100% boost regardless of arrows.
 
-* `/minion blowpipe add:100 dragon dart, 1000 zulrah's scales`
+## Uniques
 
-To create or charge an Abyssal tentacle use:&#x20;
+ToB hard mode offers a few extra uniques on top of the regular weapons and armour, these being ornament kits for the Scythe and Sang staff, and the Sanguine dust for pet transmogs ([see below](./#pet-transmogs)).
 
-* `/create`` `**`item:`**` ``Abyssal tentacle`
-* `/minion charge`` `**`item:`**` ``Abyssal tentacle`` `**`amount:`**` ``1`
+There are no requirements to roll on the kit/dust table, however, they are all on the same table, so you can only receive one of the three items at a time. Their drop rates are:
 
-To charge your Sanguinesti Staff use:
+* **Holy ornament kit** - 1/100
+* **Sanguine ornament kit** - 1/150
+* **Sanguine dust** - 1/275
 
-* `/minion charge`` `**`item:`**` ``Sanguinesti staff`` `**`amount:`**` ``10000`
+Additionally, the chance at rolling a purple is also slightly increased in hard mode. For a deathless raid, your team will have a 13% (1/7.7) chance at rolling a purple, compared to a normal mode at 11% (1/9.1) chance.
 
-The Scythe isn't charged. It is created from an uncharged scythe with `/create`` `**`item:`**`Scythe of vitur` and uses blood runes/vials of blood as you use it.
+## Pet Transmogs
+
+There are 5 ToB pet transmogs you can collect, however, they are not listed in any official collection log. They are called:
+
+* Lil' maiden
+* Lil' bloat
+* Lil' nylo
+* Lil' sot
+* Lil' xarp
+
+There are currently 2 ways to obtain the ToB pet transmogs. They are:
+
+* 1/30 chance from hard mode, when you already have Lil' zik and the Sanguine dust in your CL
+* Using a Sanguine dust to manually change your Lil' zik
+
+The base chance at rolling Lil' zik is 1/650 from regular ToB and 1/500 from hard mode. The base chance at rolling Sanguine dust is 1/275 from hard mode only. However, you do not need to hit the 1/500, nor the 1/275 again for a pet transmog. You only need to hit the 1/30 chance after already receiving both Lil' zik and the Sanguine dust. If you do hit the 1/30 after meeting these conditions, you will receive a random Lil' zik transmog that you don't already own.
+
+Additionally, if you manage to obtain an extra Sanguine dust before rolling a pet transmog, you can simply use `/create item:` to manually create any of the 5 transmogs. This will consume 1 Sanguine dust and cannot be reverted.

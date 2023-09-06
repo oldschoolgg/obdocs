@@ -57,7 +57,7 @@ Mining xp scales with mined fragments.
 
 Each game will reward you with runes, talismans, and some untradeable items, alongside a common chance to obtain Abyssal pearls at a rate of 1/6.944. Abyssal pearls are needed to buy rewards from the reward shop. Rewards are bought using the command `/buy`
 
-* You can colour your piece of eye items using the Abyssal Red, Blue and Green dyes with the create command - `/create item:Hat of the eye (red)`
+* You can colour your piece of eye items using the Abyssal Red, Blue and Green dyes with the create command - `/create`` `**`item:`**`Hat of the eye (red)`
 * The Rift guardian pet can be turned into the Greatish guardian with the command `/create item:Greatish guardian`. This requires a Guardians eye which is bought from the reward shop.&#x20;
 * Abyssal lanterns and dyes can be sold to the shop for 100 and 50 pearls respectively with the `/sell` command.
 * You <mark style="color:red;">CANNOT</mark> trade one dye colour for another.

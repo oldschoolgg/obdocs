@@ -43,4 +43,4 @@ You must use the tablet for the boost to apply: `/use`` `**`item:`**`Slepey tabl
 
 Your melee gear will provide a boost up to 13.2%. This boost is based on each piece of BiS gear you equip, with each piece giving 1.2%. Equipping anything that is not BiS, will not grant the 1.2% boost for that slot. Rada's Blessing 4 is BiS for the ammo slot, all other blessings will not suffice.
 
-![BiS equipment for Phosani's nightmare.](../../.gitbook/assets/phosani\_BiS.png)
+<figure><img src="../../.gitbook/assets/PNM_BiS_Gear_Sept2023.png" alt=""><figcaption></figcaption></figure>
