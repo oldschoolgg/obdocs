@@ -136,6 +136,7 @@
 * [Buyables](miscellaneous/buyables.md)
 * [Champions Challenge](miscellaneous/champions-challenge.md)
 * [Charging Items](miscellaneous/charging-items.md)
+* [Combat Achievements](miscellaneous/combat-achievements.md)
 * [Crack The Clue](miscellaneous/crack-the-clue.md)
 * [Creatables](miscellaneous/creatables.md)
 * [Collecting](miscellaneous/collecting.md)

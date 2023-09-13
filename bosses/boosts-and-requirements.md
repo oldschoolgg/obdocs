@@ -815,7 +815,7 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 
 ![](../.gitbook/assets/Stamina\_potion\(4\).png) 5 Stamina potion (4) (consumed every kill)
 
-![](../.gitbook/assets/Ruby\_dragon\_bolts\_\(e\)\_5.png) 100 Ruby dragon bolts (consumed every kill)
+![](../.gitbook/assets/Ruby\_dragon\_bolts\_\(e\)\_5.png) 100 Ruby dragon bolts (e) <mark style="color:red;">**(must be equipped in range setup)**</mark>
 
 
 

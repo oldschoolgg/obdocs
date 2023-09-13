@@ -10,6 +10,12 @@ At the end of The Inferno, you are rewarded with an [Infernal Cape](https://olds
 
 Tokkul can be spent at the [Tokkul shop](https://wiki.oldschool.gg/bosses/fight-caves/tokkul-shop).
 
+{% hint style="info" %}
+There is also a 1/1,000 chance at receiving the following message if you have made it to Zuk at least once, but never completed the inferno.
+
+* _"You made it to TzKal-Zuk X times, but never killed him, maybe just buy the cape JalYt?"_
+{% endhint %}
+
 ## Commands
 
 To begin a trip into the inferno, use:
