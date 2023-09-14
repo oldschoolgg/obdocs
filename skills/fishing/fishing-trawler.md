@@ -1,13 +1,15 @@
 # Fishing Trawler
 
-Your minion can partake in the fishing trawler mini game using `/minigames fishing_trawler start`&#x20;
+Your minion can partake in the fishing trawler mini game using `/minigames fishing_trawler start` . The base time per game is 13 minutes.
 
-### Boosts
+## Boosts
 
 * \+0.2% trip time boost per KC, maxes out at +10% (50kc)
 * \+50% amount of fish received for [Elite Ardougne Diary](../../miscellaneous/achievement-diaries.md#ardougne-diary-elite)
 
-### Rewards
+***
+
+## Rewards
 
 There is a 1/8 (12.5%) chance that you will receive a piece of the angler's outfit you do not already own, each trip.
 

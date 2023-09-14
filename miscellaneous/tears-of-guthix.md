@@ -4,7 +4,7 @@ You can gain a small amount of xp through the Tears of Guthix minigame. Like the
 
 To start a round of Tears of Guthix, type  `/minigames tears_of_guthix start`&#x20;
 
-### Requirements
+## Requirements
 
 * 43 Quest points
 * 49 Firemaking
@@ -17,10 +17,14 @@ To start a round of Tears of Guthix, type  `/minigames tears_of_guthix start`&#x
 * 36 Thieving (Ironman only)
 * 35 Slayer (Ironman only)
 
-### Boosts
+***
 
-* 10% extra XP for completion of Lumbridge & Draynor Hard diary.
+## Boosts
 
-### Rewards
+* 10% extra XP for completion of Lumbridge & Draynor Hard diary
+
+***
+
+## Rewards
 
 You will gain roughly the same amount of xp as you would in-game, which is heavily dependent on the amount of quest points you have. For reference, if your lowest skill is over 30, you will gain 60xp per tear collected.

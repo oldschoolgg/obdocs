@@ -4,7 +4,7 @@
 
 From copper longtails to black chinchompas, use the hunter skill to track, trap, and catch a variety of critters. Though they're animals, they aren't stupid, and it will take some time to learn the most efficient ways to hunt them. For a full list of creatures, you can use the /`hunt --creatures` command.
 
-To start any hunter trip, use `/hunt`` `**`name:`**`<creature>`` `**`quantity:`**`<quantity>`` `**`hunter_potion:`**`<True/False>` - (quantity and hunter\_potion are optional)
+To start any hunter trip, use `/hunt`` `**`name:`**`[creature]`
 
 * `/hunt`` `**`name:`**`Black chinchompa`
 * `/hunt`` `**`name:`**`Sabre-toothed kebbit`` `**`quantity:`**`50`
@@ -96,6 +96,17 @@ You can create hunter gear with the `/create` command. This serves no purpose ot
 E.g. `/create`` `**`item:`**`Polar camouflage gear`` `**`quantity:`**`1`
 
 <table data-header-hidden><thead><tr><th width="202.7135875336512"></th><th></th></tr></thead><tbody><tr><td><strong>Set name</strong></td><td><strong>Required Materials</strong></td></tr><tr><td>Polar camouflage gear</td><td>4x Polar kebbit fur</td></tr><tr><td>Woodland camouflage gear</td><td>4x Common kebbit fur</td></tr><tr><td>Jungle camouflage gear</td><td>4x Feldip weasel fur</td></tr><tr><td>Desert camouflage gear</td><td>4x Desert devil fur</td></tr><tr><td>Larupia hunter gear</td><td>1x Larupia fur + 2x Tatty larupia fur</td></tr><tr><td>Graahk hunter gear</td><td>1x Graahk fur + 2x Tatty graahk fur</td></tr><tr><td>Kyatt hunter gear</td><td>1x Kyatt fur + 2x Tatty kyatt fur</td></tr><tr><td>Spotted cape</td><td>2x Spotted kebbit fur</td></tr><tr><td>Spottier cape</td><td>2x Dashing kebbit fur</td></tr><tr><td>Gloves of silence</td><td>2x Dark kebbit fur</td></tr></tbody></table>
+
+## Rabbit Foot Necklace
+
+This handy necklace slightly increases the chances of receiving bird eggs and seeds from woodcutting activities and birdhouses. You need 27 hunter to collect the materials and 37 crafting to make the necklace. Heres how to make one:
+
+1. Hunt a ferret - `/hunt`` `**`name:`**`Ferret`` `**`quantity:`**`1`
+2. Hunt a rabbit - `/hunt`` `**`name:`**`rabbit`` `**`quantity:`**`1`
+3. Buy a ball of wool - `/buy`` `**`name:`**` ``Ball of wool`` `**`quantity:`**` ``1`
+4. Craft the necklace - `/craft`` `**`name:`**` ``Strung rabbit foot`
+
+_It's worth noting that the boost received from the necklace is extremely small, amounting to an increase in bird eggs and seeds by about 0.16% compared to normal rates._
 
 ## Other Hunter Activities
 

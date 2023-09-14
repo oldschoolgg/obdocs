@@ -6,19 +6,27 @@ To start a trip of Pyramid Plunder, simply type:
 
 * `/minigames pyramid_plunder start`
 
-### Requirements
+## Requirements
 
-* 21 Thieving (71 recommended)
+* 21 Thieving (61 recommended)
 
-### Boosts
+***
+
+## Boosts
 
 * 5% for Pharaoh's sceptre
 * Up to 10% for minion learning
 * 7.5% time penalty if full graceful not equipped
 
-### Rewards
+***
 
-* Pharaoh's sceptre (does not lose charges)
+## Rewards
+
+{% hint style="warning" %}
+The Pharaoh's sceptre is untradeable. This is due to it having unlimited charges.
+{% endhint %}
+
+* Pharaoh's sceptre
 * Various trinkets that sell to the bot for around the same price as in-game.
   * _Golden / Stone / Pottery / Ivory_
 

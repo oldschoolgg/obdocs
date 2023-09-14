@@ -2,7 +2,7 @@
 
 You can do the chompy bird hunting minigame using `/activities chompy_hunt`` `**`action:`**`start`.
 
-### Requirements
+## Requirements
 
 * 10 QP
 * Ogre bow (in range outfit),  `/buy`` `**`name:`**` ``Ogre bow`
@@ -10,7 +10,9 @@ You can do the chompy bird hunting minigame using `/activities chompy_hunt`` `**
 * Highly recommended: Wear an Ava's in range outfit to save arrows.
 * You get significant boosts for having completed the: Elite(100%), Medium(50%), or Easy(25%) tiers of the Western Provinces diary.
 
-### Getting Ogre Arrows
+***
+
+## Getting Ogre Arrows
 
 You can try to buy them from other players, or...
 
@@ -19,8 +21,11 @@ You can try to buy them from other players, or...
 3. Fletch Flighted ogre arrows from Ogre arrow shafts and feathers.
 4. Fletch Ogre arrows from Wolfbone arrowtips and Flighted ogre arrows.
 
-### Rewards
+***
 
+## Rewards
+
+* Chompy chick pet (1/250 chance after completion of Western Prov elite diary)
 * Chompy hats can be claimed in bulk with `/activities chompy_hunt`` `**`action:`**`claim` or you can buy them individually with `/buy` after you have unlocked them.
   * E.g.  `/buy`` `**`name:`**` ``Chompy bird hat (ogre bowman)`
 * The following table is a list of all the purchasable chompy hats:

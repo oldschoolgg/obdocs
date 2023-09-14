@@ -8,7 +8,7 @@ To start drift net fishing, use the following command:
 
 * Minutes refers to how long you want your trip, less time means less nets required.
 
-### Requirements
+## Requirements
 
 * Level 44 Hunter
 * Level 47 Fishing
@@ -17,14 +17,18 @@ To start drift net fishing, use the following command:
 * 30+ Drift nets (requires 26 crafting)
   * Created with Jute fibres and command: `/craft name: Drift net`
 
-### Boosts
+***
+
+## Boosts
 
 * 6% for Ring of endurance - both versions work (works from bank)
 * 30% for Stamina potion(4) - MUST be 4-dose
   * You can specify to not use stamina potions at the cost of the boost - **`no_stams:`**`true`
 * \-50% boost for not wearing Flippers (equipped in any setup)
 
-### Rewards
+***
+
+## Rewards
 
 * Various raw fish, higher tier fish for higher fishing levels:
   * 50 fishing - Raw lobster

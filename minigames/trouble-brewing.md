@@ -11,7 +11,7 @@ To start a game, use the following command:
 Rewards can be claimed via the `/buy` command.
 
 {% hint style="info" %}
-It costs 39,590 Pieces of eight to acquire all rewards.
+It costs 39,590 Pieces of eight to acquire all rewards (or 132 hours).
 {% endhint %}
 
 |                                                              |                            |

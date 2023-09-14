@@ -8,7 +8,9 @@ Your minion will automatically complete the highest level contract.
 
 All contracts use a random amount of steel bars and planks, scaled to the amount of contracts being completed in a trip.
 
-### Contract Types
+***
+
+## Contract Types
 
 * **Beginner Contracts**
   * Level 1-19
@@ -27,7 +29,9 @@ All contracts use a random amount of steel bars and planks, scaled to the amount
   * Requires mahogany planks
   * 5 points awarded per contract
 
-### **Mahogany Homes Buyables**
+***
+
+## **Mahogany Homes Buyables**
 
 You can buy the following items with the `/minigames mahogany_homes buy` command.
 

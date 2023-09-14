@@ -8,7 +8,7 @@ You can purchase buyables via `/buy`` `**`name:`**` ``[itemName]`
 
 You can sell Golden Tenches for 100 Molch pearls via `/sell`` `**`items:`**` ``golden tench`
 
-### Aerial Fishing Buyables
+## Aerial Fishing Buyables
 
 | **Item**              | **Molch pearl cost** |
 | --------------------- | :------------------: |

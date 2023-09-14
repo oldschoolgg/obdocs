@@ -6,7 +6,7 @@ One of the best places to grind out your melee 99s. With 3x the normal trip leng
 
 Since you can only train **melee** combat stats here, you must change your attack style to suit.
 
-* `/minion train`` `**`style:`**` ``[]`
+* `/minion train`` `**`style:`**
 
 Alongside this, you also must have the following requirements:
 
@@ -17,6 +17,8 @@ Alongside this, you also must have the following requirements:
 * Prayer potion(4) (<mark style="color:red;">**ONLY**</mark> if choosing the 'experience' strategy)
 * GP to pay for dream costs
   * Cost is halved if you have maximum QP
+
+***
 
 ## Boosts
 
@@ -37,6 +39,8 @@ You will also receive a boost for the highest tier item in each category. It doe
 * **Ring**
   * Berserker ring (i) (5%), Brimstone ring (3%), Berserker ring (1%)
 
+***
+
 ## Strategies
 
 There are 2 strategies you can choose from: Experience or Points. They are fairly self-explanatory in what they do.
@@ -45,15 +49,17 @@ There are 2 strategies you can choose from: Experience or Points. They are fairl
 
 * Focuses on gaining XP over points.
 * Uses a Prayer potion(4) for every 5 minutes of your trip.
-* With maximum boosts, you will receive around 190k xp/h in your trained skill.
-* With maximum boosts, you will receive around 380k points/h.
+* With maximum boosts, you will receive around 190k xp/hr in your trained skill.
+* With maximum boosts, you will receive around 380k points/hr.
 
 ### Points
 
 * Focuses on gaining points over XP.
 * Gp cost is double compared to experience strategy.
-* With maximum boosts, you will receive around 120k xp/h in your trained skill.
-* With maximum boosts, you will receive around 1.9m points/h.
+* With maximum boosts, you will receive around 120k xp/hr in your trained skill.
+* With maximum boosts, you will receive around 1.9m points/hr.
+
+***
 
 ## Buyables
 

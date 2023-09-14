@@ -1,9 +1,3 @@
----
-description: >-
-  Blast Furnace allows you to take advantage of dwarves helping smelt bars for a
-  price.
----
-
 # Blast Furnace
 
 The Blast Furnace can be used with the **`blast_furnace:`**`true` option in the `/smelt` command. For example `/smelt`` `**`name:`**`Gold bar`` `**`blast furnace:`**`true`
@@ -40,4 +34,4 @@ Smelting bars at the blast furnace is faster than smelting bars normally, and th
 | Adamantite                                 |         70         | Adamantite ore + 3 coal |
 | Runite                                     |         85         | Runite ore + 4 coal     |
 
-<mark style="color:red;">\*</mark> - Iron ore has a success rate of 100% at the Blast furnace.
+<mark style="color:red;">**\***</mark> - Iron ore has a success rate of 100% at the Blast furnace.

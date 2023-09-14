@@ -2,33 +2,27 @@
 
 You can train Cooking using /`cook`` `**`name:`**`<food>`` `**`quantity:`**`<quantity>`, for example /`cook`` `**`name:`**`Bass`` `**`quantity:`**`50`
 
-Having cooking gauntlets equipped reduces the burn rate of certain fish.
+## Boosts
 
-### Food
+The following 3 things will allow for increased cooking rates due to less burnt food. They can be combined. At 92 cooking with all boosts, it is possible to achieve 912k xp/hr while cooking Karambwans.
 
-| **Food**        | **Required level** | **Experience** | **XP/Hr. @ 99** |
-| --------------- | :----------------: | :------------: | --------------- |
-| Beef            |          1         |       30       | 37,500          |
-| Shrimps         |          1         |       30       | 37,500          |
-| Chicken         |          1         |       30       | 37,500          |
-| Anchovies       |          1         |       30       | 37,500          |
-| Sardine         |          1         |       40       | 50,000          |
-| Herring         |          5         |       50       | 62,500          |
-| Mackerel        |         10         |       60       | 75,000          |
-| Trout           |         15         |       70       | 87,500          |
-| Cod             |         18         |       75       | 93,750          |
-| Pike            |         20         |       80       | 100,000         |
-| Salmon          |         25         |       90       | 112,500         |
-| Tuna            |         30         |       100      | 125,000         |
-| Karambwan       |         30         |       190      | 237,500         |
-| Jug of wine     |         35         |       200      | 400,000         |
-| Lobster         |         40         |       120      | 150,000         |
-| Bass            |         43         |       130      | 162,500         |
-| Swordfish       |         45         |       140      | 175,500         |
-| Monkfish        |         62         |       150      | 187,500         |
-| Wine of zamorak |         65         |       200      | 300,000         |
-| Shark           |         80         |       210      | 262,500         |
-| Sea turtle      |         82         |      211.3     | 264,000         |
-| Anglerfish      |         84         |       230      | 287,500         |
-| Dark crab       |         90         |       215      | 268,750         |
-| Manta ray       |         91         |      216.3     | 270,250         |
+* Cooking gauntlets (requires 25qp and 1m gp to buy)
+* Hosidius Range (requires 100% Hosidius favour)
+* Elite Kourend & Kebos diary
+* 92 Cooking allows for Karambwans to be '1-ticked'
+
+***
+
+## Cookable Food
+
+In the table below, the **'Stop Burning'** section lists the levels in which food is prevented for being burned at certain levels. In order from left to right, they are read as:
+
+* <mark style="color:blue;">Blue number</mark> - No boosts
+* <mark style="color:green;">Green number</mark> - Only Cooking gauntlets
+* The next 4 white numbers
+  * No Gauntlets + 100% Hosidius favour
+  * No Gauntlets + Elite Kourend diary
+  * Gauntlets + 100% Hosidius favour
+  * Gauntlets + Elite Kourend diary
+
+<table data-header-hidden><thead><tr><th width="189"></th><th width="95" align="center"></th><th width="124" align="center"></th><th width="133" align="center"></th><th></th></tr></thead><tbody><tr><td><strong>Food</strong></td><td align="center">L<strong>evel</strong></td><td align="center"><strong>Experience</strong></td><td align="center"><strong>XP/Hr @ 99</strong></td><td><strong>Stop Burning</strong></td></tr><tr><td>Beef</td><td align="center">1</td><td align="center">30</td><td align="center">37,500</td><td><mark style="color:blue;">34</mark> / 31, 31, 31, 31</td></tr><tr><td>Sinew</td><td align="center">1</td><td align="center">30</td><td align="center">3,750</td><td><mark style="color:blue;">34</mark> / 31, 31, 31, 31</td></tr><tr><td>Shrimps</td><td align="center">1</td><td align="center">30</td><td align="center">37,500</td><td><mark style="color:blue;">34</mark> / 31, 31, 31, 31</td></tr><tr><td>Chicken</td><td align="center">1</td><td align="center">30</td><td align="center">37,500</td><td><mark style="color:blue;">34</mark> / 31, 31, 31, 31</td></tr><tr><td>Anchovies</td><td align="center">1</td><td align="center">30</td><td align="center">37,500</td><td><mark style="color:blue;">34</mark> / 31, 31, 31, 31</td></tr><tr><td>Sardine</td><td align="center">1</td><td align="center">40</td><td align="center">50,000</td><td><mark style="color:blue;">38</mark> / 34, 34, 34, 34</td></tr><tr><td>Herring</td><td align="center">5</td><td align="center">50</td><td align="center">62,500</td><td><mark style="color:blue;">41</mark> / 38, 38, 38, 38</td></tr><tr><td>Mackerel</td><td align="center">10</td><td align="center">60</td><td align="center">75,000</td><td><mark style="color:blue;">45</mark> / 42, 42, 42, 42</td></tr><tr><td>Trout</td><td align="center">15</td><td align="center">70</td><td align="center">87,500</td><td><mark style="color:blue;">49</mark> / 46, 46, 46, 46</td></tr><tr><td>Cod</td><td align="center">18</td><td align="center">75</td><td align="center">93,750</td><td><mark style="color:blue;">51</mark> / 46, 46, 46, 46</td></tr><tr><td>Pike</td><td align="center">20</td><td align="center">80</td><td align="center">100,000</td><td><mark style="color:blue;">54</mark> / 50, 50, 50, 50</td></tr><tr><td>Salmon</td><td align="center">25</td><td align="center">90</td><td align="center">112,500</td><td><mark style="color:blue;">58</mark> / 55, 55, 55, 55</td></tr><tr><td>Tuna</td><td align="center">30</td><td align="center">100</td><td align="center">125,000</td><td><mark style="color:blue;">63</mark> / 59, 59, 59, 59</td></tr><tr><td>Karambwan</td><td align="center">30</td><td align="center">190</td><td align="center">237,500</td><td><mark style="color:blue;">99</mark> / 93, 87, 93, 87</td></tr><tr><td>Jug of wine</td><td align="center">35</td><td align="center">200</td><td align="center">400,000</td><td><mark style="color:blue;">68</mark></td></tr><tr><td>Cave eel</td><td align="center">38</td><td align="center">115</td><td align="center"></td><td><mark style="color:blue;">74</mark> / 70, 70, 70, 70</td></tr><tr><td>Lobster</td><td align="center">40</td><td align="center">120</td><td align="center">150,000</td><td><mark style="color:blue;">74,</mark> <mark style="color:green;">64</mark> / 70, 70, 61, 61</td></tr><tr><td>Jubbly</td><td align="center">41</td><td align="center">160</td><td align="center"></td><td><mark style="color:blue;">99</mark></td></tr><tr><td>Bass</td><td align="center">43</td><td align="center">130</td><td align="center">162,500</td><td><mark style="color:blue;">80</mark> / 75, 75, 75, 75</td></tr><tr><td>Swordfish</td><td align="center">45</td><td align="center">140</td><td align="center">175,500</td><td><mark style="color:blue;">86,</mark> <mark style="color:green;">81</mark> / 76, 76, 76, 76</td></tr><tr><td>Monkfish</td><td align="center">62</td><td align="center">150</td><td align="center">187,500</td><td><mark style="color:blue;">90,</mark> <mark style="color:green;">87</mark> / 86, 82, 82, 82</td></tr><tr><td>Wine of zamorak</td><td align="center">65</td><td align="center">200</td><td align="center">300,000</td><td><mark style="color:blue;">125</mark></td></tr><tr><td>Shark</td><td align="center">80</td><td align="center">210</td><td align="center">262,500</td><td><mark style="color:blue;">99,</mark> <mark style="color:green;">94</mark> / 99, 99, 89, 84</td></tr><tr><td>Sea turtle</td><td align="center">82</td><td align="center">211.3</td><td align="center">264,000</td><td><mark style="color:blue;">99</mark></td></tr><tr><td>Anglerfish</td><td align="center">84</td><td align="center">230</td><td align="center">287,500</td><td><mark style="color:blue;">99,</mark> <mark style="color:green;">98</mark> / 99, 99, 93, 88</td></tr><tr><td>Dark crab</td><td align="center">90</td><td align="center">215</td><td align="center">268,750</td><td><mark style="color:blue;">99</mark></td></tr><tr><td>Manta ray</td><td align="center">91</td><td align="center">216.3</td><td align="center">270,250</td><td><mark style="color:blue;">99</mark></td></tr></tbody></table>

@@ -2,19 +2,23 @@
 
 Birdhouses are a great way to collect birds nests and various seeds and rings. It is also the only method to collect bird's eggs for the chance at the evil chicken outfit pieces. All birdhouses take the same amount of time (50 minutes).
 
-**QUICK START -** When tagging the bot `@Old School Bot#7450` you are offered a one-click button to run the same previous birdhouse trip. This option will only appear if your birdhouses are ready to be collected.
+**QUICK START -** When tagging the bot `@Old School Bot#7450` you are offered a one-click button to run the same previous birdhouse trip. This option will only appear if your birdhouses are ready to be collected and you have enough logs of the same type.
 
 If you have no birdhouses in place, you can set them up using:
 
-* `/activities birdhouses`` `**`action:`**`Collect and Plant Birdhouses`` `**`birdhouse:`**` ``[birdhouseType]`
+* `/activities birdhouses`` `**`action:`**`Collect and Plant Birdhouses`` `**`birdhouse:`**
 
 To check to see if your birdhouses are ready, use:
 
 * `/activities birdhouses`` `**`action:`**`Check Birdhouses`
 
+***
+
 ## Boosts
 
 * 10% for full graceful equipped in any setup
+
+***
 
 ## Requirements
 
@@ -30,6 +34,8 @@ These are the minimum requirements to make the lowest level birdhouse. See the t
   * These can be any tier logs provided you have the appropriate levels.
 * 40x any hop seeds
   * Can also use herb seeds (5 per birdhouse), however, hop seeds are used first.
+
+***
 
 ## Birdhouse Types
 
@@ -58,6 +64,8 @@ There are a number of useful things you can collect from your birdhouse runs. Th
 * Bird eggs - all colours are equal chance
 * Clue scroll - beginner-elite tiers
 
+***
+
 ## Odds Of Each Nest Type
 
 You have a 50/50 chance at hitting the nest table when dismantling each birdhouse. If you hit the table, you then receive a random amount of nests, depending on the birdhouse tier.
@@ -75,15 +83,15 @@ You have a 50/50 chance at hitting the nest table when dismantling each birdhous
 | Magic bird house    |            1-8           |
 | Redwood bird house  |            1-9           |
 
-There are 3 nest types you can receive, and each of these has a weighting which determines your chances of receiving each one. They are:
+There are 3 nest types you can receive, and each of these has a weighting which determines your chances of receiving each one. Wearing a [rabbit foot necklace](./#rabbit-foot-necklace) will slightly increase the amount of egg and ring nests received. They are:
 
 * Egg nests (3%)
 * Ring nests (32%)
 * Seed nests (65%)
 
-Clue scrolls are also given as a tertiary drop. Each tier (except beginner) has a 1/200 chance to be received per birdhouse but you can only receive one clue per birdhouse run.
+Clue scrolls are also given as a tertiary drop. Each tier (except beginner) has a 1/200 chance to be received per birdhouse. Weirdly, if you don't receive any clues from the initial roll, you have a 1/1000 chance for a beginner.
 
-Weirdly, if you don't receive any clues from the initial roll, you have a 1/1000 chance for a beginner.
+***
 
 ## Bird Eggs
 
