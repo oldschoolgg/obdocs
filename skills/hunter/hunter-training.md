@@ -2,17 +2,18 @@
 
 ## Fastest Route to 99:
 
-Full graceful provides a 5% boost to all hunter creatures, except birdhouses where it gives a 10% boost. It _must_ be equipped in the skilling setup.
+Full graceful provides a 5% boost to all hunter creatures, except birdhouses where it gives a 10% boost. It can be equipped in any setup!
 
-**Passive XP + seeds** \
-`/activities birdhouses` \
+#### **Passive XP + seeds**
+
 You can set birdhouse traps to collect various seeds, rings, and eggs. This can be done every 50 minutes which provides excellent xp. See the [Birdhouses](https://wiki.oldschool.gg/skills/hunter/birdhouses) page for more info.
 
-\
-**Optimal route for EHP hunter & fishing** \
-`/activities aerial_fishing` (from 35 hunter and 45 fishing)
+#### **Optimal route for EHP hunter & fishing**&#x20;
 
-**Optimal route for active hunter XP**\
+`/activities aerial_fishing` (from 35 hunter and 43 fishing)
+
+#### **Optimal route for active hunter XP**
+
 _Numbers may not be accurate if you're unlucky with RNG_\
 `/hunt`` `**`name:`**`Polar kebbit`` `**`quantity:`**`23` (to 7+)\
 `/hunt`` `**`name:`**`Feldip weasel` (to 16+)\

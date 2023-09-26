@@ -13,17 +13,23 @@ To start a trip, use the `/k`` `**`name`**`: (name)`` `**`method:`**` ``none` co
 
 ## Things To Know Before Starting
 
-<mark style="color:red;">**Note: You are auto defaulted to being skulled while doing Revenants. This cannot be changed.**</mark>
+{% hint style="info" %}
+**The following info is specific to revenants. Other** [**wilderness bosses**](./) **have different death and PKer mechanics. Please read that page for more info.**
+{% endhint %}
 
-Like aforementioned, you will use the wildy setup for killing revs. You CAN lose everything from this setup if unlucky, _**don't equip items you are not willing to lose.**_
+{% hint style="danger" %}
+<mark style="color:red;">**You are defaulted to being skulled while doing Revenants. This cannot be changed.**</mark>
+{% endhint %}
 
-**Note:** If you do revs while and get _smited_, you will lose your entire wildy setup regardless of value/items.
+### **Smite Chance** <img src="../../.gitbook/assets/Smite.png" alt="" data-size="line">
 
-### **Smite Chance** <img src="../.gitbook/assets/Smite.png" alt="" data-size="line">
+{% hint style="danger" %}
+<mark style="color:red;">**If you get smited, you will lose your entire wildy setup regardless of value/items.**</mark>
+{% endhint %}
 
 You have a 1/300 chance to be smited while on a trip. However, if you do not have 5x prayer potion(4), which _you will warned about before embarking_, you have a 1/20 chance to be smited.
 
-### **Death Chance** ![](<../.gitbook/assets/Skull (status) icon.png>)
+### **Death Chance** ![](<../../.gitbook/assets/Skull (status) icon.png>)
 
 Your total death chance is calculated on your **magic defence stat** and your **defence level**. _You always have a minimum base 5% chance to die._ The lowest you can get your total death chance to is 10%.&#x20;
 
@@ -40,7 +46,7 @@ Your total death chance is calculated on your **magic defence stat** and your **
 * \+ You will get the default 5% death chance.
 * \= Total 10% death chance.
 
-### Attack Style Bonus ![](<../.gitbook/assets/Combat icon.png>)
+### Attack Style Bonus ![](<../../.gitbook/assets/Combat icon.png>)
 
 You will receive a boost to revenant kill times based on which attack style you use and it's respective stat. The 3 styles the bot will utilise are crush attack, range attack, or magic attack. You can work out your attack boost with the following formula:
 
@@ -60,20 +66,20 @@ The highest attack boost you can obtain is 25%. The maximum style bonuses are li
 
 ## Boosts
 
-* 35% boost for equipping a charged wildy weapon (**must be equipped in wildy setup**)
+* 35% boost for equipping a charged wildy weapon <mark style="color:red;">(</mark><mark style="color:red;">**must be equipped in wildy setup**</mark><mark style="color:red;">)</mark>
 
 ***
 
 ## Uniques
 
-#### Bracelets ![](<../.gitbook/assets/Bracelet of ethereum.png>)
+#### Bracelets ![](<../../.gitbook/assets/Bracelet of ethereum.png>)
 
 Bracelets of ethereum can be charged (requires 2000 ether) but offers no benefit in the bot at this stage. You can also turn bracelets into ether which yields 250 ether per bracelet.
 
 * `/create`` `**`item:`**`bracelet of ethereum`
 * `/create`` `**`item:`**`revenant ether`
 
-#### **Wildy Weapons** ![](<../.gitbook/assets/Viggora's chainmace.png>) ![](<../.gitbook/assets/Craw's bow.png>) ![](<../.gitbook/assets/Thammaron's sceptre.png>)
+#### **Wildy Weapons** ![](<../../.gitbook/assets/Viggora's chainmace.png>) ![](<../../.gitbook/assets/Craw's bow.png>) ![](<../../.gitbook/assets/Thammaron's sceptre.png>)
 
 These weapons can be charged which will provide boosts at revs themselves and other wildy bosses. It costs 7000 ether to charge a wildy weapon. To check the boosts which these items give, please visit the [Boosts & Requirements page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)
 
@@ -81,7 +87,7 @@ These weapons can be charged which will provide boosts at revs themselves and ot
 * `/create`` `**`item:`**`craw's bow`
 * `/create`` `**`item:`**`thammaron's sceptre`
 
-#### **Ancient Items** ![](<../.gitbook/assets/Ancient emblem.png>) ![](<../.gitbook/assets/Ancient totem.png>) ![](<../.gitbook/assets/Ancient statuette.png>) ![](<../.gitbook/assets/Ancient medallion.png>) ![](<../.gitbook/assets/Ancient effigy.png>) ![](<../.gitbook/assets/Ancient relic.png>)
+#### **Ancient Items** ![](<../../.gitbook/assets/Ancient emblem.png>) ![](<../../.gitbook/assets/Ancient totem.png>) ![](<../../.gitbook/assets/Ancient statuette.png>) ![](<../../.gitbook/assets/Ancient medallion.png>) ![](<../../.gitbook/assets/Ancient effigy.png>) ![](<../../.gitbook/assets/Ancient relic.png>)
 
 You can sell the ancient items for the same value as in OSRS. Use the `/sell` command.&#x20;
 
@@ -97,7 +103,7 @@ You can sell the ancient items for the same value as in OSRS. Use the `/sell` co
 | Ancient effigy    |   8,000,000  |
 | Ancient relic     |  16,000,000  |
 
-#### Other Uniques ![](<../.gitbook/assets/Amulet of avarice.png>) ![](<../.gitbook/assets/Ancient crystal.png>)
+#### Other Uniques ![](<../../.gitbook/assets/Amulet of avarice.png>) ![](<../../.gitbook/assets/Ancient crystal.png>)
 
 The Amulet of avarice currently has no use within the bot.
 

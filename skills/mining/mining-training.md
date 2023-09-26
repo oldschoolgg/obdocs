@@ -8,7 +8,7 @@ This is the fastest method to obtain 99 mining. It yields almost no profit since
 15-45: Powermine Iron\
 45-99: Powermine Granite
 
-While you can obtain the prospector's outfit by mining gold ore for nuggets (fastest method), the time spent to obtain the outfit is negligible against overall time to get to 99.
+While you can obtain the prospector's outfit from Motherlode mine with golden nuggets (fastest method), the time spent to obtain the outfit is negligible against overall time to get to 99.
 
 ## Profitable Route to 99
 

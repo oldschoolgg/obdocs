@@ -12,6 +12,7 @@ To start reverting items you are going to begin by doing `/create`` `**`item:`**
 
 * Components
 * Original Item (removing an ornament or separating combined items)
+* Recoloured/Transmoged Pets
 * Reverting an item to Tickets (Castle Wars)
 
 When reverting an item such as those listed below, you will be seeing a return of 20,000 Zulrah scales in exchange for that item or in regards to the Bandos items you will be seeing a return of Bandosian Components varying on the item that is reverted&#x20;
@@ -21,6 +22,13 @@ When reverting an item such as those listed below, you will be seeing a return o
 * Serentine helm or Uncharged Serpentine Helm
 * Bandos Chestplate (3 Bandosian Components)
 * Bandos Tassets (2 Bandosian Components)
+* Armadyl Helmet (1 Armadylean Plate)
+* Armadyl Chestplate (4 Armadylean Plates)
+* Armadyl Chainskirt (3 Armadylean Plates)
+* Ancient Icon (5,000 Ancient Essence)
+* Venator shard (50,000 Ancient Essence)
+* Uncharged Wildy Weapons (7,500 Revenant Ether)
+* Xeric's Talisman (inert) (100 Lizardman Fangs)
 
 When reverting one of the items below you will be guaranteed to get your Ornament kit back in regards to ornament items, with the Nightmare staffs you will be receiving back the Orb inserted in the staff and the Nightmare staff itself.  Those items with ornaments are listed below
 

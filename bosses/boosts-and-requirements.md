@@ -6,17 +6,17 @@ description: All boosts and Requirements for bosses.
 
 You can check the boosts/requirements for a specific boss and by how much by using `/k`` `**`name:`**`[monster]`` `**`show_info:`**`true`. Some boosts don't currently appear so it is advised you crosscheck against this chart.
 
-### Global Boosts
+## Global Boosts
 
 <img src="../.gitbook/assets/120px-elysian_spirit_shield_detail.png" alt="" data-size="original"> **Elysian Spirit Shield:** Reduces food usage by 17.5% when equipped in the gear setup being used.
 
 &#x20;![](../.gitbook/assets/Cake3.png) **Food:** Certain foods give boosts to the trip time during PvM. See more information [here](../getting-started/combat-skills.md#food-boosts).&#x20;
 
-<img src="../.gitbook/assets/1024px-black_mask_detail.png" alt="" data-size="original">B**lack Mask (i):** Gives a 16.67% boost while killing monsters on a slayer task.
+<img src="../.gitbook/assets/1024px-black_mask_detail.png" alt="" data-size="original"> B**lack Mask (i):** Gives a 16.67% boost while killing monsters on a slayer task.
 
-Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more information on boosts that apply to generic slayer monsters.
+Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boosts) page for more info on boosts that apply to generic slayer monsters.
 
-### God Wars Dungeon
+## God Wars Dungeon
 
 {% tabs %}
 {% tab title="Commander Zilyana" %}
@@ -26,19 +26,19 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/agility_icon.png" alt="" data-size="line"> 70 Agility
 
-![](../.gitbook/assets/Quest\_point\_icon.png)  75 Quest Points
+<img src="../.gitbook/assets/Quest_point_icon (1).png" alt="" data-size="original">  75 Quest points
 
-<img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line"> Armadyl Chestplate
+![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate **OR** ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
 
-&#x20;<img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line"> Armadyl Chainskirt
+&#x20;![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt **OR** ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
 
 
 
 **Boosts**
 
-5% for <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** 7% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of Faerdhinen (c) **OR** 10% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
+10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** 7% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="original"> Bow of faerdhinen (c) **OR** 5% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
 
-3% for <img src="../.gitbook/assets/ranger-boots.png" alt="" data-size="line"> Ranger Boots **OR** 5% for <img src="../.gitbook/assets/170px-pegasian_boots_detail.png" alt="" data-size="line"> Pegasian Boots
+5% for ![](../.gitbook/assets/Pegasian\_boots.png)Pegasian boots **OR** 3% for ![](../.gitbook/assets/Ranger\_boots.png) Ranger boots
 {% endtab %}
 
 {% tab title="General Graardor" %}
@@ -46,13 +46,15 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-&#x20;<img src="../.gitbook/assets/strength_icon.png" alt="" data-size="line">  70 Strength
+<img src="../.gitbook/assets/strength_icon.png" alt="" data-size="line">  70 Strength
 
-![](../.gitbook/assets/Quest\_point\_icon.png)  75 Quest Points\
+![](<../.gitbook/assets/Quest\_point\_icon (1).png>)  75 Quest points
+
+\
 \
 **Boosts**
 
-5% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line"> Bandos Godsword **OR** 10% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line"> Dragon Warhammer
+10% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer **OR** 5% for ![](<../.gitbook/assets/Bandos\_godsword (1).png>) Bandos godsword
 {% endtab %}
 
 {% tab title="Kree'arra" %}
@@ -62,17 +64,17 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/ranged_icon.png" alt="" data-size="line"> 70 Ranged
 
-&#x20;![](../.gitbook/assets/Quest\_point\_icon.png) 75 Quest Points
+![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 75 Quest points
 
-<img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line">Armadyl Chestplate
+![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate **OR** ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
 
-&#x20;<img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">Armadyl Chainskirt
+&#x20;![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt **OR** ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
 
 
 
 **Boosts**
 
-5% for <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** 7% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of Faerdhinen (c) **OR** 10% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
+10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR**  7% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="original"> Bow of faerdhinen (c) **OR** 5% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
 {% endtab %}
 
 {% tab title="K'ril Tsutsaroth" %}
@@ -82,40 +84,41 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/hitpoints_icon.png" alt="" data-size="line"> 70 Hitpoints
 
-&#x20;![](../.gitbook/assets/Quest\_point\_icon.png) 75 Quest Points\
-<img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line">Armadyl Chestplate
+&#x20;![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 75 Quest points
 
-&#x20;<img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">Armadyl Chainskirt
+![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate **OR** ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
+
+&#x20;![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt **OR** ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
 
 
 
 **Boosts**
 
-9% for<img src="../.gitbook/assets/800px-arclight_detail.png" alt="" data-size="line">Arclight OR **10**% for<img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line">Twisted Bow
+**10**% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** 9% for <img src="../.gitbook/assets/Arclight.png" alt="" data-size="original"> Arclight
 
-3% for<img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line">Dragon Claws **OR** 5% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line">Bandos Godsword **OR** 10% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line">Dragon Warhammer
+10% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer **OR** 5% for ![](<../.gitbook/assets/Bandos\_godsword (1).png>) Bandos godsword **OR** 3% for ![](<../.gitbook/assets/Dragon claws.png>) Dragon claws
 {% endtab %}
 
 {% tab title="Nex" %}
 **Requirements**
 
-<img src="../.gitbook/assets/Defence_icon.png" alt="" data-size="line">  90 Defence
+<img src="../.gitbook/assets/Defence_icon (1).png" alt="" data-size="line">  90 Defence
 
 <img src="../.gitbook/assets/ranged_icon.png" alt="" data-size="line"> 90 Ranged
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 74 Prayer
 
-&#x20;<img src="../.gitbook/assets/frozen key" alt="" data-size="line">[Frozen Key](nex.md)
+&#x20;<img src="../.gitbook/assets/frozen key" alt="" data-size="line"> [Frozen Key](nex.md)
 
-<img src="../.gitbook/assets/Zaryte_crossbow.png" alt="" data-size="line">Zaryte Crossbow **OR** <img src="../.gitbook/assets/acb.png" alt="" data-size="line">Armadyl Crossbow **OR** <img src="../.gitbook/assets/Dragon_crossbow.png" alt="" data-size="line">Dragon Crossbow **OR** <img src="../.gitbook/assets/tbow.png" alt="" data-size="line">Twisted Bow&#x20;
+![](../.gitbook/assets/Zaryte\_crossbow.png) Zaryte crossbow **OR** ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow **OR** <img src="../.gitbook/assets/Dragon_crossbow.png" alt="" data-size="line"> Dragon crossbow **OR** ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow&#x20;
 
-<img src="../.gitbook/assets/Coins_10000.png" alt="" data-size="line">1,000,000 Coins in bank (Covers Death Cost)
+<img src="../.gitbook/assets/Coins_10000.png" alt="" data-size="line">1,000,000 Coins in bank (Covers death cost)
 
 
 
 **Resource Used Per Trip (Regardless of Length/Kills)**
 
-<img src="../.gitbook/assets/Ruby_dragon_bolts_(e)" alt="" data-size="line"> 600 Ammo Equipped (50-60 used per kill before reductions)
+<img src="../.gitbook/assets/Ruby_dragon_bolts_(e)" alt="" data-size="line"> 600 Ammo equipped (50-60 used per kill before reductions)
 
 ![](../.gitbook/assets/Sara\_brew\(4\).png) 8x Saradomin brew(4)
 
@@ -129,11 +132,11 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 **Boosts**
 
-**-30%** chance of death for <img src="../.gitbook/assets/120px-elysian_spirit_shield_detail.png" alt="" data-size="line">Elysian Spirit Shield
+**-30%** chance of death for <img src="../.gitbook/assets/120px-elysian_spirit_shield_detail.png" alt="" data-size="line"> Elysian spirit shield
 {% endtab %}
 {% endtabs %}
 
-### Dagannoth Kings
+## Dagannoth Kings
 
 {% tabs %}
 {% tab title="Dagannoth Prime" %}
@@ -141,27 +144,27 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Guthan's\_helm.png) Guthan's Helm
+<img src="../.gitbook/assets/Guthan&#x27;s_helm.png" alt="" data-size="original"> Guthan's helm
 
-&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
+&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's platebody
 
-&#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's Chainskirt
+&#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's chainskirt
 
-&#x20;![](../.gitbook/assets/Guthan's\_warspear.png)Guthan's Warspear
+&#x20;![](../.gitbook/assets/Guthan's\_warspear.png)Guthan's warspear
 
-<img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line"> Armadyl Chestplate
+![](../.gitbook/assets/Armadyl\_chestplate.png)Armadyl chestplate **OR** ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
 
-&#x20;<img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line"> Armadyl Chainskirt
+&#x20;![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt **OR** ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
 
 
 
-**Boosts**
+**Boosts  **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-6% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line">Twisted Bow
+6% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow
 
-2% for <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line"> Armadyl Chestplate
+4% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f) **OR** 2% for ![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate
 
-2% for <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line"> Armadyl Chainskirt
+4% for ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps (f) **OR** 2% for ![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt
 {% endtab %}
 
 {% tab title="Dagannoth Rex" %}
@@ -169,25 +172,25 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Guthan's\_helm.png) Guthan's Helm
+![](../.gitbook/assets/Guthan's\_helm.png) Guthan's helm
 
-&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
+&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's platebody
 
-&#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's Chainskirt
+&#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's chainskirt
 
-&#x20;![](../.gitbook/assets/Guthan's\_warspear.png)Guthan's Warspear
+&#x20;![](../.gitbook/assets/Guthan's\_warspear.png)Guthan's warspear
 
-&#x20; ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
+&#x20;![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's platebody
 
-&#x20;![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
+&#x20; ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's platelegs
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-3% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's Staff **OR** 5% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+5% for <img src="../.gitbook/assets/Harmonised_nightmare_staff.png" alt="" data-size="original"> Harmonised nightmare staff **OR** 3% for <img src="../.gitbook/assets/Iban&#x27;s_staff.png" alt="" data-size="original"> Iban's staff
 
-5% for ![](../.gitbook/assets/Occult\_necklace.png) Occult Necklace
+5% for ![](../.gitbook/assets/Occult\_necklace.png) Occult necklace
 {% endtab %}
 
 {% tab title="Dagannoth Supreme" %}
@@ -195,121 +198,207 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Guthan's\_helm.png) Guthan's Helm
+![](../.gitbook/assets/Guthan's\_helm.png) Guthan's helm
 
-&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's Platebody
+&#x20; ![](../.gitbook/assets/Guthan's\_platebody.png) Guthan's platebody
 
-&#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's Chainskirt
+&#x20; ![](../.gitbook/assets/Guthan's\_chainskirt.png)  Guthan's chainskirt
 
-&#x20;![](../.gitbook/assets/Guthan's\_warspear.png)Guthan's Warspear
+&#x20;![](../.gitbook/assets/Guthan's\_warspear.png)Guthan's warspear
 
-&#x20; ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
+&#x20; ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's platebody
 
-&#x20;![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
+&#x20;![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's platelegs
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-4% for ![](<../.gitbook/assets/Saradomin\_godsword (1).png>) Saradomin Godsword **OR** 6% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
+6% for ![](<../.gitbook/assets/Dragon claws.png>) Dragon claws **OR** 4% for ![](<../.gitbook/assets/Saradomin\_godsword (1).png>) Saradomin godsword
 
-2% for ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate
+2% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos chestplate
 
-2% for ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets
+2% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos tassets
 {% endtab %}
 {% endtabs %}
 
-### Wilderness Bosses
+## Callisto, Vet'ion, Venenatis (Inc. Singles Versions)
 
 {% hint style="danger" %}
-<mark style="color:red;">**Callisto, Venenatis & Vet'ion are disabled due to the wildy rework coming out soon!**</mark>
+<mark style="color:red;">**There is always a chance to lose your gear when attempting these bosses!**</mark>
 {% endhint %}
 
 {% tabs %}
-{% tab title="Callisto" %}
+{% tab title="Callisto & Artio" %}
 **Requirements**
 
-![](../.gitbook/assets/Verac's\_helm.png)  Verac's Helm
+![](../.gitbook/assets/Prayer\_icon.png) 44 Prayer
 
-![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard
+![](../.gitbook/assets/hitpoints\_icon.png) 60 Hitpoints
 
-&#x20;![](../.gitbook/assets/Verac's\_plateskirt.png) Verac's Plateskirt
+&#x20;![](../.gitbook/assets/Defence\_icon.png) 60 Defence
 
-&#x20;![](../.gitbook/assets/Verac's\_flail.png)  Verac's Chainmace
+![](../.gitbook/assets/Ranged\_icon.png) 65 Range
+
+![](../.gitbook/assets/Magic\_icon.png) 70 Magic
+
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 150 Ranged attack
+
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 84 Crush defence
+
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 83 Magic defence
+
+<img src="../.gitbook/assets/Blighted_ancient_ice_sack.png" alt="" data-size="line"> Blighted ancient ice sacks **OR** Blood Death & Water runes **OR** <img src="../.gitbook/assets/Stamina_potion(4).png" alt="" data-size="line"> Stamina potion (4)
+
+![](../.gitbook/assets/Achievement\_Diaries\_icon.png) Completion of Wilderness Medium diary <mark style="color:red;">**(Artio ONLY)**</mark>
 
 
 
-**Boosts**
+**Boosts **<mark style="color:red;">**(All items must be equipped in WILDY setup for boost to apply)**</mark>
 
-25% for ![](../.gitbook/assets/Viggora's\_chainmace.png) Viggora's Chainmace&#x20;
+2.5% for ![](../.gitbook/assets/Masori\_mask.png) ![](../.gitbook/assets/Masori\_mask\_\(f\).png) Masori mask/Masori mask (f) **OR** 1% for ![](../.gitbook/assets/Armadyl\_helmet.png) Armadyl helmet
 
-3% for ![](../.gitbook/assets/Berserker\_ring.png) Berserker Ring **OR** 5% ![](../.gitbook/assets/Berserker\_ring\_\(i\).png) for Berserker Ring (i)
+3% for ![](../.gitbook/assets/Necklace\_of\_anguish.png) Necklace of anguish **OR** 1% for ![](../.gitbook/assets/Amulet\_of\_fury.png) Amulet of fury **OR** 0.5% for <img src="../.gitbook/assets/Amulet_of_glory.png" alt="" data-size="original"> Amulet of glory
 
-3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
+2% for <img src="../.gitbook/assets/Ava&#x27;s_assembler.png" alt="" data-size="original"> Ava's assembler **OR** 0.5% for ![](../.gitbook/assets/Ava's\_accumulator.png) Ava's accumulator
+
+3.5% for ![](../.gitbook/assets/Masori\_body.png) ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body/Masori body (f) **OR** 0.5% for ![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate
+
+3.5% for ![](../.gitbook/assets/Masori\_chaps.png) ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps/Masori chaps (f) **OR** 1% for ![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt **OR** 0.5% for ![](../.gitbook/assets/Black\_d'hide\_chaps.png) Black d'hide chaps
+
+28% for ![](../.gitbook/assets/Webweaver\_bow.png) Webweaver bow **OR** 25% for ![](../.gitbook/assets/Craw's\_bow.png) Craw's bow **OR** 6% for ![](../.gitbook/assets/Zaryte\_crossbow.png) Zaryte crossbow **OR** 1% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
+
+3% for ![](../.gitbook/assets/Zaryte\_vambraces.png) Zaryte vambraces **OR** 0.5% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
+
+1.5% for ![](../.gitbook/assets/Pegasian\_boots.png) Pegasian boots **OR** 1% for ![](../.gitbook/assets/Ranger\_boots.png) Ranger boots **OR** 0.5% for any ![](../.gitbook/assets/Guthix\_d'hide\_boots.png) God d'hide boots
+
+3% for ![](../.gitbook/assets/Venator\_ring.png) Venator ring **OR** 1% for ![](../.gitbook/assets/Archers\_ring\_\(i\).png) Archers ring (i) **OR** 0.5% for ![](../.gitbook/assets/Brimstone\_ring.png) Brimstone ring
 {% endtab %}
 
-{% tab title="Chaos Elemental" %}
+{% tab title="Venenatis & Spindel" %}
 **Requirements**
 
-![](../.gitbook/assets/Black\_d'hide\_body.png) Black D'hide Body **OR** <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop
+![](../.gitbook/assets/Prayer\_icon.png) 44 Prayer
 
-&#x20;![](../.gitbook/assets/Black\_d'hide\_chaps.png)Black D'hide Chaps **OR** <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt
+![](../.gitbook/assets/hitpoints\_icon.png) 70 Hitpoints
+
+<img src="../.gitbook/assets/Attack_icon.png" alt="" data-size="line"> 75 Attack
+
+&#x20;![](../.gitbook/assets/Strength\_icon.png) 75 Strength
+
+&#x20;![](../.gitbook/assets/Defence\_icon.png) 70 Defence
+
+<img src="../.gitbook/assets/Magic_icon.png" alt="" data-size="original"> 70 Magic
+
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 73 Crush attack
+
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 80 Melee strength
+
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 100 Stab defence
+
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 99 Ranged defence
+
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 30 Magic defence
+
+&#x20;![](../.gitbook/assets/Bronze\_knife.png) Bronze-Dragon knives **OR** any type of ![](../.gitbook/assets/Red\_chinchompa.png) Chinchompa
+
+![](../.gitbook/assets/Achievement\_Diaries\_icon.png) Completion of Wilderness Medium diary <mark style="color:red;">**(Spindel ONLY)**</mark>
 
 
 
-**Boosts**
+**Boosts **<mark style="color:red;">**(All items must be equipped in WILDY setup for boost to apply)**</mark>
 
-25% for ![](../.gitbook/assets/Craw's\_bow.png) Craw's Bow
+5.5% for ![](../.gitbook/assets/Inquisitor's\_great\_helm.png) Inquisitor's great helm OR 3% for ![](../.gitbook/assets/Torva\_full\_helm.png) Torva full helm OR 2.5% for ![](../.gitbook/assets/Neitiznot\_faceguard.png) Neitiznot faceguard
 
-3% for ![](../.gitbook/assets/Archers\_ring.png) Archers Ring **OR** 5% for ![](../.gitbook/assets/Archers\_ring\_\(i\).png) Archers Ring (i)
+5.5% for ![](../.gitbook/assets/Amulet\_of\_torture.png) Amulet of torture OR 4% for ![](../.gitbook/assets/Amulet\_of\_strength.png) Amulet of strength OR 2.5% for ![](../.gitbook/assets/Amulet\_of\_fury.png) Amulet of fury
 
-3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
+7.5% for ![](../.gitbook/assets/Infernal\_cape.png) Infernal cape OR 4% for ![](../.gitbook/assets/Mythical\_cape.png) Mythical cape OR 3% for ![](../.gitbook/assets/Fire\_cape.png) Fire cape
+
+10% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's hauberk OR 5% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody OR 3% for ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos chestplate
+
+10% for ![](../.gitbook/assets/Inquisitor's\_plateskirt.png) Inquisitor's plateskirt OR 5% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs OR 3% for ![](../.gitbook/assets/Bandos\_tassets.png) Bandos tasset
+
+52.5% for ![](../.gitbook/assets/Ursine\_chainmace.png) Ursine chainmace **OR** 49.5% for ![](../.gitbook/assets/Viggora's\_chainmace.png) Viggora's chainmace **OR** 24.5% for ![](../.gitbook/assets/Inquisitor's\_mace.png) Inquisitor's mace **OR** 24% for ![](../.gitbook/assets/Abyssal\_bludgeon.png) Abyssal bludgeon **OR** 1% for ![](../.gitbook/assets/Zamorakian\_hasta.png) Zamorakian hasta
+
+17% for ![](../.gitbook/assets/Avernic\_defender.png) Avernic defender **OR** 14.5% for ![](../.gitbook/assets/Dragon\_defender.png) Dragon defender
+
+7.5% for ![](../.gitbook/assets/Ferocious\_gloves.png) Ferocious gloves **OR** 5% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
+
+4% for ![](../.gitbook/assets/Primordial\_boots.png) Primordial boots **OR** 2.5% for ![](../.gitbook/assets/Dragon\_boots.png) Dragon boots
+
+7.5% for ![](../.gitbook/assets/Ultor\_ring.png) Ultor ring **OR** 5.5% for ![](../.gitbook/assets/Berserker\_ring\_\(i\).png) Berserker ring (i) **OR** 5% for ![](../.gitbook/assets/Brimstone\_ring.png) Brimstone ring
 {% endtab %}
 
-{% tab title="Venenatis" %}
+{% tab title="Vet'ion & Calvarion" %}
 **Requirements**
 
-![](../.gitbook/assets/Verac's\_helm.png)  Verac's Helm
+![](../.gitbook/assets/Prayer\_icon.png) 44 Prayer
 
-![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard
+![](../.gitbook/assets/hitpoints\_icon.png) 70 Hitpoints
 
-&#x20;![](../.gitbook/assets/Verac's\_plateskirt.png) Verac's Plateskirt
+<img src="../.gitbook/assets/Attack_icon.png" alt="" data-size="line"> 75 Attack
 
-&#x20;![](../.gitbook/assets/Verac's\_flail.png)  Verac's Chainmace
+&#x20;![](../.gitbook/assets/Strength\_icon.png) 75 Strength
 
+&#x20;![](../.gitbook/assets/Defence\_icon.png) 70 Defence
 
+<img src="../.gitbook/assets/Magic_icon.png" alt="" data-size="original"> 70 Magic
 
-**Boosts**
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 73 Crush attack
 
-25% for ![](../.gitbook/assets/Craw's\_bow.png) Craw's Bow
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 80 Melee strength
 
-3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
-{% endtab %}
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 110 Slash defence
 
-{% tab title="Vet'ion" %}
-**Requirements**
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 30 Magic defence
 
-![](../.gitbook/assets/Verac's\_helm.png)  Verac's Helm
-
-![](../.gitbook/assets/Verac's\_brassard.png)  Verac's Brassard
-
-&#x20;![](../.gitbook/assets/Verac's\_plateskirt.png) Verac's Plateskirt
-
-&#x20;![](../.gitbook/assets/Verac's\_flail.png)  Verac's Chainmace
+![](../.gitbook/assets/Achievement\_Diaries\_icon.png) Completion of Wilderness Medium diary <mark style="color:red;">**(Calvarion ONLY)**</mark>
 
 
 
-**Boosts**
+**Boosts **<mark style="color:red;">**(All items must be equipped in WILDY setup for boost to apply)**</mark>
 
-25% for ![](../.gitbook/assets/Viggora's\_chainmace.png) Viggora's Chainmace&#x20;
+4% for ![](../.gitbook/assets/Inquisitor's\_great\_helm.png) Inquisitor's great helm **OR** 2% for ![](../.gitbook/assets/Torva\_full\_helm.png) Torva full helm **OR** 1.5% for ![](../.gitbook/assets/Neitiznot\_faceguard.png) Neitiznot faceguard **OR** 1% for ![](../.gitbook/assets/Helm\_of\_neitiznot.png) Helm of neitiznot **OR** 0.5% for ![](../.gitbook/assets/Berserker\_helm.png) Berserker helm
 
-3% for <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line"> Dragon Warhammer
+7.5% for ![](../.gitbook/assets/Infernal\_cape.png) Infernal cape **OR** 6% for ![](../.gitbook/assets/Mythical\_cape.png) Mythical cape **OR** 3% for ![](../.gitbook/assets/Fire\_cape.png) Fire cape
+
+9% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's hauberk **OR** 6% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** 3% for ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos chestplate
+
+9% for ![](../.gitbook/assets/Inquisitor's\_plateskirt.png) Inquisitor's plateskirt **OR** 6% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** 3% for ![](../.gitbook/assets/Bandos\_tassets.png) Bandos tassets
+
+49.5% for ![](../.gitbook/assets/Ursine\_chainmace.png) Ursine chainmace **OR** 46% for ![](../.gitbook/assets/Viggora's\_chainmace.png) Viggora's chainmace **OR** 21.5% for ![](../.gitbook/assets/Inquisitor's\_mace.png) Inquisitor's mace **OR** 21% for ![](../.gitbook/assets/Abyssal\_bludgeon.png) Abyssal bludgeon **OR** 2.5% for ![](../.gitbook/assets/Zamorakian\_hasta.png) Zamorakian hasta
+
+16.5% for ![](../.gitbook/assets/Avernic\_defender.png) Avernic defender **OR** 12.5% for ![](../.gitbook/assets/Dragon\_defender.png) Dragon defender
+
+9% for ![](../.gitbook/assets/Ferocious\_gloves.png) Ferocious gloves **OR** 5% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
+
+4% for ![](../.gitbook/assets/Primordial\_boots.png) Primordial boots **OR** 2.5% for ![](../.gitbook/assets/Dragon\_boots.png) Dragon boots
+
+7.5% for ![](../.gitbook/assets/Ultor\_ring.png) Ultor ring **OR** 5.5% for ![](../.gitbook/assets/Berserker\_ring\_\(i\).png) Berserker ring (i) **OR** 5% for ![](../.gitbook/assets/Brimstone\_ring.png) Brimstone ring
 {% endtab %}
 {% endtabs %}
 
-### Wilderness Demi-bosses
+## Other Wilderness Bosses
 
 {% tabs %}
+{% tab title="Chaos Elemental" %}
+**Requirements**
+
+![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop **OR** ![](../.gitbook/assets/Black\_d'hide\_body.png) Black d'hide body
+
+![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt OR ![](../.gitbook/assets/Black\_d'hide\_chaps.png)Black d'hide chaps
+
+
+
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
+
+25% for ![](../.gitbook/assets/Webweaver\_bow.png) Webweaver bow **OR** 20% for ![](../.gitbook/assets/Craw's\_bow.png) Craw's bow
+
+5% for ![](../.gitbook/assets/Archers\_ring\_\(i\).png) Archers ring (i) **OR** 3% for ![](../.gitbook/assets/Archers\_ring.png) Archers ring
+
+3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
+{% endtab %}
+
 {% tab title="Chaos Fanatic" %}
 **Requirements**
 
@@ -317,13 +406,13 @@ None
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-25% for ![](../.gitbook/assets/Craw's\_bow.png) Craw's Bow
+25% for ![](../.gitbook/assets/Webweaver\_bow.png) Webweaver bow **OR** 20% for ![](../.gitbook/assets/Craw's\_bow.png) Craw's bow
 
-3% for <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop
+3% for ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
 
-3% for  <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt
+3% for ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
 {% endtab %}
 
 {% tab title="Crazy Archeologist" %}
@@ -333,9 +422,9 @@ None
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-10% for ![](../.gitbook/assets/Occult\_necklace.png) Occult Necklace
+10% for ![](../.gitbook/assets/Occult\_necklace.png) Occult necklace
 {% endtab %}
 
 {% tab title="Scorpia" %}
@@ -345,17 +434,15 @@ None
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-10% for ![](../.gitbook/assets/Occult\_necklace.png) Occult Necklace
+10% for <img src="../.gitbook/assets/Occult_necklace.png" alt="" data-size="original"> Occult necklace
 
-10% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+10% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised nightmare staff
 {% endtab %}
 {% endtabs %}
 
-_**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to work._
-
-### Slayer bosses
+## Slayer bosses
 
 {% tabs %}
 {% tab title="Abyssal Sire" %}
@@ -365,13 +452,13 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-10% for <img src="../.gitbook/assets/800px-arclight_detail.png" alt="" data-size="line"> Arclight
+12% for ![](../.gitbook/assets/Osmumten's\_fang.png) Osmumten's fang **OR** 10% for ![](../.gitbook/assets/Arclight.png) Arclight
 
-5% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line"> Bandos Godsword **OR** 10% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line"> Dragon Warhammer
+10% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer **OR** 5% for ![](<../.gitbook/assets/Bandos\_godsword (1).png>) Bandos godsword
 
-10% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of Rejuvenation or better
+10% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of rejuvenation or better
 {% endtab %}
 
 {% tab title="Alchemical Hydra" %}
@@ -383,15 +470,15 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 &#x20;&#x20;
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-10% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
+10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow
 
-3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves **OR** 6% for  Ferocious Gloves
+3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves **OR** 6% for ![](../.gitbook/assets/Ferocious\_gloves.png) Ferocious gloves
 
-8% for ![](../.gitbook/assets/Saradomin\_godsword.png) Saradomin Godsword **OR** 10% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
+8% for ![](../.gitbook/assets/Saradomin\_godsword.png) Saradomin godsword **OR** 10% for ![](<../.gitbook/assets/Dragon claws.png>) Dragon claws
 
-15% for ![](../.gitbook/assets/Dragon\_hunter\_lance.png) Dragon Hunter Lance (when training melee) **OR** 15% for ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon Hunter Crossbow (when training range)
+15% for ![](../.gitbook/assets/Dragon\_hunter\_lance.png) Dragon hunter lance (when training melee) **OR** 15% for ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon hunter crossbow (when training range)
 {% endtab %}
 
 {% tab title="Cerberus " %}
@@ -401,23 +488,23 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Dharok's\_platebody.png) Dharok's Platebody **OR** ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's Platebody
+![](../.gitbook/assets/Dharok's\_platebody.png) Dharok's platebody **OR** ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos chestplate **OR** ![](../.gitbook/assets/Torag's\_platebody.png) Torag's platebody
 
-&#x20; ![](../.gitbook/assets/Dharok's\_platelegs.png)   Dharok's Platelegs **OR** ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's Platelegs
+&#x20; ![](../.gitbook/assets/Dharok's\_platelegs.png)   Dharok's platelegs **OR** ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos tassets **OR** ![](../.gitbook/assets/Torag's\_platelegs.png) Torag's platelegs
 
-![](../.gitbook/assets/Zamorakian\_spear.png) Zamorakian Spear **OR** ![](../.gitbook/assets/Zamorakian\_hasta.png) Zamorakian Hasta
+![](../.gitbook/assets/Zamorakian\_spear.png) Zamorakian spear **OR** ![](../.gitbook/assets/Zamorakian\_hasta.png) Zamorakian hasta
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-10% for ![](../.gitbook/assets/Spectral\_spirit\_shield.png) Spectral Spirit Shield
+15% for ![](../.gitbook/assets/Inquisitor's\_mace.png) Inquisitor's mace **OR** 13% for <img src="../.gitbook/assets/Abyssal_bludgeon.png" alt="" data-size="original"> Abyssal bludgeon **OR** 11% for ![](../.gitbook/assets/Abyssal\_tentacle.png) Abyssal tentacle **OR** 10% for ![](../.gitbook/assets/Abyssal\_whip.png) Abyssal whip **OR** 8% for ![](../.gitbook/assets/Arclight.png) Arclight
 
-5% for ![](<../.gitbook/assets/Bandos\_chestplate (1).png>) Bandos Chestplate **OR** 8% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's Hauberk
+10% for ![](../.gitbook/assets/Spectral\_spirit\_shield.png) Spectral spirit shield
 
-5% for ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos Tassets **OR** 8% for ![](../.gitbook/assets/Inquisitor's\_plateskirt.png) Inquisitor's Plateskirt
+8% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's hauberk **OR** 6% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** 5% for <img src="../.gitbook/assets/Bandos_chestplate (1).png" alt="" data-size="original"> Bandos chestplate
 
-8% for <img src="../.gitbook/assets/800px-arclight_detail.png" alt="" data-size="line"> Arclight **OR** 10% for ![](../.gitbook/assets/Abyssal\_whip.png) Abyssal Whip **OR** 11% for ![](../.gitbook/assets/Abyssal\_tentacle.png) Abyssal Tentacle **OR** 13% for ![](../.gitbook/assets/Abyssal\_bludgeon.png) Abyssal Bludgeon **OR** 15% for ![](../.gitbook/assets/Inquisitor's\_mace.png) Inquisitor's Mace
+8% for ![](../.gitbook/assets/Inquisitor's\_plateskirt.png) Inquisitor's plateskirt **OR** 6% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** 5% for ![](<../.gitbook/assets/Bandos\_tassets (1).png>) Bandos tassets
 {% endtab %}
 
 {% tab title="Grotesque Guardians" %}
@@ -425,17 +512,23 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 ![](../.gitbook/assets/20px-Slayer\_icon.png) 75 Slayer
 
-![](../.gitbook/assets/Brittle\_key.png) Brittle key
+![](../.gitbook/assets/Brittle\_key.png) Brittle key (only needed once)
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-3% for <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** 5% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic Blowpipe
+5% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic blowpipe **OR** 3% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
 
-6% for ![](../.gitbook/assets/Saradomin\_godsword.png) Saradomin Godsword **OR** 10% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
+10% for ![](<../.gitbook/assets/Dragon claws.png>) Dragon claws **OR** 6% for ![](../.gitbook/assets/Saradomin\_godsword.png) Saradomin godsword
 
-10% for ![](../.gitbook/assets/Scythe\_of\_vitur.png) Scythe of Vitur **OR** 10% for ![](../.gitbook/assets/Scythe\_of\_vitur\_\(uncharged\).png) Scythe of Vitur (uncharged)
+10% for ![](../.gitbook/assets/Scythe\_of\_vitur.png) Scythe of vitur **OR** 10% for ![](../.gitbook/assets/Scythe\_of\_vitur\_\(uncharged\).png) Scythe of vitur (uncharged)
+
+1% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f)
+
+1% for ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps (f)
+
+1% for ![](../.gitbook/assets/Masori\_mask\_\(f\).png) Masori mask (f)
 {% endtab %}
 
 {% tab title="Kraken" %}
@@ -443,51 +536,77 @@ _**Note:** Item boosts for wilderness bosses must be **EQUIPPED** in order to wo
 
 ![](../.gitbook/assets/20px-Slayer\_icon.png) 87 Slayer
 
-![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** ![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the Swamp **OR** ![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti Staff **OR** ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the seas **OR** ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the seas (full) **OR** ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged trident of the seas **OR** ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged toxic trident **OR** ![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the swamp **OR** ![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti staff **OR** ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised nightmare staff
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 8% for the ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the Seas (full) **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 10% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 10% for the![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the Swamp **OR** 12% for the![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti Staff **OR** 15% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+20% for ![](<../.gitbook/assets/Tumeken's\_shadow (1).png>) Tumeken's shadow **OR** 15% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised nightmare staff **OR** 12% for ![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti staff **OR** 10% for ![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the swamp **OR** 10% for ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic trident **OR** 5% for ![](../.gitbook/assets/Uncharged\_trident.png) Uncharged Trident of the seas **OR** 8% for ![](../.gitbook/assets/Trident\_of\_the\_seas\_\(full\).png) Trident of the seas (full) **OR** 5% for ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the seas
 
-3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart/Saturated Heart
-
-_**Note**: Tridents cannot currently be manually charged._
+5% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued heart/Saturated heart
 {% endtab %}
 
-{% tab title="Thermonuclear Smokedevil" %}
+{% tab title="Thermonuclear Smoke Devil" %}
 **Requirements**
 
 ![](../.gitbook/assets/20px-Slayer\_icon.png) 93 Slayer
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-5% for the ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas **OR** 5% for the ![](../.gitbook/assets/Uncharged\_trident.png)Uncharged Trident of the Seas **OR** 6% for the![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic Trident **OR** 6% for the![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the Swamp **OR** 8% for the ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff
+8% for <img src="../.gitbook/assets/Harmonised_nightmare_staff.png" alt="" data-size="original"> Harmonised nightmare staff **OR** 6% for ![](<../.gitbook/assets/Trident\_of\_the\_swamp (1).png>) Trident of the swamp **OR** 6% for ![](../.gitbook/assets/Uncharged\_toxic\_trident.png) Uncharged Toxic trident **OR** 5% for ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the seas **OR** 5% for ![](../.gitbook/assets/Uncharged\_trident.png) Uncharged Trident of the seas
 
-3% for ![](../.gitbook/assets/Dragon\_dagger.png) Dragon Dagger **OR** 8% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
+8% for ![](<../.gitbook/assets/Dragon claws.png>) Dragon claws **OR** 3% for ![](../.gitbook/assets/Dragon\_dagger.png) Dragon dagger
 
-5% for ![](../.gitbook/assets/Occult\_necklace.png) Occult Necklace
+5% for ![](../.gitbook/assets/Occult\_necklace.png) Occult necklace
 
-5% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart/Saturated Heart
+5% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued heart/Saturated heart
 
-3% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral Robe Top
+3% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral robe top
 
-2% for ![](../.gitbook/assets/Ancestral\_robe\_bottom.png) Ancestral Robe Bottom
+2% for ![](../.gitbook/assets/Ancestral\_robe\_bottom.png) Ancestral robe bottom
 {% endtab %}
 {% endtabs %}
 
-### Desert Treasure 2 Bosses (Inc. Awakened Version)
+## Desert Treasure 2 Bosses (Inc. Awakened Version)
 
 {% tabs %}
+{% tab title="Duke Sucellus" %}
+**Requirements**
+
+![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** <img src="../.gitbook/assets/Bandos_chestplate.png" alt="" data-size="original"> Bandos chestplate
+
+![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** ![](../.gitbook/assets/Bandos\_tassets.png) Bandos tassets
+
+
+
+**Boosts  **<mark style="color:red;">**(All items must be equipped in MELEE setup for boost to apply)**</mark>
+
+3% for <img src="../.gitbook/assets/Avernic_defender.png" alt="" data-size="line"> Avernic defender
+
+3% for ![](../.gitbook/assets/Ferocious\_gloves.png) Ferocious gloves
+
+3% for ![](../.gitbook/assets/Primordial\_boots.png) Primordial boots
+
+3% for ![](../.gitbook/assets/Torva\_full\_helm.png) Torva full helm
+
+3% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody
+
+3% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs
+
+5% for <img src="../.gitbook/assets/Bellator_ring.png" alt="" data-size="original"> Bellator ring **OR** 5% for <img src="../.gitbook/assets/Ultor_ring.png" alt="" data-size="original"> Ultor ring
+
+15% for <img src="../.gitbook/assets/Scythe_of_vitur.png" alt="" data-size="original"> Scythe of vitur (must be [charged](../miscellaneous/charging-items.md#scythe-of-vitur))
+{% endtab %}
+
 {% tab title="The Leviathan" %}
 **Requirements**
 
-![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line"> Armadyl chestplate
+![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body **OR** ![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate
 
-<img src="../.gitbook/assets/Masori_chaps_(f).png" alt="" data-size="original"> Masori chaps **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail.png" alt="" data-size="line"> Armadyl chainskirt
+<img src="../.gitbook/assets/Masori_chaps_(f).png" alt="" data-size="original"> Masori chaps **OR** ![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt
 
 
 
@@ -501,7 +620,7 @@ _**Note**: Tridents cannot currently be manually charged._
 
 5% for <img src="../.gitbook/assets/Zaryte_crossbow.png" alt="" data-size="original"> Zaryte crossbow
 
-5% for <img src="../.gitbook/assets/Masori_mask_(f).png" alt="" data-size="original"> Masori mask (f) **OR** 4% for Masori mask
+5% for <img src="../.gitbook/assets/Masori_mask_(f).png" alt="" data-size="original"> Masori mask (f) **OR** 4% for ![](../.gitbook/assets/Masori\_mask.png) Masori mask
 
 5% for <img src="../.gitbook/assets/Masori_body_(f).png" alt="" data-size="original"> Masori body (f) **OR** 4% for <img src="../.gitbook/assets/Masori_body.png" alt="" data-size="original"> Masori body
 
@@ -531,11 +650,11 @@ _**Note**: Tridents cannot currently be manually charged._
 
 5% for <img src="../.gitbook/assets/Tumeken&#x27;s_shadow (1).png" alt="" data-size="original"> Tumeken's shadow
 
-5% for <img src="../.gitbook/assets/Ancestral_hat.png" alt="" data-size="original"> Ancestral hat **OR** 3% for Virtus mask
+5% for <img src="../.gitbook/assets/Ancestral_hat.png" alt="" data-size="original"> Ancestral hat **OR** 3% for ![](../.gitbook/assets/Virtus\_mask.png) Virtus mask
 
-5% for <img src="../.gitbook/assets/Ancestral_robe_top.png" alt="" data-size="original"> Ancestral robe top **OR** 3% for Virtus robe top
+5% for <img src="../.gitbook/assets/Ancestral_robe_top.png" alt="" data-size="original"> Ancestral robe top **OR** 3% for ![](../.gitbook/assets/Virtus\_robe\_top.png) Virtus robe top
 
-5% for <img src="../.gitbook/assets/Ancestral_robe_bottom.png" alt="" data-size="original"> Ancestral robe bottom **OR** 3% for Virtus robe bottom
+5% for <img src="../.gitbook/assets/Ancestral_robe_bottom.png" alt="" data-size="original"> Ancestral robe bottom **OR** 3% for ![](../.gitbook/assets/Virtus\_robe\_bottom.png)Virtus robe bottom
 
 5% for <img src="../.gitbook/assets/Lightbearer.png" alt="" data-size="original"> Lightbearer **OR** 5% for <img src="../.gitbook/assets/Magus_ring.png" alt="" data-size="original"> Magus ring
 {% endtab %}
@@ -567,39 +686,9 @@ _**Note**: Tridents cannot currently be manually charged._
 
 15% for ![](../.gitbook/assets/Scythe\_of\_vitur.png) Scythe of vitur (must be [charged](../miscellaneous/charging-items.md#scythe-of-vitur))
 {% endtab %}
-
-{% tab title="Duke Sucellus" %}
-**Requirements**
-
-![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos chestplate
-
-![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** ![](../.gitbook/assets/Bandos\_tassets.png) Bandos tassets
-
-
-
-**Boosts  **<mark style="color:red;">**(All items must be equipped in MELEE setup for boost to apply)**</mark>
-
-3% for <img src="../.gitbook/assets/Avernic_defender.png" alt="" data-size="line"> Avernic defender
-
-3% for ![](../.gitbook/assets/Ferocious\_gloves.png) Ferocious gloves
-
-3% for ![](../.gitbook/assets/Primordial\_boots.png) Primordial boots
-
-3% for ![](../.gitbook/assets/Torva\_full\_helm.png) Torva full helm
-
-3% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody
-
-3% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs
-
-5% for <img src="../.gitbook/assets/Bellator_ring.png" alt="" data-size="original"> Bellator ring **OR** 5% for <img src="../.gitbook/assets/Ultor_ring.png" alt="" data-size="original"> Ultor ring
-
-15% for ![](../.gitbook/assets/Scythe\_of\_vitur.png) Scythe of vitur (must be [charged](../miscellaneous/charging-items.md#scythe-of-vitur))
-{% endtab %}
 {% endtabs %}
 
-
-
-### Sporadic Bosses
+## Sporadic Bosses
 
 {% tabs %}
 {% tab title="Bryophyta" %}
@@ -633,13 +722,13 @@ None
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-50% for <img src="../.gitbook/assets/800px-arclight_detail.png" alt="" data-size="line"> Arclight
+50% for ![](../.gitbook/assets/Arclight.png) Arclight&#x20;
 {% endtab %}
 {% endtabs %}
 
-### Other Bosses
+## Other Bosses
 
 {% tabs %}
 {% tab title="Barrows" %}
@@ -649,15 +738,15 @@ None
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-2% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
+2% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
 
-5% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's Staff
+5% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's staff
 
-7% for ![](../.gitbook/assets/Strange\_old\_lockpick\_\(full\).png) Strange Old Lockpick
+7% for ![](../.gitbook/assets/Strange\_old\_lockpick\_\(full\).png) Strange old lockpick
 
-10% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of Rejuvenation or better
+10% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of rejuvenation or better
 {% endtab %}
 
 {% tab title="Corporeal Beast" %}
@@ -665,17 +754,17 @@ None
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Zamorakian\_spear.png) Zamorakian Spear
+![](../.gitbook/assets/Zamorakian\_spear.png) Zamorakian spear
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-50% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of Rejuvenation or better
+50% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of rejuvenation or better
 
-10% for <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line"> Dragon Warhammer
+10% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer
 
-5% for <img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line"> Bandos Godsword
+5% for ![](<../.gitbook/assets/Bandos\_godsword (1).png>) Bandos godsword
 {% endtab %}
 
 {% tab title="Kalphite Queen" %}
@@ -683,42 +772,46 @@ None
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Verac's\_flail.png) Verac's Flail
+![](../.gitbook/assets/Worn\_equipment\_icon.png) 10 Melee strength
 
-![](../.gitbook/assets/Verac's\_plateskirt.png) Verac's Plateskirt
+![](../.gitbook/assets/Verac's\_flail.png) Verac's flail
 
-&#x20;![](../.gitbook/assets/Black\_d'hide\_body.png) Black D'hide Body **OR** <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop **OR** <img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line">Armadyl Chestplate
+![](../.gitbook/assets/Verac's\_plateskirt.png) Verac's plateskirt
 
-&#x20; ![](../.gitbook/assets/Black\_d'hide\_chaps.png)  Black D'hide Chaps **OR** <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">Armadyl Chainskirt
+![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate **OR** ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop ![](../.gitbook/assets/Black\_d'hide\_body.png) Black d'hide body
+
+&#x20;![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt **OR** ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt ![](../.gitbook/assets/Black\_d'hide\_chaps.png)  Black d'hide chaps
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-10% for <img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line"> Dragon Warhammer
+5% for <img src="../.gitbook/assets/Elder_maul.png" alt="" data-size="original"> Elder maul
 
-10% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of Rejuvenation or better
+5% for <img src="../.gitbook/assets/Keris_partisan_of_breaching.png" alt="" data-size="original"> Keris partisan of breaching
 
-5% for ![](../.gitbook/assets/Elder\_maul.png) Elder Maul
+10% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer
+
+10% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of rejuvenation or better
 {% endtab %}
 
 {% tab title="King Black Dragon" %}
 **Requirements**
 
-![](../.gitbook/assets/Anti-dragon\_shield.png) Anti-dragon Shield
+![](../.gitbook/assets/Anti-dragon\_shield.png) Anti-dragon shield
 
-![](../.gitbook/assets/Rune\_crossbow.png) Rune Crossbow **OR** <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon Hunter Crossbow **OR** <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
+![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon hunter crossbow **OR** ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow **OR** ![](../.gitbook/assets/Rune\_crossbow.png) Rune crossbow
 
-![](../.gitbook/assets/Black\_d'hide\_body.png) Black D'hide Body **OR** <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's Leathertop **OR** ![](../.gitbook/assets/Black\_d'hide\_body\_\(g\).png) Black D'hide Body (g) **OR** ![](../.gitbook/assets/Black\_d'hide\_body\_\(t\).png) Black D'hide body (t)
+![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop **OR** ![](../.gitbook/assets/Black\_d'hide\_body.png) Black d'hide body **OR** ![](../.gitbook/assets/Black\_d'hide\_body\_\(g\).png) Black d'hide body (g) **OR** ![](../.gitbook/assets/Black\_d'hide\_body\_\(t\).png) Black d'hide body (t)
 
-&#x20;![](../.gitbook/assets/Black\_d'hide\_chaps.png)Black D'hide Chaps **OR** <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's Leatherskirt **OR** ![](../.gitbook/assets/Black\_d'hide\_chaps\_\(g\).png) Black D'hide Chaps (g) **OR** ![](../.gitbook/assets/Black\_d'hide\_chaps\_\(t\).png) Black D'hide Chaps (t)
+![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt **OR** ![](../.gitbook/assets/Black\_d'hide\_chaps.png)Black d'hide Chaps **OR** ![](../.gitbook/assets/Black\_d'hide\_chaps\_\(g\).png) Black d'hide chaps (g) **OR** ![](../.gitbook/assets/Black\_d'hide\_chaps\_\(t\).png) Black d'hide chaps (t)
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-6% for <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** 10% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow\
-15% for ![](../.gitbook/assets/Dragon\_hunter\_lance.png) Dragon Hunter Lance (when training melee) **OR** 15% for ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon Hunter Crossbow (when training range)
+10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** 6% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow\
+15% for ![](../.gitbook/assets/Dragon\_hunter\_lance.png) Dragon hunter lance (when training melee) **OR** 15% for ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon hunter crossbow (when training range)
 {% endtab %}
 {% endtabs %}
 
@@ -734,29 +827,29 @@ None
 
 **Boosts**
 
-5% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
+5% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
 
-5% for ![](../.gitbook/assets/Berserker\_ring.png) Berserker Ring **OR** 7% ![](../.gitbook/assets/Berserker\_ring\_\(i\).png) for Berserker Ring (i) **OR** 10% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
+10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** 7% ![](../.gitbook/assets/Berserker\_ring\_\(i\).png) for Berserker ring (i) **OR** 5% for ![](../.gitbook/assets/Berserker\_ring.png) Berserker ring&#x20;
 {% endtab %}
 
 {% tab title="Lizardman Shaman" %}
 **Requirements**
 
-![](../.gitbook/assets/Quest\_point\_icon.png) 30 Quest Points
+![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 30 Quest points
 
-![](<../.gitbook/assets/Kourend\_task\_icon (1).png>) 100% Shayzien Favour
+<img src="../.gitbook/assets/Kourend_task_icon.png" alt="" data-size="line"> 100% Shayzien favour
 
-![](../.gitbook/assets/Rune\_crossbow.png) Rune Crossbow **OR** ![](../.gitbook/assets/Karil's\_crossbow.png) Karil's Crossbow **OR** <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic blowpipe **OR** ![](../.gitbook/assets/Toxic\_blowpipe\_\(empty\).png) Toxic blowpipe (empty)
+![](../.gitbook/assets/Rune\_crossbow.png) Rune crossbow **OR** ![](../.gitbook/assets/Karil's\_crossbow.png) Karil's crossbow **OR** ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow **OR** ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic blowpipe **OR** ![](../.gitbook/assets/Toxic\_blowpipe\_\(empty\).png) Toxic blowpipe (empty)
 
 
 
-**Boosts**
+**Boosts  **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-8% for <img src="../.gitbook/assets/150px-armadyl_crossbow_detail.png" alt="" data-size="line"> Armadyl Crossbow **OR** 10% for ![](../.gitbook/assets/Toxic\_blowpipe\_\(empty\).png) Toxic blowpipe (empty) **OR** 15% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic blowpipe
+15% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic blowpipe **OR** 8% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
 
-3% for ![](../.gitbook/assets/Ring\_of\_the\_gods.png) Ring of the Gods **OR** 5% for ![](../.gitbook/assets/Ring\_of\_the\_gods\_\(i\).png) Ring of the Gods (i)
+5% for ![](../.gitbook/assets/Ring\_of\_the\_gods\_\(i\).png) Ring of the gods (i) **OR** 3% for ![](../.gitbook/assets/Ring\_of\_the\_gods.png) Ring of the gods
 
-2% for ![](../.gitbook/assets/Shayzien\_helm\_\(5\).png) Shayzien Helm (5)
+2% for ![](../.gitbook/assets/Shayzien\_helm\_\(5\).png) Shayzien helm (5)
 {% endtab %}
 
 {% tab title="Nightmare" %}
@@ -773,7 +866,7 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 {% endtab %}
 
 {% tab title="Phantom Muspah" %}
-**Requirements **<mark style="color:red;">**(Must be equipped in magic setup and charged)**</mark>
+**Requirements **<mark style="color:red;">**(Must be equipped in MAGIC setup and charged)**</mark>
 
 <img src="../.gitbook/assets/Tumeken&#x27;s_shadow (1).png" alt="" data-size="original"> Tumeken's shadow **OR** ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti staff **OR** ![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the swamp
 
@@ -781,17 +874,17 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 
 **Boosts **<mark style="color:red;">**(Must be equipped in respective setup)**</mark>
 
-2% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued heart **OR** 4% for ![](../.gitbook/assets/Saturated\_heart.png) Saturated heart
+4% for ![](../.gitbook/assets/Saturated\_heart.png) Saturated heart **OR** 2% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued heart <mark style="color:red;">**(Boost from bank)**</mark>
 
 10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow
 
-6% for ![](../.gitbook/assets/Amethyst\_arrow\_5.png) Amethyst arrows **OR** 10% for ![](../.gitbook/assets/Dragon\_arrow\_5.png) Dragon arrows
+10% for ![](../.gitbook/assets/Dragon\_arrow\_5.png) Dragon arrows **OR** 6% for ![](../.gitbook/assets/Amethyst\_arrow\_5.png) Amethyst arrows
 
-3% for ![](../.gitbook/assets/Masori\_body.png) Masori body **OR** 6% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f)
+6% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f) **OR** 3% for ![](../.gitbook/assets/Masori\_body.png) Masori body
 
-3% for ![](../.gitbook/assets/Masori\_chaps.png) Masori chaps **OR** 6% for ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps (f)
+6% for ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps (f) **OR** 3% for ![](../.gitbook/assets/Masori\_chaps.png) Masori chaps
 
-6% for ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti staff **OR** 11% for ![](<../.gitbook/assets/Tumeken's\_shadow (1).png>) Tumeken's shadow
+11% for ![](<../.gitbook/assets/Tumeken's\_shadow (1).png>) Tumeken's shadow 6% for ![](../.gitbook/assets/Sanguinesti\_staff.png) Sanguinesti staff
 
 6% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral robe top
 
@@ -811,11 +904,11 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 {% tab title="Rabbit" %}
 **Requirements**
 
-![](../.gitbook/assets/Quest\_point\_icon.png) 205 Quest Points
+![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 205 Quest points
 
 ![](../.gitbook/assets/Stamina\_potion\(4\).png) 5 Stamina potion (4) (consumed every kill)
 
-![](../.gitbook/assets/Ruby\_dragon\_bolts\_\(e\)\_5.png) 100 Ruby dragon bolts (e) <mark style="color:red;">**(must be equipped in range setup)**</mark>
+![](../.gitbook/assets/Ruby\_dragon\_bolts\_\(e\)\_5.png) 100 Ruby dragon bolts (e) <mark style="color:red;">**(must be equipped in RANGE setup)**</mark>
 
 
 
@@ -830,17 +923,23 @@ None\
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 65 Crush attack
+
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 73 Stab defence
+
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 177 Ranged defence
 
 
-**Boosts**
 
-5% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-8% for <img src="../.gitbook/assets/Abyssal_bludgeon.png" alt="" data-size="line"> Abyssal bludgeon **OR** 12% for <img src="../.gitbook/assets/Inquisitor&#x27;s_mace.png" alt="" data-size="line"> Inquisitor's mace **OR** 15% for <img src="../.gitbook/assets/Scythe_of_vitur.png" alt="" data-size="line"> Scythe of vitur
+5% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon claws
 
-3% for <img src="../.gitbook/assets/120px-karils_leathertop_detail.png" alt="" data-size="line"> Karil's leathertop
+15% for <img src="../.gitbook/assets/Scythe_of_vitur.png" alt="" data-size="original"> Scythe of vitur **OR** 12% for <img src="../.gitbook/assets/Inquisitor&#x27;s_mace.png" alt="" data-size="original"> Inquisitor's mace **OR** 8% for <img src="../.gitbook/assets/Abyssal_bludgeon.png" alt="" data-size="original"> Abyssal bludgeon
 
-2% for <img src="../.gitbook/assets/120px-karils_leatherskirt_detail.png" alt="" data-size="line"> Karil's leatherskirt
+3% for ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
+
+2% for ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
 {% endtab %}
 
 {% tab title="Vorkath" %}
@@ -848,21 +947,23 @@ None\
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Quest\_point\_icon.png) 205 Quest Points
+![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 205 Quest points
 
-<img src="../.gitbook/assets/100px-armadyl_chestplate_detail.png" alt="" data-size="line"> Armadyl Chestplate
+![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate
 
-&#x20; <img src="../.gitbook/assets/75px-armadyl_chainskirt_detail (1).png" alt="" data-size="line">  Armadyl Chainskirt
+&#x20;![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-15% for ![](../.gitbook/assets/Dragon\_hunter\_lance.png) Dragon Hunter Lance **OR** 15% for ![](../.gitbook/assets/Dragon\_hunter\_crossbow.png) Dragon Hunter Crossbow
+1% for ![](../.gitbook/assets/Lightbearer.png) Lightbearer
 
-16% for ![](../.gitbook/assets/Salve\_amulet\(i\).png) Salve Amulet (i) **OR** 20% for ![](../.gitbook/assets/Salve\_amulet\(ei\).png) Salve Amulet (ei)
+15% for <img src="../.gitbook/assets/Dragon_hunter_lance.png" alt="" data-size="original"> Dragon hunter lance **OR** 15% for <img src="../.gitbook/assets/Dragon_hunter_crossbow.png" alt="" data-size="original"> Dragon hunter crossbow
 
-8% for <img src="../.gitbook/assets/150px-dragon_claws_detail.png" alt="" data-size="line"> Dragon Claws **OR** 13% for<img src="../.gitbook/assets/130px-bandos_godsword_detail.png" alt="" data-size="line"> Bandos Godsword **OR** 13% for<img src="../.gitbook/assets/120px-dragon_warhammer_detail.png" alt="" data-size="line"> Dragon Warhammer **OR** 18% for <img src="../.gitbook/assets/zcb.png" alt="" data-size="line"> Zaryte Crossbow
+18% for ![](../.gitbook/assets/Zaryte\_crossbow.png) Zaryte crossbow **OR** 13% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer **OR** 13% for ![](<../.gitbook/assets/Bandos\_godsword (1).png>) Bandos godsword **OR** 8% for ![](<../.gitbook/assets/Dragon claws.png>) Dragon claws
+
+20% for ![](../.gitbook/assets/Salve\_amulet\(ei\).png) Salve amulet (ei) **OR** 16% for ![](../.gitbook/assets/Salve\_amulet\(i\).png) Salve amulet (i)
 {% endtab %}
 
 {% tab title="Zulrah" %}
@@ -870,27 +971,31 @@ None\
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-<img src="../.gitbook/assets/1024px-quests.png" alt="" data-size="line"> 75 Quest Points
+![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 75 Quest points
+
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 50 Magic attack
+
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 47 Ranged attack
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-2% for <img src="../.gitbook/assets/Magic_shortbow.png" alt="" data-size="line"> Magic Shortbow **OR** 3% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of Faerdhinen (c) **OR** 4% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic Blowpipe **OR** 5% for <img src="../.gitbook/assets/150px-twisted_bow_detail.png" alt="" data-size="line"> Twisted Bow
+5% for <img src="../.gitbook/assets/Twisted_bow.png" alt="" data-size="original"> Twisted bow **OR** 4% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic blowpipe **OR** 3% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="line"> Bow of faerdhinen (c) **OR** 2% for <img src="../.gitbook/assets/Magic_shortbow.png" alt="" data-size="line"> Magic shortbow
 
-1% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's Staff **OR** 2% for ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the Seas (full) **OR** 4% for ![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti Staff **OR** 5% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised Nightmare Staff&#x20;
+5% for ![](../.gitbook/assets/Harmonised\_nightmare\_staff.png) Harmonised nightmare staff **OR** 4% for ![](<../.gitbook/assets/Sanguinesti\_staff (1).png>) Sanguinesti staff **OR** 3% for ![](../.gitbook/assets/Trident\_of\_the\_swamp.png) Trident of the swamp **OR** 2% for ![](../.gitbook/assets/Trident\_of\_the\_seas.png) Trident of the seas (full) **OR** 1% for ![](../.gitbook/assets/Iban's\_staff.png) Iban's staff
 
-4% for <img src="../.gitbook/assets/170px-pegasian_boots_detail.png" alt="" data-size="line"> Pegasian Boots **OR** 2% for <img src="../.gitbook/assets/ranger-boots.png" alt="" data-size="line"> Ranger Boots
+4% for ![](../.gitbook/assets/Pegasian\_boots.png) Pegasian boots **OR** 2% for <img src="../.gitbook/assets/Ranger_boots.png" alt="" data-size="original"> Ranger boots
 
-3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows Gloves
+3% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
 
-3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued Heart/Saturated Heart
+3% for ![](<../.gitbook/assets/Imbued\_heart (1).png>) Imbued heart **OR** Saturated heart
 
-2% for ![](../.gitbook/assets/Ancestral\_hat.png) Ancestral Hat
+2% for ![](../.gitbook/assets/Ancestral\_hat.png) Ancestral hat
 
-2% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral Robe Top
+2% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral robe top
 
-2% for ![](../.gitbook/assets/Ancestral\_robe\_bottom.png) Ancestral Robe Bottom
+2% for ![](../.gitbook/assets/Ancestral\_robe\_bottom.png) Ancestral robe bottom
 {% endtab %}
 {% endtabs %}
 

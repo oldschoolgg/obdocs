@@ -12,6 +12,5 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * Best pet methods
 * Bloodbark armour
 * Update pages where shadow and scythe need charges&#x20;
-* Consider adding notes to each boss about whether the gear needs to be equipped or in bank
 * Update ToA gear setups with new rings
-* Underwater thieving/agility page
+* Re-write farming page (just wall of text atm)

@@ -18,11 +18,7 @@ To view your complete, incomplete, or a list of all CA tasks, use:
 
 ## Combat Tasks
 
-While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below is a list of all possible combat tasks to complete in the bot. To view the full list of official CA tasks in one page, please visit the [osrs CA wiki page](https://oldschool.runescape.wiki/w/Combat\_Achievements/All\_tasks).
-
-{% hint style="info" %}
-<mark style="color:blue;">**You can only receive 1 combat task per trip. For example, there are 2 easy Bryophyta tasks that require only 1kc but are both given as 100% chance. So, due to the limit of 1 task per trip, you are required to send 2 Bryophyta trips to attain both tasks.**</mark>
-{% endhint %}
+While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below is a list of all possible combat tasks to complete in the bot. To view the full list of official CA tasks in one page, please visit the [osrs CA wiki page](https://oldschool.runescape.wiki/w/Combat\_Achievements/All\_tasks). If the **'How To Unlock'** description does not contain a 1/X, it means that the chance is 1/1.
 
 {% hint style="danger" %}
 <mark style="color:red;">**Some tasks are currently broken, meaning you can obtain them differently to the intended method. They may be fixed in the future! These tasks are marked in red.**</mark>
@@ -35,7 +31,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | **Monster**            | **Task Name**                 | **How To Unlock**                                                                                                     |
 | Aberrant Spectre       | Noxious Foe                   | Kill 1 Aberrant Spectre                                                                                               |
 | Barrows                | Barrows Novice                | Complete 10 Barrows chests                                                                                            |
-| Barrows                | Defence? What Defence?        | 1/4 chance to be given per chest                                                                                      |
+| Barrows                | Defence? What Defence?        | Complete Barrows while your combat style is set to magic                                                              |
 | Black Dragon           | Big, Black and Fiery          | Kill 1 Black dragon or KBD                                                                                            |
 | Bloodveld              | The Demonic Punching Bag      | Kill 1 Bloodveld                                                                                                      |
 | Bryophyta              | Preparation Is Key            | 1/15 chance to be given per kill                                                                                      |
@@ -57,7 +53,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Obor                   | Fighting as Intended          | Kill Bryophyta with ONLY f2p gear equipped in your currently used combat style                                        |
 | Obor                   | Sleeping Giant                | 1/10 chance to be given per kill                                                                                      |
 | Sarachnis              | Sarachnis Novice              | Kill 10 Sarachnis                                                                                                     |
-| Tempoross              | Master of Buckets             | 1/22 chance to be given per kill                                                                                      |
+| Tempoross              | Master of Buckets             | 1/5 chance to be given per kill                                                                                       |
 | Tempoross              | Calm Before the Storm         | 1/3 chance to be given per kill                                                                                       |
 | Tempoross              | Fire in the Hole!             | 1/3 chance to be given per kill                                                                                       |
 | Tempoross              | Tempoross Novice              | Kill 5 Tempoross                                                                                                      |
@@ -72,7 +68,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 |                        |                                                      |                                                                                                  |
 | ---------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Monster**            | **Task Name**                                        | **How To Unlock**                                                                                |
-| Barrows                | Pray for Success                                     | 1/50 chance to be given per chest                                                                |
+| Barrows                | Pray for Success                                     | 1/10 chance to be given per chest                                                                |
 | Barrows                | Barrows Champion                                     | Complete 25 Barrows chests                                                                       |
 | Barrows                | Can't Touch Me                                       | 1/50 chance to be given per chest                                                                |
 | Brutal Black Dragon    | Brutal, Big, Black and Firey                         | Kill 1 Brutal Black Dragon                                                                       |
@@ -108,7 +104,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Skotizo                | Skotizo Champion                                     | Kill 1 Skotizo                                                                                   |
 | Skotizo                | Demonic Weakening                                    | 1/15 chance to be given per kill                                                                 |
 | Tempoross              | Tempoross Champion                                   | Kill 10 Tempoross                                                                                |
-| Tempoross              | The Lone Angler                                      | 1/50 chance to be given per kill                                                                 |
+| Tempoross              | The Lone Angler                                      | 1/25 chance to be given per kill                                                                 |
 | Wintertodt             | Leaving No One Behind                                | 1/50 chance to be given per kill                                                                 |
 | Wintertodt             | Can We Fix It?                                       | 1/6 chance to be given per kill                                                                  |
 | Wintertodt             | Wintertodt Champion                                  | Kill 10 Wintertodt                                                                               |
@@ -228,8 +224,8 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Dagannoth Prime                   | Death to the Seer King                         | 1/44 chance to be given per kill                                                            |
 | Dagannoth Rex                     | Death to the Warrior King                      | 1/33 chance to be given per kill                                                            |
 | Dagannoth Rex                     | Toppling the Diarchy                           | 1/33 chance to be given per kill                                                            |
-| Dagannoth Supreme                 | Death to the Archer King                       | 1/5 chance to be given per kill                                                             |
-| Dagannoth Supreme                 | Rapid Succession                               | 1/5 chance to be given per kill when killing any specific Dagannoth King                    |
+| Dagannoth Supreme                 | Death to the Archer King                       | 1/15 chance to be given per kill                                                            |
+| Dagannoth Supreme                 | Rapid Succession                               | 1/30 chance to be given per kill when killing any specific Dagannoth King                   |
 | Demonic Gorilla                   | If Gorillas Could Fly                          | Kill 1 Demonic Gorilla                                                                      |
 | Demonic Gorilla                   | Hitting Them Where It Hurts                    | Kill 1 Demonic Gorilla with a Silverlight, Darklight, or Arclight equipped                  |
 | General Graardor                  | Ourg Freezer II                                | 1/20 chance to be given per kill                                                            |
@@ -287,8 +283,8 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Tombs of Amascut                  | Down Do Specs                                  | 1/10 chance to be given per ToA (Any invocation)                                            |
 | Tombs of Amascut                  | Perfect Crondis                                | 1/10 chance to be given per ToA (Any invocation)                                            |
 | Tombs of Amascut                  | No skipping allowed                            | 1/10 chance to be given per ToA (Any invocation)                                            |
-| Tombs of Amascut                  | Hardcore Tombs                                 | Complete ToA solo without dying (Any invocation)                                            |
-| Tombs of Amascut                  | Hardcore Raiders                               | Complete ToA with ONLY 2 people without dying (Any invocation)                              |
+| Tombs of Amascut                  | Hardcore Tombs                                 | Complete ToA **solo** without dying (Any invocation)                                        |
+| Tombs of Amascut                  | Hardcore Raiders                               | Complete ToA with at least 2 people without dying (Any invocation)                          |
 | Tombs of Amascut                  | Perfect Het                                    | 1/15 chance to be given per ToA (Any invocation)                                            |
 | Tombs of Amascut                  | Perfect Apmeken                                | 1/10 chance to be given per ToA (Any invocation)                                            |
 | Tombs of Amascut: Entry Mode      | Novice Tomb Raider                             | Complete 50 ToA (Any invocation)                                                            |
@@ -327,10 +323,10 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Alchemical Hydra                  | Don't Flame Me                                                               | 1/25 chance to be given per kill                                                                 |
 | Cerberus                          | Arooo No More                                                                | 1/25 chance to be given per kill                                                                 |
 | Cerberus                          | Cerberus Master                                                              | Kill 150 Cerberus                                                                                |
-| Chambers of Xeric                 | <mark style="color:red;">Perfect Olm (Solo)</mark>                           | 1/44 chance to be given per regular raid <mark style="color:red;">(can be any party size)</mark> |
-| Chambers of Xeric                 | <mark style="color:red;">Chambers of Xeric (Solo) Speed-Chaser</mark>        | 1/25 chance to be given per regular raid <mark style="color:red;">(can be any party size)</mark> |
+| Chambers of Xeric                 | Perfect Olm (Solo)                                                           | 1/44 chance to be given per regular raid **(must be solo)**                                      |
+| Chambers of Xeric                 | Chambers of Xeric (Solo) Speed-Chaser                                        | 1/25 chance to be given per regular raid **(must be solo)**                                      |
 | Chambers of Xeric                 | <mark style="color:red;">Chambers of Xeric (5-Scale) Speed-Chaser</mark>     | 1/33 chance to be given per regular raid <mark style="color:red;">(can be any party size)</mark> |
-| Chambers of Xeric                 | Putting It Olm on the Line                                                   | 1/22 chance to be given per regular raid                                                         |
+| Chambers of Xeric                 | Putting It Olm on the Line                                                   | 1/22 chance to be given per regular raid **(must be solo)**                                      |
 | Chambers of Xeric                 | Playing with Lasers                                                          | 1/22 chance to be given per regular raid                                                         |
 | Chambers of Xeric                 | Chambers of Xeric (Trio) Speed-Chaser                                        | 1/44 chance to be given per regular raid                                                         |
 | Chambers of Xeric                 | No Time for Death                                                            | 1/25 chance to be given per regular raid                                                         |
@@ -341,9 +337,9 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Chambers of Xeric                 | Stop Drop and Roll                                                           | 1/15 chance to be given per regular raid                                                         |
 | Chambers of Xeric                 | A Not So Special Lizard                                                      | 1/33 chance to be given per regular raid                                                         |
 | Chambers of Xeric                 | Blind Spot                                                                   | 1/45 chance to be given per regular raid                                                         |
-| Chambers of Xeric: Challenge Mode | Immortal Raider                                                              | 1/10 chance to be given per CM raid                                                              |
+| Chambers of Xeric: Challenge Mode | Immortal Raider                                                              | 1/10 chance to be given per CM raid **(must be solo)**                                           |
 | Chambers of Xeric: Challenge Mode | <mark style="color:red;">Chambers of Xeric: CM (5-Scale) Speed-Chaser</mark> | 1/15 chance to be given per CM raid <mark style="color:red;">(can be any party size)</mark>      |
-| Chambers of Xeric: Challenge Mode | <mark style="color:red;">Chambers of Xeric: CM (Solo) Speed-Chaser</mark>    | 1/15 chance to be given per CM raid <mark style="color:red;">(can be any party size)</mark>      |
+| Chambers of Xeric: Challenge Mode | Chambers of Xeric: CM (Solo) Speed-Chaser                                    | 1/15 chance to be given per CM raid **(must be solo)**                                           |
 | Chambers of Xeric: Challenge Mode | Immortal Raid Team                                                           | 1/15 chance to be given per CM raid                                                              |
 | Chambers of Xeric: Challenge Mode | Chambers of Xeric: CM Master                                                 | Complete 10 CM raids                                                                             |
 | Chambers of Xeric: Challenge Mode | <mark style="color:red;">Chambers of Xeric: CM (Trio) Speed-Chaser</mark>    | 1/23 chance to be given per CM raid <mark style="color:red;">(can be any party size)</mark>      |
@@ -386,7 +382,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | The Nightmare                     | Perfect Nightmare                                                            | 1/33 chance to be given per kill                                                                 |
 | The Nightmare                     | Nightmare (5-Scale) Speed-Chaser                                             | 1/33 chance to be given per kill                                                                 |
 | The Nightmare                     | Nightmare Master                                                             | Kill 50 Nightmare                                                                                |
-| The Nightmare                     | Nightmare (Solo) Speed-Chaser                                                | 1/33 chance to be given per kill                                                                 |
+| The Nightmare                     | Nightmare (Solo) Speed-Chaser                                                | 1/33 chance to be given per kill **(must be solo)**                                              |
 | Theatre of Blood                  | Perfect Xarpus                                                               | 1/50 chance to be given per ToB                                                                  |
 | Theatre of Blood                  | <mark style="color:red;">Theatre (5-Scale) Speed-Chaser</mark>               | 1/40 chance to be given per ToB <mark style="color:red;">(can be any party size)</mark>          |
 | Theatre of Blood                  | Perfect Verzik                                                               | 1/50 chance to be given per ToB                                                                  |
@@ -410,10 +406,10 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Tombs of Amascut                  | Chompington                                                                  | 1/25 chance to be given per ToA                                                                  |
 | Tombs of Amascut                  | Tombs Speed Runner                                                           | 1/44 chance to be given per ToA                                                                  |
 | Tombs of Amascut                  | Tomb Looter                                                                  | Complete 25 ToAs                                                                                 |
-| Tombs of Amascut                  | Perfect Akkha                                                                | 1/44 chance to be given per ToA                                                                  |
+| Tombs of Amascut                  | Perfect Akkha                                                                | 1/30 chance to be given per ToA                                                                  |
 | Tombs of Amascut                  | Perfect Scabaras                                                             | 1/22 chance to be given per ToA                                                                  |
 | Tombs of Amascut                  | Perfect Kephri                                                               | 1/55 chance to be given per ToA                                                                  |
-| Tombs of Amascut                  | Perfect Zebak                                                                | 1/55 chance to be given per ToA                                                                  |
+| Tombs of Amascut                  | Perfect Zebak                                                                | 1/35 chance to be given per ToA                                                                  |
 | Tombs of Amascut                  | You are not prepared                                                         | 1/22 chance to be given per ToA                                                                  |
 | Tombs of Amascut                  | Perfect Ba-Ba                                                                | 1/22 chance to be given per ToA                                                                  |
 | Tombs of Amascut                  | Perfect Wardens                                                              | 1/22 chance to be given per ToA                                                                  |
@@ -439,7 +435,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Vorkath                           | Vorkath Master                                                               | Kill 100 Vorkath                                                                                 |
 | Zulrah                            | Perfect Zulrah                                                               | 1/55 chance to be given per kill                                                                 |
 | Zulrah                            | Zulrah Master                                                                | Kill 100 Zulrah                                                                                  |
-| Zulrah                            | Zulrah Speed-Chaser                                                          | 1/99 chance to be given per kill                                                                 |
+| Zulrah                            | Zulrah Speed-Chaser                                                          | 1/75 chance to be given per kill                                                                 |
 {% endtab %}
 
 {% tab title="Grandmaster" %}
@@ -450,9 +446,9 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Alchemical Hydra                  | No Pressure                                                                  | 1/33 chance to be given while having a Dharok's greataxe equipped in melee                      |
 | Chambers of Xeric                 | <mark style="color:red;">Chambers of Xeric (5-Scale) Speed-Runner</mark>     | 1/55 chance to be given per regular CoX <mark style="color:red;">(can be any party size)</mark> |
 | Chambers of Xeric                 | Chambers of Xeric Grandmaster                                                | Complete 150 regular CoX                                                                        |
-| Chambers of Xeric                 | Chambers of Xeric (Solo) Speed-Runner                                        | 1/55 chance to be given per solo regular CoX                                                    |
+| Chambers of Xeric                 | Chambers of Xeric (Solo) Speed-Runner                                        | 1/55 chance to be given per regular CoX **(must be solo)**                                      |
 | Chambers of Xeric                 | <mark style="color:red;">Chambers of Xeric (Trio) Speed-Runner</mark>        | 1/55 chance to be given per regular CoX <mark style="color:red;">(can be any party size)</mark> |
-| Chambers of Xeric: Challenge Mode | Chambers of Xeric: CM (Solo) Speed-Runner                                    | 1/30 chance to be given per solo CM CoX                                                         |
+| Chambers of Xeric: Challenge Mode | Chambers of Xeric: CM (Solo) Speed-Runner                                    | 1/30 chance to be given per CM CoX **(must be solo)**                                           |
 | Chambers of Xeric: Challenge Mode | Chambers of Xeric: CM Grandmaster                                            | Complete 25 CM CoX                                                                              |
 | Chambers of Xeric: Challenge Mode | <mark style="color:red;">Chambers of Xeric: CM (Trio) Speed-Runner</mark>    | 1/30 chance to be given per CM CoX <mark style="color:red;">(can be any party size)</mark>      |
 | Chambers of Xeric: Challenge Mode | <mark style="color:red;">Chambers of Xeric: CM (5-Scale) Speed-Runner</mark> | 1/30 chance to be given per CM CoX <mark style="color:red;">(can be any party size)</mark>      |
@@ -480,14 +476,14 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Phosani's Nightmare               | Perfect Phosani's Nightmare                                                  | 1/33 chance to be given per kill                                                                |
 | Phosani's Nightmare               | Can't Wake Up                                                                | Kill 5 Phosani's Nightmare                                                                      |
 | Phosani's Nightmare               | Phosani's Grandmaster                                                        | Kill 25 Phosani's Nightmare                                                                     |
-| The Nightmare                     | Terrible Parent                                                              | 1/22 chance to be given per kill                                                                |
-| The Nightmare                     | <mark style="color:red;">Nightmare (Solo) Speed-Runner</mark>                | 1/30 chance to be given per kill <mark style="color:red;">(can be any party size)</mark>        |
+| The Nightmare                     | Terrible Parent                                                              | 1/22 chance to be given per kill **(must be solo)**                                             |
+| The Nightmare                     | Nightmare (Solo) Speed-Runner                                                | 1/30 chance to be given per kill **(must be solo)**                                             |
 | The Nightmare                     | A Long Trip                                                                  | 1/33 chance to be given per kill                                                                |
 | The Nightmare                     | <mark style="color:red;">Nightmare (5-Scale) Speed-Runner</mark>             | 1/22 chance to be given per kill <mark style="color:red;">(can be any party size)</mark>        |
 | Theatre of Blood                  | Theatre (4-Scale) Speed-Runner                                               | 1/39 chance to be given per ToB with ONLY 4 players in your party                               |
 | Theatre of Blood                  | Theatre of Blood Grandmaster                                                 | Complete 150 ToBs                                                                               |
 | Theatre of Blood                  | Perfect Theatre                                                              | 1/80 chance to be given per ToB                                                                 |
-| Theatre of Blood                  | Morytania Only                                                               | 1/50 chance to be given per ToB while every raid member has a barrows weapon equipped           |
+| Theatre of Blood                  | Morytania Only                                                               | 1/50 chance to be given per ToB                                                                 |
 | Theatre of Blood                  | Theatre (Trio) Speed-Runner                                                  | 1/35 chance to be given per ToB with ONLY 3 players in your party                               |
 | Theatre of Blood                  | Theatre (Duo) Speed-Runner                                                   | 1/33 chance to be given per ToB with ONLY 2 players in your party                               |
 | Theatre of Blood                  | <mark style="color:red;">Theatre (5-Scale) Speed-Runner</mark>               | <mark style="color:red;">1/50 chance to be given per HM ToB</mark>                              |
@@ -507,18 +503,18 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Tombs of Amascut: Expert Mode     | <mark style="color:red;">All Praise Zebak</mark>                             | 1/22 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
 | Tombs of Amascut: Expert Mode     | Amascut's Remnant                                                            | Complete ToA at 500+ invocation, without any player in your party dying                         |
 | Tombs of Amascut: Expert Mode     | Expert Tomb Raider                                                           | Complete 50 Expert ToAs                                                                         |
-| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Perfection of Apmeken</mark>                        | 1/25 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
-| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Perfection of Het</mark>                            | 1/25 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
+| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Perfection of Apmeken</mark>                        | 1/30 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
+| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Perfection of Het</mark>                            | 1/60 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
 | Tombs of Amascut: Expert Mode     | <mark style="color:red;">Tombs Speed Runner III</mark>                       | 1/22 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
 | Tombs of Amascut: Expert Mode     | <mark style="color:red;">Perfection of Scabaras</mark>                       | 1/22 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
-| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Insanity</mark>                                     | 1/33 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
+| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Insanity</mark>                                     | 1/50 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
 | Tombs of Amascut: Expert Mode     | Tombs Speed Runner II                                                        | 1/22 chance to be given per ToA when the invocation is 300+                                     |
-| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Perfection of Crondis</mark>                        | 1/35 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
+| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Perfection of Crondis</mark>                        | 1/55 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
 | Tombs of Amascut: Expert Mode     | <mark style="color:red;">Akkhan't Do it</mark>                               | 1/35 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
-| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Maybe I'm The Boss.</mark>                          | 1/66 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
+| Tombs of Amascut: Expert Mode     | <mark style="color:red;">Maybe I'm The Boss.</mark>                          | 1/30 chance to be given per ToA <mark style="color:red;">(any invocation)</mark>                |
 | TzKal-Zuk                         | Wasn't Even Close                                                            | 1/10 chance to be given per Inferno                                                             |
 | TzKal-Zuk                         | Jad? What Are You Doing Here?                                                | 1/12 chance to be given per Inferno                                                             |
-| TzKal-Zuk                         | Budget Setup                                                                 | 1/5 chance to be given per Inferno while not having a Twisted Bow equipped                      |
+| TzKal-Zuk                         | Budget Setup                                                                 | Complete the Inferno while not having a Twisted bow equipped                                    |
 | TzKal-Zuk                         | The Floor Is Lava                                                            | 1/6 chance to be given per Inferno                                                              |
 | TzKal-Zuk                         | Nibbler Chaser                                                               | 1/3 chance to be given per Inferno                                                              |
 | TzKal-Zuk                         | Inferno Grandmaster                                                          | Complete 5 Infernos                                                                             |
@@ -532,7 +528,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Vorkath                           | The Fremennik Way                                                            | Kill Vorkath while having nothing equipped in your melee weapon slot                            |
 | Vorkath                           | Vorkath Speed-Runner                                                         | 1/55 chance to be given per kill                                                                |
 | Vorkath                           | Faithless Encounter                                                          | 1/15 chance to be given per kill                                                                |
-| Zulrah                            | Zulrah Speed-Runner                                                          | 1/100 chance to be given per kill                                                               |
+| Zulrah                            | Zulrah Speed-Runner                                                          | 1/110 chance to be given per kill                                                               |
 {% endtab %}
 {% endtabs %}
 

@@ -27,7 +27,8 @@
 * [Nex](bosses/nex.md)
 * [The Nightmare](bosses/nightmare-of-ashihama/README.md)
   * [Phosani's Nightmare](bosses/nightmare-of-ashihama/phosanis-nightmare.md)
-* [Revenants](bosses/revenants.md)
+* [Wilderness](bosses/wilderness/README.md)
+  * [Revenants](bosses/wilderness/revenants.md)
 * [Zulrah](bosses/zulrah.md)
 
 ## Raids
@@ -109,8 +110,10 @@
 * [Thieving](skills/thieving/README.md)
   * [Rogues Den](skills/thieving/rogues-den.md)
   * [Pyramid Plunder](skills/thieving/pyramid-plunder.md)
+  * [Underwater Training](skills/thieving/underwater-training.md)
 * [Woodcutting](skills/woodcutting/README.md)
   * [Woodcutting Training](skills/woodcutting/woodcutting-training.md)
+  * [Forestry](skills/woodcutting/forestry.md)
 
 ## Minigames
 

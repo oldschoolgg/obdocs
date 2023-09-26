@@ -15,4 +15,4 @@ There is <mark style="color:red;">NO CONFIRMATION</mark> for this /sell command.
 
 You can also use `/sell`` `**`filter:`**`mole` to sell all at once.
 
-See [Boosts & Requirements page](https://wiki.oldschool.gg/bosses/boosts-and-requirements) for gear.
+See [Boosts & Requirements page](https://wiki.oldschool.gg/bosses/boosts-and-requirements) for gear. /

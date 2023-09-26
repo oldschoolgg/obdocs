@@ -29,7 +29,11 @@ The Brimhaven Agility Arena rewards the player with Agility tickets which can be
 
 ### [Agility Pyramid](agility-pyramid.md)
 
-Starting at 30 agility, you can train agility here while making some gp on the side. Each successful lap gives 10k gp, however, the fail rate is substantially higher below level 40 agility.&#x20;
+Starting at 30 agility, you can train agility here while making some gp on the side. Each successful lap gives 10k gp, however, the fail rate is substantially higher below level 40 agility.
+
+### [Underwater Agility](../thieving/underwater-training.md)
+
+You can train your agility here starting at any level (will influence xp/hr though) and collect Mermaid tears to spend at the shop. Can be combined with thieving training for big xp/hr.
 
 ## Courses
 
