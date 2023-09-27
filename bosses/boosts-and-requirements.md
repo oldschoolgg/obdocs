@@ -242,11 +242,11 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Magic\_icon.png) 70 Magic
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 150 Ranged attack
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 115 Ranged attack
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 84 Crush defence
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 71 Crush defence
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 83 Magic defence
+&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 68 Magic defence
 
 <img src="../.gitbook/assets/Blighted_ancient_ice_sack.png" alt="" data-size="line"> Blighted ancient ice sacks **OR** Blood Death & Water runes **OR** <img src="../.gitbook/assets/Stamina_potion(4).png" alt="" data-size="line"> Stamina potion (4)
 

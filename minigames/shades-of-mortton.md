@@ -6,10 +6,14 @@ To start a trip of the minigame, use the following:
 
 * `/minigames shades_of_morton start`` `**`shade:`**`[shadeType]`` `**`logs:`**`[logType]`
 
+***
+
 ## Boosts
 
 * 50% more Prayer xp for completion of Morytania hard diary.
 * 50% more Firemaking xp for completion of Morytania elite diary.
+
+***
 
 ## Shade Remains&#x20;
 
@@ -24,6 +28,8 @@ You can kill shades by using the `/k` command. When burned, each shade will give
 | Asyn shade     | <p>Black key - 28.2%<br>Silver key - 50.8%<br>Coins - 21%</p> | 800-900gp      |
 | Fiyr shade     | <p>Silver key - 63.4%<br>Gold key - 15.6%<br>Coins - 21%</p>  | 1,500-5,000gp  |
 | Urium shade    | <p>Gold key - 79%<br>Coins - 21%</p>                          | 2,000-7,000gp  |
+
+***
 
 ## Burning Shade Remains
 
@@ -42,6 +48,8 @@ Certain logs can only be used for certain shades. For example, using a redwood l
 | Yew logs         |                  <p>Loar - 34.5<br>Phrin - 47<br>Riyl - 62<br>Asyn - 79.5</p>                  |             255             |
 | Magic logs       |           <p>Loar - 35<br>Phrin - 47.5<br>Riyl - 62.5<br>Asyn - 80<br>Fiyr - 100</p>           |            404.5            |
 | Redwood logs     | <p>Loar - 35.5<br>Phrin: - 48<br>Riyl - 63<br>Asyn - 80.5<br>Fiyr - 100.5<br>Urium - 120.5</p> |             500             |
+
+***
 
 ## Rewards
 
@@ -128,6 +136,8 @@ _There is a 1/2 chance to obtain the Flamtaer bag from any level chest._
 <mark style="color:red;">\*\*</mark> The Zealots outfit is 1/128 per key, however, you cannot obtain duplicate pieces (unless you drop or sell the outfit).
 {% endtab %}
 {% endtabs %}
+
+***
 
 ## Creating Coffins
 

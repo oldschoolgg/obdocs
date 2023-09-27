@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-You can complete almost all the same combat achievements in the bot, as the real game. However, the method in order to obtain some achievements are different to the real game as the bot simply cannot reflect the nature of the all tasks.
+You can complete almost all the same combat achievements in the bot, as the real game. However, the method in order to obtain some achievements are different to the real game as the bot simply cannot reflect the nature of the all tasks. The CA system is point based, the same as in-game.
 
 Some tasks are simply claimed retroactively by using:
 
@@ -16,6 +16,20 @@ To view your complete, incomplete, or a list of all CA tasks, use:
 
 ***
 
+## Point System
+
+Like osrs, certain tiers are unlocked after attaining a certain number of points. They are as follows:
+
+|             |                      |                                |
+| ----------- | :------------------: | :----------------------------: |
+| **Tier**    | **Available Points** | **Total Points For Next Tier** |
+| Easy        |          33          |               33               |
+| Medium      |          80          |               113              |
+| Hard        |          189         |               302              |
+| Elite       |          492         |               794              |
+| Master      |          620         |              1,414             |
+| Grandmaster |          522         |              1,936             |
+
 ## Combat Tasks
 
 While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below is a list of all possible combat tasks to complete in the bot. To view the full list of official CA tasks in one page, please visit the [osrs CA wiki page](https://oldschool.runescape.wiki/w/Combat\_Achievements/All\_tasks). If the **'How To Unlock'** description does not contain a 1/X, it means that the chance is 1/1.
@@ -26,6 +40,10 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 
 {% tabs %}
 {% tab title="Easy" %}
+{% hint style="success" %}
+<mark style="color:green;">**Easy tasks are worth 1 point each. There are a total of 33 easy tasks.**</mark>
+{% endhint %}
+
 |                        |                               |                                                                                                                       |
 | ---------------------- | ----------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Monster**            | **Task Name**                 | **How To Unlock**                                                                                                     |
@@ -65,6 +83,10 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 {% endtab %}
 
 {% tab title="Medium" %}
+{% hint style="success" %}
+<mark style="color:green;">**Medium tasks are worth 2 points each. There are a total of 40 medium tasks.**</mark>
+{% endhint %}
+
 |                        |                                                      |                                                                                                  |
 | ---------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Monster**            | **Task Name**                                        | **How To Unlock**                                                                                |
@@ -111,6 +133,10 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 {% endtab %}
 
 {% tab title="Hard" %}
+{% hint style="success" %}
+<mark style="color:green;">**Hard tasks are worth 3 points each. There are a total of 63 hard tasks.**</mark>
+{% endhint %}
+
 |                              |                            |                                                                                       |
 | ---------------------------- | -------------------------- | ------------------------------------------------------------------------------------- |
 | **Monster**                  | **Task Name**              | **How To Unlock**                                                                     |
@@ -180,6 +206,10 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 {% endtab %}
 
 {% tab title="Elite" %}
+{% hint style="success" %}
+<mark style="color:green;">**Elite tasks are worth 4 points each. There are a total of 123 elite tasks.**</mark>
+{% endhint %}
+
 |                                   |                                                |                                                                                             |
 | --------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | **Monster**                       | **Task Name**                                  | **How To Unlock**                                                                           |
@@ -309,6 +339,10 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 {% endtab %}
 
 {% tab title="Master" %}
+{% hint style="success" %}
+<mark style="color:green;">**Master tasks are worth 5 points each. There are a total of 124 master tasks.**</mark>
+{% endhint %}
+
 |                                   |                                                                              |                                                                                                  |
 | --------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Monster**                       | **Task Name**                                                                | **How To Unlock**                                                                                |
@@ -439,6 +473,10 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 {% endtab %}
 
 {% tab title="Grandmaster" %}
+{% hint style="success" %}
+<mark style="color:green;">**Grandmaster tasks are worth 4 points each. There are a total of 87 GM tasks.**</mark>
+{% endhint %}
+
 |                                   |                                                                              |                                                                                                 |
 | --------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | **Monster**                       | **Task Name**                                                                | **How To Unlock**                                                                               |
@@ -532,6 +570,61 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 {% endtab %}
 {% endtabs %}
 
-## Rewards
+## Rewards ![](../.gitbook/assets/Combat\_Achievements\_-\_easy\_tier\_icon.png) ![](../.gitbook/assets/Combat\_Achievements\_-\_medium\_tier\_icon.png) ![](../.gitbook/assets/Combat\_Achievements\_-\_hard\_tier\_icon.png) ![](../.gitbook/assets/Combat\_Achievements\_-\_elite\_tier\_icon.png) ![](../.gitbook/assets/Combat\_Achievements\_-\_master\_tier\_icon.png) ![](../.gitbook/assets/Combat\_Achievements\_-\_grandmaster\_tier\_icon.png)
 
-Currently there are no rewards or benefits for completing any tiers of the combat achievements. However, rewards very similar to the real game are planned to be released in the near future. This section will be expanded once they are released.
+Rewards can be claimed by simply using `/ca claim` after completing a new tier. You can use the same command to view how close you are to the next tier. Please view the [point table](combat-achievements.md#point-system) for the exact points needed for each tier.
+
+### Easy <img src="../.gitbook/assets/Combat_Achievements_-_easy_tier_icon.png" alt="" data-size="original">
+
+* Ghommal's hilt 1
+* An antique lamp that gives 5,000xp in any skill above level 20
+* 5% increase to receive Easy clue scrolls
+* Slayer boss tasks are increased by 5 (40 total)
+* Pest control games give 1 bonus point
+* 100% bonus Warrior's guild tokens
+
+### Medium ![](../.gitbook/assets/Combat\_Achievements\_-\_medium\_tier\_icon.png)
+
+* Ghommal's hilt 2
+* An antique lamp that gives 10,000xp in any skill above level 30
+* 5% increase to receive Medium clue scrolls
+* Slayer boss tasks are increased by 5 (45 total)
+* Pest control games give 2 bonus points
+* 200% bonus Warrior's guild tokens
+
+### Hard ![](../.gitbook/assets/Combat\_Achievements\_-\_hard\_tier\_icon.png)
+
+* Ghommal's hilt 3
+* An antique lamp that gives 15,000xp in any skill above level 40
+* 5% increase to receive Hard clue scrolls
+* Slayer boss tasks are increased by 5 (50 total)
+* Pest control games give 3 bonus points
+* NMZ imbue costs are halved
+* Ability to create King black dragon DHC - `/create`` `**`item:`**`Dragon hunter crossbow (b)`
+
+### Elite ![](../.gitbook/assets/Combat\_Achievements\_-\_elite\_tier\_icon.png)
+
+* Ghommal's hilt 4
+* An antique lamp that gives 25,000xp in any skill above level 50
+* 5% increase to receive Elite clue scrolls
+* Slayer boss tasks are increased by 5 (55 total)
+* Superiors are 25% more likely to appear during Slayer
+* Ability to create Tztok slayer helmet - `/create`` `**`item:`**`Tztok slayer helmet`
+* Ability to create Vorkath DHC - `/create`` `**`item:`**`Dragon hunter crossbow (t)`
+
+### Master ![](../.gitbook/assets/Combat\_Achievements\_-\_master\_tier\_icon.png)
+
+* Ghommal's hilt 5
+* An antique lamp that gives 35,000xp in any skill above level 60
+* Slayer boss tasks are increased by 5 (60 total)
+* Obtain Ghommal's lucky penny (Does NOT work in the bot)
+* Ability to create Vampyric slayer helmet - `/create`` `**`item:`**`Vampyric slayer helmet`
+* Ability to combine Avernic defender with Ghommal's hilt 5 - `/create item:Ghommal's avernic defender 5`
+
+### Grandmaster ![](../.gitbook/assets/Combat\_Achievements\_-\_grandmaster\_tier\_icon.png)
+
+* Ghommal's hilt 6
+* An antique lamp that gives 50,000xp in any skill above level 70
+* Slayer boss tasks are increased by 5 (65 total)
+* Ability to create Tzkal slayer helmet - `/create`` `**`item:`**`Tzkal slayer helmet`
+* Ability to combine Avernic defender with Ghommal's hilt 6 - `/create item:Ghommal's avernic defender 6`

@@ -6,6 +6,8 @@ To start a game, use `/minigames castle_wars start`
 
 You will receive 1-3 tickets per game played.
 
+***
+
 ## Rewards
 
 You can buy all the same rewards in OSRS with the /`buy` command.

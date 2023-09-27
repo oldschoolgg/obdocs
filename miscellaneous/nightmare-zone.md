@@ -71,6 +71,10 @@ Use the following command to buy items:
 
 ## Imbueables
 
+{% hint style="info" %}
+<mark style="color:blue;">**All imbue costs are halved if Hard combat achievements are completed!**</mark>
+{% endhint %}
+
 Use the following command to imbue items:
 
 * `/minigames nmz imbue`` `**`name:`**

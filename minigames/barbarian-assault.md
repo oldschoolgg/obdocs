@@ -41,6 +41,8 @@ To spend your honour points to increase your honour level, use the following com
 | Level 4   |         1,600         |         24.24%         |
 | Level 5   |         2,000         |          30.3%         |
 
+***
+
 ## Barbarian Assault Shop
 
 To spend your honour points on BA items, use the following:

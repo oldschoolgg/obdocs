@@ -81,7 +81,7 @@ Bracelets of ethereum can be charged (requires 2000 ether) but offers no benefit
 
 #### **Wildy Weapons** ![](<../../.gitbook/assets/Viggora's chainmace.png>) ![](<../../.gitbook/assets/Craw's bow.png>) ![](<../../.gitbook/assets/Thammaron's sceptre.png>)
 
-These weapons can be charged which will provide boosts at revs themselves and other wildy bosses. It costs 7000 ether to charge a wildy weapon. To check the boosts which these items give, please visit the [Boosts & Requirements page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)
+These weapons can be charged which will provide boosts at revs themselves and other wildy bosses. It costs 7000 ether to charge a wildy weapon. To create the upgraded version of these weapons, please visit the [Wilderness page](./#upgraded-rev-weapons). To check the boosts which these items give, please visit the [Boosts & Requirements page.](https://wiki.oldschool.gg/bosses/boosts-and-requirements)
 
 * `/create`` `**`item:`**`viggora's chainmace`
 * `/create`` `**`item:`**`craw's bow`

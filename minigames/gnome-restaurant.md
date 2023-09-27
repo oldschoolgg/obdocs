@@ -4,12 +4,16 @@ Gnome Restaurant is a solo minigame in which you can gain some fancy collectible
 
 To start the minigame, use `/minigames gnome_restaurant start`
 
-### Requirements
+***
+
+## Requirements
 
 * 5,000gp - required every trip
 * 5-6 Law runes - ONLY if you have 66 Magic or above.
 
-### Boosts
+***
+
+## Boosts
 
 * 25% for 66 Magic or above
 * 25% for Graceful (must be equipped in _Skilling setup_)
@@ -25,7 +29,9 @@ If you have an eternal glory, you will never use amulet of glory (6).\
 If you have a jewellery box in your POH, you won't consume jewellery.
 {% endhint %}
 
-### **Jewellery Items**
+***
+
+## **Jewellery Items**
 
 The bot will randomly choose between a piece of jewellery to use every trip. If the bot chooses jewellery that you don't have, you won't get the 20% boost, even if you have the others.
 

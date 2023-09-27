@@ -2,6 +2,8 @@
 
 You can do the chompy bird hunting minigame using `/activities chompy_hunt`` `**`action:`**`start`.
 
+***
+
 ## Requirements
 
 * 10 QP

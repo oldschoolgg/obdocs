@@ -4,6 +4,8 @@ The Gauntlet is a solo minigame which has some substantial requirements. When yo
 
 To begin a trip, use `/minigames gauntlet start`` `**`corrupted:`**`True` (the corrupted option may be left off if doing normal gauntlet).
 
+***
+
 ## Requirements
 
 * Level 80 in all combat stats (90 for Corrupted)
@@ -22,10 +24,14 @@ To begin a trip, use `/minigames gauntlet start`` `**`corrupted:`**`True` (the c
 * 200+ quest points
 * _Corrupted Gauntlet also requires at least 50kc in the normal Gauntlet_.
 
+***
+
 ## Boosts
 
 * Augury & Rigour prayers both provide a 3% boost.
 * Higher KC provides a speed boost (up to 20% at 100kc).
+
+***
 
 ## Rewards
 
@@ -59,6 +65,8 @@ You need 82 crafting and smithing to create both the inactive and charged versio
 * `/create`` `**`item:`**`Bow of faerdhinen (c)` - Requires 2000 shards
 
 **Note:** The _charged_ blade/bow are untradeable, while the _inactive_ versions are tradeable.
+
+***
 
 ## Trading in Crystal Seeds
 

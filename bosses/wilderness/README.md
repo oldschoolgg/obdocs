@@ -1,6 +1,6 @@
 # Wilderness
 
-With the release of the updated wildy bosses, it is more dangerous than ever to hunt uniques in the wilderness! You are now risking more for more reward! This page details the info regarding mechanics and items unique to the wilderness. For info on boosts and requirements on wildy bosses, please visit the [respective page](../boosts-and-requirements.md#callisto-vetion-venenatis-inc.-singles-versions). This page also differs from [revenants](revenants.md), so please check there for revenant specific info.
+With the release of the updated wildy bosses, it is more dangerous than ever to hunt uniques in the wilderness! You are now risking more for more reward! This page details the info regarding mechanics and items unique to the wilderness. For info on boosts and requirements on wildy bosses, please visit the [respective page](../boosts-and-requirements.md#callisto-vetion-venenatis-inc.-singles-versions).
 
 ## Things To Know Before Starting
 
@@ -12,7 +12,7 @@ With the release of the updated wildy bosses, it is more dangerous than ever to 
 <mark style="color:red;">**Killing Callisto, Vet'ion or Venenatis (and their weaker variants) can risk all your equipped items in your wildy gear setup. Do NOT equip items you're not willing to lose.**</mark>
 {% endhint %}
 
-### Death Chance <img src="../../.gitbook/assets/Skull (status) icon.png" alt="" data-size="line">
+### PK & Death Chance <img src="../../.gitbook/assets/Skull (status) icon.png" alt="" data-size="line">
 
 Your death chance is based on a number of factors. Firstly, you need to encounter a PKer for a death to be possible. There are 3 time periods when doing wildy bosses that will influence the chances of you running into a PKer. The below percentages represent how likely you will encounter a PKer _**for every minute of your trip**_. These time periods are random and change every \~2 hours.
 

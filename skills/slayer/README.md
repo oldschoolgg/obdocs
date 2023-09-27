@@ -2,7 +2,9 @@
 
 Slayer is a skill where you're assigned to kill a certain amount of a certain monster - called a 'task', you keep completing lots of tasks to unlock more knowledge on slaying monsters, and gain points which can be used to unlock rewards.
 
-So, in very simple terms to train slayer, all you need to do is: **Get a task** `/slayer new_task` then **Kill that monster** `/k`` `**`name:`**`monster`.
+So, in very simple terms to train slayer, all you need to do is: **Get a task** `/slayer new_task` then **Kill that monster** `/k`` `**`name:`**`monster`
+
+***
 
 ## Commands
 
@@ -70,19 +72,15 @@ So, in very simple terms to train slayer, all you need to do is: **Get a task** 
 
     Note that there is no way to override the always on settings. If you want to do certain tasks in the catacombs for example you should disable always cannon and specify `/slayer autoslay`` `**`mode:`**`ehp` when wanting to use a cannon. If you've saved ehp mode as your default, you can override this by using `/slayer autoslay`` `**`mode:`**`default`.\
 
-*   **Use the Ash sanctifier on your task**
+* **Use the Ash sanctifier on your task**
+  * If you have completed the Hard or Elite Kebos & Kourend diary, you can use the ash sanctifier to gain passive prayer xp when killing monsters that drop demonic ashes.
+  * This can be toggled on or off using `/config user toggle`` `**`name:`**` ``Disable Ash Sanctifier`
+  * You will gain half xp for hard diary completion, or full xp for elite diary completion.
+  * It must be charged with death runes: `/minion charge`` `**`item:`**` ``Ash sanctifier`
 
-    * If you have completed the Hard or Elite Kebos & Kourend diary, you can use the ash sanctifier to gain passive prayer xp when killing monsters that drop demonic ashes.
-    * This can be toggled on or off using `/config user toggle`` `**`name:`**` ``Disable Ash Sanctifier`
-    * You will gain half xp for hard diary completion, or full xp for elite diary completion.
-    * It must be charged with death runes: `/minion charge`` `**`item:`**` ``Ash sanctifier`
+***
 
-
-
-    \
-
-
-### Recommended block/skip list
+## Recommended block/skip list
 
 This table is based off the XP Gains/efficient Blocks/Skips at Post 99 Slayer but can be used at all levels of Slayer to provide you with the best XP Gain per hr.
 
