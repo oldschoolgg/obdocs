@@ -474,7 +474,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 
 {% tab title="Grandmaster" %}
 {% hint style="success" %}
-<mark style="color:green;">**Grandmaster tasks are worth 4 points each. There are a total of 87 GM tasks.**</mark>
+<mark style="color:green;">**Grandmaster tasks are worth 6 points each. There are a total of 87 GM tasks.**</mark>
 {% endhint %}
 
 |                                   |                                                                              |                                                                                                 |
