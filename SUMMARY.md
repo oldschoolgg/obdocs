@@ -134,6 +134,7 @@
 
 ## Miscellaneous
 
+* [Bingo](miscellaneous/bingo.md)
 * [Achievement Diaries](miscellaneous/achievement-diaries.md)
 * [Bank Backgrounds](getting-started/bank-background.md)
 * [Buyables](miscellaneous/buyables.md)
