@@ -242,11 +242,11 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ![](../.gitbook/assets/Magic\_icon.png) 70 Magic
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 115 Ranged attack
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 115 Ranged attack
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 71 Crush defence
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 71 Crush defence
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 68 Magic defence
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 68 Magic defence
 
 <img src="../.gitbook/assets/Blighted_ancient_ice_sack.png" alt="" data-size="line"> Blighted ancient ice sacks **OR** Blood Death & Water runes **OR** <img src="../.gitbook/assets/Stamina_potion(4).png" alt="" data-size="line"> Stamina potion (4)
 
@@ -290,17 +290,17 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/Magic_icon.png" alt="" data-size="original"> 70 Magic
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 73 Crush attack
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 73 Crush attack
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 80 Melee strength
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 80 Melee strength
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 100 Stab defence
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 100 Stab defence
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 99 Ranged defence
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 99 Ranged defence
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 30 Magic defence
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 30 Magic defence
 
-&#x20;![](../.gitbook/assets/Bronze\_knife.png) Bronze-Dragon knives **OR** any type of ![](../.gitbook/assets/Red\_chinchompa.png) Chinchompa
+![](../.gitbook/assets/Bronze\_knife.png) Bronze-Dragon knives **OR** any type of ![](../.gitbook/assets/Red\_chinchompa.png) Chinchompa
 
 ![](../.gitbook/assets/Achievement\_Diaries\_icon.png) Completion of Wilderness Medium diary <mark style="color:red;">**(Spindel ONLY)**</mark>
 
@@ -344,13 +344,13 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/Magic_icon.png" alt="" data-size="original"> 70 Magic
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 73 Crush attack
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 73 Crush attack
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 80 Melee strength
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 80 Melee strength
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 110 Slash defence
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 110 Slash defence
 
-&#x20;<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 30 Magic defence
+<img src="../.gitbook/assets/Worn_equipment_icon.png" alt="" data-size="line"> 30 Magic defence
 
 ![](../.gitbook/assets/Achievement\_Diaries\_icon.png) Completion of Wilderness Medium diary <mark style="color:red;">**(Calvarion ONLY)**</mark>
 
@@ -874,7 +874,7 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 
 **Boosts **<mark style="color:red;">**(Must be equipped in respective setup)**</mark>
 
-4% for ![](../.gitbook/assets/Saturated\_heart.png) Saturated heart **OR** 2% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued heart <mark style="color:red;">**(Boost from bank)**</mark>
+4% for ![](../.gitbook/assets/Saturated\_heart.png) Saturated heart **OR** 2% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued heart <mark style="color:red;">**(Works from bank)**</mark>
 
 10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow
 

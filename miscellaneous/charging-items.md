@@ -8,6 +8,10 @@ All items can be charged using `/minion charge`` `**`item:`** **`amount:`**&#x20
 Most items **cannot** be manually reverted, meaning you need to use the item continually until it runs out of charges to receive the base version again.
 {% endhint %}
 
+{% hint style="info" %}
+Charges are bound to your minion, not the item. Therefore, when reverting or trading your charged item, you will **NOT** lose charges.
+{% endhint %}
+
 ## Abyssal tentacle ![](../.gitbook/assets/Abyssal\_tentacle.png)
 
 **Charged with -** Abyssal whip (10,000 charges per 1 whip)

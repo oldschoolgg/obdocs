@@ -18,6 +18,10 @@ Pickpocketing Male HAM Members, send trips of \~50. Average easy clue takes \~1-
 
 Puro puro is 330 eclectics/hr at high level, resulting in a medium clue every \~5 minutes for time spent. [Tier 2 Patrons](https://www.patreon.com/oldschoolbot) can use "open\_until" for the medium clues making this very quick and easy.
 
+{% hint style="info" %}
+The **'open\_until'** filter will cap at 100 opens. Meaning, you won't open more than 100 of any item at anytime. You will also get a warning if you have a clue in your bank already.
+{% endhint %}
+
 Killing \~100 guards at a time with a cannon is an alternative for slightly slower meds/hour, but doesn't require opening a bunch of implings for the clue.
 
 ### Hard Clues

@@ -6,7 +6,11 @@ description: >-
 
 # Nex
 
-### Requirements
+{% hint style="danger" %}
+<mark style="color:red;">**There is currently a bug where your Nex return message doesn't display loot. You still get loot, it just doesn't show. You can check your cl or bank for potential uniques.**</mark>
+{% endhint %}
+
+## Requirements
 
 * Frozen Key
   * Defeat one of each [God Wars Dungeon Boss](broken-reference) and then use `/create` to create a Frozen Key
@@ -14,7 +18,7 @@ description: >-
 * Good range gear in range setup. Including a weapon (Armadyl Crossbow, Dragon Crossbow, Zaryte Crossbow, Twisted Bow) and ammo (Dragon/rune arrows, or Ruby Dragon Bolts (e)).&#x20;
 * Supplies: `8x Saradomin Brew, 5x Super Restore, 2x Ranging Potions, 1x Sanfew Serum, 600x ammo` regardless of trip length/quantity.
 
-### Boosts & BIS
+## Boosts & BIS
 
 * Rune arrows are negative/slower than dragon arrows.
 * Zaryte Crossbow is the best in slot weapon.
@@ -26,7 +30,7 @@ description: >-
 * You get faster at killing Nex based on your Offence Boost % (gear) and your KC.\
 
 
-#### BIS Gear
+## BIS Gear
 
 Zaryte Crossbow + Elysian, Armadyl Crossbow + Ely, Armadyl Crossbow + Spectral, Twisted Bow (Best to worst)
 

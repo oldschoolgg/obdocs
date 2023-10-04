@@ -134,18 +134,18 @@
 
 ## Miscellaneous
 
-* [Bingo](miscellaneous/bingo.md)
 * [Achievement Diaries](miscellaneous/achievement-diaries.md)
 * [Bank Backgrounds](getting-started/bank-background.md)
+* [Bingo](miscellaneous/bingo.md)
 * [Buyables](miscellaneous/buyables.md)
 * [Champions Challenge](miscellaneous/champions-challenge.md)
 * [Charging Items](miscellaneous/charging-items.md)
+* [Clue Scrolls](miscellaneous/clue-scrolls/README.md)
+  * [Boosts](miscellaneous/clue-scrolls/boosts.md)
+* [Collecting](miscellaneous/collecting.md)
 * [Combat Achievements](miscellaneous/combat-achievements.md)
 * [Crack The Clue](miscellaneous/crack-the-clue.md)
 * [Creatables](miscellaneous/creatables.md)
-* [Collecting](miscellaneous/collecting.md)
-* [Clue Scrolls](miscellaneous/clue-scrolls/README.md)
-  * [Boosts](miscellaneous/clue-scrolls/boosts.md)
 * [God Capes](miscellaneous/god-capes.md)
 * [Grand Exchange](miscellaneous/grand-exchange.md)
 * [Hall of Fame](miscellaneous/bot-firsts.md)

@@ -402,7 +402,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Nex                               | There is no escape!                                                          | 1/15 chance to be given per kill                                                                 |
 | Nex                               | A siphon will solve this                                                     | 1/15 chance to be given per kill                                                                 |
 | Phantom Muspah                    | Walk Straight Pray True                                                      | 1/15 chance to be given per kill                                                                 |
-| Phantom Muspah                    | More than just a ranged weapon                                               | Kill Muspah while having a black, red or orange salamander equipped                              |
+| Phantom Muspah                    | More than just a ranged weapon                                               | Kill Muspah while having a black, red or orange salamander equipped (not in RANGE or MAGE setup) |
 | Phantom Muspah                    | Space is Tight                                                               | 1/15 chance to be given per kill                                                                 |
 | Phantom Muspah                    | Phantom Muspah Speed-Chaser                                                  | 1/33 chance to be given per kill                                                                 |
 | Phantom Muspah                    | Essence Farmer                                                               | Kill 10 Phantom Muspah                                                                           |
@@ -422,7 +422,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Theatre of Blood                  | Perfect Verzik                                                               | 1/50 chance to be given per ToB                                                                  |
 | Theatre of Blood                  | <mark style="color:red;">Theatre (4-Scale) Speed-Chaser</mark>               | 1/22 chance to be given per ToB <mark style="color:red;">(can be any party size)</mark>          |
 | Theatre of Blood                  | A Timely Snack                                                               | 1/22 chance to be given per ToB                                                                  |
-| Theatre of Blood                  | Back in My Day...                                                            | 1/22 chance to be given per ToB and while having a Scythe of vitur equipped                      |
+| Theatre of Blood                  | Back in My Day...                                                            | 1/22 chance to be given per ToB and while no team member has a Scythe of vitur equipped          |
 | Theatre of Blood                  | Perfect Sotesteg                                                             | 1/22 chance to be given per ToB                                                                  |
 | Theatre of Blood                  | Can't Drain This                                                             | 1/22 chance to be given per ToB                                                                  |
 | Theatre of Blood                  | Can You Dance?                                                               | 1/22 chance to be given per ToB                                                                  |
@@ -619,7 +619,7 @@ Rewards can be claimed by simply using `/ca claim` after completing a new tier. 
 * Slayer boss tasks are increased by 5 (60 total)
 * Obtain Ghommal's lucky penny (Does NOT work in the bot)
 * Ability to create Vampyric slayer helmet - `/create`` `**`item:`**`Vampyric slayer helmet`
-* Ability to combine Avernic defender with Ghommal's hilt 5 - `/create item:Ghommal's avernic defender 5`
+* Ability to combine Avernic defender with Ghommal's hilt 5 - `/create`` `**`item:`**`Ghommal's avernic defender 5`
 
 ### Grandmaster ![](../.gitbook/assets/Combat\_Achievements\_-\_grandmaster\_tier\_icon.png)
 
@@ -627,4 +627,4 @@ Rewards can be claimed by simply using `/ca claim` after completing a new tier. 
 * An antique lamp that gives 50,000xp in any skill above level 70
 * Slayer boss tasks are increased by 5 (65 total)
 * Ability to create Tzkal slayer helmet - `/create`` `**`item:`**`Tzkal slayer helmet`
-* Ability to combine Avernic defender with Ghommal's hilt 6 - `/create item:Ghommal's avernic defender 6`
+* Ability to combine Avernic defender with Ghommal's hilt 6 - `/create`` `**`item:`**`Ghommal's avernic defender 6`

@@ -12,6 +12,10 @@ With the release of the updated wildy bosses, it is more dangerous than ever to 
 <mark style="color:red;">**Killing Callisto, Vet'ion or Venenatis (and their weaker variants) can risk all your equipped items in your wildy gear setup. Do NOT equip items you're not willing to lose.**</mark>
 {% endhint %}
 
+{% hint style="success" %}
+<mark style="color:green;">**When doing these wildy bosses, you will never be skulled. This means, you will always keep your best 4 items, unless you are smited, in which case you will still keep 3 items.**</mark>
+{% endhint %}
+
 ### PK & Death Chance <img src="../../.gitbook/assets/Skull (status) icon.png" alt="" data-size="line">
 
 Your death chance is based on a number of factors. Firstly, you need to encounter a PKer for a death to be possible. There are 3 time periods when doing wildy bosses that will influence the chances of you running into a PKer. The below percentages represent how likely you will encounter a PKer _**for every minute of your trip**_. These time periods are random and change every \~2 hours.
@@ -20,7 +24,7 @@ Your death chance is based on a number of factors. Firstly, you need to encounte
 
 <mark style="color:red;">**\***</mark> _<mark style="color:red;">**- You will be asked for confirmation when attempting to send a trip during a high PK period.**</mark>_
 
-If you happen to encounter a PKer, you will then "fight" your opponent. There are a few things that will affect whether you get PKed or survive. There is a 10% base chance of your minion getting PKed, however, the following things will affect this percentage:
+If you happen to encounter a PKer, you will then "fight" your opponent. When this happens, you will lose some kc during your trip and therefore, lose some potential loot also. There are a few things that will affect whether you get PKed or survive. There is a 10% base chance of your minion getting PKed, however, the following things will affect this percentage:
 
 * Your gear (specifically, your defensive stats. All 3 combat styles play a part)
 * Anti-PK supplies (read [Smite chance](./#smite-chance) below)

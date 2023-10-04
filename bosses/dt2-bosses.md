@@ -6,7 +6,7 @@ Boasting the new best in-slot rings, some fancy new mage robes and a re-skin for
 
 ## Requirements
 
-* The only hard requirement to kill the bosses, is completion of the [Desert Tresure 2](../miscellaneous/questing.md#desert-treasure-2) quest.
+* The only requirement to kill these bosses is completion of the [Desert Tresure 2](../miscellaneous/questing.md#desert-treasure-2) quest.
 
 ***
 
@@ -24,7 +24,7 @@ The graph below shows the death chance when killing each regular DT2 boss. You w
 
 ## Awakened Versions
 
-The awakened variant of each boss can be fought straight away after the DT2 quest is complete. However, the awakened version has an extremely high death chance, as it is not designed to be farmed. After 200kc, your lowest possible death chance is 81.8%. It does not decrease after this.
+The awakened variant of each boss can be fought straight away after the DT2 quest is complete. However, the awakened version has an extremely high death chance, as it is not designed to be farmed. Your kc on the regular version has no effect on your chances of killing the awakened version. After 200kc, your lowest possible death chance is 81.8%. It does not decrease after this.
 
 Each kill of the awakened variant will consume 1 awakener's orb. Without these, you cannot fight the boss. Once each awakened boss has been killed, you will need to kill 1 more random awakened boss to receive the [blood torva kit.](dt2-bosses.md#sanguine-blood-torva)
 
