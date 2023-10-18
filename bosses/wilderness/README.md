@@ -9,7 +9,7 @@ With the release of the updated wildy bosses, it is more dangerous than ever to 
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:red;">**Killing Callisto, Vet'ion or Venenatis (and their weaker variants) can risk all your equipped items in your wildy gear setup. Do NOT equip items you're not willing to lose.**</mark>
+<mark style="color:red;">**Killing Callisto, Vet'ion or Venenatis (and their weaker variants) can risk some of your gear in the wildy setup. Do NOT equip items you're not willing to lose. See**</mark> [<mark style="color:blue;">**Wildy Gear**</mark>](./#wildy-gear)
 {% endhint %}
 
 {% hint style="success" %}
@@ -40,13 +40,29 @@ If you happen to encounter a PKer, you will then "fight" your opponent. When thi
 These supplies are different from [revenants](revenants.md). Please check there for more info.
 {% endhint %}
 
-These supplies will heavily influence your chances of being smited or not. With supplies, the base chance of being smited when you are PKed is 1/300. However, without them, it's a 1/20 chance. These supplies consist of:
+These supplies will heavily influence your chances of being smited or not. You also need 25 Prayer for Protect item. With supplies, the base chance of being smited when you are PKed is 1/300. However, without them, it's a 1/20 chance. These supplies consist of:
 
 &#x20;![](../../.gitbook/assets/Sara\_brew\(4\).png) Saradomin brew(4) - 1 for every 4 minutes of your trip
 
 &#x20;![](../../.gitbook/assets/Super\_restore\(4\).png) Super restore(4) - 1 for every 8 minutes of your trip
 
 <img src="../../.gitbook/assets/Cooked_karambwan.png" alt="" data-size="original"> Karambwan - 1 for every 4 minutes of your trip
+
+***
+
+### Wildy Gear ![](../../.gitbook/assets/Worn\_equipment\_icon.png)
+
+While killing wilderness bosses, your wildy gear setup is at risk. However, because you are **NOT** skulled when killing them, you will almost always keep your best 4 items. The only time you lose your +1, is if you get [smited](./#smite-chance).
+
+You can see what items you will keep/lose through the following command:
+
+* `/gear view`` `**`setup:`**` ``Lost On Wildy Death`
+
+<figure><img src="../../.gitbook/assets/Gear_lost_on_death.PNG" alt=""><figcaption></figcaption></figure>
+
+In the above image, you can ignore the things listed in the red box because you are not skulled when doing wilderness bosses. The green box notifies you of the items kept and lost upon a death.  The 3 items kept on death are Webweaver bow, Masori body (f), and Masori chaps (f). The +1 item is the Necklace of Anguish (or). Everything else will always be lost when Pked. This means you can comfortably equip your 3 best boosting items for wildy bosses without the worry of losing them.
+
+However, untradeable items or items that have a 0 value will usually not be kept as one of your 3-4 items kept on death. For example, the DT2 rings in their current state are using the incorrect item ID, and therefore giving the rings a 0 value. This means that something with a low value but still a higher value than the ring, may be kept over the ring upon a death.
 
 ***
 
