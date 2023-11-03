@@ -1,6 +1,6 @@
 # Big Chompy Bird Hunting
 
-You can do the chompy bird hunting minigame using `/activities chompy_hunt`` `**`action:`**`start`.
+You can do the chompy bird hunting minigame using `/activities chompy_hunt`` `**`action:`**`start`
 
 ***
 

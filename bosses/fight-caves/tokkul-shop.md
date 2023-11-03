@@ -1,49 +1,22 @@
 # Tokkul Shop
 
-You can spend Tokkul you have attained through Fight cave and Inferno attempts at this store, which sells obsidian equipment, ores, and gems, including the uncut onyx.
+You can spend Tokkul you have obtained through Fight caves, Inferno, and general TzHaar PvM at this store, which sells obsidian equipment, ores, and gems, including the uncut onyx.
 
-Not all items are able to be bought, and no discount is given for any Karamja diary completion.
+Completion of the Karamja easy diary will grant a \~13.3% discount on purchasing items, and a \~133% increase in tokkul received when selling items to the shop. The gloves to NOT need to be equipped.
 
-You are able to both buy and sell items to this store using the following commands:
+The tokkul shop is heavily restricted when buying items. Essentially, you can only buy 1 of a particular item per minute, meaning you're maximum trip length in minutes, is the maximum number of an item you can buy in 1 trip.
 
-* `/tokkulshop buy`
-* `/tokkulshop sell`
+* 30 min trip = maximum 30 quantity of 1 item.
 
-|                        |                  |                   |
-| ---------------------- | :--------------: | :---------------: |
-| **Item**               | **Bot Buys For** | **Bot Sells For** |
-| Tin ore                |         1        |         4         |
-| Copper ore             |         1        |         4         |
-| Iron ore               |         1        |         25        |
-| Silver ore             |         7        |        N/A        |
-| Coal                   |         4        |        N/A        |
-| Gold ore               |        15        |        N/A        |
-| Mithril ore            |        16        |        N/A        |
-| Adamantite ore         |        40        |        N/A        |
-| Runite ore             |        320       |        N/A        |
-| Uncut sapphire         |         2        |         37        |
-| Uncut emerald          |         5        |         75        |
-| Uncut ruby             |        10        |        N/A        |
-| Uncut diamond          |        20        |        N/A        |
-| Uncut dragonstone      |        100       |        N/A        |
-| Uncut onyx             |      20,000      |      300,000      |
-| Onyx bolt tips         |        100       |       1,500       |
-| Obsidian throwing ring |        25        |        375        |
-| Obsidian sword         |       4,000      |       60,000      |
-| Obsidian dagger        |       2,500      |       37,500      |
-| Obsidian maul          |       5,000      |       75,001      |
-| Obsidian staff         |       3,500      |       52,500      |
-| Obsidian mace          |       3,000      |       45,000      |
-| Obsidian cape          |       6,000      |       90,000      |
-| Obsidian shield        |       4,500      |       67,500      |
-| Obsidian helmet        |       5,632      |       84,480      |
-| Obsidian platebody     |       8,400      |      126,000      |
-| Obsidian platelegs     |       6,700      |      100,500      |
-| Fire rune              |         1        |         6         |
-| Water rune             |         1        |         6         |
-| Air rune               |         1        |         6         |
-| Earth rune             |         1        |         6         |
-| Mind rune              |         1        |         4         |
-| Body rune              |         1        |         4         |
-| Chaos rune             |         9        |        135        |
-| Death rune             |        18        |        270        |
+***
+
+## Buyables & Sellables
+
+In the table below, the **"Shop Buy"** is the price in which the shop _buys from you_. The **"Player Buy"** is the price in which the shop _sells to you_. The **"G"** means you have the Karamja gloves. You are able to both buy and sell items to this store using the following commands:
+
+* `/tokkulshop buy` - You are buying an item.
+* `/tokkulshop sell` - You are selling an item.
+
+<table><thead><tr><th width="222"></th><th width="119" align="center"></th><th width="139" align="center"></th><th width="122" align="center"></th><th align="center"></th><th data-hidden align="center"></th><th data-hidden align="center"></th></tr></thead><tbody><tr><td><strong>Item</strong></td><td align="center"><strong>Shop Buy</strong></td><td align="center"><strong>Shop buy (G)</strong></td><td align="center"><strong>Player Buy</strong></td><td align="center"><strong>Player Buy (G)</strong></td><td align="center"><strong>Buy Price</strong></td><td align="center"><strong>Sell Price</strong></td></tr><tr><td>Tin ore</td><td align="center">1</td><td align="center">1</td><td align="center">4</td><td align="center">3</td><td align="center">1</td><td align="center">4</td></tr><tr><td>Copper ore</td><td align="center">1</td><td align="center">1</td><td align="center">4</td><td align="center">3</td><td align="center">1</td><td align="center">4</td></tr><tr><td>Iron ore</td><td align="center">1</td><td align="center">3</td><td align="center">25</td><td align="center">22</td><td align="center">1</td><td align="center">25</td></tr><tr><td>Silver ore</td><td align="center">7</td><td align="center">15</td><td align="center">-</td><td align="center">-</td><td align="center">7</td><td align="center">-</td></tr><tr><td>Coal</td><td align="center">4</td><td align="center">9</td><td align="center">-</td><td align="center">-</td><td align="center">4</td><td align="center">-</td></tr><tr><td>Gold ore</td><td align="center">15</td><td align="center">34</td><td align="center">-</td><td align="center">-</td><td align="center">15</td><td align="center">-</td></tr><tr><td>Mithril ore</td><td align="center">16</td><td align="center">37</td><td align="center">-</td><td align="center">-</td><td align="center">16</td><td align="center">-</td></tr><tr><td>Adamantite ore</td><td align="center">40</td><td align="center">43</td><td align="center">-</td><td align="center">-</td><td align="center">40</td><td align="center">-</td></tr><tr><td>Runite ore</td><td align="center">320</td><td align="center">746</td><td align="center">-</td><td align="center">-</td><td align="center">320</td><td align="center">-</td></tr><tr><td>Uncut sapphire</td><td align="center">2</td><td align="center">5</td><td align="center">37</td><td align="center">32</td><td align="center">2</td><td align="center">37</td></tr><tr><td>Uncut emerald</td><td align="center">5</td><td align="center">11</td><td align="center">75</td><td align="center">65</td><td align="center">5</td><td align="center">75</td></tr><tr><td>Uncut ruby</td><td align="center">10</td><td align="center">23</td><td align="center">-</td><td align="center">-</td><td align="center">10</td><td align="center">-</td></tr><tr><td>Uncut diamond</td><td align="center">20</td><td align="center">46</td><td align="center">-</td><td align="center">-</td><td align="center">20</td><td align="center">-</td></tr><tr><td>Uncut dragonstone</td><td align="center">100</td><td align="center">233</td><td align="center">-</td><td align="center">-</td><td align="center">100</td><td align="center">-</td></tr><tr><td>Uncut onyx</td><td align="center">20,000</td><td align="center">46,662</td><td align="center">300,000</td><td align="center">260,000</td><td align="center">20,000</td><td align="center">300,000</td></tr><tr><td>Onyx bolt tips</td><td align="center">100</td><td align="center">233</td><td align="center">1,500</td><td align="center">1,300</td><td align="center">100</td><td align="center">1,500</td></tr><tr><td>Obsidian throwing ring</td><td align="center">25</td><td align="center">57</td><td align="center">375</td><td align="center">325</td><td align="center">25</td><td align="center">375</td></tr><tr><td>Obsidian sword</td><td align="center">4,000</td><td align="center">9,332</td><td align="center">60,000</td><td align="center">52,000</td><td align="center">4,000</td><td align="center">60,000</td></tr><tr><td>Obsidian dagger</td><td align="center">2,500</td><td align="center">5,827</td><td align="center">37,500</td><td align="center">32,500</td><td align="center">2,500</td><td align="center">37,500</td></tr><tr><td>Obsidian maul</td><td align="center">5,000</td><td align="center">11,665</td><td align="center">75,001</td><td align="center">65,001</td><td align="center">5,000</td><td align="center">75,001</td></tr><tr><td>Obsidian staff</td><td align="center">3,500</td><td align="center">8,166</td><td align="center">52,500</td><td align="center">45,500</td><td align="center">3,500</td><td align="center">52,500</td></tr><tr><td>Obsidian mace</td><td align="center">3,000</td><td align="center">7,000</td><td align="center">45,000</td><td align="center">39,000</td><td align="center">3,000</td><td align="center">45,000</td></tr><tr><td>Obsidian cape</td><td align="center">6,000</td><td align="center">14,000</td><td align="center">90,000</td><td align="center">78,000</td><td align="center">6,000</td><td align="center">90,000</td></tr><tr><td>Obsidian shield</td><td align="center">4,500</td><td align="center">10,500</td><td align="center">67,500</td><td align="center">58,500</td><td align="center">4,500</td><td align="center">67,500</td></tr><tr><td>Obsidian helmet<mark style="color:red;"><strong>*</strong></mark></td><td align="center">5,632</td><td align="center">13,141</td><td align="center">84,480</td><td align="center">73,216</td><td align="center">5,632</td><td align="center">84,480</td></tr><tr><td>Obsidian platebody<mark style="color:red;"><strong>*</strong></mark></td><td align="center">8,400</td><td align="center">19,600</td><td align="center">126,000</td><td align="center">109,200</td><td align="center">8,400</td><td align="center">126,000</td></tr><tr><td>Obsidian platelegs<mark style="color:red;"><strong>*</strong></mark></td><td align="center">6,700</td><td align="center">15,633</td><td align="center">100,500</td><td align="center">87,100</td><td align="center">6,700</td><td align="center">100,500</td></tr><tr><td>Fire rune</td><td align="center">0</td><td align="center">1</td><td align="center">6</td><td align="center">5</td><td align="center">0</td><td align="center">6</td></tr><tr><td>Water rune</td><td align="center">0</td><td align="center">1</td><td align="center">6</td><td align="center">5</td><td align="center">0</td><td align="center">6</td></tr><tr><td>Air rune</td><td align="center">0</td><td align="center">1</td><td align="center">6</td><td align="center">5</td><td align="center">0</td><td align="center">6</td></tr><tr><td>Earth rune</td><td align="center">0</td><td align="center">1</td><td align="center">6</td><td align="center">5</td><td align="center">0</td><td align="center">6</td></tr><tr><td>Mind rune</td><td align="center">1</td><td align="center">1</td><td align="center">4</td><td align="center">3</td><td align="center">1</td><td align="center">4</td></tr><tr><td>Body rune</td><td align="center">1</td><td align="center">1</td><td align="center">4</td><td align="center">3</td><td align="center">1</td><td align="center">4</td></tr><tr><td>Chaos rune</td><td align="center">9</td><td align="center">20</td><td align="center">135</td><td align="center">117</td><td align="center">9</td><td align="center">135</td></tr><tr><td>Death rune</td><td align="center">18</td><td align="center">42</td><td align="center">270</td><td align="center">234</td><td align="center">18</td><td align="center">270</td></tr></tbody></table>
+
+<mark style="color:red;">**\***</mark> - These items require at least 1kc at Jad to purchase.

@@ -2,6 +2,8 @@
 
 You can do temple trekking by using `/minigames temple_trek start` and then choosing a difficulty.
 
+***
+
 ## Requirements
 
 **All difficulties:** 30 QP
@@ -24,6 +26,8 @@ You can do temple trekking by using `/minigames temple_trek start` and then choo
 * Any melee attak stat: 30
 * All melee defence stats: 150
 
+***
+
 ## Boosts
 
 * Graceful: -15% penalty if not equipped
@@ -32,11 +36,15 @@ You can do temple trekking by using `/minigames temple_trek start` and then choo
 * Ivandis Flail: 10% **OR** Blisterwood Flail 15%
 * Salve amulet (e) 5% **OR** Salve amulet (ei) 5%
 
+***
+
 ## **Ivandis/Blisterwood Flail**
 
 1. `/craft`` `**`name:`**`Silver sickle`
 2. `/create`` `**`item:`**`Ivandis Flail` - Requires Silver sickle + cut emerald
 3. `/create`` `**`item:`**`Blisterwood Flail` - Requires Ivandis flail + cut ruby
+
+***
 
 ## Salve Amulet (e)
 
@@ -45,6 +53,8 @@ You can do temple trekking by using `/minigames temple_trek start` and then choo
 3. `/create`` `**`item:`**`Salve amulet (e)`
 
 Although the salve amulet (e) can be [imbued](soul-wars.md#imbueables), the imbued salve amulet (ei) still only provides the same 5% bonus as the unimbued version.
+
+***
 
 ## Rewards
 

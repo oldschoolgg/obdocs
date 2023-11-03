@@ -1,6 +1,6 @@
 # Barbarian Assault
 
-Challenge waves of penance monsters to unlock the rewards from Barbarian Assault. BA in the bot works a bit differently than BA in OSRS, as it is only soloable and the rest of your team members are essentially NPCs. There are no defined roles or role-specific honour levels, there aren't even specific waves. However, you do have a 25% chance to be selected as the fighter role, and when this happens, you will get a speed boost based on your melee gear (see below).
+Challenge waves of penance monsters to unlock the rewards from Barbarian Assault. BA in the bot works a bit differently than BA in OSRS, as it is only soloable and the rest of your team members are essentially NPCs. There are no defined roles or role-specific honour levels, there aren't even specific waves. However, you do have a 25% chance to be selected as the fighter role, and when this happens, you will get a speed boost based on your melee gear ([see below](barbarian-assault.md#bis-melee-gear)).
 
 To start a trip of BA, use the following command:
 

@@ -2,7 +2,10 @@
 
 The Gauntlet is a solo minigame which has some substantial requirements. When you start at both the normal and corrupted gauntlets, your chance of death within the minigame will be quite high. This can be reduced through minion learning (down to 6%).
 
-To begin a trip, use `/minigames gauntlet start`` `**`corrupted:`**`True` (the corrupted option may be left off if doing normal gauntlet).
+To begin a trip, use the following commands:
+
+* `/minigames gauntlet start`
+* `/minigames gauntlet start`` `**`corrupted:`**`True`
 
 ***
 

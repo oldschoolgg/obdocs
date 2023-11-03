@@ -6,17 +6,21 @@ To start a game, use `/minigames castle_wars start`
 
 You will receive 1-3 tickets per game played.
 
+{% hint style="info" %}
+It takes an average of around 444 games or around \~133 hours to complete the Castle wars CL.
+{% endhint %}
+
 ***
 
 ## Rewards
 
 You can buy all the same rewards in OSRS with the /`buy` command.
 
-E.g.  `/buy`` `**`name:`**` ``Red decorative body`
+* `/buy`` `**`name:`**` ``Red decorative body`
 
 It is possible to revert your reward items back into tickets with the `/create` command.
 
-E.g. `/create`` `**`item:`**`Revert red decorative body`
+* `/create`` `**`item:`**`Revert red decorative body`
 
 |                            |                  |
 | -------------------------- | :--------------: |

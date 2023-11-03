@@ -46,6 +46,9 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 
 ### Karamja Diary
 
+* **Easy**
+  * A \~13.3% increase when buying items from the Tokkul shop
+  * A \~133% increase in tokkul received when selling items to the Tokkul shop
 * **Medium**
   * While worn, increased Agility experience from redeeming Agility tickets
   * 10% additional Agility experience earned from all obstacles in the Brimhaven Agility Arena
@@ -59,7 +62,7 @@ You get a 10% boost to clue scrolls for having the achievement diary cape equipp
 * **Hard**
   * Obtain the Ash sanctifier for passive prayer xp during combat (half xp)
 * **Elite**
-  * 10% Additional runes granted during the crafting process of Blood runes
+  * 10% additional runes granted during the crafting process of Blood runes
   * Obtain the Ash sanctifier for passive prayer xp during combat (full xp)
 
 ### Lumbridge & Draynor Diary
