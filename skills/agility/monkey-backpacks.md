@@ -2,6 +2,10 @@
 
 When completing laps of the Ape Atoll agility course you can earn a [monkey backpack](https://oldschool.runescape.wiki/w/Ape\_Atoll\_Agility\_Course)! These are obtained automatically whenever you reach the lap count required for each backpack.
 
+{% hint style="warning" %}
+<mark style="color:orange;">**You cannot perform alchs while running the Ape Atoll course, due to your minion theoretically holding a greegree.**</mark>
+{% endhint %}
+
 | **Monkey** | **Required laps** | **Cumulative XP Gained**<mark style="color:red;">**\***</mark> |
 | ---------- | :---------------: | :------------------------------------------------------------: |
 | Karamjan   |        100        |                            58,000xp                            |

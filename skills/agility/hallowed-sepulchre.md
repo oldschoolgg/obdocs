@@ -81,16 +81,20 @@ The strange old lockpick provides boosts to several places in the bot; namely Ba
 
 ## Ring of Endurance
 
-The Ring of Endurance also provides boosts to several activities within the bot, both the uncharged and charged versions.
+The Ring of endurance also provides boosts to several activities within the bot. Some activities require a charged version, while others only require the uncharged version.
 
-To create the charged Ring of Endurance, use the following command:
+{% hint style="warning" %}
+<mark style="color:orange;">**Once the ring is charged, it CANNOT be reverted or traded!**</mark>
+{% endhint %}
+
+To create the charged Ring of endurance, use the following command:
 
 * `/create`` `**`item:`**`Ring of endurance`
   * Requires 125 Stamina potion(4)
-  * The charged ring cannot be uncharged or traded
 
 The boosts apply to the following activities:
 
-* Runecrafting trips - 1% _(uncharged or charged)_
-* Drift net fishing - 6% _(uncharged or charged)_
-* Farming trips - 10% _(**only** charged version)_
+* Runecrafting trips - 1% _(**must be charged**)_ <mark style="color:blue;">**(works from bank)**</mark>
+* Underwater agility - 6% _(uncharged or charged)_ <mark style="color:blue;">**(works from bank)**</mark>
+* Drift net fishing - 6% _(uncharged or charged)_ <mark style="color:blue;">**(works from bank)**</mark>
+* Farming trips - 10% _(**must be charged**)_ <mark style="color:blue;">**(works from bank)**</mark>

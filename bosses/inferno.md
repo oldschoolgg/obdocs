@@ -16,6 +16,8 @@ There is also a 1/1,000 chance at receiving the following message if you have ma
 * _"You made it to TzKal-Zuk X times, but never killed him, maybe just buy the cape JalYt?"_
 {% endhint %}
 
+***
+
 ## Commands
 
 To begin a trip into the inferno, use:
@@ -30,6 +32,8 @@ To gamble a cape for a chance at the Jal-nib-rek pet, use:
 
 * `/gamble cape`` `**`type:`**` ``infernal`
 
+***
+
 ## Requirements
 
 You must have sacrificed 1 Fire cape in order to access the Inferno - `/sacrifice 1 fire cape`     &#x20;
@@ -38,7 +42,7 @@ You must have sacrificed 1 Fire cape in order to access the Inferno - `/sacrific
 
 8 Saradomin brews, 12 Super restores, 1 Stamina potion, and 1 Ranging potion per attempt     &#x20;
 
-Rune pouch (LMS or Slayer shop) **OR** Divine rune pouch
+Rune pouch **OR** Divine rune pouch
 
 \>100 Magic attack     &#x20;
 
@@ -51,6 +55,8 @@ Toxic blowpipe with Adamant darts or better (uses 300 darts/hour)  &#x20;
 Twisted bow or Armadyl crossbow with ammo based on the weapon you're using (arrows for Twisted bow, bolts for ACB) (uses 150 ammo/hour)                            &#x20;
 
 Runes for Ice barrage + Blood barrage (200 casts of blood barrage/hour and 100 casts of ice                                   barrage/hour. Rune costs are reduced by having a Kodai wand equipped in your mage setup.)                                                                                      &#x20;
+
+***
 
 ## Boosts
 
@@ -85,9 +91,11 @@ Equipping a Justiciar faceguard in range (-5%)                     \
 
 The number of attempts you've done, and the number of times you've fought Zuk greatly affect speed and death chance.
 
+***
+
 ## Gear
 
-![](<../.gitbook/assets/Inferno Bis Range.png>)
+<figure><img src="../.gitbook/assets/Inferno_BiS_Range_Gear_Nov2023.png" alt=""><figcaption></figcaption></figure>
 
 ![](<../.gitbook/assets/Inferno Bis Mage.png>)
 

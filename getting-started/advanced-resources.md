@@ -1,5 +1,9 @@
 # Advanced Resources
 
+{% hint style="danger" %}
+<mark style="color:red;">**THIS SPREADSHEET HAS BEEN DELETED.**</mark>
+{% endhint %}
+
 Additional resources for players doing long term planning
 
 ### Banked Experience and Ironman EHP

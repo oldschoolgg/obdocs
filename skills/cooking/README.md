@@ -1,10 +1,12 @@
 # Cooking
 
-You can train Cooking using /`cook`` `**`name:`**`<food>`` `**`quantity:`**`<quantity>`, for example /`cook`` `**`name:`**`Bass`` `**`quantity:`**`50`
+You can train Cooking using `/cook`` `**`name:`**`<food>`` `**`quantity:`**`<quantity>`
+
+* `/cook`` `**`name:`**`Bass`` `**`quantity:`**`50`
 
 ## Boosts
 
-The following 3 things will allow for increased cooking rates due to less burnt food. They can be combined. At 92 cooking with all boosts, it is possible to achieve 912k xp/hr while cooking Karambwans.
+The first 3 things listed below will allow for increased cooking rates due to less burnt food. They can be combined. Additionally, at 92 cooking with all boosts, it is possible to achieve 912k xp/hr while cooking Karambwans.
 
 * Cooking gauntlets (requires 25qp and 1m gp to buy)
 * Hosidius Range (requires 100% Hosidius favour)
@@ -17,8 +19,8 @@ The following 3 things will allow for increased cooking rates due to less burnt 
 
 In the table below, the **'Stop Burning'** section lists the levels in which food is prevented for being burned at certain levels. In order from left to right, they are read as:
 
-* <mark style="color:blue;">Blue number</mark> - No boosts
-* <mark style="color:green;">Green number</mark> - Only Cooking gauntlets
+* <mark style="color:blue;">Blue number</mark> - No boosts applied
+* <mark style="color:green;">Green number</mark> - Only equipped Cooking gauntlets
 * The next 4 white numbers
   * No Gauntlets + 100% Hosidius favour
   * No Gauntlets + Elite Kourend diary

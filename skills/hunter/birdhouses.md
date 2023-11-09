@@ -2,7 +2,15 @@
 
 Birdhouses are a great way to collect birds nests and various seeds and rings. It is also the only method to collect bird's eggs for the chance at the evil chicken outfit pieces. All birdhouses take the same amount of time (50 minutes).
 
-**QUICK START -** When tagging the bot `@Old School Bot#7450` you are offered a one-click button to run the same previous birdhouse trip. This option will only appear if your birdhouses are ready to be collected and you have enough logs of the same type.
+{% hint style="info" %}
+If you are tier 1 patron or higher (and your BH's are ready), you will see a **'Birdhouse Run'** button at the end of your trips. This can be enabled/disabled using:
+
+`/config user toggle`` `**`name:`**`Disable Birdhouse Run Button`
+{% endhint %}
+
+***
+
+## Commands
 
 If you have no birdhouses in place, you can set them up using:
 

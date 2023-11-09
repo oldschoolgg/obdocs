@@ -7,13 +7,9 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 `/mine`` `**`name:`**`Volcanic ash`\
 `/create`` `**`item:`**`Ultracompost`
 
-
-
 ## Optimal route to level 99
 
-
-
-`/farming check_patches` (This can also be checked through `+m`)
+`/farming check_patches`
 
 `/farming default_compost`` `**`compost:`**`Ultracompost`
 
@@ -27,11 +23,11 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 `/farming plant`` `**`plant_name:`**`Tomato` (until level 15)
 
-
-
 **Now farm tree seeds, Hardwood seeds, fruit tree seeds and Special seeds until 99**
 
-**`Tree seeds`**
+
+
+**Tree seeds**
 
 `/farming plant`` `**`plant_name:`**`Oak tree` (until level 30)&#x20;
 
@@ -41,19 +37,19 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 `/farming plant`` `**`plant_name:`**`Yew tree` (until level 75)&#x20;
 
-`/farming plant`` `**`plant_name:`**`Magic tree` (Repeat to 99)&#x20;
+`/farming plant`` `**`plant_name:`**`Magic tree` (Repeat to 99)
 
 
 
-**`Hardwood seeds`**
+**Hardwood seeds**
 
 `/farming plant`` `**`plant_name:`**`Teak tree` (Level 35-55)&#x20;
 
-`/farming plant`` `**`plant_name:`**`Mahogany tree` (Repeat to 99)&#x20;
+`/farming plant`` `**`plant_name:`**`Mahogany tree` (Repeat to 99)
 
 
 
-**`Fruit tree seeds`**
+**Fruit tree seeds**
 
 `/farming plant`` `**`plant_name:`**`Pineapple tree` (Level 51-57)&#x20;
 
@@ -65,7 +61,7 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 
 
-**`Special seeds`**
+**Special seeds**
 
 `/farming plant`` `**`plant_name:`**`Calquat tree` (Level 72-99)&#x20;
 
@@ -75,9 +71,7 @@ Ultra compost can be obtained by mining volcanic ash and combining with super co
 
 `/farming plant`` `**`plant_name:`**`Redwood tree` (Level 90-99)&#x20;
 
-
-
-**Materials Needed:**
+### **Materials Needed:**
 
 Seeds vary depending on how active one farms, these numbers are just a guideline (The less active farming, the better xp/hour, but require more slower growing seeds)&#x20;
 

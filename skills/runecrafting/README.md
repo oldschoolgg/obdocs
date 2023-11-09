@@ -8,8 +8,9 @@ There are several boosts available which apply to all runes except blood and sou
 
 * 5% for 60+ Agility **OR** 10% for 90+ Agility
 * 10% for Graceful (equipped in any setup)
-* 1% for Ring of endurance <mark style="color:red;">**(must be charged, works from bank)**</mark>
+* 1% for [Ring of endurance](../agility/hallowed-sepulchre.md#ring-of-endurance) <mark style="color:blue;">**(works from bank**</mark>** **<mark style="color:red;">**but must be charged)**</mark>
 * 3% for Runecrafting cape
+* 3% for Ring of the elements <mark style="color:red;">**(Combination runes only)**</mark>
 
 ## Pouches
 
