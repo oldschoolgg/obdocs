@@ -1,9 +1,9 @@
 # Forestry
 
-This minigame is conducted passively while completing almost any woodcutting trip. Your minion will collect Anima-infused bark on any given woodcutting trip, which can be spent at the Forestry shop. Your minion has a 1/20 chance every minute of your woodcutting trip to obtain between 500-1,000 Anima-infused bark. It is around 2,150 bark per hour.
+This minigame is conducted passively while completing _almost any_ woodcutting trip. Your minion will collect Anima-infused bark on any given woodcutting trip, which can be spent at the Forestry shop. Your minion has a 1/20 chance every minute of your woodcutting trip to obtain between 500-1,000 Anima-infused bark. It is around 2,150 bark per hour.
 
 {% hint style="warning" %}
-<mark style="color:orange;">**You cannot get Animi-infused bark from Redwoods!**</mark>
+<mark style="color:orange;">**You cannot get Animi-infused bark from Regular logs or Redwoods!**</mark>
 {% endhint %}
 
 ## Requirements

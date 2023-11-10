@@ -60,9 +60,9 @@ Runes for Ice barrage + Blood barrage (200 casts of blood barrage/hour and 100 c
 
 ## Boosts
 
-Boosts for the Inferno are split into two categories: speed and death chance. Speed boosts          decrease the time required to complete the Inferno, and death chance boosts decrease your odds of dying before or during the Zuk fight.
+Boosts for the Inferno are split into two categories: speed and death chance. Speed boosts decrease the time required to complete the Inferno, and death chance boosts decrease your odds of dying before or during the Zuk fight.
 
-Unlike most other bosses, required items and boost items must be **equipped** in the relevant setups. The Toxic blowpipe is an exception from this rule, as it will work from your bank.
+Unlike most other bosses, required items and boost items **must be equipped** in the relevant setups. The Toxic blowpipe is an exception from this rule, as it will work from your bank.
 
 Boosts that are listed as negative (e.g. -4.5% for Adamant darts/-4% for Ring of suffering (i) are **good**. The - means they are either reducing the time required or your death chance. Positive numbers do the opposite, increasing your time or increasing your death chance.
 
@@ -76,7 +76,7 @@ Unlocking Rigour and/or Augury (unlocked with `/minion use dexterous/arcane pray
 
 Being on task with an Imbued slayer helm/Black mask (requires a Tzhaar task and 1 Inferno KC, -9%)              &#x20;
 
-Equipping an Armadyl chestplate & chainskirt in your range setup (-3%)      &#x20;
+Equipping a Masori body (f) & chaps (f) in your range setup (-5%)      &#x20;
 
 Equipping Ancestral robe top & bottom in your mage setup (-4%)                      &#x20;
 
