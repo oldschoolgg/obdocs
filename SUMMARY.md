@@ -15,6 +15,7 @@
 * [Combat Training](getting-started/combat-skills.md)
 * [Bank Filters](getting-started/bank-filters.md)
 * [Leagues](getting-started/leagues.md)
+* [Bot Firsts](getting-started/bot-firsts.md)
 
 ## Bosses
 
