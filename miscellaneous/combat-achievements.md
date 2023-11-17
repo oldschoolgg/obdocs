@@ -137,72 +137,72 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 <mark style="color:green;">**Hard tasks are worth 3 points each. There are a total of 63 hard tasks.**</mark>
 {% endhint %}
 
-|                              |                            |                                                                                       |
-| ---------------------------- | -------------------------- | ------------------------------------------------------------------------------------- |
-| **Monster**                  | **Task Name**              | **How To Unlock**                                                                     |
-| Abyssal Sire                 | Abyssal Adept              | Kill 20 Abyssal Sire                                                                  |
-| Abyssal Sire                 | Don't Whip Me              | 1/10 chance to be given per kill                                                      |
-| Abyssal Sire                 | Don't Stop Moving          | 1/10 chance to be given per kill                                                      |
-| Abyssal Sire                 | They Grow Up Too Fast      | 1/10 chance to be given per kill                                                      |
-| Barrows                      | Faithless Crypt Run        | 1/2 chance to be given per kill                                                       |
-| Barrows                      | Just Like That             | 1/5 chance to be given per kill                                                       |
-| Callisto                     | Callisto Adept             | Kill 10 Callisto                                                                      |
-| Chaos Elemental              | Chaos Elemental Adept      | Kill 10 Chaos Elemental                                                               |
-| Chaos Elemental              | The Flincher               | 1/20 chance to be given per kill                                                      |
-| Chaos Elemental              | Hoarder                    | 1/10 chance to be given per kill                                                      |
-| Chaos Fanatic                | Praying to the Gods        | 1/10 chance to be given per kill                                                      |
-| Chaos Fanatic                | Chaos Fanatic Adept        | Kill 25 Chaos Fanatic                                                                 |
-| Commander Zilyana            | Commander Showdown         | 1/5 chance to be given per kill                                                       |
-| Commander Zilyana            | Commander Zilyana Adept    | Kill 50 Commander Zilyana                                                             |
-| Crazy Archaeologist          | Crazy Archaeologist Adept  | Kill 25 Crazy Archaeologist                                                           |
-| Dagannoth Rex                | Dagannoth Rex Adept        | Kill 25 Dagannoth Rex                                                                 |
-| Dagannoth Prime              | Dagannoth Prime Adept      | Kill 25 Dagannoth Prime                                                               |
-| Dagannoth Supreme            | Dagannoth Supreme Adept    | Kill 25 Dagannoth Supreme                                                             |
-| General Graardor             | General Graardor Adept     | Kill 50 General Graardor                                                              |
-| General Graardor             | General Showdown           | 1/5 chance to be given per kill                                                       |
-| General Graardor             | Ourg Freezer               | 1/5 chance to be given per kill                                                       |
-| General Graardor             | Why Are You Running?       | 1/20 chance to be given per kill                                                      |
-| Giant Mole                   | Whack-a-Mole               | 1/20 chance to be given per kill                                                      |
-| Grotesque Guardians          | Static Awareness           | 1/10 chance to be given per kill                                                      |
-| Grotesque Guardians          | Prison Break               | 1/10 chance to be given per kill                                                      |
-| Grotesque Guardians          | Don't Look at the Eclipse  | 1/5 chance to be given per kill                                                       |
-| Grotesque Guardians          | Granite Footwork           | 1/44 chance to be given per kill                                                      |
-| Grotesque Guardians          | Heal No More               | 1/10 chance to be given per kill                                                      |
-| Grotesque Guardians          | Grotesque Guardians Adept  | Kill 25 Grotesque Guardians                                                           |
-| Hespori                      | Hespori Adept              | Kill 5 Hespori                                                                        |
-| Hespori                      | Hesporisn't                | 1/2 chance to be given per kill                                                       |
-| Hespori                      | Weed Whacker               | 1/6 chance to be given per kill                                                       |
-| K'ril Tsutsaroth             | Demonic Showdown           | 1/10 chance to be given per kill                                                      |
-| K'ril Tsutsaroth             | Demonbane Weaponry II      | Kill 1 Kril with a Silverlight, Darklight, or Arclight equipped                       |
-| K'ril Tsutsaroth             | K'ril Tsutsaroth Adept     | Kill 50 K'ril Tsutsaroth                                                              |
-| K'ril Tsutsaroth             | Yarr No More               | 1/10 chance to be given per kill                                                      |
-| Kalphite Queen               | Kalphite Queen Adept       | Kill 25 Kalphite Queen                                                                |
-| Kalphite Queen               | Chitin Penetrator          | 1/5 chance to be given per kill                                                       |
-| King Black Dragon            | Who Is the King Now?       | Kill 10 KBD                                                                           |
-| Kraken                       | Unnecessary Optimization   | 1/5 chance to be given per kill                                                       |
-| Kraken                       | Krakan't Hurt Me           | Kill 25 Kraken                                                                        |
-| Kraken                       | Kraken Adept               | Kill 20 Kraken                                                                        |
-| Kree'arra                    | Airborne Showdown          | 1/10 chance to be given per kill                                                      |
-| Kree'arra                    | Kree'arra Adept            | Kill 50 Kree'arra                                                                     |
-| Phantom Muspah               | Phantom Muspah Adept       | Kill 1 Phantom Muspah                                                                 |
-| Phantom Muspah               | Inspect Repellent          | 1/10 chance to be given per kill                                                      |
-| Sarachnis                    | Ready to Pounce            | 1/10 chance to be given per kill                                                      |
-| Scorpia                      | Guardians No More          | 1/10 chance to be given per kill                                                      |
-| Scorpia                      | I Can't Reach That         | 1/30 chance to be given per kill                                                      |
-| Scorpia                      | Scorpia Adept              | Kill 10 Scorpia                                                                       |
-| Skotizo                      | Skotizo Adept              | Kill 5 Skotizo                                                                        |
-| Tempoross                    | Dress Like You Mean It     | Kill Tempoross while having the Angler outfit equipped (Spirit angler does NOT count) |
-| Tempoross                    | Why Cook?                  | 1/30 chance to be given per kill                                                      |
-| The Nightmare                | Nightmare Adept            | Kill 1 Nightmare                                                                      |
-| Theatre of Blood: Entry Mode | Theatre of Blood: SM Adept | Complete 1 ToB (Any mode)                                                             |
-| Tombs of Amascut: Entry Mode | Confident Raider           | Complete 1 ToA (Any invocation)                                                       |
-| Tombs of Amascut: Entry Mode | Novice Tomb Explorer       | Complete 1 ToA (Any invocation)                                                       |
-| Tombs of Amascut             | Movin' on up               | Complete 1 ToA (Any invocation above 50)                                              |
-| Tombs of Amascut: Entry Mode | Novice Tomb Looter         | Complete 25 ToA (Any invocation)                                                      |
-| Venenatis                    | Venenatis Adept            | Kill 10 Venenatis                                                                     |
-| Vet'ion                      | Vet'ion Adept              | Kill 10 Vet'ion                                                                       |
-| Wintertodt                   | Why Fletch?                | 1/30 chance to be given per kill                                                      |
-| Zulrah                       | Zulrah Adept               | Kill 25 Zulrah                                                                        |
+|                              |                            |                                                                                               |
+| ---------------------------- | -------------------------- | --------------------------------------------------------------------------------------------- |
+| **Monster**                  | **Task Name**              | **How To Unlock**                                                                             |
+| Abyssal Sire                 | Abyssal Adept              | Kill 20 Abyssal Sire                                                                          |
+| Abyssal Sire                 | Don't Whip Me              | 1/10 chance to be given per kill                                                              |
+| Abyssal Sire                 | Don't Stop Moving          | 1/10 chance to be given per kill                                                              |
+| Abyssal Sire                 | They Grow Up Too Fast      | 1/10 chance to be given per kill                                                              |
+| Barrows                      | Faithless Crypt Run        | 1/2 chance to be given per kill                                                               |
+| Barrows                      | Just Like That             | 1/5 chance to be given per kill                                                               |
+| Callisto                     | Callisto Adept             | Kill 10 Callisto                                                                              |
+| Chaos Elemental              | Chaos Elemental Adept      | Kill 10 Chaos Elemental                                                                       |
+| Chaos Elemental              | The Flincher               | 1/20 chance to be given per kill                                                              |
+| Chaos Elemental              | Hoarder                    | 1/10 chance to be given per kill                                                              |
+| Chaos Fanatic                | Praying to the Gods        | 1/10 chance to be given per kill                                                              |
+| Chaos Fanatic                | Chaos Fanatic Adept        | Kill 25 Chaos Fanatic                                                                         |
+| Commander Zilyana            | Commander Showdown         | 1/5 chance to be given per kill                                                               |
+| Commander Zilyana            | Commander Zilyana Adept    | Kill 50 Commander Zilyana                                                                     |
+| Crazy Archaeologist          | Crazy Archaeologist Adept  | Kill 25 Crazy Archaeologist                                                                   |
+| Dagannoth Rex                | Dagannoth Rex Adept        | Kill 25 Dagannoth Rex                                                                         |
+| Dagannoth Prime              | Dagannoth Prime Adept      | Kill 25 Dagannoth Prime                                                                       |
+| Dagannoth Supreme            | Dagannoth Supreme Adept    | Kill 25 Dagannoth Supreme                                                                     |
+| General Graardor             | General Graardor Adept     | Kill 50 General Graardor                                                                      |
+| General Graardor             | General Showdown           | 1/5 chance to be given per kill                                                               |
+| General Graardor             | Ourg Freezer               | 1/5 chance to be given per kill                                                               |
+| General Graardor             | Why Are You Running?       | 1/20 chance to be given per kill                                                              |
+| Giant Mole                   | Whack-a-Mole               | 1/20 chance to be given per kill                                                              |
+| Grotesque Guardians          | Static Awareness           | 1/10 chance to be given per kill                                                              |
+| Grotesque Guardians          | Prison Break               | 1/10 chance to be given per kill                                                              |
+| Grotesque Guardians          | Don't Look at the Eclipse  | 1/5 chance to be given per kill                                                               |
+| Grotesque Guardians          | Granite Footwork           | 1/44 chance to be given per kill                                                              |
+| Grotesque Guardians          | Heal No More               | 1/10 chance to be given per kill                                                              |
+| Grotesque Guardians          | Grotesque Guardians Adept  | Kill 25 Grotesque Guardians                                                                   |
+| Hespori                      | Hespori Adept              | Kill 5 Hespori                                                                                |
+| Hespori                      | Hesporisn't                | 1/2 chance to be given per kill                                                               |
+| Hespori                      | Weed Whacker               | 1/6 chance to be given per kill                                                               |
+| K'ril Tsutsaroth             | Demonic Showdown           | 1/10 chance to be given per kill                                                              |
+| K'ril Tsutsaroth             | Demonbane Weaponry II      | Kill 1 Kril with a Silverlight, Darklight, or Arclight equipped                               |
+| K'ril Tsutsaroth             | K'ril Tsutsaroth Adept     | Kill 50 K'ril Tsutsaroth                                                                      |
+| K'ril Tsutsaroth             | Yarr No More               | 1/10 chance to be given per kill                                                              |
+| Kalphite Queen               | Kalphite Queen Adept       | Kill 25 Kalphite Queen                                                                        |
+| Kalphite Queen               | Chitin Penetrator          | 1/5 chance to be given per kill                                                               |
+| King Black Dragon            | Who Is the King Now?       | Kill 10 KBD                                                                                   |
+| Kraken                       | Unnecessary Optimization   | 1/5 chance to be given per kill                                                               |
+| Kraken                       | Krakan't Hurt Me           | Kill 25 Kraken                                                                                |
+| Kraken                       | Kraken Adept               | Kill 20 Kraken                                                                                |
+| Kree'arra                    | Airborne Showdown          | 1/10 chance to be given per kill                                                              |
+| Kree'arra                    | Kree'arra Adept            | Kill 50 Kree'arra                                                                             |
+| Phantom Muspah               | Phantom Muspah Adept       | Kill 1 Phantom Muspah                                                                         |
+| Phantom Muspah               | Inspect Repellent          | 1/10 chance to be given per kill                                                              |
+| Sarachnis                    | Ready to Pounce            | 1/10 chance to be given per kill                                                              |
+| Scorpia                      | Guardians No More          | 1/10 chance to be given per kill                                                              |
+| Scorpia                      | I Can't Reach That         | 1/30 chance to be given per kill                                                              |
+| Scorpia                      | Scorpia Adept              | Kill 10 Scorpia                                                                               |
+| Skotizo                      | Skotizo Adept              | Kill 5 Skotizo                                                                                |
+| Tempoross                    | Dress Like You Mean It     | Subdue Tempoross while wearing any variation of the angler outfit (Spirit or Standard Angler) |
+| Tempoross                    | Why Cook?                  | 1/30 chance to be given per kill                                                              |
+| The Nightmare                | Nightmare Adept            | Kill 1 Nightmare                                                                              |
+| Theatre of Blood: Entry Mode | Theatre of Blood: SM Adept | Complete 1 ToB (Any mode)                                                                     |
+| Tombs of Amascut: Entry Mode | Confident Raider           | Complete 1 ToA (Any invocation)                                                               |
+| Tombs of Amascut: Entry Mode | Novice Tomb Explorer       | Complete 1 ToA (Any invocation)                                                               |
+| Tombs of Amascut             | Movin' on up               | Complete 1 ToA (Any invocation above 50)                                                      |
+| Tombs of Amascut: Entry Mode | Novice Tomb Looter         | Complete 25 ToA (Any invocation)                                                              |
+| Venenatis                    | Venenatis Adept            | Kill 10 Venenatis                                                                             |
+| Vet'ion                      | Vet'ion Adept              | Kill 10 Vet'ion                                                                               |
+| Wintertodt                   | Why Fletch?                | 1/30 chance to be given per kill                                                              |
+| Zulrah                       | Zulrah Adept               | Kill 25 Zulrah                                                                                |
 {% endtab %}
 
 {% tab title="Elite" %}
