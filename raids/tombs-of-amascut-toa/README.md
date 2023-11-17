@@ -68,7 +68,7 @@ Higher levels will take longer but offer better chances at uniques.&#x20;
 
 ### Masori Armour <img src="../../.gitbook/assets/Masori_mask_(f).png" alt="" data-size="line"><img src="../../.gitbook/assets/Masori_body_(f).png" alt="" data-size="line">![](../../.gitbook/assets/Masori\_chaps\_\(f\).png)
 
-* Can be fortified with Armadylean plates to create the fortified version.
+* Can be combined with Armadylean plates to create the fortified version.
 * Requires 90 crafting to create and 80 range + 30 defence to equip.
 * `/create`` `**`item:`**` ``Revert Armadyl [piece]`` `**`quantity:`**` ``1`
 * `/create`` `**`item:`**` ``Masori [piece] (f)`` `**`quantity:`**` ``1`

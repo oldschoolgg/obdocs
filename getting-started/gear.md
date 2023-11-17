@@ -84,4 +84,4 @@ This gear is the best food reduction equipment in the game. This will save the h
 
 ### Wildy Setup
 
-The wilderness setup is currently only used at [revenants](../bosses/wilderness/revenants.md#things-to-know-before-starting) and [wilderness hunter](../skills/hunter/#wilderness-hunting). Items equipped in this setup can be **permanently lost** if you are killed while doing activities that use this setup (hunter activities ONLY risk top and bottom, while revs risks the entire setup). Read more about death chance and mechanics on their respective pages.
+The wilderness setup is currently used at the Wilderness Bosses, Revenants and doing Wilderness Hunter and eventually Wilderness Slayer.  Items equipped in this setup can be **permanently lost** if you are killed while doing activities that use this setup (hunter activities ONLY risk top and bottom, while revs risks the entire setup). Read more about death chance and mechanics on their respective pages.
