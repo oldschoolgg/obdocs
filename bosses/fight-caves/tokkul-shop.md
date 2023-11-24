@@ -1,10 +1,10 @@
 # Tokkul Shop
 
-You can spend Tokkul you have obtained through Fight caves, Inferno, and general TzHaar PvM at this store, which sells obsidian equipment, ores, and gems, including the uncut onyx.
+You can spend tokkul you have obtained through Fight Caves, Inferno, and general TzHaar PvM at this store, which sells obsidian equipment, ores, and gems, including the uncut onyx.
 
-Completion of the Karamja easy diary will grant a \~13.3% discount on purchasing items, and a \~133% increase in tokkul received when selling items to the shop. The gloves to NOT need to be equipped.
+Completion of the Karamja easy diary will grant a \~13.3% discount on purchasing items, and a \~133% increase in tokkul received when selling items to the shop. The gloves do **not** need to be equipped.
 
-The tokkul shop is heavily restricted when buying items. Essentially, you can only buy 1 of a particular item per minute, meaning you're maximum trip length in minutes, is the maximum number of an item you can buy in 1 trip.
+The tokkul shop is heavily restricted when buying items. Essentially, you can only buy 1 of a particular item per minute, meaning your maximum trip length in minutes, is the maximum number of an item you can buy in 1 trip.
 
 * 30 min trip = maximum 30 quantity of 1 item.
 
