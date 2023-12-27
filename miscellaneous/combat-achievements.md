@@ -161,7 +161,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | General Graardor             | General Graardor Adept     | Kill 50 General Graardor                                                                      |
 | General Graardor             | General Showdown           | 1/5 chance to be given per kill                                                               |
 | General Graardor             | Ourg Freezer               | 1/5 chance to be given per kill                                                               |
-| General Graardor             | Why Are You Running?       | 1/20 chance to be given per kill                                                              |
+| Giant Mole                   | Why Are You Running?       | 1/20 chance to be given per kill                                                              |
 | Giant Mole                   | Whack-a-Mole               | 1/20 chance to be given per kill                                                              |
 | Grotesque Guardians          | Static Awareness           | 1/10 chance to be given per kill                                                              |
 | Grotesque Guardians          | Prison Break               | 1/10 chance to be given per kill                                                              |
@@ -185,7 +185,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Kree'arra                    | Airborne Showdown          | 1/10 chance to be given per kill                                                              |
 | Kree'arra                    | Kree'arra Adept            | Kill 50 Kree'arra                                                                             |
 | Phantom Muspah               | Phantom Muspah Adept       | Kill 1 Phantom Muspah                                                                         |
-| Phantom Muspah               | Inspect Repellent          | 1/10 chance to be given per kill                                                              |
+| Sarachnis                    | Inspect Repellent          | 1/10 chance to be given per kill                                                              |
 | Sarachnis                    | Ready to Pounce            | 1/10 chance to be given per kill                                                              |
 | Scorpia                      | Guardians No More          | 1/10 chance to be given per kill                                                              |
 | Scorpia                      | I Can't Reach That         | 1/30 chance to be given per kill                                                              |
@@ -412,7 +412,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Phosani's Nightmare               | I Would Simply React                                                         | 1/22 chance to be given per kill                                                                 |
 | Phosani's Nightmare               | Crush Hour                                                                   | 1/33 chance to be given per kill                                                                 |
 | Phosani's Nightmare               | Dreamland Express                                                            | 1/33 chance to be given per kill                                                                 |
-| Skotizo                           | Precise Positioning                                                          | Kill Skotizo while having a black or red chinchompa equipped                                     |
+| Skotizo                           | Precise Positioning                                                          | Kill Skotizo while having a black or red chinchompa equipped in any setup                        |
 | The Nightmare                     | Perfect Nightmare                                                            | 1/33 chance to be given per kill                                                                 |
 | The Nightmare                     | Nightmare (5-Scale) Speed-Chaser                                             | 1/33 chance to be given per kill                                                                 |
 | The Nightmare                     | Nightmare Master                                                             | Kill 50 Nightmare                                                                                |

@@ -6,7 +6,7 @@ description: Nightmare of Ashihama
 
 ## Overview
 
-You can kill The Nightmare to receive the inquisitor's armour set, the inquisitor's mace, the nightmare staff, and the 3 orbs that can be combined with the nightmare staff. (harmonised orb, eldritch orb, & volatile orb).
+You can kill The Nightmare to receive the inquisitor's armour set, the inquisitor's mace, the nightmare staff, and the 3 orbs that can be combined with the nightmare staff (harmonised orb, eldritch orb, & volatile orb).
 
 To start a solo Nightmare trip, use:
 
@@ -17,6 +17,8 @@ To start a mass Nightmare trip, use:
 * `/k`` `**`name:`**` ``Mass nightmare`
 
 While killing The Nightmare, your minion has a chance to die. This chance is affected by your kc and gear. Your chance of death has a maximum of 90%, and a minimum of 2%.
+
+***
 
 ## Boosts and Penalties
 
@@ -35,9 +37,9 @@ There are certain boosts and penalties given based on specific stats and gear. T
 * Less than 65 crush attack - 5% speed penalty
   * Essentially, any weapon weaker then a Zamorakian hasta will incur this penalty.
 
-**NOTE:** In masses, your damage output will be halved if you have lower than 65 crush attack.
+<mark style="color:red;">**NOTE:**</mark> In masses, your damage output will be halved if you have lower than 65 crush attack.
 
-**NOTE:** In masses, your damage output will be doubled if using an inquisitors mace.
+<mark style="color:red;">**NOTE:**</mark> In masses, your damage output will be doubled if using an inquisitors mace.
 
 ### Melee Strength Bonus
 
@@ -54,7 +56,9 @@ The maximum melee strength bonus is 204. Anything above 123 will not incur these
 * **Masses**
   * 0.5% boost per piece (3% boost if all 4 items are equipped)
 
-**NOTE:** Having an Elysian Spirit Shield equipped in your melee setup will also reduce food usage by 17.5%, however, this is outweighed by the food reduction of using an elder maul or a dragon defender.
+<mark style="color:red;">**NOTE:**</mark> Having an Elysian Spirit Shield equipped in your melee setup will also reduce food usage by 17.5%. However, this is outweighed by the food reduction of using an elder maul or a dragon defender.
+
+***
 
 ## Gear Setups
 
@@ -64,8 +68,4 @@ The maximum melee strength bonus is 204. Anything above 123 will not incur these
 
 </div>
 
-<div align="center">
-
-<img src="../../.gitbook/assets/Nm_melee_bis.png" alt="BIS setup with full inquisitor&#x27;s.">
-
-</div>
+<figure><img src="../../.gitbook/assets/Nightmare_BiS_Gear_Jan2024.png" alt=""><figcaption><p>BIS setup with full inquisitor's.</p></figcaption></figure>

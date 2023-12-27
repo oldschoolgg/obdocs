@@ -20,6 +20,10 @@ To check to see if your birdhouses are ready, use:
 
 * `/activities birdhouses`` `**`action:`**`Check Birdhouses`
 
+To favourite a specific seed to use on your birdhouse runs, use:
+
+* `/config user favorite_bh_seeds`
+
 ***
 
 ## Boosts

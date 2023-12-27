@@ -119,6 +119,7 @@
 
 * [Big Chompy Bird Hunting](minigames/big-chompy-bird-hunting.md)
 * [Barbarian Assault](minigames/barbarian-assault.md)
+* [Camdozaal](minigames/camdozaal.md)
 * [Castle Wars](minigames/castle-wars.md)
 * [Creature Creation](minigames/creature-creation.md)
 * [Gauntlet](minigames/gauntlet.md)

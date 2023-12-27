@@ -7,6 +7,8 @@ While unique items are rarer from Phosani's Nightmare than they are from the reg
 
 To kill Phosani's Nightmare, use `/k`` `**`name:`**` ``Phosani's Nightmare`
 
+***
+
 ## Requirements
 
 * _Phosani's Nightmare requires at least 50kc at normal Nightmare._
@@ -23,24 +25,32 @@ To kill Phosani's Nightmare, use `/k`` `**`name:`**` ``Phosani's Nightmare`
   * 1 Sanfew serum(4)
   * 1 Super combat potion(4) - Only uses 2-doses per kill
 
+***
+
 ## Boosts
 
-Phosani boosts are applied from either your bank or equipped gear.
+For the Shadow and Sang boost, you can only have 1. The staff must be [charged](../../miscellaneous/charging-items.md) and equipped in your mage setup. The shadow will use 70 charges per kill, while the sang will use 85 charges per kill.
 
 You must use the tablet for the boost to apply: `/use`` `**`item:`**`Slepey tablet`
 
-![](<../../.gitbook/assets/Elder maul.png>) 3% for Elder maul
+![](<../../.gitbook/assets/Tumeken's\_shadow (1).png>) 6% for Tumeken's shadow <mark style="color:red;">**(must be equipped and charged in mage setup)**</mark>
 
-![](<../../.gitbook/assets/Dragon claws.png>) 3% for Dragon claws
+![](../../.gitbook/assets/Sanguinesti\_staff.png) 3% for Sanguinesti staff <mark style="color:red;">**(must be equipped and charged in mage setup)**</mark>
 
-![](<../../.gitbook/assets/Harmonised nightmare staff.png>)  3% for Harmonised nightmare staff
+![](<../../.gitbook/assets/Elder maul.png>) 3% for Elder maul <mark style="color:blue;">**(works from bank)**</mark>
 
-![](<../../.gitbook/assets/Slepey tablet.png>)   15% for Slepey tablet (guaranteed at 100KC at either Phosani's- or regular Nightmare)
+![](<../../.gitbook/assets/Dragon claws.png>) 3% for Dragon claws <mark style="color:blue;">**(works from bank)**</mark>
+
+![](<../../.gitbook/assets/Harmonised nightmare staff.png>)  3% for Harmonised nightmare staff <mark style="color:blue;">**(works from bank)**</mark>
+
+![](<../../.gitbook/assets/Slepey tablet.png>)   15% for Slepey tablet (guaranteed at 100KC at either Phosani's or regular Nightmare)
 
 ![](<../../.gitbook/assets/Worn equipment.png>)  Up to 13.2% for melee gear (see below)
 
+***
+
 ## BiS Gear
 
-Your melee gear will provide a boost up to 13.2%. This boost is based on each piece of BiS gear you equip, with each piece giving 1.2%. Equipping anything that is not BiS, will not grant the 1.2% boost for that slot. Rada's Blessing 4 is BiS for the ammo slot, all other blessings will not suffice.
+Your melee gear will provide a boost up to 13.2%. This boost is based on each piece of BiS gear you have equipped, with each piece giving 1.2%. Equipping anything that is not BiS, will not grant the 1.2% boost for that slot. Rada's Blessing 4 is BiS for the ammo slot, all other blessings will not suffice.
 
 <figure><img src="../../.gitbook/assets/PNM_BiS_Gear_Sept2023.png" alt=""><figcaption></figcaption></figure>
