@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-The Theatre Of Blood is a high-level raid you can do for some good loot. You get faster, and better, at ToB after more attempts and KC.
+The Theatre of Blood is a high-level raid you can do for some top-tier weapons and armour. You get faster, and better, at ToB after more attempts and KC.
 
 You can do the Theatre of Blood using `/raid tob start`
 

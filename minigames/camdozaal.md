@@ -58,7 +58,7 @@ The combat section involves your minion killing various monsters located within 
 
 ## Imcando Hammer ![](../.gitbook/assets/Imcando\_hammer.png)
 
-This hammer is received in a broken status when acquired from Barronite shards while smithing. It requires 1,500 Barronite shards to be fixed. To create the fixed version, simply use:
+This hammer is received in a broken status when acquired from Barronite deposits while smithing. It requires 1,500 Barronite shards to be fixed. To create the fixed version, simply use:
 
 * `/create`` `**`item:`**`Imcando hammer`
 

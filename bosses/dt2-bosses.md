@@ -26,7 +26,7 @@ The graph below shows the death chance when killing each regular DT2 boss. You w
 
 The awakened variant of each boss can be fought straight away after the DT2 quest is complete. However, the awakened version has an extremely high death chance, as it is not designed to be farmed. Your kc on the regular version has no effect on your chances of killing the awakened version. After 200kc, your lowest possible death chance is 81.8%. It does not decrease after this.
 
-Each kill of the awakened variant will consume 1 awakener's orb. Without these, you cannot fight the boss. Once each awakened boss has been killed, you will need to kill 1 more random awakened boss to receive the [blood torva kit.](dt2-bosses.md#sanguine-blood-torva)
+Each kill of the awakened variant will consume 1 awakener's orb. Without these, you cannot fight the boss. Upon successfully killing 4/4 awakened bosses, you will receive the [blood torva kit.](dt2-bosses.md#sanguine-blood-torva)
 
 <figure><img src="../.gitbook/assets/Awakened Version.png" alt=""><figcaption><p>Awakened DT2 Bosses Death Chance</p></figcaption></figure>
 
@@ -66,9 +66,7 @@ To make each of the rings, you will need to acquire several items. However, the 
 <mark style="color:red;">**You CANNOT revert blood torva once created!**</mark>
 {% endhint %}
 
-You can create this armour set by combining each regular torva armour piece with a Blood essence ornament kit. You only need 1 kit to combine all pieces, and once you do, it becomes untradeable. It has no benefits over regular torva armour.
-
-However, you need to kill each of the awakened versions of the bosses at least 1 time each, and in addition, kill one more random awakened version boss to receive the kit. It is very possible to go drier on the 5th random kill, than all other 4 combined.
+You can create this armour set by combining each regular torva armour piece with a Blood essence ornament kit. You only need 1 kit to combine all pieces, and once you do, it becomes untradeable. It has no benefits over regular torva armour. You will receive the ornament kit upon killing the last of all 4 awakened bosses.
 
 If you somehow lose your kit, you can simply kill any awakened boss to receive a new one.
 
