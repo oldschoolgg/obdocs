@@ -1,14 +1,16 @@
----
-description: Overview of how to change your bank background and what is required to do so.
----
-
 # Bank Backgrounds
 
-### Bank Backgrounds
+In order to change your bank background one of the first things you will need to do is start by going into the bot and typing `/minion bankbg`` `**`name:`** from there you will be presented with an in depth list of all the available backgrounds to you as either a non patron up to a T5 patron.  As you go down the list of bank backgrounds you will notice that some of them are exclusive to T3 through T5 patron or unavailable entirely, that list is as follows:
 
-In order to change your bank background one of the first things you will need to do is start by going into the bot and typing `/minion bankbg name:` from there you will be presented with an in depth list of all the available backgrounds to you as either a non patron up to a T5 patron.  As you go down the list of Bank backgrounds you will notice that some of them are exclusive to T3 through T5 patron or unavailable entirely, that list is as follows:
+## Available to Everyone
 
-### Available to Everyone
+{% hint style="warning" %}
+<mark style="color:orange;">**There is no confirmation message when changing backgrounds, therefore, choose carefully when selecting your desired backgrounds.**</mark>
+{% endhint %}
+
+{% hint style="danger" %}
+<mark style="color:red;">**Please be aware that Bandos, Corp, and Nightmare backgrounds are NOT permanent unlocks, and will need to be repurchased every time you change to them.**</mark>
+{% endhint %}
 
 * Default&#x20;
 * Bandos (Requires completion of Bandos/Armadyl/Saradomin/Zamorak/Nex CLs and costs 100m + all 5 Godswords)
@@ -20,7 +22,9 @@ In order to change your bank background one of the first things you will need to
   * 1x Scroll sack (100 Master clues completed)
 * Nightmare (Requires completion of Nightmare CL (including Phosani items) and costs 100m + 1 of each orb)
 
-### Available to Patrons
+***
+
+## Available to Patrons
 
 * Lumbridge (T3 or Higher)
 * Edgeville (T3 or Higher)
@@ -38,7 +42,9 @@ In order to change your bank background one of the first things you will need to
 * Custom Backgrounds (T4 or Higher)
 * Barrows (T5)
 
-### Unavailable&#x20;
+***
+
+## Unavailable&#x20;
 
 * Swampman (Unavailable)
 * Karamja (Unavailable)

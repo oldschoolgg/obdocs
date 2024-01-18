@@ -56,13 +56,10 @@ While optional, it is highly advised to equip <mark style="color:red;">**at leas
 
 Fighting the Wintertodt provides item rewards scaled to your Woodcutting, Mining, Fishing, Farming, Crafting, and Herblore levels. You can obtain all regular uniques at the same rate as the real game.&#x20;
 
-You will receive the Pyro pieces in the following order: Garb > Hood > Robe > Boots.
+* You will receive the Pyro pieces in the following order: Garb > Hood > Robe > Boots.
+* If you own 3 pairs of warm gloves and roll a 4th or more, you will receive a Magic seed instead.
+* If you own 3 bruma torches and roll a 4th or more, you will receive a Torstol seed instead.
 
-If you own 3 pairs of warm gloves and roll a 4th or more, you will receive a Magic seed instead.
+### Phoenix Pet
 
-If you own 3 bruma torches and roll a 4th or more, you will receive a Torstol seed instead.
-
-
-
-
-
+The Phoenix pet is also obtainable at a 1/5000 per roll. At 200m fm xp, your odds are increased 15x, meaning your chances are drastically improved to 1/333.

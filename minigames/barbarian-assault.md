@@ -19,7 +19,7 @@ To start a trip of BA, use the following command:
 
 ## BiS Melee Gear
 
-You have a 1/4 chance per trip for your minion to be chosen as the Fighter role. If you are chosen for this role, your melee gear will provide a boost of up to 12.87%. If you are not chosen for this role, you simply don't get the gear score boost. This boost is based on your minions _melee strength bonus_ and below is an image of the best melee strength bonus currently available:
+You have a 1/4 chance per trip for your minion to be chosen as the Fighter role. If you are chosen for this role, your melee gear will provide a boost of up to 13.11%. If you are not chosen for this role, you simply don't get the gear score boost. This boost is based on your minions _melee strength bonus_ and below is an image of the best melee strength bonus currently available:
 
 **NOTE:** Using Bandos chestplate and tassets with Neitiznot faceguard will give 12.50% boost.
 

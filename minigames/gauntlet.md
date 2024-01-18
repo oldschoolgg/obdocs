@@ -52,22 +52,22 @@ You can create a Crystal bow or Crystal halberd (used at ToB). Both require 78 s
 
 You can create all 3 pieces of the crystal armour set. Each armour piece requires level 70/72/74 smithing and crafting respectively.
 
-&#x20;![](../.gitbook/assets/Crystal\_helm.png)  `/create`` `**`item:`**` ``Crystal helm` - Requires 150 shards
+&#x20;<img src="../.gitbook/assets/Crystal_helm.png" alt="" data-size="original">  `/create`` `**`item:`**` ``Crystal helm` - Requires 150 shards
 
-![](../.gitbook/assets/Crystal\_body.png)`/create`` `**`item:`**` ``Crystal body` - Requires 300 shards
+<img src="../.gitbook/assets/Crystal_body.png" alt="" data-size="original">`/create`` `**`item:`**` ``Crystal body` - Requires 300 shards
 
-&#x20; ![](../.gitbook/assets/Crystal\_legs.png)   `/create`` `**`item:`**` ``Crystal legs` - Requires 450 shards
+&#x20; <img src="../.gitbook/assets/Crystal_legs.png" alt="" data-size="original">   `/create`` `**`item:`**` ``Crystal legs` - Requires 450 shards
 
 ### Enhanced crystal weapon seeds ![](../.gitbook/assets/Enhanced\_crystal\_weapon\_seed.png)
 
-You need 82 crafting and smithing to create both the inactive and charged versions of the blade/bow. The charged bow provides boosts to bosses such as Sara, Arma, Zulrah, and CoX. The charged blade is used at ToB. Charged versions can be reverted back to inactive versions and inactive weapons can be reverted back to seeds (costs 250 crystal shards for the latter).
+You need 82 crafting and smithing to create both the inactive and charged versions of the blade/bow. The charged bow provides boosts to bosses such as Sara, Arma, Zulrah, and CoX. The charged blade is used at ToB. Charged weapons can be reverted back to inactive weapons, and inactive weapons can be reverted back to seeds (costs 250 crystal shards for the latter).
 
 * `/create`` `**`item:`**`Blade of saeldor (inactive)` - Requires 100 shards&#x20;
 * `/create`` `**`item:`**`Bow of faerdhinen (inactive)` - Requires 100 shards&#x20;
 * `/create`` `**`item:`**`Blade of saeldor (c)` - Requires 1000 shards
 * `/create`` `**`item:`**`Bow of faerdhinen (c)` - Requires 2000 shards
 
-**Note:** The _charged_ blade/bow are untradeable, while the _inactive_ versions are tradeable.
+**Note:** The _**charged**_ blade/bow are untradeable, while the _**inactive**_ versions are tradeable.
 
 ***
 

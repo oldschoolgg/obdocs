@@ -7,7 +7,7 @@ To start a game, use `/minigames castle_wars start`
 You will receive 1-3 tickets per game played.
 
 {% hint style="info" %}
-It takes an average of around 444 games or around \~133 hours to complete the Castle wars CL.
+It takes an average of 444 games or around \~133 hours to complete the Castle wars CL.
 {% endhint %}
 
 ***

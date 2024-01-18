@@ -26,19 +26,23 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/agility_icon.png" alt="" data-size="line"> 70 Agility
 
-<img src="../.gitbook/assets/Quest_point_icon (1).png" alt="" data-size="original">  75 Quest points
-
 ![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate **OR** ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
 
 &#x20;![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt **OR** ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** 7% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="original"> Bow of faerdhinen (c) **OR** 5% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
+10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** 8% for ![](../.gitbook/assets/Zaryte\_crossbow.png) Zaryte crossbow **OR** 7% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="original"> Bow of faerdhinen (c) **OR** 5% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
 
 5% for ![](../.gitbook/assets/Pegasian\_boots.png)Pegasian boots **OR** 3% for ![](../.gitbook/assets/Ranger\_boots.png) Ranger boots
+
+1% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f)
+
+1% for ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps (f)
+
+1% for ![](../.gitbook/assets/Masori\_mask\_\(f\).png) Masori mask (f)
 {% endtab %}
 
 {% tab title="General Graardor" %}
@@ -48,23 +52,23 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/strength_icon.png" alt="" data-size="line">  70 Strength
 
-![](<../.gitbook/assets/Quest\_point\_icon (1).png>)  75 Quest points
-
 \
 \
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
 10% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer **OR** 5% for ![](<../.gitbook/assets/Bandos\_godsword (1).png>) Bandos godsword
+
+3% for ![](../.gitbook/assets/Osmumten's\_fang.png) Osmumten's fang
+
+1% for ![](../.gitbook/assets/Lightbearer.png) Lightbearer
 {% endtab %}
 
 {% tab title="Kree'arra" %}
 **Requirements**
 
-<img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
+<img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 40 Prayer
 
 <img src="../.gitbook/assets/ranged_icon.png" alt="" data-size="line"> 70 Ranged
-
-![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 75 Quest points
 
 ![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate **OR** ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
 
@@ -72,9 +76,15 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
-10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR**  7% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="original"> Bow of faerdhinen (c) **OR** 5% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
+10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** 8% for ![](../.gitbook/assets/Zaryte\_crossbow.png) Zaryte crossbow **OR** 7% for <img src="../.gitbook/assets/bow_of_faerdhinen.png" alt="" data-size="original"> Bow of faerdhinen (c) **OR** 5% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
+
+1% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f)
+
+1% for ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps (f)
+
+1% for ![](../.gitbook/assets/Masori\_mask\_\(f\).png) Masori mask (f)
 {% endtab %}
 
 {% tab title="K'ril Tsutsaroth" %}
@@ -84,15 +94,13 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 <img src="../.gitbook/assets/hitpoints_icon.png" alt="" data-size="line"> 70 Hitpoints
 
-&#x20;![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 75 Quest points
-
 ![](../.gitbook/assets/Armadyl\_chestplate.png) Armadyl chestplate **OR** ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
 
 &#x20;![](../.gitbook/assets/Armadyl\_chainskirt.png) Armadyl chainskirt **OR** ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
 **10**% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow **OR** 9% for <img src="../.gitbook/assets/Arclight.png" alt="" data-size="original"> Arclight
 
@@ -158,7 +166,7 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 
 
-**Boosts  **<mark style="color:blue;">**(All boosts work from bank)**</mark>
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
 6% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow
 
@@ -225,7 +233,7 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 ## Callisto, Vet'ion, Venenatis (Inc. Singles Versions)
 
 {% hint style="danger" %}
-<mark style="color:red;">**There is always a chance to lose your gear when attempting these bosses!**</mark>
+<mark style="color:red;">**There is always a chance to lose some of your gear when attempting these bosses!**</mark>
 {% endhint %}
 
 {% tabs %}
@@ -825,7 +833,7 @@ None
 
 
 
-**Boosts**
+**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
 
 5% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
 
@@ -874,7 +882,7 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 
 **Boosts **<mark style="color:red;">**(Must be equipped in respective setup)**</mark>
 
-4% for ![](../.gitbook/assets/Saturated\_heart.png) Saturated heart **OR** 2% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued heart <mark style="color:red;">**(Works from bank)**</mark>
+4% for ![](../.gitbook/assets/Saturated\_heart.png) Saturated heart **OR** 2% for ![](../.gitbook/assets/Imbued\_heart.png) Imbued heart <mark style="color:blue;">**(Works from bank)**</mark>
 
 10% for ![](../.gitbook/assets/Twisted\_bow.png) Twisted bow
 

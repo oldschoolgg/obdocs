@@ -6,6 +6,8 @@ To start a trip in Camdozaal, use
 
 * `/activities camdozaal`` `**`action:`**
 
+***
+
 ## Requirements
 
 * 17 Quest points
@@ -13,17 +15,21 @@ To start a trip in Camdozaal, use
 * 14 Smithing (only for the smithing activity)
 * 7 Fishing (only for the fishing activity)
 
+***
+
 ## Boosts
 
 * None aside from regular skilling boosts in [mining](../skills/mining/) and [fishing](../skills/fishing/).
 
+***
+
 ## Mining
 
-The mining section involves your minion simply gathering Barronite shards and Barronite deposits. The Barronite deposits are used in the smithing section of the activity. There are no collection log items obtained stricty from mining. You can receive the Rock golem pet from this activity.
+The mining section involves your minion simply gathering Barronite shards and Barronite deposits. The Barronite deposits are used in the smithing section of the activity. There are no collection log items obtained strictly from mining. You can receive the Rock golem pet from this activity.
 
 ## Smithing
 
-The smithing section involves your minion using the barronite deposits obtained from mining. There are a number of collection log items you can obtain from this section. They are:
+The smithing section involves your minion using the Barronite deposits obtained from mining. There are a number of collection log items you can obtain from this section. They are:
 
 ![](../.gitbook/assets/Barronite\_head.png) Barronite head - 1/200
 
@@ -55,6 +61,8 @@ The combat section involves your minion killing various monsters located within 
 * 1/500 from Mind golem
 * 1/250 from Body golem
 * 1/150 from Chaos golem
+
+***
 
 ## Imcando Hammer ![](../.gitbook/assets/Imcando\_hammer.png)
 
