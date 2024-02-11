@@ -19,3 +19,14 @@
 5750 Iron dart tip, 12825 Steel dart tip,\
 37884 Mithril dart tip, 109658 Adamant dart tip,\
 349933 Rune dart tip, 170515 Dragon dart tip
+
+
+
+### XP Rates:
+
+**Iron dart:** 285k XP/Hr\
+**Steel dart:** 562k XP/Hr\
+**Mithril dart:** 840k XP/Hr\
+**Adamant dart:** 1.13m XP/Hr\
+**Rune dart:** 1.41m XP/Hr\
+**Dragon dart:** 1.88m XP/Hr
