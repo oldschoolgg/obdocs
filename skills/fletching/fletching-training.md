@@ -24,9 +24,23 @@
 
 ### XP Rates:
 
+#### Darts
+
+**Bronze dart:** 135k XP/Hr\
 **Iron dart:** 285k XP/Hr\
 **Steel dart:** 562k XP/Hr\
 **Mithril dart:** 840k XP/Hr\
 **Adamant dart:** 1.13m XP/Hr\
 **Rune dart:** 1.41m XP/Hr\
 **Dragon dart:** 1.88m XP/Hr
+
+#### Javelins
+
+**Bronze javelin:** 46k XP/Hr\
+**Iron javelin:** 92k XP/Hr\
+**Steel javelin:** 230k XP/Hr\
+**Mithril javelin:** 369k XP/Hr\
+**Adamant javelin:** 461k XP/Hr\
+**Rune javelin:** 572k XP/Hr\
+**Amethyst javelin:** 623k XP/Hr\
+**Dragon javelin:** 692k XP/Hr
