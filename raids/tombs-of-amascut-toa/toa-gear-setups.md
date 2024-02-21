@@ -15,12 +15,7 @@
 
 ## BiS After ToA Upgrades
 
-* The following image is for Expert mode raids (300+ inclusive).
+* The following image is for Expert mode raids (300+).
 * For BiS in Entry mode (0-149) or Normal mode (150-299), equip a Ghrazi rapier in melee.
 
-<div align="center">
-
-<figure><img src="../../.gitbook/assets/BiS_Gear_With_ToA_+300s.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
+<figure><img src="../../.gitbook/assets/ToA_BiS_Gear_Feb2024.png" alt=""><figcaption></figcaption></figure>

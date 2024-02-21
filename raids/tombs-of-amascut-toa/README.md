@@ -17,27 +17,27 @@ Solo Tombs of Amascut requires 1 KC for every 10 levels of invocation. E.g. a 50
 ## Requirements
 
 * 90+ Attack/Strength/Defence/Ranged/Magic/Prayer
-* 10 Saradomin Brew(4), 5 Super Restore (4), 1 Ranging Potion(4), 1 Super Combat Potion(4), 1 Sanfew Serum(4). Sanfew Serum can be ignored by equipping a charged Serpentine Helm
-* Zamorakian Hasta, Ghrazi Rapier, OR Osmumten's Fang in melee
-* Fire cape OR Infernal cape in melee
-* Twisted Bow OR Bow of Faedhinen (c) in range
+* 10 Saradomin Brew(4), 5 Super Restore (4), 1 Ranging Potion(4), 1 Super Combat Potion(4), 1 Sanfew Serum(4). Sanfew Serum can be ignored by equipping a charged Serpentine helm
+* Zamorakian Hasta, Ghrazi Rapier, **OR** Osmumten's Fang in melee
+* Fire cape **OR** Infernal cape in melee
+* Twisted Bow **OR** Bow of Faedhinen (c) in range
   * Minimum of 150 arrows equipped if using Twisted bow.
 * Charged Blowpipe in bank
   * Minimum of 150 darts and 1,000 scales within Blowpipe.
-
-View the best in slot and alternate gear setups for ToA [here](toa-gear-setups.md).
 
 ## Boosts
 
 At 250 kc you will have the minimum death chance possible. At 350 kc you will have the maximum speed boost possible.&#x20;
 
-Specific items will give a hidden speed boost to your raids, they **do not** need to be equipped and the affect will apply from your bank **unless otherwise noted**.
+Specific items will give a hidden speed boost to your raids, these are:
 
-* Twisted bow (4%) **(Range)**
-* Bandos Godsword (2%)
-* Lightbearer (5%)
-* Tumeken's Shadow (25%) **(Mage)**
-* Zaryte Crossbow (9%) **>** Dragon Claws (6%)
+* Twisted bow (4%) <mark style="color:red;">**(Equipped in range)**</mark>
+* Tumeken's shadow (25%) <mark style="color:red;">**(Equipped in mage)**</mark>
+* Bandos godsword (2%) <mark style="color:blue;">**(works from bank)**</mark>
+* Lightbearer (5%) <mark style="color:blue;">**(works from bank)**</mark>
+* Zaryte crossbow (9%) **OR** Dragon claws (6%) <mark style="color:blue;">**(works from bank)**</mark>
+
+View the best in slot and alternate gear setups for ToA [here](toa-gear-setups.md).
 
 ## Choosing an Invocation level
 
@@ -75,7 +75,7 @@ Higher levels will take longer but offer better chances at uniques.&#x20;
 
 ### Elidinis' Ward <img src="../../.gitbook/assets/Elidinis&#x27;_ward.png" alt="" data-size="line">
 
-* Can be combined with the arcane sigil to create the fortified version.
+* Can be combined with the Arcane sigil to create the fortified version.
 * Costs 10,000 soul runes to fortify and requires 90 prayer + 90 smithing.
 * `/create`` `**`item:`**` ``Revert Arcane spirit shield`` `**`quantity:`**` ``1`
 * `/create`` `**`item:`**` ``Elidinis' ward (f)`` `**`quantity:`**` ``1`
@@ -86,4 +86,23 @@ Higher levels will take longer but offer better chances at uniques.&#x20;
 * Can be attached and detached from the regular Keris partisan.
 * Does not provide any boosts anywhere within the bot at this time.
 * `/create`` `**`item:`**` ``Keris partisan of [type]`` `**`quantity:`**` ``1`
+
+### Ornament Kits <img src="../../.gitbook/assets/Cursed phalanx.png" alt="" data-size="line"> <img src="../../.gitbook/assets/Masori crafting kit.png" alt="" data-size="line"> <img src="../../.gitbook/assets/Menaphite ornament kit.png" alt="" data-size="line">
+
+* These can be obtained by completing a level 350, 425, and 500 invocation raid with no deaths.
+* They can be attached to their respective items to create (or) versions.
+* The fang (or) <mark style="color:red;">**cannot**</mark> be reverted, the assembler and ward <mark style="color:blue;">**can**</mark> be reverted
+
+### Pet Transmogs <img src="../../.gitbook/assets/Remnant of ba-ba.png" alt="" data-size="line"> <img src="../../.gitbook/assets/Remnant of kephri.png" alt="" data-size="line"> <img src="../../.gitbook/assets/Remnant of Akkha.png" alt="" data-size="line"> <img src="../../.gitbook/assets/Remnant of zebak.png" alt="" data-size="line"> <img src="../../.gitbook/assets/Ancient remnant.png" alt="" data-size="line">
+
+* These are given at a 1/3 chance when the raid invo is 450 or higher, and there are no deaths.
+* You can use each remnant on Tumeken's guardian to transmog it.
+* When changing/reverting the transmog, you will receive the remnant back.
+* The names for each of the transmogs are:
+  * Elidinis' damaged guardian
+  * Tumeken's damaged guardian
+  * Akkhito
+  * Babi
+  * Kephriti
+  * Zebo
 

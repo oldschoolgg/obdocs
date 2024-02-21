@@ -12,4 +12,3 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * Best pet methods
 * Bloodbark armour
 * Update pages where shadow and scythe need charges&#x20;
-* Update ToA gear setups with new rings
