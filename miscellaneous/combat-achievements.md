@@ -68,7 +68,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Lizardman Shaman       | Shayzien Protector            | 1/15 chance to be given per kill                                                                                      |
 | Other                  | Into the Den of Giants        | Kill 1 Hill Giant, 1 Moss Giant, and 1 Fire Giant                                                                     |
 | Obor                   | Obor Novice                   | Kill 1 Obor                                                                                                           |
-| Obor                   | Fighting as Intended          | Kill Bryophyta with ONLY f2p gear equipped in your currently used combat style                                        |
+| Obor                   | Fighting as Intended          | Kill Obor with ONLY f2p gear equipped in your currently used combat style                                             |
 | Obor                   | Sleeping Giant                | 1/10 chance to be given per kill                                                                                      |
 | Sarachnis              | Sarachnis Novice              | Kill 10 Sarachnis                                                                                                     |
 | Tempoross              | Master of Buckets             | 1/5 chance to be given per kill                                                                                       |
