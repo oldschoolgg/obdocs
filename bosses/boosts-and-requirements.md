@@ -450,7 +450,7 @@ None
 {% endtab %}
 {% endtabs %}
 
-## Slayer bosses
+## Slayer Bosses
 
 {% tabs %}
 {% tab title="Abyssal Sire" %}
@@ -922,8 +922,7 @@ See [The Nightmare](https://wiki.oldschool.gg/minigames/nightmare-of-ashihama) f
 
 **Boosts**
 
-None\
-
+None
 {% endtab %}
 
 {% tab title="Sarachnis" %}
@@ -948,6 +947,18 @@ None\
 3% for ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop
 
 2% for ![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt
+{% endtab %}
+
+{% tab title="Scurrius" %}
+**Requirements**
+
+<img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
+
+
+
+**Boosts**
+
+None
 {% endtab %}
 
 {% tab title="Vorkath" %}
@@ -1004,6 +1015,8 @@ None\
 2% for ![](../.gitbook/assets/Ancestral\_robe\_top.png) Ancestral robe top
 
 2% for ![](../.gitbook/assets/Ancestral\_robe\_bottom.png) Ancestral robe bottom
+
+
 {% endtab %}
 {% endtabs %}
 

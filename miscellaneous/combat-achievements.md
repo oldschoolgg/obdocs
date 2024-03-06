@@ -71,6 +71,8 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Obor                   | Fighting as Intended          | Kill Obor with ONLY f2p gear equipped in your currently used combat style                                             |
 | Obor                   | Sleeping Giant                | 1/10 chance to be given per kill                                                                                      |
 | Sarachnis              | Sarachnis Novice              | Kill 10 Sarachnis                                                                                                     |
+| Scurrius               | Sit Rat                       | Kill Scurrius with any Bone weapon equipped                                                                           |
+| Scurrius               | Scurrius Novice               | Kill 1 Scurrius                                                                                                       |
 | Tempoross              | Master of Buckets             | 1/5 chance to be given per kill                                                                                       |
 | Tempoross              | Calm Before the Storm         | 1/3 chance to be given per kill                                                                                       |
 | Tempoross              | Fire in the Hole!             | 1/3 chance to be given per kill                                                                                       |
@@ -121,6 +123,9 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Obor                   | Obor Champion                                        | Kill 5 Obor                                                                                      |
 | Sarachnis              | <mark style="color:red;">Newspaper Enthusiast</mark> | <mark style="color:red;">Kill 1 Sarachnis</mark>                                                 |
 | Sarachnis              | Sarachnis Champion                                   | Kill 25 Sarachnis                                                                                |
+| Scurrius               | Scurrius Champion                                    | Kill 10 Scurrius                                                                                 |
+| Scurrius               | Perfect Scurrius                                     | 1/10 chance to be given per kill                                                                 |
+| Scurrius               | Efficient Pest Control                               | 1/10 chance to be given per kill                                                                 |
 | Skeletal Wyvern        | A Frozen Foe from the Past                           | Kill 1 Skeletal Wyvern                                                                           |
 | Skotizo                | Demonbane Weaponry                                   | Kill 1 Skotizo with a Silverlight, Darklight, or Arclight equipped                               |
 | Skotizo                | Skotizo Champion                                     | Kill 1 Skotizo                                                                                   |
@@ -617,7 +622,7 @@ Rewards can be claimed by simply using `/ca claim` after completing a new tier. 
 * Ghommal's hilt 5
 * An antique lamp that gives 35,000xp in any skill above level 60
 * Slayer boss tasks are increased by 5 (60 total)
-* Obtain Ghommal's lucky penny (Does NOT work in the bot)
+* Ghommal's lucky penny (when equipped, 5% chance to not use a charge on any chargeable item)
 * Ability to create Vampyric slayer helmet - `/create`` `**`item:`**`Vampyric slayer helmet`
 * Ability to combine Avernic defender with Ghommal's hilt 5 - `/create`` `**`item:`**`Ghommal's avernic defender 5`
 
