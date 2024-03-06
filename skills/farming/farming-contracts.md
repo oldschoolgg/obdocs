@@ -16,7 +16,6 @@ If you are tier 1 patron or higher (and your plant is fully grown), you will see
 
 ## Requirements
 
-* 60% Hosidius favour
 * 45 Farming (Easy contracts)&#x20;
   * 65 Farming (Medium contracts)
   * 85 Farming (Hard contracts)

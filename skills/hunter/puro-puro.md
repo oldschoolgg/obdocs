@@ -48,7 +48,6 @@ You can choose to use the dark lure spell when attempting to catch All or High-T
 The requirements to use the spell are as follows:
 
 * 9 Quest Points
-* 100% in all Kourend favours
 * 54 Agility
 * 52 Thieving
 * 52 Woodcutting

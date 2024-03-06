@@ -845,8 +845,6 @@ None
 
 ![](<../.gitbook/assets/Quest\_point\_icon (1).png>) 30 Quest points
 
-<img src="../.gitbook/assets/Kourend_task_icon.png" alt="" data-size="line"> 100% Shayzien favour
-
 ![](../.gitbook/assets/Rune\_crossbow.png) Rune crossbow **OR** ![](../.gitbook/assets/Karil's\_crossbow.png) Karil's crossbow **OR** ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow **OR** ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic blowpipe **OR** ![](../.gitbook/assets/Toxic\_blowpipe\_\(empty\).png) Toxic blowpipe (empty)
 
 

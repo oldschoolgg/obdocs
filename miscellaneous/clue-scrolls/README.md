@@ -7,11 +7,7 @@ description: Guide for hunting clue scrolls
 ## Multiple Clue Trips
 
 {% hint style="warning" %}
-The "Return trip" button does not function correctly for multi-clue trips. You will have to manually type out the command every time. This is known and a fix is coming.
-{% endhint %}
-
-{% hint style="warning" %}
-Opening imps through /clue does not count towards your total imp openings. This is known and a fix is coming.
+<mark style="color:orange;">Opening imps through /clue does not count towards your total imp openings. This is known and a fix is coming.</mark>
 {% endhint %}
 
 It is possible to run multiple clues in the one trip through opening banked implings. This is the **ONLY** way to run multiple clues in one trip. Using the `/clue` command, you can select your desired clue type, and then the tier of impling which you wish to use. For example:
@@ -23,6 +19,8 @@ Here is a list of the possible clues you can get from implings:
 ![](../../.gitbook/assets/Clues\_from\_Imps.png)
 
 ***
+
+## Where To Get Clues
 
 ### Beginner Clues
 

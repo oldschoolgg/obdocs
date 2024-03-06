@@ -5,7 +5,7 @@ There are a number of degradable items that must be charged in order to be used 
 All items can be charged using `/minion charge`` `**`item:`** **`amount:`**&#x20;
 
 {% hint style="danger" %}
-Most items **cannot** be manually reverted, meaning you need to use the item continually until it runs out of charges to receive the base version again.
+<mark style="color:red;">Most items</mark> <mark style="color:red;"></mark><mark style="color:red;">**cannot**</mark> <mark style="color:red;"></mark><mark style="color:red;">be manually reverted, meaning you need to use the item continually until it runs out of charges to receive the base version again.</mark>
 {% endhint %}
 
 {% hint style="info" %}

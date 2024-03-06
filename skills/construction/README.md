@@ -22,7 +22,7 @@ The cost of making planks via all 3 methods can be found here.
 * `/activities plank_make`` `**`action:`**`Sawmill`` `**`type:`**`[Plank type]`
 * Wearing full Graceful gives a 10% boost to trip time.
 * Unlocking the Woodcutting Guild gives a 10% boost to trip time.
-  * Requires 50QP, 60 Woodcutting, and 75% Hosidius favour.
+  * Requires 50QP and 60 Woodcutting.
 
 #### Butler
 

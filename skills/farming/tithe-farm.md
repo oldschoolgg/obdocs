@@ -9,7 +9,6 @@ The start the minigame, use `/farming tithe_farm`
 * 34 Farming (minimum)
   * 54 Farming for bologano fruit
   * 74 Farming for logavano fruit
-* 100% Hosidius favour
 
 ***
 

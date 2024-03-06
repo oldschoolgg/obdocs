@@ -11,7 +11,6 @@ This also gives some Mining and Crafting XP.
 * 77 Runecrafting for Bloods
 * 90 Runecrafting for Souls
 * 73 Agility highly recommended
-* 100% Arceuus favour
 
 ### Boosts
 

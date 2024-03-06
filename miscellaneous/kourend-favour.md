@@ -1,5 +1,9 @@
 # Kourend Favour
 
+{% hint style="danger" %}
+<mark style="color:red;">**THIS PAGE CONTAINS DISCONTINUED INFORMATION. KOUREND FAVOUR HAS BEEN REMOVED ENTIRELY. THIS PAGE WILL DISAPPEAR SHORTLY.**</mark>
+{% endhint %}
+
 Kourend favour can be attained using  `/activities favour`` `**`name:`**`[houseName]`.
 
 The below table shows a summary of stat and item requirements, along with time to complete 100% favour. Methods for obtaining favour are based off fastest methods available in-game, hence the required stats needed for some favours. This is not changeable.
