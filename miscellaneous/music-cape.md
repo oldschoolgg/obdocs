@@ -9,7 +9,7 @@ To buy the music cape, simply use:
 
 ***
 
-## Trimmed Cape Reqs
+## Trimmed Cape Reqs ![](../.gitbook/assets/Music\_cape\(t\).png)
 
 In order to buy the trimmed music cape, one must complete all regular tasks, along with the following extras:
 
@@ -18,7 +18,7 @@ In order to buy the trimmed music cape, one must complete all regular tasks, alo
 
 ***
 
-## Regular Cape Reqs
+## Regular Cape Reqs ![](../.gitbook/assets/Music\_cape.png)
 
 |                  |                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                 |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

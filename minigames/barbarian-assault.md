@@ -10,7 +10,7 @@ To start a trip of BA, use the following command:
 
 ## Boosts
 
-* Up to 12.87% for melee gear (see below)
+* Up to 13.11% for melee gear (see below)
 * Up to 30.3% for honour level (see below)
 * Up to 10% for average KC
 * 10% more points for completion of Kandarin hard diary (upon return of trip)

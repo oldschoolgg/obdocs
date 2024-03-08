@@ -20,7 +20,7 @@ Apart from [offering bones](../skills/prayer/) to the chaos altar in the wildern
 * `/offer`` `**`name:`**` ``Curved bone`
 * Provides 6,750 Construction Xp per bone
 
-![](../.gitbook/assets/Bird's\_egg\_\(red\).png)![](../.gitbook/assets/Bird's\_egg\_\(green\).png)![](../.gitbook/assets/Bird's\_egg\_\(blue\).png) **Bird Eggs**
+![](../.gitbook/assets/Bird's\_egg\_\(red\).png)![](../.gitbook/assets/Bird's\_egg\_\(green\).png)![](../.gitbook/assets/Bird's\_egg\_\(blue\).png) **Bird eggs**
 
 * `/offer`` `**`name:`**` ``Red bird egg`
 * `/offer`` `**`name:`**` ``Green bird egg`
