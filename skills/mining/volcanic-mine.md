@@ -51,4 +51,4 @@ E.g.  `/minigames volcanic_mine buy`` `**`item:`**`Gold ore`` `**`quantity:`**`1
 
 ## Ore packs
 
-When opening the Ore packs, you will receive 50 random ores scattered between iron and rune. There is a 1/100 chance per pack that you will receive the Broken dragon pickaxe.
+When opening the Ore packs, you will receive 50 random ores scattered between iron and rune. There is a 1/100 chance per pack that you will receive the Broken dragon pickaxe. This pickaxe cannot be fixed, and is purely for the collection log.

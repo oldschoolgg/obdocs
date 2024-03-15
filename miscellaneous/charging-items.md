@@ -1,8 +1,24 @@
 # Charging Items
 
-There are a number of degradable items that must be charged in order to be used or provide a boost for certain bosses/minigames. The maximum amount of charges on an item is 1,000,000. When charging an item, you can add anywhere between 1-100,000 at a time. Charges on items are generally used anywhere the item provides a boost, or is used in an activity (including regular PvM).
+There are a number of degradable items that must be charged in order to be used or provide a boost for certain bosses/minigames. The maximum amount of charges on an item is 1,000,000. When charging an item, you can add anywhere between 1-100,000 at a time.&#x20;
 
 All items can be charged using `/minion charge`` `**`item:`** **`amount:`**&#x20;
+
+***
+
+## Global Boosts
+
+The weapons listed on this page will provide global boosts to all PvM, _provided they are equipped in their respective setup, are sufficiently charged, and you're training that specific combat style ._ These global boosts stack with existing boosts (E.g. Shadow gives 20% boost at Kraken, and a further 6% if equipped in mage, charged, and you're training is set to magic).
+
+* [Abyssal tentacle](charging-items.md#abyssal-tentacle) - 3% global boost
+* [Scythe of vitur](charging-items.md#scythe-of-vitur) - 5% global boost
+* [Trident of the swamp](charging-items.md#trident-of-the-swamp) - 3% global boost
+* [Sanguinesti staff](charging-items.md#sanguinesti-staff) - 5% global boost
+* [Tumeken's shadow](charging-items.md#tumekens-shadow) - 6% global boost
+
+***
+
+## Chargeable Items
 
 {% hint style="danger" %}
 <mark style="color:red;">Most items</mark> <mark style="color:red;"></mark><mark style="color:red;">**cannot**</mark> <mark style="color:red;"></mark><mark style="color:red;">be manually reverted, meaning you need to use the item continually until it runs out of charges to receive the base version again.</mark>
