@@ -27,7 +27,9 @@ description: >-
 * If using an Elysian or Spectral, your maximum trip length will be longer! This is a new mechanic not currently used elsewhere. It means you can kill more nex per trip, because they let you sustain for longer. Note: The time is applied per user, e.g. maybe +3 mins per user in the team, for the maximum increase, everyone in the team needs one.
 * Spectral has best mage defence bonus in the shield slot.
 * Ely reduces death chance by 30%.
-* You get faster at killing Nex based on your Offence Boost % (gear) and your KC.\
+* You get faster at killing Nex based on your Offence Boost % (gear) and your KC.
+
+(_**NOTE**_: You can now kill Nex Solo using **/k name:Nex solo:True)**\
 
 
 ## BIS Gear
