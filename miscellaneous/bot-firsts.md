@@ -8,7 +8,7 @@ description: List of achievements on the bot
 
 | Skill        | 99             | 200m           |
 | ------------ | -------------- | -------------- |
-| Mining       | JSpacer        |  000000653     |
+| Mining       | JSpacer        | 000000653      |
 | Firemaking   | wyatt          | mnwt           |
 | Woodcutting  | coolbop        | Mr Chop Chop   |
 | Smithing     | Jay            | coolbop        |
@@ -34,8 +34,9 @@ description: List of achievements on the bot
 
 ### **Other Achievements**
 
-| Description          | Person       |
+| First to 200m All    | Fishy        |
 | -------------------- | ------------ |
 | First to Max         | Wood         |
 | First Ironman to Max | Paah         |
 | First Infernal Cape  | Criiiiiiiiip |
+
