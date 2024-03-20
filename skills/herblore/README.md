@@ -21,7 +21,7 @@ Making unfinished potions, cleaning herbs, and preparing secondary ingredients a
 
 * E.g. `/mix`` `**`name:`**`Toadflax`` `**`zahur:`**`True`
 
-**Wesley** - You can add the **`wesley:`**`True` flag to crush your items instantly. This costs 50gp per item. There are no other requirements.
+**Wesley** - You can add the **`wesley:`**`True` flag to crush your items instantly. This costs 50gp per item. There are no other requirements. Crushed items include: Crushed nest, Lava scale shard, Unicorn horn dust, Goat horn dust, Dragon scale dust, and Crushed superior dragon bones.
 
 * E.g. `/mix`` `**`name:`**`Crushed nest`` `**`wesley:`**`True`
 

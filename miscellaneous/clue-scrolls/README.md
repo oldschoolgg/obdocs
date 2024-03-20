@@ -4,6 +4,12 @@ description: Guide for hunting clue scrolls
 
 # Clue Scrolls
 
+{% hint style="info" %}
+If you are tier 1 patron or higher, when receiving a clue from your trip, you will see a **'Do \[tier] clue'** button at the end of your trips. This can be enabled/disabled using:
+
+`/config user toggle`` `**`name:`**`Disable Clue Buttons`
+{% endhint %}
+
 ## Multiple Clue Trips
 
 It is possible to run multiple clues in the one trip through opening banked implings. This is the **ONLY** way to run multiple clues in one trip. Using the `/clue` command, you can select your desired clue type, and then the tier of impling which you wish to use. For example:

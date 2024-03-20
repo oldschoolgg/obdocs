@@ -31,8 +31,13 @@ To begin a trip, use the following commands:
 
 ## Boosts
 
-* Augury & Rigour prayers both provide a 3% boost.
-* Higher KC provides a speed boost (up to 20% at 100kc).
+* 5% boost for Augury **OR** 2% boost for Mystic might (45+ prayer but not unlocked Augury)
+  * `/use`` `**`item:`**`Arcane prayer scroll`
+* 5% boost for Rigour **OR** 2% boost for Eagle eye (44+ prayer but not unlocked Rigour)
+  * `/use`` `**`item:`**`Dexterous prayer scroll`
+* Up to 20% for preparation time (this is based on normal + cg kc)
+  * Up to 40% in normal gauntlet (prep time is halved)
+* Up to 20% for experience (0.2% for each KC. 100kc = max boost)
 
 ***
 

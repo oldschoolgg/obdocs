@@ -33,6 +33,8 @@ When reverting an item such as those listed below, you will be seeing a return o
 * Venator shard (50,000 Ancient essence)
 * Uncharged Wildy Weapons (7,500 Revenant ether)
 * Xeric's talisman (inert) (100 Lizardman fangs)
+* Slayer helmet (All components of the slayer helm)
+* Themed slayer helmets (The recolour item and/or the slayer helm)
 
 When reverting one of the items below you will be guaranteed to get your Ornament kit back in regards to ornament items. With the Nightmare staffs, you will receive back the Orb inserted in the staff and the Nightmare staff itself.  Those items with ornaments are listed below:
 
@@ -44,8 +46,9 @@ When reverting one of the items below you will be guaranteed to get your Ornamen
 * Dragon items (Defender, Pickaxe, Sq shield, Full helm, Platebody, Kiteshield, Boots, Scimitar, Platelegs, Plateskirt, Chainbody)
 * Nightmare staffs (Eldritch, Volatile, Harmonised)
 * Ferocious gloves (Hydra leather)
+* Tzhaar-ket-om (t)
 
-When reverting a castle wars item back into tickets you will get full return of any and all tickets that was used to spend on buying those items in the first place.  For more information on Castle Wars, how to get started, and the cost of all those items, make sure you make a trip to [Castle Wars](../minigames/castle-wars.md).
+When reverting a castle wars item back into tickets, you will get full return of all tickets that were used.  For more information on Castle Wars, how to get started, and the cost of all those items, make sure you make a trip to [Castle Wars](../minigames/castle-wars.md).
 
 The only instance of reverting an item and not getting a component or an item return back is when doing `/create`` `**`item:`**` ``revert Dragon Pickaxe (upgraded)`, this will only return you the Dragon Pickaxe.&#x20;
 

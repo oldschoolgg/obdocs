@@ -22,7 +22,9 @@ Your death chance is based on a number of factors. Firstly, you need to encounte
 
 <table data-full-width="false"><thead><tr><th></th><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td><strong>PK Peak Times</strong></td><td align="center"><p><strong>Chance of PKer at</strong> </p><p><strong>Callisto, Vet'ion, Venenatis</strong></p></td><td align="center"><p><strong>Chance of PKer at</strong> </p><p><strong>Artio, Calvarion, Spindel</strong></p></td></tr><tr><td>Low period</td><td align="center">1.52%</td><td align="center">2.85%</td></tr><tr><td>Medium period</td><td align="center">7.59%</td><td align="center">14.29%</td></tr><tr><td>High period<mark style="color:red;"><strong>*</strong></mark></td><td align="center">18.98%%</td><td align="center">35.71%</td></tr></tbody></table>
 
-<mark style="color:red;">**\***</mark> _<mark style="color:red;">**- You will be asked for confirmation when attempting to send a trip during a high PK period.**</mark>_
+<mark style="color:red;">**\***</mark> _<mark style="color:red;">**- You will be asked for confirmation when attempting to send a trip during a high PK period. This can be enabled/disabled using:**</mark>_
+
+`/config user toggle`` `**`name:`**`Disable wilderness high peak time warning`
 
 If you happen to encounter a PKer, you will then "fight" your opponent. When this happens, you will lose some kc during your trip and therefore, lose some potential loot also. There are a few things that will affect whether you get PKed or survive. There is a 10% base chance of your minion getting PKed, however, the following things will affect this percentage:
 
@@ -60,7 +62,7 @@ You can see what items you will keep/lose through the following command:
 
 <figure><img src="../../.gitbook/assets/Gear_lost_on_death.PNG" alt=""><figcaption></figcaption></figure>
 
-In the above image, you can ignore the things listed in the red box because you are not skulled when doing wilderness bosses. The green box notifies you of the items kept and lost upon a death.  The 3 items kept on death are Webweaver bow, Masori body (f), and Masori chaps (f). The +1 item is the Necklace of Anguish (or). Everything else will always be lost when Pked. This means you can comfortably equip your 3 best boosting items for wildy bosses without the worry of losing them.
+In the above image, you can ignore the things listed in the red box because you are not skulled when doing wilderness bosses. The green box notifies you of the items kept and lost upon a death.  The 3 items kept on death in this image are: Webweaver bow, Masori body (f), and Masori chaps (f). The +1 item is the Necklace of Anguish (or). Everything else will always be lost when Pked. This means you can comfortably equip your 3 best boosting items for wildy bosses without the worry of losing them.
 
 However, untradeable items or items that have a 0 value will usually not be kept as one of your 3-4 items kept on death. For example, the DT2 rings in their current state are using the incorrect item ID, and therefore giving the rings a 0 value. This means that something with a low value but still a higher value than the ring, may be kept over the ring upon a death.
 

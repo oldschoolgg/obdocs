@@ -138,7 +138,7 @@ Charges are bound to your minion, not the item. Therefore, when reverting or tra
 
 ## **Scythe of Vitur** ![](../.gitbook/assets/Scythe\_of\_vitur.png)
 
-**Charged with -** Blood runes & Vial of blood (300 Blood runes & 1 Vial of blood per 100 charges)
+**Charged with -** Blood runes & Vial of blood (200 Blood runes & 1 Vial of blood per 100 charges)
 
 **Revertible -** Yes, but no blood runes or vials are returned
 

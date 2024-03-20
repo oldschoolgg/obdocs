@@ -7,7 +7,7 @@ description: For all the random stuff people keep asking
 ### FAQ
 
 **Q: How do I use an unsired / Chewed bones?**\
-A: `/offer`` `**`name:`**` ``Unsired` and  `/offer`` `**`name:`**` ``Chewed bones`
+A: Use [/offering](../../miscellaneous/offering.md). `/offer`` `**`name:`**` ``Unsired` and  `/offer`` `**`name:`**` ``Chewed bones`
 
 **Q: What unlocks should I prioritise?**\
 A: Superiors, blocks, task extensions. Slayer helm offers no advantages over a black mask.&#x20;
@@ -22,13 +22,13 @@ A: Yes, they will automatically appear 25% more frequently after you claim the d
 A: Depends on your goal; Konar for CL/XP or Duradel for bossing. Konar is better XP due to being able to complete tasks in any of Konar's assignable locations rather than a specific location (the way it works in OSRS).
 
 **Q: How do I imbue my slayer helm/black mask?**\
-A: `/minigames soul_wars imbue`` `**`name:`**` ``Black mask` - you can get points through the [Soul wars minigame](https://wiki.oldschool.gg/minigames/soul-wars).
+A: `/minigames soul_wars imbue`` `**`name:`**` ``Black mask` - you can get points through the [Soul wars minigame](https://wiki.oldschool.gg/minigames/soul-wars) or through [Nightmare zone](../../miscellaneous/nightmare-zone.md).
 
 **Q: Do I need to equip my black mask/slayer helm to get the boost?**\
 A: No, the boost works from the bank.
 
 **Q: How do I get an arclight?**\
-A: `/buy`` `**`name:`**` ``Darklight` then `/create`` `**`item:`**`Arclight` - Requires 3 ancient shards.
+A: `/buy`` `**`name:`**` ``Darklight` then, `/create`` `**`item:`**`Arclight` - Requires 3 ancient shards.
 
 **Q: How do I get a cannon?**\
 A: `/buy`` `**`name:`**` ``Dwarf multicannon`
@@ -38,6 +38,9 @@ A: Cannonballs are used at 16 per minute in single combat areas and 50 per minut
 
 **Q: How do I get an elemental/mind shield for wyverns?**\
 A: `/buy`` `**`name:`**` ``Mind shield`
+
+**Q: How can I obtain the Ancient ceremonial robes?**\
+A: `/k`` `**`name:`**`Blood Reaver` (requires a Frozen key)
 
 ***
 
