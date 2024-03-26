@@ -136,7 +136,7 @@
 ## Miscellaneous
 
 * [Achievement Diaries](miscellaneous/achievement-diaries.md)
-* [Bank Backgrounds](getting-started/bank-background.md)
+* [Bank Backgrounds](miscellaneous/bank-background.md)
 * [Bingo](miscellaneous/bingo.md)
 * [Buyables](miscellaneous/buyables.md)
 * [Champions Challenge](miscellaneous/champions-challenge.md)

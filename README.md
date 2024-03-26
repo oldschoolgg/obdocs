@@ -36,13 +36,13 @@ You can see a leaderboard of who has sacrificed the most value using `/lb sacrif
 
 Tier 3 patrons or above receive 3 times the bonus to their trip length from sacrifice value. For example, a tier 3 patron with 2.5b sacrificed will receive a 45 second bonus and with 10b sacrificed will receive a 3 minute bonus.
 
-![](<.gitbook/assets/image (6) (1) (1).png>)
+![](<.gitbook/assets/image (8).png>)
 
 ## Bank Backgrounds
 
 You can change your bank background using `/minion bankbg`` `**`name:`** . The image will replace the background of your bank. Bank backgrounds require that you pay GP, items and have certain items in your collection log. They are supposed to be difficult to obtain.&#x20;
 
-To see all available backgrounds, please visit the [bank backgrounds page](getting-started/bank-background.md).
+To see all available backgrounds, please visit the [bank backgrounds page](miscellaneous/bank-background.md).
 
 Click on the bank bg name to see what it looks like.
 

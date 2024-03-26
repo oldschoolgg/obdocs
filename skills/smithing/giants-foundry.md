@@ -41,7 +41,7 @@ If you run the following command, you will see your overall foundry stats.
 
 * `/minigames giants_foundry stats`
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Here you will see your total unique weapons made. There are 1,331 possible weapons to create, with each weapon having an equal chance to be created. The type of alloy does not affect the chances of which weapon will be made. This means that using lower tier bars is considerably more cost effective if you're wanting to collect all unique weapons. There is no CL for these weapons, it's purely just a statistic.
 

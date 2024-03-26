@@ -52,7 +52,7 @@ Individual gear bonuses (e.g. ranged attack, slash defence, etc.) cap at 95% of 
 
 <div align="left">
 
-<img src="../../.gitbook/assets/osbot (4).png" alt="If you dont have Justiciar you can use Torags, Justiciar just gives a 6.5% food reduction">
+<img src="../../.gitbook/assets/osbot (1).png" alt="If you dont have Justiciar you can use Torags, Justiciar just gives a 6.5% food reduction">
 
 </div>
 
@@ -63,7 +63,7 @@ If you do Jad tasks, it is best to equip a Saradomin Godsword. Otherwise, any go
 
 <div align="left">
 
-<img src="../../.gitbook/assets/osbot (5) (1).png" alt="">
+<img src="../../.gitbook/assets/osbot (2).png" alt="">
 
 </div>
 
@@ -73,7 +73,7 @@ The 95% threshold for ranged attack is 233.7.
 
 <div align="left">
 
-<img src="../../.gitbook/assets/osbot (1).png" alt="">
+<img src="../../.gitbook/assets/osbot (5).png" alt="">
 
 </div>
 

@@ -35,7 +35,7 @@ You must use the tablet for the boost to apply: `/use`` `**`item:`**`Slepey tabl
 
 ![](<../../.gitbook/assets/Tumeken's\_shadow (1).png>) 6% for Tumeken's shadow <mark style="color:red;">**(must be equipped and charged in mage setup)**</mark>
 
-![](../../.gitbook/assets/Sanguinesti\_staff.png) 3% for Sanguinesti staff <mark style="color:red;">**(must be equipped and charged in mage setup)**</mark>
+![](<../../.gitbook/assets/Sanguinesti\_staff (1).png>) 3% for Sanguinesti staff <mark style="color:red;">**(must be equipped and charged in mage setup)**</mark>
 
 ![](<../../.gitbook/assets/Elder maul.png>) 3% for Elder maul <mark style="color:blue;">**(works from bank)**</mark>
 
