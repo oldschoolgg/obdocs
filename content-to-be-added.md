@@ -11,4 +11,3 @@ If you feel you're well placed to contribute to a specific subject (perhaps you'
 * ToA flesh-out
 * Best pet methods
 * Bloodbark armour
-* Update pages where shadow and scythe need charges&#x20;

@@ -40,7 +40,7 @@ Charges are bound to your minion, not the item. Therefore, when reverting or tra
 
 ***
 
-## Sanguinesti staff ![](<../.gitbook/assets/Sanguinesti\_staff (1).png>)
+## Sanguinesti staff ![](../.gitbook/assets/Sanguinesti\_staff.png)
 
 **Charged with -** Blood runes (1 charge per 3 blood runes)
 

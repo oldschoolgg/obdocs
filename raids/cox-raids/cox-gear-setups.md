@@ -96,7 +96,7 @@ The harmonised nightmare staff can be replaced with a kodai wand, a staff of the
 
 <div align="left">
 
-<img src="../../.gitbook/assets/coxmageahrim&#x27;s.png" alt="">
+<img src="../../.gitbook/assets/coxmageahrims.png" alt="">
 
 </div>
 

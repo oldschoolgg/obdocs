@@ -64,7 +64,7 @@ The maximum melee strength bonus is 204. Anything above 123 will not incur these
 
 <div align="center">
 
-<img src="../../.gitbook/assets/nightmarenoinquis.png" alt="BIS setup with no inquisitor&#x27;s pieces.">
+<img src="../../.gitbook/assets/nightmarenoinquis (1).png" alt="BIS setup with no inquisitor&#x27;s pieces.">
 
 </div>
 
