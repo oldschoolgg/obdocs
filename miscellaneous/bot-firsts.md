@@ -4,9 +4,9 @@ description: List of achievements on the bot
 
 # Hall of Fame
 
-### First Players to 99 and 200m
+## First Players to 99 and 200m
 
-| Skill        | 99             | 200m           |
+| **Skill**    | **99**         | **200m**       |
 | ------------ | -------------- | -------------- |
 | Mining       | JSpacer        | 000000653      |
 | Firemaking   | wyatt          | mnwt           |
@@ -34,8 +34,9 @@ description: List of achievements on the bot
 
 ### **Other Achievements**
 
-| Description          | Person       |
-| -------------------- | ------------ |
-| First to Max         | Wood         |
-| First Ironman to Max | Paah         |
-| First Infernal Cape  | Criiiiiiiiip |
+| Description           | Person       |
+| --------------------- | ------------ |
+| First to Max          | Wood         |
+| First Ironman to Max  | Paah         |
+| First 200m All Skills | Fishy        |
+| First Infernal Cape   | Criiiiiiiiip |
