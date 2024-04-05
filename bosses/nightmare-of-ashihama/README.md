@@ -6,7 +6,15 @@ description: Nightmare of Ashihama
 
 ## Overview
 
-You can kill The Nightmare to receive the inquisitor's armour set, the inquisitor's mace, the nightmare staff, and the 3 orbs that can be combined with the nightmare staff (harmonised orb, eldritch orb, & volatile orb).
+You can kill The Nightmare to receive the inquisitor's armour set, the inquisitor's mace, the nightmare staff, and the 3 orbs that can be combined with the nightmare staff (harmonised orb, eldritch orb, & volatile orb). Phosani's nightmare is also available to kill, which has it's own page [here](phosanis-nightmare.md).
+
+While killing The Nightmare, your minion has a chance to die. This chance is affected by your kc and gear. Your chance of death has a maximum of 90%, and a minimum of 2%.
+
+You are able to send _solo mass nightmare_ trips. The other party members are basically clones of your minion, so your boosts and penalties are mimicked to them. This also means that not all uniques will be in your name, as other members have the same chance at unique drops.
+
+***
+
+## Type of Trip
 
 To start a solo Nightmare trip, use:
 
@@ -16,7 +24,9 @@ To start a mass Nightmare trip, use:
 
 * `/k`` `**`name:`**` ``Mass nightmare`
 
-While killing The Nightmare, your minion has a chance to die. This chance is affected by your kc and gear. Your chance of death has a maximum of 90%, and a minimum of 2%.
+To start a solo mass Nightmare trip, use:
+
+* `/k`` `**`name:`**` ``Mass Nightmare`` `**`solo:`**` ``true`
 
 ***
 
@@ -37,9 +47,13 @@ There are certain boosts and penalties given based on specific stats and gear. T
 * Less than 65 crush attack - 5% speed penalty
   * Essentially, any weapon weaker then a Zamorakian hasta will incur this penalty.
 
-<mark style="color:red;">**NOTE:**</mark> In masses, your damage output will be halved if you have lower than 65 crush attack.
+{% hint style="warning" %}
+<mark style="color:orange;">**In masses, your damage output will be halved if you have lower than 65 crush attack.**</mark>
+{% endhint %}
 
-<mark style="color:red;">**NOTE:**</mark> In masses, your damage output will be doubled if using an inquisitors mace.
+{% hint style="warning" %}
+<mark style="color:orange;">**In masses, your damage output will be doubled if using an inquisitors mace.**</mark>
+{% endhint %}
 
 ### Melee Strength Bonus
 
@@ -49,14 +63,16 @@ There are certain boosts and penalties given based on specific stats and gear. T
 
 The maximum melee strength bonus is 204. Anything above 123 will not incur these penalties.
 
-### Inquisitors Items
+### Inquisitor Items Equipped
 
 * **Solos**
   * 2% boost per piece (10% boost if all 4 items are equipped)
 * **Masses**
   * 0.5% boost per piece (3% boost if all 4 items are equipped)
 
-<mark style="color:red;">**NOTE:**</mark> Having an Elysian Spirit Shield equipped in your melee setup will also reduce food usage by 17.5%. However, this is outweighed by the food reduction of using an elder maul or a dragon defender.
+{% hint style="info" %}
+<mark style="color:blue;">**Having an Elysian spirit shield equipped in your melee setup will also reduce food usage by 17.5%. However, this is outweighed by the food reduction of using an Elder maul or a Dragon defender.**</mark>
+{% endhint %}
 
 ***
 
