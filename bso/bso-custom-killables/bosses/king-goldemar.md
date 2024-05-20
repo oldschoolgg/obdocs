@@ -22,7 +22,7 @@ You can use the command : `/k name:King Goldemar (Mass)` to begin a mass, or `/k
 
 <div>
 
-<figure><img src="../../.gitbook/assets/image.jpg" alt=""><figcaption><p>This is with Ring of Luck for best chances at DWWH solo</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.jpg" alt=""><figcaption></figcaption></figure>
 
  
 
