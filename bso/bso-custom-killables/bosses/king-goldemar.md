@@ -53,7 +53,7 @@ Players can equip a Ring of Luck (obtained via [Grandmaster Clue Scrolls](https:
 
 It is recommended to Mass for the 1st[^1] 50kc as it reduces your death chance.
 
-<table data-full-width="false"><thead><tr><th width="123">Team Size</th><th width="109">Drop Rate</th><th width="216">Drop Rate (Ring of Luck)</th></tr></thead><tbody><tr><td>1</td><td>454</td><td><a data-footnote-ref href="#user-content-fn-2">386</a></td></tr><tr><td>2</td><td>241</td><td>205</td></tr><tr><td>3</td><td>170</td><td>144</td></tr><tr><td>4</td><td>135</td><td>115</td></tr><tr><td>5</td><td>114</td><td>97</td></tr><tr><td>6</td><td>100</td><td>85</td></tr><tr><td>7</td><td>90</td><td>77</td></tr><tr><td>8</td><td>82</td><td>71</td></tr><tr><td>9</td><td>76</td><td>65</td></tr><tr><td>10</td><td>71</td><td>60</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="91">Team</th><th width="107">Drop Rate</th><th width="216">Drop Rate (Ring of Luck)</th></tr></thead><tbody><tr><td>1</td><td>454</td><td><a data-footnote-ref href="#user-content-fn-2">386</a></td></tr><tr><td>2</td><td>241</td><td>205</td></tr><tr><td>3</td><td>170</td><td>144</td></tr><tr><td>4</td><td>135</td><td>115</td></tr><tr><td>5</td><td>114</td><td>97</td></tr><tr><td>6</td><td>100</td><td>85</td></tr><tr><td>7</td><td>90</td><td>77</td></tr><tr><td>8</td><td>82</td><td>71</td></tr><tr><td>9</td><td>76</td><td>65</td></tr><tr><td>10</td><td>71</td><td>60</td></tr></tbody></table>
 
 [^1]: 
 
