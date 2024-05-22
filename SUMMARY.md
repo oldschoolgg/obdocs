@@ -81,6 +81,7 @@
   * [Hunter Training](skills/hunter/hunter-training.md)
   * [Herbiboar](skills/hunter/herbiboar.md)
   * [Birdhouses](skills/hunter/birdhouses.md)
+  * [Crystal Implings](skills/hunter/crystal-implings.md)
   * [Passive Implings](skills/hunter/passive-implings.md)
   * [Puro Puro](skills/hunter/puro-puro.md)
 * [Magic (Non-combat)](skills/magic/README.md)

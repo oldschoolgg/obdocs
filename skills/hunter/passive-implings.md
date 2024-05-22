@@ -32,7 +32,7 @@ The chance of catching a Lucky impling is 1/29,665 every minute (1/989 every 30 
 | Dragon Impling                                        | 83                        | 10                                        |
 | Lucky Impling                                         | 89                        | 1                                         |
 
-<mark style="color:red;">**\***</mark>** -** Crystal implings are only available when doing activities within Prifddinas. This includes:
+<mark style="color:red;">**\***</mark>** -** Passive Crystal implings are only available when doing activities within Prifddinas. This includes:
 
 * Gauntlet
 * Zalcano
