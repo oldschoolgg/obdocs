@@ -530,7 +530,9 @@ None
 
 
 
-**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
+**Boosts **<mark style="color:blue;">**(All boosts work from bank except Venator bow)**</mark>
+
+5% for <img src="../.gitbook/assets/Venator_bow.png" alt="" data-size="line"> Venator bow <mark style="color:red;">**(must be equipped in range and**</mark> [<mark style="color:red;">**charged**</mark>](../miscellaneous/charging-items.md#venator-bow)<mark style="color:red;">**)**</mark>
 
 5% for ![](../.gitbook/assets/Toxic\_blowpipe.png) Toxic blowpipe **OR** 3% for ![](../.gitbook/assets/Armadyl\_crossbow.png) Armadyl crossbow
 
@@ -596,7 +598,7 @@ None
 
 
 
-**Boosts  **<mark style="color:red;">**(All items must be equipped in MELEE setup for boost to apply)**</mark>
+**Boosts  **<mark style="color:red;">**(All items must be equipped in MELEE for boost to apply)**</mark>
 
 3% for <img src="../.gitbook/assets/Avernic_defender.png" alt="" data-size="line"> Avernic defender
 
@@ -624,7 +626,7 @@ None
 
 
 
-**Boosts **<mark style="color:red;">**(All items must be equipped in RANGE setup for boost to apply)**</mark>
+**Boosts **<mark style="color:red;">**(All items must be equipped in RANGE for boost to apply)**</mark>
 
 3% for <img src="../.gitbook/assets/Twisted_buckler.png" alt="" data-size="line"> Twisted buckler
 
@@ -654,7 +656,9 @@ None
 
 
 
-**Boosts **<mark style="color:red;">**(All items must be equipped in MAGE setup for boost to apply)**</mark>
+**Boosts **<mark style="color:red;">**(All items must be equipped in MAGE for boost to apply)**</mark>
+
+5% for <img src="../.gitbook/assets/Venator_bow.png" alt="" data-size="line"> Venator bow <mark style="color:red;">**(must be equipped in range and**</mark> [<mark style="color:red;">**charged**</mark>](../miscellaneous/charging-items.md#venator-bow)<mark style="color:red;">**)**</mark>
 
 3% for <img src="../.gitbook/assets/Elidinis&#x27;_ward_(f).png" alt="" data-size="line"> Elidinis' ward (f)
 
@@ -682,7 +686,7 @@ None
 
 
 
-**Boosts  **<mark style="color:red;">**(All items must be equipped in MELEE setup for boost to apply)**</mark>
+**Boosts  **<mark style="color:red;">**(All items must be equipped in MELEE for boost to apply)**</mark>
 
 3% for <img src="../.gitbook/assets/Avernic_defender.png" alt="" data-size="line"> Avernic defender
 

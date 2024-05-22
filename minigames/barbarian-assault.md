@@ -10,9 +10,10 @@ To start a trip of BA, use the following command:
 
 ## Boosts
 
-* Up to 13.11% for melee gear (see below)
-* Up to 30.3% for honour level (see below)
-* Up to 10% for average KC
+* Up to 13.11% for melee gear ([see below](barbarian-assault.md#bis-melee-gear))
+* Up to 30.3% for honour level ([see below](barbarian-assault.md#honour-level))
+* Up to 10% for total KC
+* 10% for Venator bow ([see below](barbarian-assault.md#venator-bow))
 * 10% more points for completion of Kandarin hard diary (upon return of trip)
 
 ***
@@ -40,6 +41,12 @@ To spend your honour points to increase your honour level, use the following com
 | Level 3   |         1,200         |         18.18%         |
 | Level 4   |         1,600         |         24.24%         |
 | Level 5   |         2,000         |          30.3%         |
+
+***
+
+## Venator Bow
+
+You can create the Venator bow using `/create` (needs 5 venator shards). Unlike the melee gear boost, the bow will provide a 10% speed boost to every trip. It must be <mark style="color:red;">equipped in range</mark> and [charged](../miscellaneous/charging-items.md#venator-bow) for the boost to apply, and will degrade at a rate of 50 charges per wave.
 
 ***
 

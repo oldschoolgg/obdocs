@@ -8,12 +8,13 @@ All items can be charged using `/minion charge`` `**`item:`** **`amount:`**&#x20
 
 ## Global Boosts
 
-The weapons listed on this page will provide global boosts to all PvM, _provided they are equipped in their respective setup, are sufficiently charged, and you're training that specific combat style ._ These global boosts stack with existing boosts (E.g. Shadow gives 20% boost at Kraken, and a further 6% if equipped in mage, charged, and you're training is set to magic).
+The weapons listed on this page will provide global boosts to all PvM, _provided they are equipped in their respective setup, are sufficiently charged, and you're training that specific combat style ._ These global boosts stack with existing boosts (E.g. Shadow gives 20% boost at Kraken, and a further 6% if equipped in mage, charged, and your training is set to magic).
 
 * [Abyssal tentacle](charging-items.md#abyssal-tentacle) - 3% global boost
-* [Scythe of vitur](charging-items.md#scythe-of-vitur) - 5% global boost
+* [Venator bow](charging-items.md#venator-bow) - 3% global boost
 * [Trident of the swamp](charging-items.md#trident-of-the-swamp) - 3% global boost
 * [Sanguinesti staff](charging-items.md#sanguinesti-staff) - 5% global boost
+* [Scythe of vitur](charging-items.md#scythe-of-vitur) - 5% global boost
 * [Tumeken's shadow](charging-items.md#tumekens-shadow) - 6% global boost
 
 ***
@@ -145,3 +146,15 @@ Charges are bound to your minion, not the item. Therefore, when reverting or tra
 **Provides boosts to -** ToB, GGs, Sarachnis, Duke, Vardorvis, general PvM when equipped in melee
 
 **Charges consumed -** 1 charge for every 40hp of a monster/boss when using melee
+
+***
+
+## Venator bow ![](../.gitbook/assets/Venator\_bow.png)
+
+**Charged with -** Ancient essence (1 charge per 1 essence)
+
+**Revertible -** No
+
+**Provides boosts to -** BA, GGs, Whisperer, Bloodvelds, Dags, general PvM when equipped in range
+
+**Charges consumed -** 1 charge for every 25hp of a monster/boss when using range
