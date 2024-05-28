@@ -13,7 +13,7 @@ To buy the music cape, simply use:
 
 In order to buy the trimmed music cape, one must complete all regular tasks, along with the following extras:
 
-* Maximum QP - 298
+* Maximum QP - 308
 * All elite achievement diaries completed
 
 ***

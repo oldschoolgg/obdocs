@@ -26,18 +26,20 @@ To start a Chambers of Xeric raid, use either:
 
 * 80+ Attack/Strength/Defence/Ranged/Magic
 * 70+ Prayer
-* Saradomin Brew(4), Super Restore(4), Stamina Potion(4)
-* In a mass, atleast one user needs 55 Farming and 78 Herblore (if solo, you need these too).
+* Saradomin brew(4), Super restore(4), Stamina potion(4)
+* In a mass, at least one user needs 55 Farming and 78 Herblore (if solo, you need both).
 
-It is highly recommended that you have the best possible Melee, Range and Mage gear you can and to equip them in their respective setups. You can still participate with less than the 'best-in-slot' gear but you will receive less points, increase raid time and increase death chance.
+It is highly recommended that you have the best possible Melee, Range and Mage gear and equip them in their respective setups. You can still participate with less than the 'best-in-slot' gear, but you will receive less points, increased raid time and increased death chance.
 
 View the best in slot and alternate gear setups for CoX [here](cox-gear-setups.md).
 
 ## Potion Usage
 
-When you are first starting out you will be using 7x Saradomin Brew(4), 4x Super Restore(4) and 1x Stamina Potion(4) per mass.
+When you are first starting out, you will be using 10x Saradomin brew(4), 5x Super restore(4) and 3x Stamina potion(4) per mass. They must be 4-dose potions.
 
-These quantities scale based off KC, Challenge Mode and Mass/Solo, excluding the stamina potion. In Solos you will use one extra Stamina Potion(4).
+* `/activities decant`` `**`potion_name:`** **`dose:`**`4`
+
+These quantities scale based off KC, Challenge Mode and Mass/Solo. In solos, you will use one extra Stamina potion(4).
 
 ***
 
@@ -57,7 +59,7 @@ Please keep in mind that these are just recommendations, you are not restricted 
 
 ## Boosts
 
-Higher Kc makes raids faster. Here is the maximum kc that will give a boost
+Higher Kc makes raids faster. Here is the maximum kc that will give a boost:
 
 | Difficulty | Solo Kc | Mass Kc |
 | ---------- | ------- | ------- |
@@ -83,6 +85,8 @@ The item with the highest boost that you currently own from each line will be ap
 ***
 
 ## Challenge Mode
+
+CM raids function much the same as regulars, however, they take substantially longer. Your raids will start out at around 2 hours in length, but drastically decrease as your KC gets higher. After around 75 CMs, you will have the maximum speed boost which (along with a high gear score), should make your CMs around 40-45 minutes in length.
 
 ### Requirements
 
