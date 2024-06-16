@@ -12,7 +12,7 @@ description: /craft
 * Royal dragon  leather - Made by tanning Royal dragonhide
 * [Scroll of dexterity](dungeoneering-training/dg-rewards.md#buyable-boosts-utility) - 15% extra output in crafting
 * Heat Res. Vial - Made with molten glass and athelas paste
-* [Master Hammer and Chisel](invention/#inventions) - 45% Speed boost to Crafting
+* [Master Hammer and Chisel](invention/#inventions) - 45% Speed boost to Crafting <mark style="color:red;">(doesn't work with tanning)</mark>
 * [Portable Tanner](invention/#inventions) - Automatically tans hides obtained from `/k`
 * Carapace Armour (Adamant equivalent) - helm, legs, gloves, torso, boots
 
