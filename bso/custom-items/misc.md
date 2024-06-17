@@ -8,4 +8,6 @@ Deathtouched Darts can be obtained from [Grandmaster Caskets](https://bso-wiki.o
 
 Tiny - 20k xp, Small - 50k xp, Average - 100k xp, Large - 1m xp, Huge - 5m xp
 
-####
+#### Divine Water
+
+Created with 888 bones and 1 vial of water
