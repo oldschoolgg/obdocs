@@ -32,7 +32,7 @@ You should use the best melee gear you have.
 ![Loot from 10,000 Kalphite King](<../../.gitbook/assets/osbot (5).png>)
 
 * **Baby Kalphite King:** Pet with no perk
-* **Perfect Chitin:** Currently has no use
+* **Perfect Chitin:** Used to create [Axe handle](../demi-bosses/solis.md#loot)
 * **Drygore weapons:** A set of 6 weapons which are very powerful, and used in many places.
   * _Drygore Rapier + Offhand Drygore Rapier:_ Best in slot for Cox melee setup
   * _Drygore Mace + Offhand Drygore Mace:_ Best in slot at Kalphite King

@@ -30,3 +30,7 @@ Takon, Smithing Master Cape, smiths outfit in skilling
 | Adamant Platebody | 5,048,020 |
 | 3-bar Rune items  | 4,318,729 |
 | Rune Platebody    | 6,057,624 |
+
+### Custom smithables
+
+Sun-metal / Sun god items [solis.md](../bso-custom-killables/demi-bosses/solis.md "mention")
