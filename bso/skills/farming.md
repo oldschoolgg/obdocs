@@ -6,14 +6,16 @@ description: /farming plant
 
 Custom Content
 
-* Athelas seed - Plant at 99 Farming in herb patch, gives Athelas Herbs when harvested.
-* Mysterious Tree seed - Plant at 120 Farming in tree patch, gives various Mystery Boxes when harvested.
-* Avocado seed - Plant at 99 Farming in bush patch, gives avocados when harvested
-* Mango seed - Plant at 105 Farming in bush patch, gives mangos when harvested
-* Lychee seed - Plant at 111 Farming in bush patch, gives lychee when harvested
-* Korulsi Seed - Plant at 110 Farming in herb patch, gives grimy Korulsi when harvested.
-* Grand Crystal Acorn - Plant at 115 Farming in Crystal Tree patch, gives Crystal Shards when harvested.
 * Blood Orange seed - Plant at 92 Farming in fruit tree patch, gives Blood orange when harvested (used to make Vial of Blood)
+* Avocado seed - Plant at 99 Farming in bush patch, gives avocados when harvested.
+* Spirit weed seed - Plat at 99 Farming in herb patch, gives [Spirit weed](herblore.md#divination-potion) when harvested.
+* Athelas seed - Plant at 99 Farming in herb patch, gives Athelas Herbs when harvested.
+* Mango seed - Plant at 105 Farming in bush patch, gives mangos when harvested.
+* Korulsi seed - Plant at 110 Farming in herb patch, gives grimy Korulsi when harvested.
+* Lychee seed - Plant at 111 Farming in bush patch, gives lychee when harvested.
+* Advax berry seed - Plant at 111 Farming in bush patch, gives [Advax berry](herblore.md#divination-potion) when harvested.
+* Grand crystal acorn - Plant at 115 Farming in Crystal Tree patch, gives Crystal Shards when harvested.
+* Mysterious Tree seed - Plant at 120 Farming in tree patch, gives various Mystery Boxes when harvested.
 
 ### Boosts
 

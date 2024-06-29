@@ -14,7 +14,7 @@ description: /laps
 * [Monkey Rumble](../minigames/mad-marimbos-monkey-rumble/#rewards) - While doing this minigame you can receive agility experience at about 1/4th of the strength xp you receive
 * [Agility Master Cape](../custom-items/equippables/#master-capes) - Acts as a full set of graceful
 * [Silverhawk Boots](invention/#inventions) - 36k/hr passive xp and 1.9x speed boost to `/laps`
-* [Graceful portent](divination.md#portent-list) - converts marks of grace found on trips into bonus xp
+* [Graceful portent](divination/#portent-list) - converts marks of grace found on trips into bonus xp
 
 ### Optimal Gear Setup
 

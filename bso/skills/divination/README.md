@@ -20,8 +20,8 @@ Memory harvesting is the primary method for training in Divination. It involves 
 
 ### Boosts
 
-* [**Wisp-buster**](invention/#inventions)**:** Boosts XP/hr by 30%
-* [**Divine hand**](invention/#inventions)**:** Gives 30% more energy, and allows memories to drop Clue scrolls.&#x20;
+* [**Wisp-buster**](../invention/#inventions)**:** Boosts XP/hr by 30%
+* [**Divine hand**](../invention/#inventions)**:** Gives 30% more energy, and allows memories to drop Clue scrolls.&#x20;
 
 _Only one of the above inventions can be used at a time._
 
@@ -30,7 +30,7 @@ _Only one of the above inventions can be used at a time._
 * **Guthixian Cache Boost:** 20% extra XP and energy for one trip per boost.&#x20;
 * **Divination potion:** Variable extra energy/xp and +10 level boost for /memoryharvest (Allows you to do higher tiers before having the required level)
 * Diviner's outfit - 4% xp boost
-* [Divination Master Cape](../custom-items/equippables/#master-capes) -&#x20;
+* [Divination Master Cape](../../custom-items/equippables/#master-capes) -&#x20;
 
 ### Other Things
 
