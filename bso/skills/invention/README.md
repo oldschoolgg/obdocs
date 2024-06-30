@@ -4,11 +4,11 @@ description: /invention disassemble
 
 # Invention
 
-
-
 Invention is a skill where you disassemble items to get materials, and then use those materials to make inventions. Inventions are items which give you boosts and perks, at the cost of materials. You need level 90 Crafting to train Invention.
 
 All aspects of the Invention skill are accessed using `/invention`
+
+Invention has a minigame, [Tinkering Workshop](../../minigames/tinkering-workshop.md).
 
 ## Disassembling
 

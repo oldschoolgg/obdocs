@@ -2,6 +2,8 @@
 
 This guides purpose is to serve as a quick guide to reach level 99 Invention. It is not the absolute fastest way to level 99. Nor is it the most efficient for getting a variety of materials. I recommend you reach level 99/120 first using this guide and then figure out what inventions you want to aim for.&#x20;
 
+Consider getting the inventor's outfit from [Tinkering Workshop](../../minigames/tinkering-workshop.md) at some point, for 4% bonus XP.
+
 * Level  1 - 11: 652 Potato seed
 * Level 11 - 26: 933 Opal bolt tips
 * Level 26 - 35: 553 Jade bolt tips
