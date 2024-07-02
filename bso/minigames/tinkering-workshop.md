@@ -6,6 +6,8 @@ Tinkering Workshop is an invention minigame, where you can tinker with materials
 
 The full outfit gives 4% bonus invention XP.
 
+All materials have the same reward drop rate, however the Junk material will halve the XP you receive. All other materials provide the same amount of XP.
+
 ### Rewards
 
 * Inventors' helmet
