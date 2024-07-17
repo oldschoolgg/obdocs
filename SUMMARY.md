@@ -19,6 +19,7 @@
 ## Bosses
 
 * [Boosts & Requirements](bosses/boosts-and-requirements.md)
+* [Colosseum](bosses/colosseum.md)
 * [DT2 Bosses](bosses/dt2-bosses.md)
 * [Fight Caves](bosses/fight-caves/README.md)
   * [Tokkul Shop](bosses/fight-caves/tokkul-shop.md)

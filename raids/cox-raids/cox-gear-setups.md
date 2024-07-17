@@ -26,13 +26,7 @@ _If you are below 50% of the reference strength bonus, (78) your gear score is h
 
 <div align="left">
 
-<img src="https://media.discordapp.net/attachments/847902471271874580/938138879985352744/osbot-8.png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="https://media.discordapp.net/attachments/847902471271874580/938138182782947348/osbot-7.png" alt="">
+<figure><img src="../../.gitbook/assets/coxmeleemaul (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
