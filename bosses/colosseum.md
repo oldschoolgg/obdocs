@@ -4,11 +4,13 @@ The Colosseum is a wave based activity where your minion will attempt to achieve
 
 It takes on average, 42-43 deaths to complete the Colosseum. Your completion time after the first completion will drastically reduce, and will continue to do so at certain KC milestones.
 
-To start the Colosseum, use `/k`` `**`name:`**`Colosseum`
+It is advised to start your attempts with Blood fury and switch to Torture after 10-15 completions, as this will save charges and your death chance will already be quite low from that point.
 
 {% hint style="danger" %}
 <mark style="color:red;">**Currently, even if you plank at wave 1, you will use a full invent of supplies and charges every attempt. There is a fix coming, but the due date is unknown at this time.**</mark>
 {% endhint %}
+
+To start the Colosseum, use `/k`` `**`name:`**`Colosseum`
 
 ***
 
@@ -114,7 +116,24 @@ There is a list of required melee and range gear in order to attempt the Colosse
 
 ![](../.gitbook/assets/Smol\_heredit.png) Smol heredit - 1/200 chance upon completion of wave 12
 
-{% hint style="info" %}
-<mark style="color:blue;">**You can gamble a quiver for the pet (1/200) using**</mark><mark style="color:blue;">** **</mark><mark style="color:blue;">**`/gamble item item:quiver`**</mark>
-{% endhint %}
+***
 
+## Dizana's Quiver
+
+The quiver is the main item sought after from the Colosseum. It is given after completion of wave 12. It has a few uses within the bot, however, it does not currently provide boosts to any content.
+
+You can gamble the quiver for a chance at the pet. The chance is 1/200.
+
+* `/gamble item`` `**`item:`**`quiver`
+
+You can bless the quiver. This provides no boosts to anything and cannot be reverted.
+
+* `/create`` `**`item:`**`Blessed dizana's quiver`
+
+You can revert the uncharged quiver into 4,000 Sunfire splinters.
+
+* `/create`` `**`item:`**`Revert Dizana's quiver (uncharged)`
+
+You can create Dizana's max cape. This cannot be reverted.
+
+* `/create`` `**`item:`**`Dizana's max cape`
