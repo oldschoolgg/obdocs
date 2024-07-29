@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to the Old School Bot Wiki!](README.md)
+* [Randomizer](randomizer.md)
 
 ## Getting Started
 
@@ -15,7 +16,6 @@
 * [Combat Training](getting-started/combat-skills.md)
 * [Bank Filters](getting-started/bank-filters.md)
 * [Leagues](getting-started/leagues.md)
-* [Randomizer](getting-started/randomizer.md)
 
 ## Bosses
 
