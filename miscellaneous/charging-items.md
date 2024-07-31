@@ -97,7 +97,7 @@ Charges are bound to your minion, not the item. Therefore, when reverting or tra
 
 **Provides boosts to -** ToA
 
-**Charges consumed -** The only place it consumes charges is ToA at 150 charges per raid
+**Charges consumed -** ToA (150 charges per raid) and Colosseum (900 charges per attempt)
 
 ***
 

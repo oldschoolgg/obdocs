@@ -322,15 +322,15 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 **Boosts **<mark style="color:red;">**(All items must be equipped in WILDY setup for boost to apply)**</mark>
 
-5.5% for ![](../.gitbook/assets/Inquisitor's\_great\_helm.png) Inquisitor's great helm OR 3% for ![](../.gitbook/assets/Torva\_full\_helm.png) Torva full helm OR 2.5% for ![](../.gitbook/assets/Neitiznot\_faceguard.png) Neitiznot faceguard
+5.5% for ![](../.gitbook/assets/Inquisitor's\_great\_helm.png) Inquisitor's great helm **OR** 3% for ![](../.gitbook/assets/Torva\_full\_helm.png) Torva full helm **OR** 2.5% for ![](../.gitbook/assets/Neitiznot\_faceguard.png) Neitiznot faceguard
 
-5.5% for ![](../.gitbook/assets/Amulet\_of\_torture.png) Amulet of torture OR 4% for ![](../.gitbook/assets/Amulet\_of\_strength.png) Amulet of strength OR 2.5% for ![](../.gitbook/assets/Amulet\_of\_fury.png) Amulet of fury
+5.5% for ![](../.gitbook/assets/Amulet\_of\_torture.png) Amulet of torture **OR** 4% for ![](../.gitbook/assets/Amulet\_of\_strength.png) Amulet of strength **OR** 2.5% for ![](../.gitbook/assets/Amulet\_of\_fury.png) Amulet of fury
 
-7.5% for ![](../.gitbook/assets/Infernal\_cape.png) Infernal cape OR 4% for ![](../.gitbook/assets/Mythical\_cape.png) Mythical cape OR 3% for ![](../.gitbook/assets/Fire\_cape.png) Fire cape
+7.5% for ![](../.gitbook/assets/Infernal\_cape.png) Infernal cape **OR** 4% for ![](../.gitbook/assets/Mythical\_cape.png) Mythical cape **OR** 3% for ![](../.gitbook/assets/Fire\_cape.png) Fire cape
 
-10% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's hauberk OR 5% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody OR 3% for ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos chestplate
+10% for ![](../.gitbook/assets/Inquisitor's\_hauberk.png) Inquisitor's hauberk **OR** 5% for ![](../.gitbook/assets/Torva\_platebody.png) Torva platebody **OR** 3% for ![](../.gitbook/assets/Bandos\_chestplate.png) Bandos chestplate
 
-10% for ![](../.gitbook/assets/Inquisitor's\_plateskirt.png) Inquisitor's plateskirt OR 5% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs OR 3% for ![](../.gitbook/assets/Bandos\_tassets.png) Bandos tasset
+10% for ![](../.gitbook/assets/Inquisitor's\_plateskirt.png) Inquisitor's plateskirt **OR** 5% for ![](../.gitbook/assets/Torva\_platelegs.png) Torva platelegs **OR** 3% for ![](../.gitbook/assets/Bandos\_tassets.png) Bandos tasset
 
 52.5% for ![](../.gitbook/assets/Ursine\_chainmace.png) Ursine chainmace **OR** 49.5% for ![](../.gitbook/assets/Viggora's\_chainmace.png) Viggora's chainmace **OR** 24.5% for ![](../.gitbook/assets/Inquisitor's\_mace.png) Inquisitor's mace **OR** 24% for ![](../.gitbook/assets/Abyssal\_bludgeon.png) Abyssal bludgeon **OR** 1% for ![](../.gitbook/assets/Zamorakian\_hasta.png) Zamorakian hasta
 
@@ -394,17 +394,21 @@ Refer to the [Slayer Boosts](https://wiki.oldschool.gg/skills/slayer/slayer-boos
 
 ## Other Wilderness Bosses
 
+{% hint style="danger" %}
+<mark style="color:red;">**There is always a chance to lose some of your gear when attempting these bosses!**</mark>
+{% endhint %}
+
 {% tabs %}
 {% tab title="Chaos Elemental" %}
 **Requirements**
 
 ![](../.gitbook/assets/Karil's\_leathertop.png) Karil's leathertop **OR** ![](../.gitbook/assets/Black\_d'hide\_body.png) Black d'hide body
 
-![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt OR ![](../.gitbook/assets/Black\_d'hide\_chaps.png)Black d'hide chaps
+![](../.gitbook/assets/Karil's\_leatherskirt.png) Karil's leatherskirt **OR** ![](../.gitbook/assets/Black\_d'hide\_chaps.png) Black d'hide chaps
 
 
 
-**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
+**Boosts **<mark style="color:red;">**(All items must be equipped in WILDY setup for boost to apply)**</mark>
 
 25% for ![](../.gitbook/assets/Webweaver\_bow.png) Webweaver bow **OR** 20% for ![](../.gitbook/assets/Craw's\_bow.png) Craw's bow
 
@@ -420,7 +424,7 @@ None
 
 
 
-**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
+**Boosts **<mark style="color:red;">**(All items must be equipped in WILDY setup for boost to apply)**</mark>
 
 25% for ![](../.gitbook/assets/Webweaver\_bow.png) Webweaver bow **OR** 20% for ![](../.gitbook/assets/Craw's\_bow.png) Craw's bow
 
@@ -436,7 +440,7 @@ None
 
 
 
-**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
+**Boosts **<mark style="color:red;">**(All items must be equipped in WILDY setup for boost to apply)**</mark>
 
 10% for ![](../.gitbook/assets/Occult\_necklace.png) Occult necklace
 {% endtab %}
@@ -448,7 +452,7 @@ None
 
 
 
-**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
+**Boosts **<mark style="color:red;">**(All items must be equipped in WILDY setup for boost to apply)**</mark>
 
 10% for <img src="../.gitbook/assets/Occult_necklace.png" alt="" data-size="original"> Occult necklace
 

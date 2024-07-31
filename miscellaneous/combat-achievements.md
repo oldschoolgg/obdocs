@@ -1,18 +1,22 @@
 # Combat Achievements
 
+{% hint style="danger" %}
+<mark style="color:red;">**There are currently some issues with certain/most CAs. An update is coming but ETA is unknown. This message will be removed when a fix is in place.**</mark>
+{% endhint %}
+
 ## Getting Started
 
 You can complete almost all the same combat achievements in the bot, as the real game. However, the method in order to obtain some achievements are different to the real game as the bot simply cannot reflect the nature of the all tasks. The CA system is point based, the same as in-game.
 
-Some tasks are simply claimed retroactively by using:
+Some tasks (usually kc-based tasks) are simply claimed retroactively by using:
 
 * `/ca claim`
 
-To view your complete, incomplete, or a list of all CA tasks, use:
+To view all your complete and incomplete CA tasks, or filter by monster, use:
 
 * `/ca view`` `**`type:`**`all`
 * `/ca view`` `**`type:`**`complete`
-* `/ca view`` `**`type:`**`incomplete`
+* `/ca view`` `**`name:`**`Barrows`` `**`type:`**`incomplete`
 
 ***
 
@@ -26,13 +30,17 @@ Like osrs, certain tiers are unlocked after attaining a certain number of points
 | Easy        |          33          |               33               |
 | Medium      |          80          |               113              |
 | Hard        |          189         |               302              |
-| Elite       |          492         |               794              |
-| Master      |          620         |              1,414             |
-| Grandmaster |          522         |              1,936             |
+| Elite       |          504         |               806              |
+| Master      |          645         |              1,451             |
+| Grandmaster |          552         |              2,003             |
 
 ## Combat Tasks
 
-While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below is a list of all possible combat tasks to complete in the bot. To view the full list of official CA tasks in one page, please visit the [osrs CA wiki page](https://oldschool.runescape.wiki/w/Combat\_Achievements/All\_tasks). If the **'How To Unlock'** description does not contain a 1/X, it means that the chance is 1/1.
+While there are 556 CA tasks in osrs, the bot contains a few less at 483. Below is a list of all possible combat tasks to complete in the bot. To view the full list of OSRS CA tasks in one page, please visit the [OSRS CA wiki page](https://oldschool.runescape.wiki/w/Combat\_Achievements/All\_tasks).
+
+{% hint style="info" %}
+<mark style="color:blue;">**If the 'How To Unlock' description does not contain a 1/X, it means that the chance is 1/1.**</mark>
+{% endhint %}
 
 {% hint style="danger" %}
 <mark style="color:red;">**Some tasks are currently broken, meaning you can obtain them differently to the intended method. They may be fixed in the future! These tasks are marked in red.**</mark>
@@ -212,7 +220,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 
 {% tab title="Elite" %}
 {% hint style="success" %}
-<mark style="color:green;">**Elite tasks are worth 4 points each. There are a total of 123 elite tasks.**</mark>
+<mark style="color:green;">**Elite tasks are worth 4 points each. There are a total of 126 elite tasks.**</mark>
 {% endhint %}
 
 |                                   |                                                |                                                                                             |
@@ -242,6 +250,9 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Chambers of Xeric                 | Together We'll Fall                            | 1/5 chance to be given per regular raid                                                     |
 | Chambers of Xeric: Challenge Mode | <mark style="color:red;">Dust Seeker</mark>    | <mark style="color:red;">1/22 chance to be given per regular raid</mark>                    |
 | Chaos Elemental                   | Chaos Elemental Veteran                        | Kill 25 Chaos Elemental                                                                     |
+| Colosseum                         | I was here first!                              | 1/5 chance to be given per Colosseum attempt                                                |
+| Colosseum                         | Denied                                         | 1/12 chance to be given per Colosseum attempt but only after wave 7 or above                |
+| Colosseum                         | Furball                                        | 1/12 chance to be given per Colosseum attempt but only after wave 4 or above                |
 | Commander Zilyana                 | Commander Zilyana Veteran                      | Kill 100 Commander Zilyana                                                                  |
 | Commander Zilyana                 | Reminisce                                      | Kill Commander Zilyana while your combat style is set to melee                              |
 | Corporeal Beast                   | Chicken Killer                                 | 1/1 chance to be given per kill                                                             |
@@ -345,7 +356,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 
 {% tab title="Master" %}
 {% hint style="success" %}
-<mark style="color:green;">**Master tasks are worth 5 points each. There are a total of 124 master tasks.**</mark>
+<mark style="color:green;">**Master tasks are worth 5 points each. There are a total of 129 master tasks.**</mark>
 {% endhint %}
 
 |                                   |                                                                              |                                                                                                  |
@@ -382,6 +393,11 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Chambers of Xeric: Challenge Mode | Immortal Raid Team                                                           | 1/15 chance to be given per CM raid                                                              |
 | Chambers of Xeric: Challenge Mode | Chambers of Xeric: CM Master                                                 | Complete 10 CM raids                                                                             |
 | Chambers of Xeric: Challenge Mode | <mark style="color:red;">Chambers of Xeric: CM (Trio) Speed-Chaser</mark>    | 1/23 chance to be given per CM raid <mark style="color:red;">(can be any party size)</mark>      |
+| Colosseum                         | One-off                                                                      | 1/15 chance to be given per Colosseum attempt but only after wave 11 or above                    |
+| Colosseum                         | Showboating                                                                  | 1/15 chance to be given per Colosseum completion                                                 |
+| Colosseum                         | I Brought Mine Too                                                           | 1/15 chance to be given per Colosseum completion                                                 |
+| Colosseum                         | Sportsmanship                                                                | Complete 1 Colosseum                                                                             |
+| Colosseum                         | Colosseum Speed-Chaser                                                       | Complete the Colosseum in under 28 minutes (requires about 10kc)                                 |
 | Commander Zilyana                 | Moving Collateral                                                            | 1/50 chance to be given per kill                                                                 |
 | Corporeal Beast                   | Corporeal Beast Master                                                       | Kill 50 Corporeal Beast                                                                          |
 | Corrupted Hunllef                 | Corrupted Gauntlet Master                                                    | Complete 10 Corrupted Gauntlet                                                                   |
@@ -479,7 +495,7 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 
 {% tab title="Grandmaster" %}
 {% hint style="success" %}
-<mark style="color:green;">**Grandmaster tasks are worth 6 points each. There are a total of 87 GM tasks.**</mark>
+<mark style="color:green;">**Grandmaster tasks are worth 6 points each. There are a total of 92 GM tasks.**</mark>
 {% endhint %}
 
 |                                   |                                                                              |                                                                                                                                  |
@@ -495,6 +511,11 @@ While there are 485 CA tasks in osrs, the bot contains a few less at 470. Below 
 | Chambers of Xeric: Challenge Mode | Chambers of Xeric: CM Grandmaster                                            | Complete 25 CM CoX                                                                                                               |
 | Chambers of Xeric: Challenge Mode | <mark style="color:red;">Chambers of Xeric: CM (Trio) Speed-Runner</mark>    | 1/30 chance to be given per CM CoX <mark style="color:red;">(can be any party size)</mark>                                       |
 | Chambers of Xeric: Challenge Mode | <mark style="color:red;">Chambers of Xeric: CM (5-Scale) Speed-Runner</mark> | 1/30 chance to be given per CM CoX <mark style="color:red;">(can be any party size)</mark>                                       |
+| Colosseum                         | Colosseum Speed-Runner                                                       | Complete the Colosseum in under 24 minutes (requires about 17kc)                                                                 |
+| Colosseum                         | Slow Dancing in the Sand                                                     | 1/15 chance to be given per Colosseum completion                                                                                 |
+| Colosseum                         | Reinforcements                                                               | 1/30 chance to be given per Colosseum completion                                                                                 |
+| Colosseum                         | Perfect Footwork                                                             | 1/20 chance to be given per Colosseum completion                                                                                 |
+| Colosseum                         | Colosseum Grand Champion                                                     | Complete 10 Colosseums                                                                                                           |
 | Commander Zilyana                 | Peach Conjurer                                                               | Kill 50 Commander Zilyana                                                                                                        |
 | Commander Zilyana                 | Animal Whisperer                                                             | 1/50 chance to be given per kill                                                                                                 |
 | Corrupted Hunllef                 | Corrupted Gauntlet Speed-Runner                                              | 1/35 chance to be given per Corrupted Gauntlet                                                                                   |

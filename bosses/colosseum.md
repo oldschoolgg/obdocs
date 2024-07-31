@@ -2,7 +2,7 @@
 
 The Colosseum is a wave based activity where your minion will attempt to achieve the highest floor possible, in order to obtain Dizana's quiver. You cannot specify a wave to stop at, you will always attempt to finish the activity.&#x20;
 
-It takes on average, 42-43 deaths to complete the Colosseum. Your completion time after the first completion will drastically reduce, and will continue to do so at certain KC milestones.
+It takes on average, 42-43 deaths to complete the Colosseum. Your first kc will always take about 1 hour, however, the time after the first completion will drastically reduce, and will continue to do so at certain KC milestones.
 
 It is advised to start your attempts with Blood fury and switch to Torture after 10-15 completions, as this will save charges and your death chance will already be quite low from that point.
 
@@ -46,7 +46,7 @@ The following items provide a boost from the bank and are _**not required**_ to 
 
 ## Gear
 
-There is a list of required melee and range gear in order to attempt the Colosseum. You can use any of the listed items, as none of them provide further boosts (i.e. using torva over bandos doesnt give you any extra completion chance). Just as long as you have them equipped in their respective setups.
+There is a list of required melee and range gear in order to attempt the Colosseum. Aside from your weapon, you can use any of the listed items, as none of them provide further boosts (i.e. using torva over bandos doesnt give you any extra completion chance). Just as long as you have them equipped in their respective setups.
 
 ### Melee
 
