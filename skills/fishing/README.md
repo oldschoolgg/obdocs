@@ -1,6 +1,6 @@
 # Fishing
 
-You can train Fishing using `/fish`` `**`name:`**`<fish>`` `**`quantity:`**`<quantity>`, for example `/fish`` `**`name:`**`Lobster`` `**`quantity:`**`100`
+You can train Fishing using `/fish`` `**`name:`**`<fish>`` `**`quantity:`**`<quantity>` **`flakes:`**`<true/false>`, for example `/fish`` `**`name:`**`Lobster`` `**`quantity:`**`100`
 
 Fishing bait is buyable with `/buy`` `**`name:`**` ``Fishing bait`.
 
@@ -17,6 +17,10 @@ It's possible to get the Angler's outfit from [Fishing Trawler](fishing-trawler.
 * 0.6% - Angler waders
 * 0.2% - Angler boots
 * 2.5% - Full outfit equipped in skilling setup
+
+#### Flakes
+
+Spirit flakes received from [Tempoross](tempoross.md) can be used to increase the yield of a fishing trip. One flake is used per fish caught, and it has a 50% chance to double the catch. The extra fish does not provide extra experience.
 
 ## **Tools**
 
