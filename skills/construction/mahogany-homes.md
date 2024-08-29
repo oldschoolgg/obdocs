@@ -35,8 +35,8 @@ All contracts use a random amount of steel bars and planks, scaled to the amount
 
 You can buy the following items with the `/minigames mahogany_homes buy` command.
 
-E.g. `/minigames mahogany_homes buy`` `**`name:`**`Builders supply crate`
+To view how many points you have, use `/minigames mahogany_homes points`
 
-* The full carpenter's outfit provides a 2.5% boost to construction XP.
+* The full carpenter's outfit provides a 2.5% boost to construction XP
 
 <table data-header-hidden><thead><tr><th>Item</th><th width="180.00000000000003" align="center">Point cost</th><th align="center">Use</th></tr></thead><tbody><tr><td><strong>Item</strong></td><td align="center"><strong>Point cost</strong></td><td align="center"><strong>Use</strong></td></tr><tr><td>Builders supply crate</td><td align="center">25</td><td align="center">Provides construction materials when opened</td></tr><tr><td>Amy's saw</td><td align="center">500</td><td align="center">Cosmetic saw</td></tr><tr><td>Plank sack</td><td align="center">350</td><td align="center">Mahogany Homes xp boost</td></tr><tr><td>Hosidius blueprints</td><td align="center">2,000</td><td align="center">PoH recolour</td></tr><tr><td>Carpenter's helmet</td><td align="center">400</td><td align="center">0.4% construction xp boost</td></tr><tr><td>Carpenter's shirt</td><td align="center">800</td><td align="center">0.8% construction xp boost</td></tr><tr><td>Carpenter's trousers</td><td align="center">600</td><td align="center">0.6% construction xp boost</td></tr><tr><td>Carpenter's boots</td><td align="center">200</td><td align="center">0.2% construction xp boost</td></tr></tbody></table>

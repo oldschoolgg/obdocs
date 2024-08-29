@@ -18,6 +18,10 @@ It's possible to get the Angler's outfit from [Fishing Trawler](fishing-trawler.
 * 0.2% - Angler boots
 * 2.5% - Full outfit equipped in skilling setup
 
+#### Spirit Flakes
+
+* There is a 50% chance to catch double fish when using Spirit flakes, effectively doubling the amount of fish you can catch per trip. The extra fish does not give extra xp.
+
 ## **Tools**
 
 Certain tools, when equipped in any setup, will speed up the time it takes to catch a fish. The following boosts are available:

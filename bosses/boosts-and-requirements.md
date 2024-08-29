@@ -776,17 +776,35 @@ None
 
 <img src="../.gitbook/assets/prayer_icon.png" alt="" data-size="line"> 43 Prayer
 
-![](../.gitbook/assets/Zamorakian\_spear.png) Zamorakian spear
+![](../.gitbook/assets/Zamorakian\_spear.png) Zamorakian spear **OR** ![](../.gitbook/assets/Osmumten's\_fang.png) Osmumten's fang
 
 
 
-**Boosts **<mark style="color:blue;">**(All boosts work from bank)**</mark>
+**Boosts **<mark style="color:red;">**(Must be equipped in MELEE unless specified)**</mark>
 
 50% for ![](../.gitbook/assets/Rejuvenation\_pool\_icon.png) POH Pool of rejuvenation or better
 
-10% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer
+12% for ![](<../.gitbook/assets/Elder maul.png>) Elder maul **OR** 10% for ![](../.gitbook/assets/Dragon\_warhammer.png) Dragon warhammer <mark style="color:blue;">**(Works from bank)**</mark>
 
-5% for ![](<../.gitbook/assets/Bandos\_godsword (1).png>) Bandos godsword
+6% for ![](../.gitbook/assets/Voidwaker.png) Voidwaker **OR** 5% for ![](<../.gitbook/assets/Bandos\_godsword (1).png>) Bandos godsword <mark style="color:blue;">**(Works from bank)**</mark>
+
+10% for ![](../.gitbook/assets/Osmumten's\_fang.png) Osmumten's fang
+
+8% for <img src="../.gitbook/assets/120px-elysian_spirit_shield_detail.png" alt="" data-size="line"> Elysian spirit shield
+
+2% for ![](../.gitbook/assets/Torva\_full\_helm.png)  Torva full helm
+
+3% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f)
+
+3% for ![](../.gitbook/assets/Masori\_chaps\_\(f\).png) Masori chaps (f)
+
+2% for ![](../.gitbook/assets/Infernal\_cape.png) Infernal cape
+
+1% for ![](../.gitbook/assets/Ring\_of\_suffering\(i\).png) Ring of suffering (i)
+
+1% for ![](../.gitbook/assets/Barrows\_gloves.png)  Barrows gloves
+
+1% for ![](../.gitbook/assets/Primordial\_boots.png) Primodial boots
 {% endtab %}
 
 {% tab title="Kalphite Queen" %}
@@ -968,9 +986,17 @@ None
 
 
 
-**Boosts**
+**Boosts **<mark style="color:red;">**(Must be equipped in MELEE)**</mark>
 
-None
+15% for ![](../.gitbook/assets/Scythe\_of\_vitur.png) Scythe of vitur OR 12% ![](../.gitbook/assets/Soulreaper\_axe.png) for Soulreaper axe OR 5% for ![](../.gitbook/assets/Bone\_mace.png) Bone mace
+
+5% for ![](../.gitbook/assets/Avernic\_defender.png) Avernic defender OR 3% for ![](../.gitbook/assets/Dragon\_defender.png) Dragon defender
+
+4% for ![](../.gitbook/assets/Amulet\_of\_torture.png) Amulet of torture OR 2% for ![](../.gitbook/assets/Amulet\_of\_fury.png) Amulet of fury
+
+4% for ![](../.gitbook/assets/Ferocious\_gloves.png) Ferocious gloves OR 2% for ![](../.gitbook/assets/Barrows\_gloves.png) Barrows gloves
+
+4% for ![](../.gitbook/assets/Infernal\_cape.png) Infernal cape OR 2% for ![](../.gitbook/assets/Fire\_cape.png) Fire cape
 {% endtab %}
 
 {% tab title="Vorkath" %}

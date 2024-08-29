@@ -8,7 +8,7 @@ All items can be charged using `/minion charge`` `**`item:`** **`amount:`**&#x20
 
 ## Global Boosts
 
-The weapons listed on this page will provide global boosts to all PvM, _provided they are equipped in their respective setup, are sufficiently charged, and you're training that specific combat style ._ These global boosts stack with existing boosts (E.g. Shadow gives 20% boost at Kraken, and a further 6% if equipped in mage, charged, and your training is set to magic).
+The weapons listed on this page will provide global boosts to all PvM, _provided they are equipped in their respective setup, are sufficiently charged, and you're training that specific combat style._ These global boosts stack with existing boosts (E.g. Shadow gives 20% boost at Kraken, and a further 6% if equipped in mage, charged, and your training is set to magic).
 
 * [Abyssal tentacle](charging-items.md#abyssal-tentacle) - 3% global boost
 * [Venator bow](charging-items.md#venator-bow) - 3% global boost

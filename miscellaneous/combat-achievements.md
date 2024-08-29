@@ -1,9 +1,5 @@
 # Combat Achievements
 
-{% hint style="danger" %}
-<mark style="color:red;">**There are currently some issues with certain/most CAs. An update is coming but ETA is unknown. This message will be removed when a fix is in place.**</mark>
-{% endhint %}
-
 ## Getting Started
 
 You can complete almost all the same combat achievements in the bot, as the real game. However, the method in order to obtain some achievements are different to the real game as the bot simply cannot reflect the nature of the all tasks. The CA system is point based, the same as in-game.
@@ -137,7 +133,7 @@ While there are 556 CA tasks in osrs, the bot contains a few less at 483. Below 
 | Skeletal Wyvern        | A Frozen Foe from the Past                           | Kill 1 Skeletal Wyvern                                                                           |
 | Skotizo                | Demonbane Weaponry                                   | Kill 1 Skotizo with a Silverlight, Darklight, or Arclight equipped                               |
 | Skotizo                | Skotizo Champion                                     | Kill 1 Skotizo                                                                                   |
-| Skotizo                | Demonic Weakening                                    | 1/15 chance to be given per kill                                                                 |
+| Skotizo                | Demonic Weakening                                    | 1/5 chance to be given per kill                                                                  |
 | Tempoross              | Tempoross Champion                                   | Kill 10 Tempoross                                                                                |
 | Tempoross              | The Lone Angler                                      | 1/25 chance to be given per kill                                                                 |
 | Wintertodt             | Leaving No One Behind                                | 1/50 chance to be given per kill                                                                 |
@@ -205,7 +201,7 @@ While there are 556 CA tasks in osrs, the bot contains a few less at 483. Below 
 | Scorpia                      | Scorpia Adept              | Kill 10 Scorpia                                                                               |
 | Skotizo                      | Skotizo Adept              | Kill 5 Skotizo                                                                                |
 | Tempoross                    | Dress Like You Mean It     | Subdue Tempoross while wearing any variation of the angler outfit (Spirit or Standard Angler) |
-| Tempoross                    | Why Cook?                  | 1/30 chance to be given per kill                                                              |
+| Tempoross                    | Why Cook?                  | 1/5 chance to be given per kill                                                               |
 | The Nightmare                | Nightmare Adept            | Kill 1 Nightmare                                                                              |
 | Theatre of Blood: Entry Mode | Theatre of Blood: SM Adept | Complete 1 ToB (Any mode)                                                                     |
 | Tombs of Amascut: Entry Mode | Confident Raider           | Complete 1 ToA (Any invocation)                                                               |
