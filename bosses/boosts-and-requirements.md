@@ -792,6 +792,8 @@ None
 
 8% for <img src="../.gitbook/assets/120px-elysian_spirit_shield_detail.png" alt="" data-size="line"> Elysian spirit shield
 
+8% for ![](../.gitbook/assets/Amulet\_of\_blood\_fury.png) Amulet of blood fury
+
 2% for ![](../.gitbook/assets/Torva\_full\_helm.png)  Torva full helm
 
 3% for ![](../.gitbook/assets/Masori\_body\_\(f\).png) Masori body (f)
