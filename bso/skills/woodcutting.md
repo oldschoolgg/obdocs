@@ -13,7 +13,7 @@ description: /chop
 
 ### Optimal Gear Setup
 
-Full lumberjack outfit in skilling, Drygore greataxe, Woodcutting master cape
+Full lumberjack outfit in skilling, Drygore Axe, Woodcutting master cape
 
 ### Methods
 
