@@ -1,5 +1,69 @@
 # Welcome to the Old School Bot Wiki!
 
+## This wiki is no longer updated or maintained, and as a result all attached pages may be inaccurate, deprecated, or of poor quality.
+
+
+
+## Please refer to the [new wiki](https://wiki.oldschool.gg) for all up-to-date information.
+
+[https://wiki.oldschool.gg](https://wiki.oldschool.gg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The official wiki for Old School Bot. This wiki contains information and guides for the bot.
 
 ## Welcome to the Old School Bot Wiki!
@@ -46,12 +110,12 @@ To see all available backgrounds, please visit the [bank backgrounds page](getti
 
 Click on the bank bg name to see what it looks like.
 
-| Name                                                                                                                                           | GP Cost | Item Cost                                       | Collection Log Requirement                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------------- | ---------------------------------------------------------- |
-| [Bandos](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/7.jpg?raw=true)          | 100m    | All 5 Godswords                                 | All GWD Items (Including pets & Nex)                       |
-| [Corporeal Beast](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/8.jpg?raw=true) | 100m    | 1 of each Elysian/Spectral/Arcane Spirit Shield | All Corp Items (Including pet and 4x spirit shield/elixir) |
-| [Nightmare](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/10.jpg)               | 100m    | All 3 Orbs                                      | All Nightmare Items                                        |
-| [Casket](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/9.jpg?raw=true)                    | 100m    |                                                 | Large spade, Clueless scroll, Heavy casket, Scroll sack    |
+| Name                                                                                                                                          | GP Cost | Item Cost                                       | Collection Log Requirement                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ----------------------------------------------- | ---------------------------------------------------------- |
+| [Bandos](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/7.jpg?raw=true)          | 100m    | All 5 Godswords                                 | All GWD Items (Including pets & Nex)                       |
+| [Corporeal Beast](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/8.jpg?raw=true) | 100m    | 1 of each Elysian/Spectral/Arcane Spirit Shield | All Corp Items (Including pet and 4x spirit shield/elixir) |
+| [Nightmare](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/10.jpg)               | 100m    | All 3 Orbs                                      | All Nightmare Items                                        |
+| [Casket](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/9.jpg?raw=true)                    | 100m    |                                                 | Large spade, Clueless scroll, Heavy casket, Scroll sack    |
 
 ### Patron-only bank backgrounds
 
@@ -59,23 +123,23 @@ These backgrounds are only available for purchase and usage by patrons.
 
 Some of these also have an item cost/collection log requirement. You can view these by trying to purchase the background with `/minion bankbg`. /
 
-| Name                                                                                                                                 | GP Cost          | Patron Tier |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------- |
-| [Lumbridge](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/3.jpg)      | 10m              | 3           |
-| [Edgeville](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/5.jpg)      | 10m              | 3           |
-| [Dark](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/11.jpg)          | 10m              | 3           |
-| [Grass](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/13.jpg)         | 10m              | 3           |
-| [Wilderness](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/16.jpg?raw=true)     | 100m             | 3           |
-| [Grand Exchange](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/17.jpg?raw=true) | 2,147,483,647 GP | 3           |
-| [Falador Park](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/18.jpg?raw=true)   | 100m             | 3           |
-| [Pets](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/19.png?raw=true)           | 20m              | 3           |
-| [Smokey](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/21.png?raw=true)         | 20m              | 3           |
-| [Nieve](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/22.jpg?raw=true)          | 20m              | 3           |
-| [ToB](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/23.png?raw=true)            | 20m              | 3           |
-| [Zilyana](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank\_backgrounds/24.jpg?raw=true)        | 20m              | 3           |
-| Konar                                                                                                                                | 20m              | 3           |
-| [Morytania](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/12.jpg)     | 10m              | 4           |
-| [Barrows](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank\_backgrounds/6.jpg)        | 10m              | 5           |
+| Name                                                                                                                                | GP Cost          | Patron Tier |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ----------- |
+| [Lumbridge](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/3.jpg)      | 10m              | 3           |
+| [Edgeville](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/5.jpg)      | 10m              | 3           |
+| [Dark](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/11.jpg)          | 10m              | 3           |
+| [Grass](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/13.jpg)         | 10m              | 3           |
+| [Wilderness](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/16.jpg?raw=true)     | 100m             | 3           |
+| [Grand Exchange](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/17.jpg?raw=true) | 2,147,483,647 GP | 3           |
+| [Falador Park](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/18.jpg?raw=true)   | 100m             | 3           |
+| [Pets](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/19.png?raw=true)           | 20m              | 3           |
+| [Smokey](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/21.png?raw=true)         | 20m              | 3           |
+| [Nieve](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/22.jpg?raw=true)          | 20m              | 3           |
+| [ToB](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/23.png?raw=true)            | 20m              | 3           |
+| [Zilyana](https://github.com/oldschoolgg/oldschoolbot/blob/master/src/lib/resources/images/bank_backgrounds/24.jpg?raw=true)        | 20m              | 3           |
+| Konar                                                                                                                               | 20m              | 3           |
+| [Morytania](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/12.jpg)     | 10m              | 4           |
+| [Barrows](https://raw.githubusercontent.com/oldschoolgg/oldschoolbot/master/src/lib/resources/images/bank_backgrounds/6.jpg)        | 10m              | 5           |
 
 ## Patreon/Sponsor
 
